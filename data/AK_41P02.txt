@@ -1,0 +1,114 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 41P02: Chicken Airstrip, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Chicken Airstrip (41P02) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 1650 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:12:06 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1965,,,,,,,Mar 08,14,2.2,Jul 01,13,2.5,,,,,,
+1966,,,,,,,Mar 10,21,3.3,Apr 07,19,3.3,,,,,,
+1967,,,,,,,Mar 08,22,3.8,Apr 09,18,3.5,,,,,,
+1968,,,,,,,Mar 03,21,3.7,Apr 01,20,3.8,,,,,,
+1969,,,,,,,Mar 05,10,1.5,Apr 03,10,1.9,,,,,,
+1970,,,,,,,Mar 05,10,1.8,Apr 07,10,2.0,,,,,,
+1971,,,,,,,Mar 06,23,3.2,Apr 04,21,4.3,,,,,,
+1972,,,,,,,Mar 03,18,3.4,Apr 07,20,3.8,,,,,,
+1973,,,,,,,Mar 01,15,2.5,Mar 29,15,2.7,,,,,,
+1974,,,,,,,Feb 27,13,1.9,Mar 29,14,2.6,,,,,,
+1975,,,,,,,Feb 27,16,2.9,Jul 01,18,3.3,,,,,,
+1976,,,,,,,Feb 26,12,1.7,Mar 29,12,2.0,,,,,,
+1977,,,,,,,Feb 27,14,2.2,Mar 30,16,2.6,,,,,,
+1978,,,,,,,Mar 01,13,1.8,Mar 30,13,2.2,,,,,,
+1979,,,,,,,Feb 26,21,3.6,Apr 02,24,4.4,,,,,,
+1980,,,,,,,Mar 04,15,2.3,Apr 02,14,2.6,,,,,,
+1981,,,,,,,Mar 04,16,2.3,Apr 02,10,2.2,,,,,,
+1982,,,,,,,Mar 05,15,2.5,Mar 26,15,2.7,,,,,,
+1983,,,,,,,Feb 23,14,2.1,Mar 30,15,2.6,,,,,,
+1984,,,,,,,Feb 27,16,2.8,Mar 30,14,2.7,,,,,,
+1985,,,,,,,Feb 26,19,3.3,Mar 25,21,4.4,,,,,,
+1986,,,,,,,May 01,12,2.0,Mar 27,13,1.8,,,,,,
+1987,,,,,,,Feb 26,11,1.7,Mar 31,12,2.2,,,,,,
+1988,,,,,,,May 01,16,2.6,Apr 02,17,3.4,,,,,,
+1989,,,,,,,Mar 01,14,2.3,Mar 30,13,3.1,,,,,,
+1990,,,,,,,Feb 28,25,4.1,Apr 02,21,4.5,,,,,,
+1991,,,,,,,May 01,16,2.9,Mar 29,16,3.4,,,,,,
+1992,,,,,,,Mar 02,15,3.2,Apr 01,17,3.5,,,,,,
+1993,,,,,,,Mar 01,18,3.0,Apr 01,16,3.0,,,,,,
+1994,,,,,,,May 01,13,2.2,Apr 01,15,3.2,,,,,,
+1995,,,,,,,Feb 27,23,4.0,Mar 31,22,4.2,,,,,,
+1996,,,,,,,Feb 27,15,2.6,Mar 26,14,3.0,,,,,,
+1997,,,,,,,Mar 05,18,4.0,Mar 31,19,4.5,,,,,,
+1998,,,,,,,May 01,15,2.6,Apr 01,15,3.0,,,,,,
+1999,,,,,,,Feb 26,12,2.2,Mar 29,10,2.5,,,,,,
+2000,,,,,,,Feb 26,19,4.2,Apr 03,18,4.4,,,,,,
+2001,,,,,,,Feb 27,17,3.3,Mar 26,17,3.4,,,,,,
+2002,,,,,,,Feb 27,16,2.8,Mar 30,16,3.2,,,,,,
+2003,,,,,,,Feb 26,14,2.8,Apr 02,15,3.1,,,,,,
+2004,,,,,,,Feb 27,19,4.1,Apr 02,20,4.5,,,,,,
+2005,,,,,,,Feb 25,18,3.4,Apr 01,16,3.5,,,,,,
+2006,,,,,,,Mar 03,14,2.7,Apr 03,14,3.1,,,,,,
+2007,,,,,,,Feb 27,10,1.5,Mar 27,14,2.6,,,,,,
+2008,,,,,,,Feb 27,14,2.3,Mar 30,16,3.2,,,,,,
+2009,,,,,,,Feb 25,18,3.1,Apr 02,20,4.7,,,,,,
+2010,,,,,,,Mar 01,12,2.1,Apr 03,10,2.1,,,,,,
+2011,,,,,,,Feb 28,16,2.4,Mar 30,14,2.2,,,,,,
+2012,,,,,,,Feb 28,14,2.7,Apr 01,13,2.8,,,,,,
+2013,,,,,,,Mar 05,19,3.9,Mar 30,23,4.8,,,,,,
+2014,,,,,,,,,,Apr 02,23,4.3,,,,,,
+2015,,,,,,,Mar 03,12,2.3,Apr 02,12,2.4,,,,,,
+2016,,,,,,,Feb 28,17,3.5,Mar 30,15,3.0,,,,,,
+2017,,,,Feb 01,14,2.4,Mar 01,13,2.6,,13,2.4,,,,,,
+2018,,,,,,,,,,Mar 29,14,3.2,,,,,,
+2019,,,,,,,Mar 01,16,2.9,Mar 29,11,2.8,,,,,,
+2020,,,,,,,Mar 03,21,4.0,,,,,,,,,
+2021,,,,,,,Feb 27,16,2.5,Mar 29,16,2.5,,,,,,

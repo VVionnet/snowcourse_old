@@ -1,0 +1,92 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 14B04: Blacktail, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Blacktail (14B04) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 5650 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:20:50 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1987,,,,,,,Feb 27,28,7.2,Apr 01,35,10.4,Apr 28,3,0.9,,,
+1988,,,,Jan 27,24,5.6,Feb 23,31,7.8,Mar 31,39,11.0,Apr 29,6,2.1,,,
+1989,Jan 11,35,6.8,Jan 27,35,9.6,Feb 25,44,12.5,Apr 01,50,16.0,Apr 29,30,11.5,,,
+1990,Jan 13,26,5.8,Feb 05,36,8.8,Feb 28,36,11.5,Apr 04,30,11.2,May 01,18,5.3,,,
+1991,,,,Jan 31,45,13.8,Feb 27,41,14.8,Mar 23,47,16.2,Apr 28,29,12.6,,,
+1992,Dec 27,26,7.7,Feb 01,35,9.2,Feb 26,36,10.8,Mar 27,28,10.7,May 01,0,0.0,,,
+1993,,,,Feb 03,34,9.8,Feb 25,42,12.0,Mar 28,33,12.1,Apr 27,23,9.1,,,
+1994,,,,Mar 01,23,6.5,May 01,32,9.3,Jul 01,28,9.4,Sep 01,0,0.0,,,
+1995,Dec 30,26,6.4,Jan 29,30,8.6,Feb 28,28,9.1,Apr 01,30,10.4,Apr 29,21,7.8,,,
+1996,Dec 28,16,4.4,,,,Feb 27,39,11.9,Apr 02,44,13.6,Apr 27,28,10.4,Jun 03,0,0.0
+1997,Jan 01,,13.1,Jan 28,54,17.6,Feb 25,60,19.6,Mar 29,68,26.9,Apr 29,54,24.5,May 30,1,0.2
+1998,Jan 05,16,3.1,Feb 01,24,5.0,Mar 01,29,7.8,Mar 31,27,8.0,Apr 28,10,3.0,,,
+1999,Jan 01,,6.7,Jan 26,43,11.0,Feb 22,49,15.6,Mar 23,40,15.6,Apr 24,30,13.2,,,
+2000,Dec 27,21,5.5,Jan 30,33,9.3,Feb 29,40,12.1,Mar 28,40,13.2,May 02,12,5.0,,,
+2001,Jan 02,18,4.3,Jan 30,23,5.4,Feb 27,36,9.6,Mar 27,30,8.9,May 01,28,10.0,,,
+2002,Dec 31,20,4.8,Feb 05,35,9.4,Feb 26,36,10.4,Mar 30,49,16.0,Apr 29,29,12.6,,,
+2003,Jan 02,21,4.3,Jan 28,27,6.2,Feb 25,29,7.7,Mar 29,42,12.2,Apr 29,14,5.0,,,
+2004,Jan 06,32,6.8,Jan 27,36,9.2,Feb 24,34,11.6,Mar 28,30,11.8,Apr 27,5,2.2,,,
+2005,Jan 01,,3.8,Feb 01,19,5.6,Mar 01,19,5.7,Mar 27,29,7.1,Apr 26,12,4.0,,,
+2006,Jan 01,,4.2,Jan 31,38,10.8,Feb 28,42,13.1,Apr 04,40,14.2,May 02,19,7.9,,,
+2007,Dec 27,25,5.9,Jan 30,30,8.1,Feb 27,39,10.7,Mar 27,28,9.5,May 01,5,2.2,,,
+2008,Jan 03,23,5.3,Jan 29,38,8.9,Feb 29,42,13.7,Mar 30,54,16.8,Apr 29,38,15.0,,,
+2009,Dec 29,29,4.4,Jan 27,31,8.6,Feb 25,40,11.2,Apr 01,48,14.8,Apr 28,33,11.3,May 28,0,0.0
+2010,Dec 29,15,3.4,Jan 27,26,6.6,Feb 24,29,8.3,Mar 30,26,8.0,Apr 29,27,6.3,,,0.0
+2011,Dec 29,40,8.8,Jan 29,44,12.8,Feb 27,58,17.2,Mar 27,59,20.4,Apr 29,61,23.6,,,
+2012,Jan 02,20,5.3,Jan 29,31,8.0,Feb 25,41,10.9,Mar 31,45,14.7,Apr 26,18,7.4,,,
+2013,,,,Jan 31,28,7.5,Feb 26,30,7.4,Mar 25,34,9.5,Apr 26,20,7.7,,,
+2014,Dec 30,23,4.4,Jan 27,26,7.2,Feb 27,47,12.4,Mar 25,47,15.7,Apr 24,34,11.8,,,
+2015,,,,Jan 27,25,7.9,Feb 25,22,8.6,Mar 25,16,5.6,Apr 27,0,0.0,,,
+2016,Dec 27,24,4.2,Jan 25,31,7.7,Feb 23,28,8.6,Mar 28,29,9.8,Apr 25,0,0.0,,,
+2017,Dec 28,24,3.4,Jan 26,26,7.1,Feb 22,37,7.6,Mar 29,35,11.5,Apr 25,23,9.8,,,
+2018,Jan 03,24,5.9,Jan 30,31,8.2,Feb 26,46,11.4,Mar 26,42,14.4,Apr 24,37,14.7,,,
+2019,Dec 26,16,3.1,Jan 29,30,6.4,Feb 28,44,10.1,Mar 26,35,11.0,Apr 25,22,9.0,,,
+2020,Dec 30,13,2.0,Jan 27,27,6.4,Feb 26,32,9.2,Mar 27,30,8.1,Apr 27,17,6.6,,,
+2021,Dec 28,16,4.2,Jan 26,23,6.5,Feb 22,32,7.6,Mar 29,32,9.0,,,,,,

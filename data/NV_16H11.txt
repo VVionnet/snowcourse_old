@@ -1,0 +1,96 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 16H11: Snow Storm Mountain-Am, NV
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Snow Storm Mountain-am (16H11) 
+# Nevada  SNOW COURSE/AERIAL MARKER Site - 7403 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:23:01 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1983,,,,Jan 26,46,13.3,Feb 20,66,23.9,Apr 01,69,24.8,,,,,,
+1984,,,,Jan 26,52,17.1,Mar 01,63,24.9,Apr 03,68,26.5,,,,,,
+1985,,,,,,,Feb 28,41,12.1,Mar 30,4,10.2,,,,,,
+1986,,,,Jan 31,28,7.8,,,,,,,,,,,,
+1987,,,,Jan 29,25,3.9,,,,,,,,,,,,
+1988,,,,,,,Feb 22,28,7.6,,,,,,,,,
+1989,,,,Jan 30,28,6.9,Feb 28,47,13.7,Mar 30,42,14.6,,,,,,
+1990,,,,Feb 05,12,2.5,Feb 26,41,12.4,Mar 30,0,0.0,,,,,,
+1991,,,,Jan 30,10,2.5,Feb 27,20,4.4,Mar 29,41,11.6,,,,,,
+1992,,,,Jan 30,16,3.5,Feb 28,27,8.5,Mar 31,7,1.9,,,,,,
+1993,,,,Jan 25,38,10.2,Feb 26,55,14.9,Mar 30,28,11.4,,,,,,
+1994,,,,Jan 31,22,3.8,Feb 28,36,8.0,Mar 30,21,6.9,,,,,,
+1995,,,,,,,Feb 28,5,2.0,Mar 31,40,10.7,,,,,,
+1996,,,,Feb 03,45,10.8,Feb 29,43,12.0,Mar 30,46,14.2,,,,,,
+1997,,,,Jan 30,60,14.1,Mar 04,55,15.6,Mar 30,31,13.0,,,,,,
+1998,,,,Jan 26,31,8.3,Feb 25,46,11.6,Mar 30,46,15.4,,,,,,
+1999,,,,Jan 28,43,10.3,Mar 01,49,14.2,Mar 30,37,13.3,,,,,,
+2000,,,,Feb 02,22,5.3,Mar 01,44,11.4,Mar 30,38,13.0,,,,,,
+2001,,,,Feb 01,33,9.6,Mar 01,35,9.8,Mar 28,27,9.5,,,,,,
+2002,,,,Jan 31,37,11.6,Mar 01,39,12.1,Mar 29,45,14.8,,,,,,
+2003,,,,Jan 28,18,5.8,Feb 26,25,8.2,Mar 27,17,6.3,,,,,,
+2004,,,,Jan 29,38,10.6,Feb 26,49,17.1,Mar 29,37,17.4,,,,,,
+2005,,,,Jan 28,23,6.4,Feb 25,36,9.0,Mar 30,50,15.7,,,,,,
+2006,,,,Jan 31,38,10.3,Feb 27,38,11.4,Mar 29,52,17.7,,,,,,
+2007,,,,Jan 30,22,5.0,Feb 27,42,5.5,Mar 29,18,3.1,,,,,,
+2008,,,,Jan 30,29,6.4,Feb 26,42,11.8,Mar 26,35,13.0,,,,,,
+2009,,,,Jan 29,28,9.2,Feb 25,28,9.5,Mar 26,35,12.6,,,,,,
+2010,,,,Jan 28,22,4.6,Feb 25,25,6.8,Apr 01,26,8.3,,,,,,
+2011,,,,Jan 27,28,8.7,Feb 23,46,13.3,Mar 30,59,18.9,,,,,,
+2012,,,,Feb 01,8,1.8,Mar 01,22,7.0,Apr 01,17,7.0,,,,,,
+2013,,,,Feb 01,26,7.5,Mar 01,27,8.1,Apr 01,15,6.5,,,,,,
+2014,,,,Feb 01,17,3.6,Mar 01,27,9.5,Apr 01,37,7.4,,,,,,
+2015,,,,Feb 01,24,7.9,Mar 01,22,7.3,Apr 01,0,0.0,,,,,,
+2016,,,,Jan 27,40,10.8,Feb 25,38,13.7,Apr 01,36,11.5,,,,,,
+2017,,,,Jan 30,48,12.5,Feb 27,57,15.4,Mar 27,41,12.3,,,,,,
+2018,,,,Jan 30,14,2.9,Feb 27,27,3.0,Apr 01,27,8.3,,,,,,
+2019,,,,Jan 29,28,5.6,Feb 25,57,16.0,Apr 01,51,17.3,,,,,,
+2020,,,,Jan 28,29,8.4,Feb 25,32,9.0,Apr 01,51,18.9,,,,,,
+2021,,,,Jan 28,24,5.0,Feb 25,37,8.1,,,,,,,,,

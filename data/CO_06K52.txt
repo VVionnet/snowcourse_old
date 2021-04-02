@@ -1,0 +1,75 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 06K52: Wurtz Middle, CO
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Wurtz Middle (06K52) 
+# Colorado  SNOW COURSE/AERIAL MARKER Site - 10436 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:19:06 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+2004,,,,Jan 29,39,8.9,Feb 25,46,11.3,Mar 29,44,13.4,Apr 27,55,18.1,,,
+2005,,,,Jan 25,40,10.6,Mar 01,50,13.9,Mar 28,54,15.9,Apr 27,46,16.0,,,
+2006,,,,Jan 25,54,15.5,Feb 13,53,16.8,Mar 29,66,21.1,Apr 27,53,20.1,,,
+2007,,,,Jan 30,38,9.4,Mar 03,55,12.9,Mar 27,48,13.4,Apr 23,52,16.7,,,
+2008,,,,Jan 22,47,12.5,Feb 28,69,18.9,Mar 28,68,21.9,Apr 21,69,24.8,,,
+2009,,,,Jan 27,49,12.1,Feb 23,50,14.2,Apr 06,63,19.6,Apr 23,52,18.2,,,
+2010,,,,Jan 26,37,8.1,Feb 24,50,11.4,Mar 23,52,13.7,Apr 28,41,13.3,,,
+2011,,,,Jan 31,50,14.6,Feb 28,66,18.8,Mar 25,63,19.5,Apr 24,80,26.8,,,
+2012,,,,Jan 25,38,8.1,Feb 24,49,11.3,Mar 26,43,12.7,Apr 24,30,11.3,,,
+2013,,,,Jan 29,32,6.6,Feb 23,38,8.5,Mar 26,49,12.2,Apr 28,56,17.2,,,
+2014,,,,Jan 29,42,11.3,Feb 25,62,17.1,Mar 26,64,20.8,Apr 28,54,20.1,,,
+2015,,,,Jan 27,39,11.4,Feb 25,50,13.4,Mar 31,49,16.4,Apr 28,52,17.9,,,
+2016,,,,Jan 29,44,10.9,Feb 28,48,13.2,Mar 28,58,16.8,Apr 27,58,18.8,,,
+2017,,,,Jan 31,53,15.4,Feb 27,57,17.4,Mar 30,54,20.8,Apr 27,53,19.6,,,
+2018,,,,Jan 28,37,8.6,Feb 28,45,12.1,Mar 28,50,13.9,Apr 29,46,16.2,,,
+2019,,,,Jan 30,50,13.5,Feb 28,60,16.8,Mar 27,81,25.3,Apr 28,67,25.9,,,
+2020,,,,,,,,,,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

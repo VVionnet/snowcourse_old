@@ -1,0 +1,101 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 2A29: Downie Slide Upper, BC
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Downie Slide Upper (2A29) 
+# British Columbia  SNOW COURSE/AERIAL MARKER Site - 5348 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:14:13 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1978,Dec 29,81,27.0,Jan 26,90,33.1,Feb 23,93,34.9,Mar 30,104,40.9,Apr 26,93,43.8,May 29,68,35.9
+1979,Dec 28,64,15.8,Jan 26,61,18.3,Feb 28,107,32.0,Mar 28,96,37.3,Apr 27,99,40.7,Jun 01,0,0.0
+1980,Jan 07,72,22.2,Jan 29,72,25.6,Feb 24,85,30.3,Mar 30,108,38.0,Apr 30,72,34.9,May 29,26,14.9
+1981,Jan 03,79,27.4,Jan 29,76,28.0,Feb 27,109,37.6,Mar 30,107,41.3,May 04,113,53.2,May 25,76,37.6
+1982,Dec 31,61,17.8,Feb 03,112,33.1,Feb 23,139,49.0,Mar 27,136,52.8,Apr 27,132,56.1,May 29,99,52.4
+1983,,,,,,,,,,Apr 06,125,47.9,Apr 26,113,53.4,May 30,67,41.3
+1984,,,,Jan 29,104,31.4,Mar 03,113,40.4,Mar 30,106,38.9,Apr 26,107,47.3,May 28,102,51.3
+1985,,,,Jan 30,87,34.6,Feb 26,118,42.4,Mar 26,106,44.1,Apr 25,105,47.6,May 28,67,39.8
+1986,,,,Feb 03,100,34.3,Feb 28,98,37.3,Apr 02,111,45.8,Apr 29,118,49.3,,,
+1987,,,,Feb 03,113,38.2,Feb 23,101,40.3,Mar 30,112,48.4,Apr 27,114,52.8,,,
+1988,,,,Jan 26,82,26.6,Feb 23,111,39.1,Mar 28,135,50.2,Apr 26,113,53.6,,,
+1989,Dec 28,61,21.3,Jan 26,97,35.9,Mar 02,98,41.3,Mar 29,121,48.9,Apr 25,102,51.2,,,
+1990,Jan 02,67,20.8,Jan 31,127,39.0,Feb 26,133,54.3,Mar 25,133,60.3,Apr 28,103,55.0,,,
+1991,Jan 03,117,38.7,Jan 25,114,45.6,Feb 24,147,60.0,Mar 28,140,61.4,Apr 27,131,63.6,,,
+1992,Jan 04,90,30.9,,,,Feb 25,132,54.1,Mar 30,115,54.0,Apr 28,100,53.4,,,
+1993,Jan 05,60,19.1,,,,Feb 23,68,26.2,Mar 27,91,33.8,Apr 26,82,35.6,,,
+1994,,,,Jan 28,92,35.2,Feb 24,125,44.0,Mar 29,127,54.9,Apr 27,105,52.5,,,
+1995,Dec 31,109,38.7,Feb 04,117,48.7,Feb 27,130,56.7,Mar 28,143,64.5,Apr 29,128,64.8,,,
+1996,Dec 27,112,40.2,Jan 27,137,56.0,Feb 29,137,55.7,Mar 27,144,65.2,,,,,,
+1997,Jan 05,94,30.4,Feb 03,120,43.1,,,,Mar 27,146,56.1,May 01,147,68.7,,,
+1998,,,,Feb 03,109,36.2,Feb 24,119,42.5,Apr 02,123,53.3,Apr 27,108,48.4,,,
+1999,Jan 01,123,37.0,,,,Mar 04,194,83.5,Mar 31,198,92.9,Apr 29,169,88.3,,,
+2000,Dec 27,100,35.5,Jan 28,124,46.8,Mar 07,131,51.6,Mar 30,161,63.5,May 04,133,65.4,,,
+2001,Jan 04,55,14.6,Feb 04,74,21.0,Feb 28,66,24.2,Apr 04,94,35.0,May 03,79,31.6,,,
+2002,,,,,,,,,,,,,,,,,,
+2003,,,,,,,,,,,,,,,,,,
+2004,,,,,,,,,,,,,,,,,,
+2005,,,,,,,,,,,,,,,,,,
+2006,,,,,,,,,,,,,,,,,,
+2007,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,
+2010,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,,,,,,,,,,,,
+2013,Dec 31,93,31.4,Jan 29,102,36.1,Mar 06,137,49.2,Mar 26,65,24.8,Apr 25,139,63.4,,,
+2014,Jan 01,71,20.6,Jan 26,81,28.8,Feb 23,114,36.9,Apr 01,145,54.5,May 01,121,53.4,,,
+2015,,,,,,,Feb 23,95,37.2,,,,Apr 27,102,44.1,,,
+2016,Jan 02,90,13.3,,,,Feb 25,123,44.0,Mar 29,146,58.5,Apr 29,101,52.4,,,
+2017,Jan 03,94,26.4,Jan 31,89,31.7,Feb 28,103,39.0,Mar 30,160,58.0,Apr 29,149,64.6,,,
+2018,Dec 31,79,25.3,Feb 05,132,40.2,,,,Mar 29,143,52.0,Apr 26,142,61.6,,,
+2019,Dec 27,96,28.9,Jan 28,109,40.9,Feb 28,110,46.0,Mar 30,106,45.9,Apr 29,114,52.4,,,
+2020,,,,,,,,,,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

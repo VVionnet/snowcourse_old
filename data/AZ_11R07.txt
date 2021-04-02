@@ -1,0 +1,107 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11R07: Baker Butte No. 2, AZ
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Baker Butte No. 2 (11R07) 
+# Arizona  SNOW COURSE/AERIAL MARKER Site - 7700 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:13:15 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1972,Dec 30,16,4.5,Jan 31,13,4.6,Feb 29,7,0.5,Apr 01,0,0.0,,,,,,
+1973,,,,Jan 30,40,12.6,Feb 27,60,20.2,Mar 30,97,30.8,,,,,,
+1974,Dec 31,12,3.5,Jan 31,37,11.9,Feb 27,35,12.0,Mar 30,22,9.0,,,,,,
+1975,Dec 29,19,4.2,Jan 31,27,6.7,Feb 28,35,10.8,Mar 31,44,15.9,Apr 28,28,12.1,,,
+1976,Jan 02,27,8.4,Jan 30,26,8.7,Feb 27,42,17.3,Mar 30,46,19.1,,,,,,
+1977,Jan 05,29,4.5,Jan 31,18,5.8,Feb 28,20,6.4,Mar 30,17,6.3,,,,,,
+1978,,,,Feb 01,30,9.3,Feb 28,46,17.1,Mar 31,42,19.0,,,,,,
+1979,,,,Jan 31,58,16.9,Feb 28,60,21.6,Mar 30,70,27.5,,,,,,
+1980,Jan 02,11,2.9,Jan 31,42,14.4,Feb 27,63,24.4,Mar 31,71,28.6,,,,,,
+1981,Dec 30,1,0.2,Jan 29,2,0.6,Feb 26,7,2.3,Mar 30,22,7.5,,,,,,
+1982,Dec 29,13,4.5,Jan 27,36,10.9,Feb 25,47,15.7,Apr 01,46,18.8,,,,,,
+1983,Dec 29,34,11.6,Jan 27,35,12.3,Feb 28,58,20.6,Mar 30,73,28.6,,,,,,
+1984,Dec 28,16,5.7,Jan 30,18,6.8,Feb 28,16,5.8,Mar 28,5,1.8,,,,,,
+1985,Dec 27,31,11.5,Jan 31,53,15.7,Feb 27,53,18.6,Mar 28,44,18.1,,,,,,
+1986,Jan 03,10,3.5,Jan 30,10,3.6,Feb 27,12,4.3,Mar 31,10,4.6,,,,,,
+1987,Dec 30,12,3.1,Jan 29,23,7.0,Mar 02,56,16.6,Mar 30,50,17.6,,,,,,
+1988,Dec 30,18,4.1,Jan 28,35,9.6,Feb 29,32,11.4,Mar 30,18,6.8,,,,,,
+1989,Dec 28,17,3.7,Jan 30,26,6.6,Feb 27,27,8.5,Mar 30,15,5.6,,,,,,
+1990,Dec 28,0,0.0,Feb 01,18,4.5,Feb 28,28,8.8,Mar 29,23,8.4,,,,,,
+1991,Dec 27,17,4.7,Jan 31,20,6.4,Mar 04,49,14.5,Mar 29,71,22.9,,,,,,
+1992,Dec 31,29,7.6,Jan 30,35,11.3,Feb 26,44,16.3,Mar 30,56,24.1,,,,,,
+1993,Dec 29,17,4.8,Jan 28,41,15.0,Feb 25,60,26.4,Mar 30,63,23.3,,,,,,
+1994,Dec 29,18,5.6,Jan 31,22,7.2,Feb 28,37,11.9,Mar 30,32,11.4,,,,,,
+1995,Dec 29,11,3.1,Jan 31,43,12.1,Feb 28,34,12.8,Mar 30,22,9.6,,,,,,
+1996,Dec 28,5,0.7,Jan 31,4,0.6,Mar 01,13,2.4,Mar 27,3,0.9,,,,,,
+1997,Dec 31,1,0.6,Jan 30,30,8.7,Feb 24,27,9.1,Mar 27,19,7.9,,,,,,
+1998,Dec 30,20,5.2,Jan 27,25,7.6,Feb 27,61,16.2,Mar 31,68,21.8,,,,,,
+1999,Jan 04,5,1.6,Jan 28,7,1.3,Mar 01,11,2.8,Mar 29,3,0.8,,,,,,
+2000,Jan 03,7,0.7,Feb 01,0,0.0,Mar 01,2,0.5,Mar 30,13,5.1,,,,,,
+2001,Jan 02,10,2.5,Jan 30,26,5.8,Feb 28,40,9.6,Mar 27,27,10.2,,,,,,
+2002,Dec 20,13,2.9,Jan 30,16,3.2,Feb 28,9,3.3,Mar 28,1,0.3,,,,,,
+2003,Jan 02,12,3.2,Jan 30,8,2.8,Feb 27,31,6.3,Mar 28,21,8.8,,,,,,
+2004,Dec 30,4,1.2,Jan 30,14,3.8,Feb 26,24,6.6,Mar 30,2,0.8,,,,,,
+2005,Dec 28,15,5.1,Jan 31,37,12.1,Mar 02,46,16.0,Apr 01,45,18.0,,,,,,
+2006,Dec 29,0,0.0,Jan 30,1,0.4,Feb 28,0,0.0,Mar 30,8,3.1,,,,,,
+2007,Dec 28,8,1.0,Jan 29,15,4.1,Feb 27,27,8.5,Mar 29,5,1.9,,,,,,
+2008,Dec 28,11,2.6,Feb 01,35,8.4,Feb 28,52,15.5,Apr 01,29,11.6,,,,,,
+2009,Dec 30,31,9.5,Jan 28,21,8.9,Feb 26,37,13.3,Mar 30,20,9.0,,,,,,
+2010,Dec 30,22,5.9,Jan 28,60,17.6,Feb 25,65,23.4,Mar 30,57,23.4,,,,,,
+2011,Dec 29,7,2.6,Jan 26,18,6.6,Feb 25,28,9.2,Mar 31,16,6.7,,,,,,
+2012,Dec 29,26,8.0,Jan 30,23,7.9,Feb 28,24,7.6,Mar 30,14,6.4,,,,,,
+2013,Dec 28,22,5.1,Jan 31,19,6.4,Feb 28,28,8.9,Mar 28,18,6.2,,,,,,
+2014,Dec 30,16,3.9,Jan 30,12,3.1,Feb 27,7,2.1,Mar 28,0,0.0,,,,,,
+2015,Dec 29,3,0.6,Jan 30,8,2.7,Feb 25,3,0.7,Mar 31,0,0.0,,,,,,
+2016,Dec 30,13,2.2,Jan 29,27,7.9,Feb 26,19,6.3,Apr 01,0,0.1,,,,,,
+2017,Dec 29,6,1.3,Feb 01,32,9.0,,,,Mar 31,0,0.0,,,,,,
+2018,Jan 01,0,0.0,Jan 31,6,1.0,Feb 28,17,4.4,Mar 29,0,0.0,,,,,,
+2019,Dec 31,6,1.1,Jan 31,17,4.0,Feb 28,44,12.1,,,,,,,,,
+2020,Dec 30,33,6.9,Jan 31,22,8.6,,,,,,,,,,,,
+2021,,,,Jan 29,37,6.6,Feb 26,20,7.0,Mar 29,23,8.8,,,,,,

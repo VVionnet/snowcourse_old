@@ -1,0 +1,77 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20A45: Mazama, WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Mazama (20A45) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 2180 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:24:41 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+2002,,,,Jan 31,25,5.7,Feb 27,24,7.0,Mar 26,24,7.3,,,,,,
+2003,,,,Jan 28,27,7.3,Feb 25,26,8.1,Mar 26,13,4.9,,,,,,
+2004,,,,Jan 29,24,6.5,Feb 24,25,7.2,Mar 29,0,0.0,,,,,,
+2005,,,,Jan 26,13,3.6,Mar 01,9,3.6,Mar 28,0,0.0,,,,,,
+2006,,,,Jan 31,47,10.0,Feb 28,41,12.0,Mar 28,28,10.4,,,,,,
+2007,,,,Jan 31,37,11.1,Feb 25,30,11.2,Mar 28,13,6.3,,,,,,
+2008,Dec 26,34,6.8,Jan 28,37,9.6,Feb 27,37,11.2,Mar 25,21,9.8,,,,,,
+2009,,,,,,3.6,,,4.3,,,3.9,,,,,,
+2010,,,,,22,5.7,,20,6.5,,3,0.8,,,,,,
+2011,,,,Jan 24,21,6.0,Feb 23,25,7.4,Mar 28,26,8.3,,,,,,
+2012,,,,Jan 27,50,9.6,Feb 24,33,9.6,Mar 30,25,9.6,,,,,,
+2013,,,,Jan 29,26,6.6,Feb 26,22,6.1,Mar 28,6,2.6,,,,,,
+2014,,,,,,,Feb 27,45,9.4,Mar 26,26,9.7,,,,,,
+2015,,,,Jan 28,28,7.6,Feb 26,21,7.4,Mar 26,1,0.3,,,,,,
+2016,,,,Jan 27,38,9.6,Feb 29,27,9.6,,15,,,,,,,
+2017,,,,Feb 03,25,5.8,Feb 27,30,8.2,Mar 29,18,6.6,,,,,,
+2018,,,,Jan 31,32,7.2,,,,Apr 02,11,4.2,,,,,,
+2019,,,,,,,Feb 27,29,7.6,Mar 27,14,5.2,,,,,,
+2020,,,,Jan 30,29,8.0,Feb 27,28,8.8,,,,,,,,,
+2021,,,,Jan 27,37,8.5,Feb 24,30,9.8,Mar 29,13,5.2,,,,,,

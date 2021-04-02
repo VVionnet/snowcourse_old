@@ -1,0 +1,132 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER MUM: Mumbo Basin, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Mumbo Basin (MUM) 
+# California  SNOW COURSE/AERIAL MARKER Site - 5650 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:16:29 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1947,,,,,,,,,,Mar 28,,13.3,,,,,,
+1948,,,,,,,,,,Apr 01,,12.8,,,,,,
+1949,,,,,,,,,,Apr 09,,27.3,,,,,,
+1950,,,,,,,,,,Apr 12,,27.4,,,,,,
+1951,,,,,,,,,,Apr 04,,18.8,,,,,,
+1952,,,,,,,,,,Apr 01,,46.8,,,,,,
+1953,,,,,,,,,,Mar 30,,35.2,,,,,,
+1954,,,,,,,,,,Mar 30,,35.3,,,,,,
+1955,,,,,,,,,,Apr 06,,10.9,,,,,,
+1956,,,,,,,,,,Apr 04,,48.4,,,,,,
+1957,,,,,,,,,,Apr 03,,13.3,,,,,,
+1958,,,,,,,,,,Mar 27,,42.7,,,,,,
+1959,,,,,,,,,,Apr 02,,25.8,,,,,,
+1960,,,,,,,,,,Mar 31,,19.9,,,,,,
+1961,,,,,,,,,,Mar 30,,25.4,,,,,,
+1962,,,,,,,,,,Mar 30,,34.6,,,,,,
+1963,,,,,,,,,,Apr 04,,8.7,,,,,,
+1964,,,,,,,,,,Apr 01,,14.2,,,,,,
+1965,,,,,,,,,,Apr 01,,13.4,,,,,,
+1966,,,,,,,,,,Mar 28,,34.4,,,,,,
+1967,,,,,,,,,,Mar 28,,27.2,,,,,,
+1968,,,,,,,,,,Mar 27,,17.6,,,,,,
+1969,,,,,,,,,,Mar 29,,47.8,,,,,,
+1970,,,,,,,,,,Mar 27,,16.3,,,,,,
+1971,,,,,,,,,,Mar 26,,36.3,,,,,,
+1972,,,,,,,,,,Apr 04,,6.1,,,,,,
+1973,,,,,,,,,,Mar 27,,34.6,,,,,,
+1974,,,,,,,,,,Mar 21,,29.4,,,,,,
+1975,,,,,,,,,,Mar 28,,43.5,,,,,,
+1976,,,,,,,,,,Mar 22,,15.0,,,,,,
+1977,,,,,,,,,,Mar 31,,6.3,,,,,,
+1978,,,,,,,,,,Mar 20,,31.0,,,,,,
+1979,,,,,,,,,,Mar 31,,21.7,,,,,,
+1980,,,,,,,,,,Mar 24,,18.8,,,,,,
+1981,,,,,,,,,,Mar 28,,12.8,,,,,,
+1982,,,,,,,,,,,,,Apr 27,,16.3,,,
+1983,,,,,,,,,,,,,,,,,,
+1984,,,,,,,,,,Mar 29,,20.5,,,,,,
+1985,,,,,,,,,,Mar 29,,22.2,,,,,,
+1986,,,,,,,,,,Mar 28,,24.3,,,,,,
+1987,,,,,,,,,,Mar 25,,20.6,,,,,,
+1988,,,,,,,,,,Mar 31,,5.5,,,,,,
+1989,,,,,,,,,,Apr 03,,15.6,,,,,,
+1990,,,,,,,,,,Mar 28,,4.6,,,,,,
+1991,,,,,,,,,,Apr 02,,16.3,,,,,,
+1992,,,,,,,,,,Mar 26,,24.6,,,,,,
+1993,,,,,,,,,,Apr 07,,29.0,,,,,,
+1994,,,,,,,,,,Mar 31,,9.5,,,,,,
+1995,,,,,,,,,,Mar 28,,34.7,,,,,,
+1996,,,,,,,,,,Mar 26,,16.2,,,,,,
+1997,,,,,,,,,,Mar 28,,3.1,,,,,,
+1998,,,,,,,,,,Apr 01,,49.0,,,,,,
+1999,,,,,,,,,,Mar 26,,37.6,,,,,,
+2000,,,,,,,,,,Mar 30,,29.0,,,,,,
+2001,,,,,,,,,,Mar 29,,17.7,,,,,,
+2002,,,,,,,,,,Mar 28,,25.2,,,,,,
+2003,,,,,,,,,,Jan 01,,23.6,,,,,,
+2004,,,,,,,,,,Mar 29,,22.1,,,,,,
+2005,,,,,,,,,,,,,,,,,,
+2006,,,,,,,,,,,,,,,,,,
+2007,,,,,,,,,,Apr 02,,9.0,,,,,,
+2008,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,
+2010,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,,,,,,,,,,,,
+2013,,,,,,,,,,,,,,,,,,
+2014,,,,,,,,,,Apr 02,,2.0,,,,,,
+2015,,,,,,,,,,Mar 26,,0.0,,,,,,
+2016,,,,,,,,,,,,,,,,,,
+2017,,,,,,,,,,,,,,,,,,
+2018,,,,,,,,,,Mar 29,,6.5,,,,,,
+2019,,,,,,,,,,,,,,,,,,
+2020,,,,,,,,,,Apr 01,,7.0,,,,,,
+2021,,,,,,,,,,,,,,,,,,

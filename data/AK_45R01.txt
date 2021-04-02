@@ -1,0 +1,115 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 45R01: Fort Yukon, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Fort Yukon (45R01) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 430 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:11:09 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1964,,,,,,,May 01,17,2.8,Jul 01,17,3.0,,,,,,
+1965,,,,,,,Mar 11,24,3.6,Jul 01,24,4.4,,,,,,
+1966,,,,,,,Mar 12,19,2.5,Apr 08,18,3.1,,,,,,
+1967,,,,,,,Mar 07,21,3.2,Apr 08,27,4.9,,,,,,
+1968,,,,,,,Mar 04,17,3.1,Apr 02,16,3.1,,,,,,
+1969,,,,,,,Mar 04,12,1.6,Apr 02,13,2.0,,,,,,
+1970,,,,,,,Mar 03,15,2.5,Apr 06,16,3.1,,,,,,
+1971,,,,,,,Mar 05,26,4.4,Apr 03,25,5.4,,,,,,
+1972,,,,,,,Mar 02,23,4.2,Apr 06,25,4.7,,,,,,
+1973,,,,,,,Feb 28,20,3.2,Mar 28,22,4.7,,,,,,
+1974,,,,,,,Feb 25,15,2.0,Mar 28,15,2.5,,,,,,
+1975,,,,,,,Feb 26,25,4.9,Mar 28,24,4.9,,,,,,
+1976,,,,,,,Feb 25,19,2.6,Mar 28,17,3.0,,,,,,
+1977,,,,,,,Feb 24,24,3.4,Mar 30,24,5.5,,,,,,
+1978,,,,,,,Feb 27,17,2.9,Mar 28,19,3.3,,,,,,
+1979,,,,,,,Feb 27,18,3.3,Mar 27,26,4.1,,,,,,
+1980,,,,,,,Feb 25,16,3.0,Mar 26,14,3.0,,,,,,
+1981,,,,,,,May 01,17,2.7,Mar 30,17,3.3,,,,,,
+1982,,,,,,,Feb 26,18,3.0,Mar 26,19,3.6,,,,,,
+1983,,,,,,,Feb 24,20,3.1,Mar 28,18,3.2,,,,,,
+1984,,,,,,,Mar 03,22,3.3,Mar 27,22,3.6,,,,,,
+1985,,,,,,,Feb 27,20,2.7,Mar 26,19,3.6,,,,,,
+1986,,,,,,,Mar 06,14,2.0,Apr 02,16,2.6,,,,,,
+1987,,,,,,,Mar 08,16,2.4,Mar 31,16,3.0,,,,,,
+1988,,,,,,,May 01,18,3.0,Mar 28,20,3.8,,,,,,
+1989,,,,,,,May 01,14,2.2,Mar 21,14,2.2,Apr 19,8,2.0,,,
+1990,,,,,,,May 01,26,4.4,Apr 05,24,4.9,,,,,,
+1991,,,,,,,Feb 27,20,3.6,Jul 01,23,4.6,,,,,,
+1992,,,,,,,May 01,24,4.2,Apr 03,22,4.8,,,,,,
+1993,,,,,,,Feb 25,24,4.1,Mar 26,25,4.8,,,,,,
+1994,,,,,,,May 01,17,2.7,Jul 01,21,3.6,May 03,0,0.0,,,
+1995,,,,,,,Mar 02,22,3.6,Apr 03,23,4.1,,,,,,
+1996,,,,,,,May 01,14,2.2,Jul 01,14,2.4,,,,,,
+1997,,,,,,,May 01,20,3.0,Jul 01,20,3.1,,,,,,
+1998,,,,,,,May 01,17,2.4,Mar 31,16,2.7,,,,,,
+1999,,,,,,,May 01,13,2.2,Mar 29,15,2.6,,,,,,
+2000,,,,,,,May 01,24,5.0,Mar 30,27,5.6,,,,,,
+2001,,,,Feb 12,23,4.4,May 01,23,4.4,Jul 01,24,5.0,,,,,,
+2002,,,,,,,Mar 05,14,2.4,Apr 02,14,2.0,,,,,,
+2003,Jan 15,11,1.6,Mar 01,11,1.7,Feb 25,20,3.4,Apr 01,20,4.1,Sep 01,0,0.0,,,
+2004,,,,,,,Feb 28,17,2.9,Mar 31,18,3.5,,,,,,
+2005,,,,Feb 01,22,3.2,Mar 02,26,4.4,Apr 04,23,5.4,,,,,,
+2006,Jan 06,14,2.4,Feb 02,16,2.6,Mar 01,21,3.4,Apr 08,20,3.6,,,,,,
+2007,,,,,,,,,,Apr 06,16,2.7,,,,,,
+2008,,,,Mar 01,13,1.6,May 01,14,2.1,Apr 01,16,2.8,,,,,,
+2009,,,,Feb 01,16,2.6,Mar 01,18,3.7,Apr 01,20,4.1,,,,,,
+2010,,,,,,,Feb 27,16,2.5,Mar 29,16,2.7,,,,,,
+2011,,,,,,,Mar 01,22,3.0,,,,,,,,,
+2012,,,,,,,Feb 27,24,3.7,Apr 02,21,3.8,,,,,,
+2013,,,,,,,Feb 27,19,2.8,Mar 29,25,3.5,,,,,,
+2014,,,,,,,Feb 28,24,4.1,Apr 01,22,4.2,,,,,,
+2015,,,,,,,Feb 27,19,2.9,Mar 31,19,3.2,,,,,,
+2016,,,,,,,Mar 01,20,3.6,Mar 31,26,4.6,,,,,,
+2017,,,,,,,Feb 28,17,2.8,Mar 29,16,2.7,,,,,,
+2018,,,,,,,Mar 02,19,2.8,Mar 30,19,3.6,,,,,,
+2019,,,,,,,Feb 27,19,2.9,Mar 29,18,3.8,,,,,,
+2020,,,,,,,Feb 27,20,3.2,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

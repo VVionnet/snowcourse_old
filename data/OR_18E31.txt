@@ -1,0 +1,71 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 18E31: Anthony Lake (Rev), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Anthony Lake (rev) (18E31) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 7160 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:23:46 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+2008,Jan 03,38,10.0,Jan 30,71,17.8,Feb 28,64,22.8,Apr 03,80,30.0,May 05,68,31.2,,,
+2009,Dec 29,39,10.2,Jan 30,46,15.6,Mar 02,54,18.9,Mar 31,87,29.2,May 01,82,33.9,,,
+2010,Dec 31,31,7.3,Jan 28,42,11.3,Mar 01,48,16.0,Mar 29,57,17.2,Apr 29,52,18.6,,,
+2011,,,10.3,,,14.2,,,19.2,,,27.7,,,34.2,,,
+2012,,,,Jan 31,54,15.0,Mar 01,75,21.0,Mar 30,79,27.5,,,,,,
+2013,,,,Feb 04,56,17.0,Feb 28,65,19.8,Apr 01,61,23.6,May 01,57,24.8,,,
+2014,,,,Jan 31,54,12.8,Feb 28,72,25.0,Mar 27,85,26.5,Apr 29,81,34.0,,,
+2015,,,,Jan 30,43,14.7,Feb 27,59,18.5,Mar 27,45,18.1,May 01,28,11.0,,,
+2016,,,,Feb 01,57,18.2,Mar 01,62,22.8,Mar 31,73,29.8,May 02,41,23.0,,,
+2017,,,,Feb 01,57,18.3,Mar 02,73,32.1,Apr 03,63,30.1,May 03,69,34.0,,,
+2018,,,,Feb 01,41,12.0,Mar 01,57,15.7,Mar 30,59,21.1,Apr 30,50,22.8,,,
+2019,,,,Jan 31,46,12.5,Feb 28,83,25.5,Apr 01,74,27.8,Apr 30,60,31.7,,,
+2020,,,4.8,Jan 30,56,15.5,Feb 28,70,26.2,Apr 01,83,29.0,May 01,46,18.4,Jun 01,12,6.0
+2021,,,,Feb 01,45,13.0,Mar 01,88,22.7,,,,,,,,,

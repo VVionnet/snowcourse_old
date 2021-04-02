@@ -1,0 +1,95 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 14Y07: Mist Creek, AB
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Mist Creek (14Y07) 
+# Alberta  SNOW COURSE/AERIAL MARKER Site - 5873 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:10:32 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1984,,,,,,,,,,Mar 27,23,5.9,May 01,5,1.5,,,
+1985,,,,,,,,,,,,,,,,,,
+1986,,,,,,,,,,Mar 25,30,8.3,Apr 28,0,0.0,,,
+1987,,,,,,,,,,Mar 26,37,10.6,Apr 30,9,3.2,,,
+1988,,,,,,,,,,,,,,,,,,
+1989,,,,,,,,,,,,,,,,,,
+1990,,,,,,,,,,,,,,,,,,
+1991,,,,,,,,,,,,,,,,,,
+1992,,,,,,,,,,,,,,,,,,
+1993,,,,,,,,,,,,,,,,,,
+1994,,,,,,,,,,,,,,,,,,
+1995,,,,,,,,,,,,,,,,,,
+1996,,,,,,,,,,,,,,,,,,
+1997,,,,,,,,,,Apr 02,37,11.0,Apr 29,25,8.6,,,
+1998,,,,,,,,,,,,,,,,,,
+1999,,,,,,,,,,,,,Apr 27,21,8.1,,,
+2000,,,,,,,,,,Mar 29,28,8.3,Apr 26,16,5.2,,,
+2001,,,,,,,,,,Mar 27,20,4.4,Apr 27,17,4.9,,,
+2002,,,,,,,,,,Mar 28,44,12.9,,,,,,
+2003,,,,Jan 28,11,2.6,Feb 25,20,4.2,Mar 31,20,6.0,Apr 29,9,2.8,,,
+2004,,,,Feb 02,33,7.1,Feb 25,29,7.2,Mar 30,24,6.8,Apr 30,7,2.8,,,
+2005,,,,,,,Mar 01,20,6.0,Mar 29,21,6.0,Apr 26,2,0.9,,,
+2006,,,,,,4.0,,,5.7,,,6.4,,,1.2,,,
+2007,,,,Jan 30,22,5.4,Feb 27,30,6.9,Mar 29,24,7.8,May 03,4,1.3,,,
+2008,,,,Feb 02,30,6.3,Mar 03,31,7.7,,,,Apr 30,22,7.3,,,
+2009,,,,Feb 03,18,3.9,Feb 26,30,4.8,Mar 31,32,7.2,Apr 30,24,7.1,,,
+2010,,,,Jan 28,20,5.0,Mar 01,20,4.4,Apr 01,20,5.2,Apr 30,7,1.9,,,
+2011,,,,Jan 28,23,5.1,Feb 24,34,8.0,Mar 29,36,10.1,May 03,38,13.1,,,
+2012,,,,Jan 31,32,8.5,Feb 28,35,9.8,Mar 29,46,13.2,May 01,26,9.9,,,
+2013,,,,Jan 29,27,5.7,Feb 26,31,7.5,Apr 02,30,8.7,May 03,22,7.6,,,
+2014,,,,Jan 28,25,6.0,Feb 25,35,8.0,Apr 01,46,11.6,Apr 29,30,9.8,,,
+2015,,,,Jan 29,17,4.3,Feb 26,24,6.2,Apr 02,20,5.6,Apr 28,2,0.7,,,
+2016,,,,Feb 29,30,7.4,,,,Mar 29,30,7.9,Apr 27,0,0.0,,,
+2017,,,,Feb 02,18,3.3,Feb 28,27,6.4,Mar 27,30,8.5,May 02,26,8.8,,,
+2018,,,,Feb 01,26,5.8,Feb 27,33,7.7,Mar 29,43,10.9,Apr 26,33,10.3,,,
+2019,,,,Jan 29,19,4.0,,,,Mar 28,18,4.3,Apr 29,9,1.5,,,
+2020,,,,Jan 28,33,8.6,Feb 27,37,9.5,,,,Apr 28,36,11.6,,,
+2021,,,,Jan 28,26,6.3,Feb 26,32,7.6,,,,,,,,,

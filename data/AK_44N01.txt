@@ -1,0 +1,94 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 44N01: Chistochina, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Chistochina (44N01) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 1950 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:12:07 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1985,,,,Jan 27,18,3.1,Feb 25,26,4.2,Mar 25,28,6.3,Apr 29,24,5.6,,,
+1986,,,,Jan 29,10,2.0,Feb 26,16,2.5,Mar 26,16,2.6,May 02,6,1.7,,,
+1987,,,,Jan 28,11,1.4,Feb 25,11,1.4,Mar 30,9,2.3,Apr 30,0,0.0,,,
+1988,,,,Jan 27,9,1.3,Mar 01,17,2.8,Apr 01,21,3.6,Apr 30,0,0.0,,,
+1989,,,,Mar 01,26,5.0,Feb 28,28,5.4,Mar 28,30,6.1,Apr 29,3,0.9,,,
+1990,,,,Jan 31,26,5.6,Feb 28,40,7.5,Mar 28,33,8.2,May 01,6,2.0,,,
+1991,,,,Feb 02,27,5.4,Mar 01,29,6.1,Mar 28,31,6.9,May 01,8,3.4,,,
+1992,,,,Jan 31,23,4.0,Mar 01,23,4.1,Mar 29,25,4.5,Apr 30,15,4.5,,,
+1993,,,,Jan 28,27,5.3,Mar 01,30,5.9,Mar 29,28,5.9,Apr 30,0,0.0,,,
+1994,,,,Jan 27,22,3.6,Feb 28,22,4.0,Mar 30,17,4.1,Apr 27,0,0.0,,,
+1995,,,,Jan 31,17,2.2,Feb 27,19,2.9,Mar 28,20,3.2,Apr 27,0,0.0,,,
+1996,,,,Feb 01,8,1.1,Feb 28,16,2.6,Mar 25,17,3.4,Apr 29,0,0.0,,,
+1997,,,,Jan 29,23,3.7,Feb 26,21,3.8,Apr 03,26,4.7,Apr 30,3,1.0,,,
+1998,,,,Jan 26,17,2.8,Mar 02,20,3.2,Mar 31,20,3.6,Apr 27,0,0.0,,,
+1999,,,,Jan 25,12,1.3,Feb 24,13,2.2,Mar 31,14,2.3,Apr 29,0,0.0,,,
+2000,,,,Jan 27,14,2.3,Feb 29,13,2.7,Mar 28,12,2.2,Apr 26,0,0.0,,,
+2001,,,,Jan 29,11,1.7,Feb 27,17,3.1,Mar 28,16,3.3,Apr 30,0,0.0,,,
+2002,,,,Jan 31,13,2.3,Feb 27,14,2.6,Apr 01,18,3.3,Apr 30,5,1.7,,,
+2003,,,,Jan 28,16,3.0,Feb 25,17,3.6,Mar 26,19,4.0,Apr 29,0,0.0,,,
+2004,,,,Jan 27,14,1.6,Feb 24,15,2.1,Mar 30,20,3.1,Apr 29,0,0.0,,,
+2005,,,,Jan 31,24,4.8,Feb 28,27,6.2,Mar 28,24,5.6,Apr 25,0,0.0,,,
+2006,,,,Jan 31,18,3.1,Feb 27,20,3.2,Mar 30,18,3.0,Apr 27,13,2.7,,,
+2007,,,,Jan 30,9,1.6,Feb 27,10,1.4,Mar 28,12,2.0,,,,,,
+2008,,,,Jan 30,19,2.4,Feb 28,20,3.5,Mar 27,17,3.3,,,,,,
+2009,,,,Jan 28,20,3.0,Feb 25,25,3.6,Mar 30,25,4.6,Apr 29,9,2.8,,,
+2010,,,,Feb 01,17,2.0,Feb 27,20,3.0,Mar 31,17,3.1,Apr 29,0,0.0,,,
+2011,,,,Jan 31,18,2.4,Feb 28,21,3.0,Mar 31,20,3.6,May 02,0,0.0,,,
+2012,,,,Jan 31,24,4.4,Mar 01,24,4.9,Apr 02,22,5.1,May 01,0,0.0,,,
+2013,,,,Jan 31,19,2.8,Mar 01,20,3.6,Mar 29,21,4.2,May 01,20,4.5,,,
+2014,,,,Jan 29,18,3.8,Mar 03,20,4.4,Apr 01,18,4.5,Apr 29,0,0.0,,,
+2015,,,,Feb 02,22,2.6,Feb 27,18,3.4,Apr 03,17,3.7,Apr 30,0,0.0,,,
+2016,,,,Feb 02,17,2.8,Mar 02,16,2.9,Mar 31,10,2.4,Apr 28,0,0.0,,,
+2017,,,,Jan 31,15,2.1,Feb 28,17,2.8,Apr 03,14,2.8,Apr 28,0,0.0,,,
+2018,,,,,,,Feb 28,29,6.1,Mar 29,29,6.5,Apr 30,13,3.4,,,
+2019,,,,Jan 31,18,2.4,Feb 28,19,3.3,Mar 29,13,3.6,,,,,,
+2020,,,,Jan 29,12,1.8,Feb 27,15,2.5,Mar 28,21,3.1,Apr 29,0,0.0,,,
+2021,,,,Jan 29,18,3.2,Feb 26,24,4.2,,,,,,,,,

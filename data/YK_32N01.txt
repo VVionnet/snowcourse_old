@@ -1,0 +1,102 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 32N01: Plata Airstrip, YK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Plata Airstrip (32N01) 
+# Yukon Territory  SNOW COURSE/AERIAL MARKER Site - 2725 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:26:25 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1977,,,,,,,May 01,,5.5,Jul 01,,5.6,Sep 01,,5.3,,,
+1978,,,,Feb 02,19,4.2,Mar 01,19,4.3,Mar 31,22,4.6,May 02,9,2.0,,,
+1979,,,,,,,Mar 01,37,8.6,Apr 03,42,10.6,May 01,22,6.6,,,
+1980,,,,Feb 06,19,3.3,Mar 03,22,3.8,Apr 01,24,4.1,May 01,9,2.7,,,
+1981,,,,Feb 02,19,3.0,Mar 02,25,4.6,Mar 31,29,5.7,May 01,20,5.8,,,
+1982,,,,Jan 29,25,4.7,Mar 02,28,5.6,Mar 29,30,5.8,Apr 29,19,3.8,,,
+1983,,,,Feb 02,31,6.3,Mar 04,36,7.7,Mar 31,36,8.5,,,,,,
+1984,,,,Jan 31,31,4.8,Feb 25,32,7.8,Mar 29,33,7.7,Apr 29,21,7.5,,,
+1985,,,,Feb 01,32,7.0,Feb 25,35,7.7,Mar 27,41,9.6,Apr 29,38,11.2,,,
+1986,,,,,,,Feb 26,33,6.3,Apr 03,37,8.3,Apr 29,37,10.1,,,
+1987,,,,,,,Feb 25,27,5.0,Apr 01,27,5.6,Apr 28,23,6.9,,,
+1988,,,,,,,Feb 25,30,6.9,Mar 29,32,7.0,Apr 28,13,4.8,,,
+1989,,,,,,,Feb 27,33,7.7,Mar 31,33,8.1,May 02,7,2.0,,,
+1990,,,,,,,Feb 28,43,10.4,Mar 28,41,11.1,Apr 26,26,9.1,,,
+1991,,,,,,,Feb 28,37,9.3,Apr 02,41,11.5,Apr 30,17,6.8,,,
+1992,,,,,,,Mar 02,34,8.6,Mar 31,41,10.3,Apr 30,22,8.0,,,
+1993,,,,,,,Feb 24,39,7.0,Mar 30,39,9.2,Apr 30,18,5.9,,,
+1994,,,,,,,Mar 03,32,6.5,Mar 29,35,8.3,Apr 28,16,5.6,,,
+1995,,,,,,,Feb 27,26,4.4,Mar 30,26,5.5,Apr 27,7,2.2,,,
+1996,,,,,,,Feb 27,27,5.7,Mar 28,35,7.9,Apr 30,13,4.7,,,
+1997,,,,,,,Feb 25,26,5.2,Mar 26,29,6.1,Apr 29,2,0.4,,,
+1998,,,,,,,Feb 24,31,6.3,Mar 28,29,7.0,Apr 28,13,4.3,,,
+1999,,,,,,,Mar 02,18,3.1,Mar 29,19,3.7,Apr 29,5,1.4,,,
+2000,,,,,,,Feb 24,31,7.6,Mar 28,33,8.9,Apr 26,30,9.3,,,
+2001,,,,,,,Feb 27,28,5.7,Mar 27,30,6.7,Apr 25,19,5.9,,,
+2002,,,,,,,Feb 27,22,3.7,Mar 27,24,4.1,Apr 25,19,5.2,,,
+2003,,,,,,,Feb 26,28,5.4,Mar 26,30,7.2,Apr 29,13,4.5,,,
+2004,,,,,,,Feb 25,36,8.9,Mar 29,38,9.6,Apr 27,33,10.1,,,
+2005,,,,,,,Feb 23,43,10.0,Mar 30,40,10.7,Apr 26,26,9.4,,,
+2006,,,,,,,Feb 28,26,4.6,Mar 28,26,5.6,Apr 26,18,6.8,,,
+2007,,,,,,,Feb 27,27,5.4,Mar 27,33,7.5,Apr 25,17,6.1,,,
+2008,,,,,,,Feb 29,28,4.8,Mar 26,28,6.7,Apr 29,22,5.9,,,
+2009,,,,,,,Feb 27,29,6.1,Apr 01,34,7.6,Apr 28,30,8.4,,,
+2010,,,,,,,Feb 25,28,5.1,Mar 30,27,5.3,Apr 28,0,0.0,,,
+2011,,,,,,,,,,Mar 29,35,8.2,Apr 27,30,8.0,,,
+2012,,,,,,,Feb 27,42,9.4,Mar 28,41,10.3,Apr 26,26,8.9,,,
+2013,,,,,,,Mar 01,38,9.4,Mar 27,36,8.4,Apr 29,34,8.7,,,
+2014,,,,,,,Feb 26,32,6.9,Mar 27,33,7.1,May 01,12,3.9,,,
+2015,,,,,,,Feb 24,36,7.6,Mar 26,36,8.3,Apr 30,20,7.2,,,
+2016,,,,,,,,,,Mar 31,25,5.8,Apr 26,9,2.7,,,
+2017,,,,,,,,,,Mar 29,28,5.5,Apr 26,16,5.1,,,
+2018,,,,,,,Feb 28,28,5.2,Mar 27,26,5.5,Apr 26,15,4.6,,,
+2019,,,,,,,Feb 26,26,5.1,Mar 26,13,3.6,May 01,5,1.7,,,
+2020,,,,,,,Feb 26,37,7.5,Mar 31,42,9.9,Apr 28,23,7.7,,,
+2021,,,,,,,Feb 23,37,7.3,,,,,,,,,

@@ -1,0 +1,107 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER RCW: Robinson Cow Camp Snow Course, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Robinson Cow Camp Snow Course (RCW) 
+# California  SNOW COURSE/AERIAL MARKER Site - 6480 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:16:53 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1972,,,,,,,,,,Mar 27,,36.4,,,,,,
+1973,,,,,,,,,,Mar 29,,49.7,,,,,,
+1974,,,,,,,,,,Mar 21,,51.2,,,,,,
+1975,,,,,,,,,,Apr 09,,71.4,,,,,,
+1976,,,,,,,,,,Mar 27,,22.5,,,,,,
+1977,Jan 11,,5.9,Jan 26,,6.3,Feb 25,,10.1,Apr 05,,12.0,,,,,,
+1978,,,,Jan 27,,42.6,Feb 23,,55.7,Mar 25,,59.8,Apr 27,,64.6,,,
+1979,Jan 03,,10.0,Jan 26,,17.8,Mar 02,,39.2,Mar 31,,42.3,Apr 25,,39.0,,,
+1980,Jan 03,,18.4,Jan 23,,23.7,Feb 29,,44.4,Mar 28,,52.7,May 01,,40.2,,,
+1981,Jan 02,,7.8,Feb 01,,20.3,Mar 06,,24.4,Mar 31,,33.8,Apr 30,,16.2,,,
+1982,Jan 11,,22.1,Feb 02,,29.5,Feb 22,,25.3,Apr 09,,62.2,Apr 30,,57.8,,,
+1983,Jan 05,,30.6,Feb 02,,45.2,Feb 24,,64.0,Apr 01,,88.6,Apr 26,,87.0,May 26,,78.4
+1984,Jan 05,,29.4,Feb 01,,27.6,Feb 28,,39.1,Mar 30,,38.6,Apr 25,,36.2,,,
+1985,Jan 03,,20.0,Jan 31,,22.2,Feb 27,,28.4,Apr 01,,39.4,Apr 30,,20.8,,,
+1986,Dec 31,,17.4,Feb 07,,24.9,Feb 27,,41.8,Mar 28,,41.2,Apr 28,,27.0,,,
+1987,Jan 07,,9.0,Feb 03,,13.8,Feb 27,,18.0,Mar 30,,24.5,Apr 29,,0.0,,,
+1988,Jan 11,,17.8,Jan 25,,21.6,Mar 02,,22.7,Apr 01,,12.3,Apr 25,,4.5,,,
+1989,Jan 06,,22.2,Jan 30,,25.0,Mar 01,,30.4,Mar 30,,41.5,Apr 26,,25.6,,,
+1990,Jan 05,,8.1,Jan 31,,13.3,Feb 23,,25.9,Mar 27,,24.8,May 02,,0.0,,,
+1991,Jan 04,,5.3,Jan 30,,6.2,Feb 26,,5.4,Mar 29,,30.8,Apr 29,,22.5,Jun 03,,0.0
+1992,Dec 29,,8.7,Jan 27,,11.1,Feb 24,,23.5,Mar 25,,26.7,Apr 27,,0.0,,,
+1993,,,,Jan 27,,45.4,Feb 28,,65.4,Mar 31,,62.0,Apr 27,,56.6,May 28,,15.6
+1994,Dec 30,,14.1,Jan 27,,16.2,Mar 01,,32.1,Mar 31,,24.4,Apr 28,,11.1,,,
+1995,Dec 29,,31.5,Feb 02,,59.3,Feb 24,,60.4,Mar 28,,81.5,Apr 25,,88.3,Jun 01,,52.6
+1996,Jan 04,,4.6,Feb 01,,26.2,Mar 01,,41.8,Mar 29,,45.9,Apr 25,,44.4,May 29,,0.0
+1997,Jan 10,,23.7,Jan 30,,47.8,Feb 28,,44.3,Mar 26,,41.7,Apr 30,,16.5,,,
+1998,,,,Jan 28,,32.4,Feb 26,,62.6,Mar 26,,61.1,,,,,,
+1999,,,,Jan 25,,34.3,Feb 24,,55.7,Apr 02,,61.7,,,,,,
+2000,,,,Jan 26,,19.8,Mar 01,,46.4,Mar 28,,48.6,,,,,,
+2001,,,,Jan 30,,15.5,Mar 01,,28.7,Mar 28,,27.0,,,,,,
+2002,,,,Jan 29,,30.9,Feb 26,,34.8,Mar 25,,44.2,,,,,,
+2003,,,,Jan 28,,28.8,Feb 25,,31.1,Mar 25,,32.2,Apr 30,,41.9,,,
+2004,,,,Jan 29,,32.5,Feb 28,,47.1,Mar 29,,38.8,Apr 26,,25.8,,,
+2005,,,,Jan 24,,30.2,Feb 22,,38.0,Mar 26,,46.3,Apr 25,,47.6,,,
+2006,,,,Jan 25,,16.4,Feb 22,,21.4,Mar 30,,43.3,Apr 27,,60.4,Jun 05,,7.1
+2007,,,,Jan 29,,10.8,Mar 02,,23.1,Mar 29,,19.0,Apr 24,,13.7,,,
+2008,,,,Feb 05,,33.7,Feb 28,,40.4,Mar 27,,38.1,Apr 24,,30.6,,,
+2009,,,,Jan 29,,14.6,Feb 27,,27.2,Mar 30,,36.3,Apr 29,,23.8,,,
+2010,,,,Jan 28,,28.2,Feb 25,,35.2,Mar 27,,42.1,Apr 25,,48.1,,,
+2011,Jan 03,,33.6,Jan 25,,30.5,Feb 22,,43.4,Mar 30,,76.9,Apr 26,,67.3,,,
+2012,,,,Jan 30,,6.2,Feb 23,,9.2,Apr 02,,30.9,May 01,,22.0,,,
+2013,,,,Jan 30,,19.4,Feb 28,,19.8,Mar 26,,18.1,Apr 20,,0.0,,,
+2014,,,,Jan 28,,2.0,Feb 24,,3.5,Mar 30,,9.5,Apr 28,,1.5,,,
+2015,,,,Jan 26,,6.0,Feb 24,,1.0,Mar 26,,0.0,Apr 27,,0.0,,,
+2016,,,,Jan 26,,31.0,Feb 23,,33.5,Mar 29,,45.0,Apr 26,,25.5,,,
+2017,,,,Jan 25,,38.5,Feb 28,,60.0,Mar 28,,64.0,Apr 27,,56.0,,,
+2018,,,,Jan 29,,5.5,Feb 23,,4.0,Mar 27,,20.5,Apr 24,,7.0,,,
+2019,,,,Jan 30,,29.0,Feb 22,,46.0,Apr 01,,71.5,Apr 24,,56.5,,,
+2020,,,,Jan 30,,17.5,Feb 24,,15.5,Mar 27,,25.1,,,,,,
+2021,,,,,,,Feb 23,,31.0,Mar 30,,33.5,,,,,,

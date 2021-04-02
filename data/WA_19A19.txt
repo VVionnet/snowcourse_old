@@ -1,0 +1,77 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 19A19: Disautel Pass, WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Disautel Pass (19A19) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 3310 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:24:26 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+2002,,,,Jan 28,21,5.1,Feb 25,23,6.3,Mar 25,24,6.8,,,,,,
+2003,,,,Jan 27,20,6.0,Feb 24,18,5.6,,,,,,,,,
+2004,,,,Jan 26,17,3.7,Feb 24,19,4.2,,,,,,,,,
+2005,,,,Jan 25,13,3.4,Feb 23,11,3.4,,,,,,,,,
+2006,,,,Jan 25,22,5.5,Feb 22,29,7.8,Mar 28,27,8.2,,,,,,
+2007,,,,Jan 26,22,5.6,Feb 23,22,6.6,Mar 27,13,3.9,,,,,,
+2008,,,,Jan 31,24,5.8,Feb 26,23,7.0,Mar 26,25,6.8,,,,,,
+2009,,,,,,3.1,,,4.9,,,5.1,,,,,,
+2010,,,,,12,3.4,,10,2.8,,0,0.0,,,,,,
+2011,,,,Jan 26,16,3.4,Feb 28,22,3.2,Apr 01,18,4.0,,,,,,
+2012,,,,Jan 30,14,3.0,Feb 24,13,3.1,Apr 02,17,5.8,,,,,,
+2013,,,,Jan 29,24,5.9,Feb 27,24,6.8,Mar 26,16,5.1,,,,,,
+2014,,,,Jan 29,6,0.4,Feb 26,18,3.8,Mar 26,8,2.1,,,,,,
+2015,,,,Jan 28,10,2.3,Feb 26,0,0.0,Mar 31,0,0.0,,,,,,
+2016,,,,Jan 26,29,6.8,Feb 24,26,7.3,Mar 30,12,4.9,,,,,,
+2017,,,,Jan 27,25,6.0,Feb 22,29,7.4,,,,,,,,,
+2018,,,,Jan 30,24,5.3,Feb 22,23,5.6,Mar 28,23,6.3,,,,,,
+2019,,,,Jan 29,12,2.4,Feb 25,16,3.0,Mar 25,9,3.0,,,,,,
+2020,,,,Jan 28,15,3.9,Feb 25,16,4.1,,,,,,,,,
+2021,,,,Jan 26,23,4.6,Mar 01,28,6.8,Mar 30,17,5.3,,,,,,

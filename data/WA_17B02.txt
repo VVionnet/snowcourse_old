@@ -1,0 +1,97 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 17B02: Ragged Ridge, WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Ragged Ridge (17B02) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 3333 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:24:48 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1982,Dec 24,7,1.0,Feb 01,24,5.6,Mar 09,7,2.6,,,,,,,,,
+1983,Jan 03,30,5.0,,,,Feb 27,10,2.8,Mar 26,0,0.0,,,,,,
+1984,Dec 26,22,3.8,Feb 01,18,3.4,Mar 01,15,2.8,Apr 03,0,0.0,,,,,,
+1985,Dec 27,36,5.6,Jan 29,34,11.0,Feb 28,41,14.0,Mar 25,33,10.0,,,,,,
+1986,Jan 06,18,4.8,Feb 04,21,3.8,Feb 26,16,4.3,Apr 01,0,0.0,,,,,,
+1987,Dec 30,13,2.6,Jan 28,23,3.8,Feb 28,21,5.6,Mar 30,0,0.0,May 01,0,0.0,,,
+1988,Jan 01,14,2.8,,,,Feb 27,34,12.0,,,,,,,,,
+1989,Jan 01,21,4.4,Jan 28,31,9.6,Feb 26,40,12.8,Apr 01,25,7.9,,,,,,
+1990,,,,,,,Mar 03,28,9.3,Jul 01,,6.3,,,,,,
+1991,,,,,,,,,,,,,,,,,,
+1992,Jan 01,4,0.5,Jan 30,10,2.7,,,,Apr 01,0,0.0,,,,,,
+1993,,,,,,,Feb 26,39,12.0,Mar 31,16,6.4,,,,,,
+1994,Dec 29,15,3.6,,,,Feb 23,25,7.2,Jul 01,,0.0,,,,,,
+1995,,,,Jan 30,23,9.0,Feb 28,15,6.2,,,,,,,,,
+1996,,,,,,,Mar 07,15,4.0,Mar 27,0,0.0,,,,,,
+1997,,,,Jan 31,37,11.3,Feb 25,40,13.5,Mar 26,34,13.5,Apr 30,0,0.0,,,
+1998,,,,Jan 30,22,7.7,Feb 27,25,8.2,Mar 27,6,2.3,Apr 29,0,0.0,,,
+1999,,,,Feb 01,35,9.5,Feb 26,48,15.6,Mar 31,31,11.2,Apr 28,0,0.0,,,
+2000,,,,Jan 28,40,10.6,Feb 25,32,10.6,Mar 31,22,9.4,Apr 27,0,0.0,,,
+2001,,,,Jan 31,24,6.2,Feb 28,25,7.9,Jul 01,,1.0,Apr 27,0,0.0,,,
+2002,,,,Jan 29,33,9.5,,,,Mar 28,36,13.2,Apr 30,0,0.0,,,
+2003,,,,Jan 29,8,2.9,Feb 26,10,2.8,Mar 28,0,0.0,Apr 30,0,0.0,,,
+2004,,,,Jan 30,30,7.6,Feb 26,26,8.8,Mar 31,2,1.0,Apr 28,0,0.0,,,
+2005,,,,Jan 28,1,0.8,Mar 01,0,0.0,Apr 01,0,0.0,Apr 28,0,0.0,,,
+2006,,,,Jan 27,22,5.6,Feb 24,26,7.1,Mar 31,16,6.0,Apr 26,0,0.0,,,
+2007,,,,Jan 29,23,6.1,Feb 28,35,8.6,Mar 27,0,0.0,Apr 26,0,0.0,,,
+2008,,,,Jan 28,56,13.2,Feb 27,54,17.2,Mar 27,52,20.4,Apr 28,37,17.2,,,
+2009,,,,,,10.2,,,,,,13.0,,,0.0,,,
+2010,,,,,1,0.2,,0,0.0,,0,0.0,,0,0.0,,,
+2011,,,,Jan 26,14,4.8,Feb 23,17,4.8,Mar 31,13,5.3,Apr 29,7,2.1,,,
+2012,,,,Jan 27,11,2.4,Feb 23,16,4.2,Mar 29,19,6.9,Apr 25,0,0.0,,,
+2013,,,,Jan 31,26,6.2,Feb 27,29,7.8,Mar 26,11,4.4,Apr 29,0,0.0,,,
+2014,,,,Jan 31,18,2.5,Feb 28,21,5.9,Mar 28,1,0.2,,,,,,
+2015,,,,Jan 26,8,2.4,Feb 24,0,0.0,Mar 27,0,0.0,,,,,,
+2016,,,,Jan 29,17,5.7,,6,2.5,Mar 28,6,0.6,,,,,,
+2017,,,,Jan 27,24,6.1,Feb 24,24,6.9,Mar 30,1,0.4,,,,,,
+2018,,,,Jan 26,20,4.8,Feb 22,24,5.3,Mar 26,14,4.2,,,,,,
+2019,,,,,,,Mar 01,24,6.0,,,,,,,,,
+2020,,,,Jan 27,26,7.0,Feb 24,26,7.6,,,,,,,,,
+2021,,,,Jan 25,15,4.2,Feb 22,22,5.4,Mar 29,0,0.1,,,,,,

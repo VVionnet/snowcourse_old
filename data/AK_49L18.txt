@@ -1,0 +1,90 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 49L18: Exit Glacier, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Exit Glacier (49L18) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 400 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:11:05 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1989,Dec 30,31,7.4,Feb 03,45,11.7,Mar 01,44,11.6,Mar 29,38,11.0,,,,,,
+1990,Jan 02,34,8.1,Feb 01,53,15.0,Feb 28,65,16.9,Mar 30,62,18.6,May 01,28,10.8,,,
+1991,Jan 03,19,3.6,Feb 05,31,6.6,Mar 01,26,8.2,Apr 02,39,11.3,May 03,20,5.5,,,
+1992,Dec 30,60,13.3,Jan 31,60,19.7,Feb 27,81,24.0,Mar 30,89,31.2,Apr 28,68,26.1,,,
+1993,Dec 29,26,8.0,Jan 25,35,9.7,Mar 01,39,13.9,Apr 01,49,17.9,Apr 28,26,10.6,,,
+1994,Jan 03,26,7.0,Jan 26,36,8.8,Feb 28,37,9.7,Mar 28,45,12.7,May 02,15,5.1,,,
+1995,Jan 04,38,11.2,Jan 30,54,15.1,Feb 25,58,18.2,Mar 29,70,20.6,May 05,21,8.4,,,
+1996,,,,Jan 31,4,1.0,Feb 26,42,9.1,Apr 01,29,10.5,Apr 29,16,6.8,,,
+1997,,,,Feb 01,38,8.5,Feb 27,40,11.9,Mar 27,47,15.1,,,,,,
+1998,Jan 06,36,9.0,Feb 02,42,12.7,Mar 02,48,15.9,Apr 02,45,15.7,May 02,3,15.8,,,
+1999,Jan 04,59,11.5,Jan 29,52,13.5,Feb 26,68,17.5,Apr 01,77,23.9,May 03,58,18.9,,,
+2000,,,,Feb 02,86,18.5,Mar 06,68,23.0,Mar 28,68,23.2,May 01,47,18.7,,,
+2001,,,,Jan 27,38,11.1,Feb 27,53,16.6,Mar 31,79,23.0,Apr 30,43,17.3,,,
+2002,,,,Feb 06,56,15.5,Mar 08,67,22.8,Apr 03,66,22.3,May 05,38,14.6,,,
+2003,Jan 01,20,3.2,Mar 01,23,7.4,May 01,19,6.9,Mar 30,28,9.9,Sep 01,0,0.0,,,
+2004,,,,Feb 13,61,18.5,Mar 09,64,21.6,,,,,,,,,
+2005,Dec 29,39,11.2,,,,,,,,,,,,,,,
+2006,,,,Jan 31,24,4.1,Feb 27,28,9.5,Apr 01,34,10.9,May 06,16,6.6,,,
+2007,,,,Feb 01,51,16.4,Mar 01,50,17.2,Apr 02,53,19.4,May 02,26,10.7,,,
+2008,Dec 31,39,9.6,Feb 01,50,14.6,Feb 29,62,20.3,Mar 31,74,24.5,May 01,62,24.7,,,
+2009,Dec 31,26,5.5,Jan 30,35,8.1,Feb 27,34,9.4,Mar 30,47,12.5,Apr 29,24,8.8,,,
+2010,Dec 30,24,8.1,Jan 29,34,10.2,Feb 27,39,12.9,Mar 31,56,20.2,Apr 27,48,17.9,,,
+2011,Dec 29,30,8.4,Feb 01,34,9.6,Feb 28,42,12.1,Apr 01,40,11.4,Apr 30,24,8.2,,,
+2012,,,,Jan 30,61,16.1,,,,Mar 31,78,26.9,,,,,,
+2013,,,,Jan 30,38,12.4,Feb 27,59,17.1,Mar 29,79,21.2,May 02,50,19.2,,,
+2014,,,,Jan 30,13,5.0,Feb 28,20,7.4,Mar 26,27,9.2,May 01,1,0.7,,,
+2015,Jan 02,5,2.0,Feb 02,7,1.9,,,,,,,Apr 30,0,0.0,,,
+2016,Dec 29,15,4.2,,,,Feb 29,30,9.4,Mar 31,30,11.3,May 02,0,0.0,,,
+2017,,,,Feb 01,42,10.4,Mar 01,60,16.8,Apr 03,55,16.7,May 01,25,9.8,,,
+2018,,,,Feb 02,16,3.6,Mar 01,22,5.4,Mar 29,28,8.6,May 01,8,3.8,,,
+2019,,,,Jan 31,17,6.6,Feb 28,24,6.4,Apr 01,26,8.7,May 01,4,1.5,,,
+2020,,,,Jan 31,25,4.2,Mar 02,37,9.7,Mar 31,31,10.0,Apr 29,4,1.2,,,
+2021,,,,Feb 02,57,18.2,Mar 01,70,20.6,,,,,,,,,

@@ -1,0 +1,93 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11J60: Killyon Canyon, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Killyon Canyon (11J60) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 6300 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:24:04 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1986,Jan 01,31,7.8,Feb 01,26,8.7,Mar 01,12,5.5,Apr 01,0,0.0,May 01,0,0.0,Jun 01,0,0.0
+1987,Jan 01,6,1.9,Feb 01,18,5.7,Mar 01,23,7.5,Apr 01,13,5.2,May 01,0,0.0,Jun 01,0,0.0
+1988,Jan 01,20,2.3,Feb 01,24,5.8,,,,,,,,,,,,
+1989,Jan 01,36,8.5,Feb 02,40,10.0,Mar 02,26,10.2,Mar 27,8,3.3,May 01,0,0.0,May 31,0,0.0
+1990,Jan 03,12,3.0,Feb 01,20,4.4,Mar 01,13,4.8,Mar 30,0,0.0,May 02,0,0.0,Nov 01,,0.0
+1991,Jan 02,19,4.3,Jan 31,27,7.6,Feb 28,16,6.3,Mar 28,13,5.9,May 02,7,2.1,,,
+1992,Dec 30,11,2.9,Jan 27,15,4.2,Mar 02,10,3.4,Apr 01,0,0.0,Apr 29,0,0.0,,,
+1993,Dec 31,28,4.8,Jan 28,35,10.1,Mar 01,38,12.4,Mar 31,7,2.9,Apr 29,0,0.0,,,
+1994,Dec 30,14,3.1,Feb 01,22,5.5,Feb 28,30,8.5,Mar 31,2,0.6,Apr 29,0,0.0,,,
+1995,Dec 28,18,6.1,Jan 30,27,7.9,Feb 27,17,7.2,Mar 31,4,1.2,Apr 29,0,0.0,,,
+1996,Dec 27,0,0.0,Jan 29,41,8.5,Feb 29,37,12.3,Mar 28,19,8.8,Apr 29,0,0.0,,,
+1997,Jan 03,10,3.7,Jan 30,26,7.6,Mar 03,36,9.7,Mar 31,1,0.5,Apr 28,0,0.0,,,
+1998,Dec 30,13,2.9,Feb 02,27,7.5,Feb 25,48,11.1,Mar 30,27,8.0,Apr 27,0,0.0,,,
+1999,Jan 04,10,1.8,Jan 28,29,6.4,Mar 02,19,6.3,Mar 29,0,0.0,Apr 29,0,0.0,,,
+2000,Dec 28,10,1.9,Feb 03,14,3.9,Feb 28,22,5.9,Mar 29,1,0.2,May 01,0,0.0,,,
+2001,Dec 26,20,3.7,Jan 29,21,5.0,Feb 26,18,5.6,Mar 28,1,0.1,May 01,0,0.0,,,
+2002,Dec 26,25,6.8,Jan 29,29,8.4,Feb 26,28,9.0,Mar 26,29,10.6,Apr 29,0,0.0,,,
+2003,Dec 27,9,1.5,Jan 31,5,1.2,Feb 28,3,1.0,Apr 01,0,0.0,,,,,,
+2004,Dec 31,45,9.4,Jan 29,38,11.1,Mar 02,39,12.9,Mar 30,3,1.3,Apr 28,0,0.0,May 27,0,0.0
+2005,Dec 29,12,2.7,Jan 28,10,2.9,Mar 01,8,3.2,Mar 31,16,3.3,Apr 27,0,0.0,,,
+2006,Dec 29,18,4.8,Feb 01,32,9.0,Feb 28,29,10.6,Mar 29,26,10.3,Apr 27,0,0.0,Jun 01,0,0.0
+2007,Dec 27,8,1.4,Jan 30,14,2.6,Feb 27,24,4.1,Mar 30,0,0.0,Apr 27,0,0.0,,,
+2008,Dec 26,22,4.2,Jan 29,32,7.8,Feb 26,37,12.1,Mar 27,19,7.6,Apr 29,0,0.0,,,
+2009,Dec 29,19,4.3,Jan 28,27,6.4,Feb 25,22,7.4,Mar 26,19,2.6,Apr 28,0,0.0,,,
+2010,Dec 29,16,2.9,Jan 29,26,5.3,Feb 24,25,6.9,Mar 30,6,2.0,Apr 19,0,0.0,May 27,0,0.0
+2011,,11,2.5,Jan 28,21,5.4,Feb 25,34,8.0,Mar 29,25,8.1,Apr 27,2,0.5,May 12,0,0.0
+2012,Dec 28,2,0.4,Jan 31,13,2.8,Feb 28,19,4.3,Mar 27,0,0.0,Apr 25,0,0.0,,,
+2013,Dec 26,16,2.4,Jan 30,30,5.9,Feb 28,26,5.9,Mar 28,1,0.2,Apr 26,0,0.0,,,
+2014,Jan 02,13,2.6,Jan 30,24,4.8,Feb 27,16,5.0,Mar 25,0,0.0,Apr 29,0,0.0,May 28,0,0.0
+2015,,,,Jan 27,11,3.9,Feb 25,0,0.0,Mar 25,0,0.0,Apr 28,0,0.0,,,
+2016,Dec 30,23,4.9,Jan 27,30,7.5,Feb 26,17,6.7,Mar 29,3,0.7,Apr 26,0,0.0,Jun 01,0,0.0
+2017,Dec 28,18,4.1,Jan 31,31,8.0,Mar 01,25,5.5,Mar 29,0,0.0,Apr 26,0,0.0,May 31,0,0.0
+2018,Dec 27,18,2.6,Feb 01,8,2.7,Mar 01,8,2.7,Mar 29,0,0.0,Apr 27,0,0.0,,,
+2019,Dec 27,18,3.6,Jan 29,27,7.0,Feb 28,28,8.9,Apr 02,15,5.7,May 01,0,0.0,,,
+2020,,,,Jan 29,27,7.6,Mar 04,29,10.4,Mar 31,8,3.2,Apr 27,0,0.0,May 28,0,0.0
+2021,,,,,,,Feb 25,24,7.2,Mar 28,7,2.1,,,,,,

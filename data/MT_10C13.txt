@@ -1,0 +1,118 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10C13: Eagle Creek, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Eagle Creek (10C13) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 7000 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:21:03 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,,,,,,,Jul 01,,9.6,,,,,,
+1962,,,,,,,,,,Jul 01,,14.5,,,,,,
+1963,,,,,,,,,,Jul 01,,11.0,,,,,,
+1964,,,,,,,,,,Jul 01,,17.0,,,,,,
+1965,,,,,,,,,,Jul 01,,19.0,,,,,,
+1966,,,,,,,,,,Jul 01,,11.5,,,,,,
+1967,,,,,,,,,,Jul 01,,17.8,,,,,,
+1968,,,,,,,,,,Jul 01,,16.6,,,,,,
+1969,,,,,,,Feb 20,38,11.4,Apr 02,36,11.7,,,,,,
+1970,,,,,,,Feb 24,52,15.8,Mar 23,62,19.0,Apr 27,64,21.6,,,
+1971,,,,,,,Feb 22,43,13.1,Mar 22,54,16.4,Apr 26,48,18.5,,,
+1972,,,,,,,Feb 25,52,15.4,Mar 29,44,16.0,Apr 26,39,17.2,,,
+1973,,,,,,,,,,Mar 28,37,8.8,,,,,,
+1974,,,,,,,,,,Mar 29,53,18.4,,,,,,
+1975,,,,,,,,,,Mar 31,59,18.8,,,,,,
+1976,,,,,,,,,,Mar 28,56,18.7,,,,,,
+1977,,,,,,,,,,Apr 01,62,15.6,,,,,,
+1978,,,,,,,,,,Mar 31,45,18.2,,,,,,
+1979,,,,,,,,,,Mar 26,52,16.5,,,,,,
+1980,,,,,,,,,,Mar 26,51,13.6,,,,,,
+1981,,,,,,,,,,Mar 31,35,8.8,,,,,,
+1982,,,,,,,,,,Mar 27,47,15.6,,,,,,
+1983,,,,,,,,,,Mar 29,36,11.4,,,,,,
+1984,,,,,,,,,,Mar 29,49,14.2,,,,,,
+1985,,,,,,,,,,Mar 27,47,13.0,,,,,,
+1986,,,,,,,,,,Mar 24,36,12.1,,,,,,
+1987,,,,,,,,,,Mar 31,33,9.2,,,,,,
+1988,,,,,,,,,,Mar 24,43,11.7,,,,,,
+1989,,,,,,,,,,Mar 23,49,14.1,,,,,,
+1990,,,,,,,,,,Mar 28,42,12.9,,,,,,
+1991,,,,,,,,,,Mar 29,39,11.4,,,,,,
+1992,,,,,,,,,,Mar 30,26,8.9,,,,,,
+1993,,,,,,,,,,Mar 30,30,8.8,,,,,,
+1994,,,,,,,,,,Mar 28,38,11.5,,,,,,
+1995,,,,,,,,,,Mar 29,47,13.6,,,,,,
+1996,,,,,,,,,,Mar 26,49,15.2,,,,,,
+1997,,,,,,,,,,Mar 26,62,24.6,,,,,,
+1998,,,,,,,,,,Apr 01,30,10.5,,,,,,
+1999,,,,,,,,,,Mar 30,37,14.0,,,,,,
+2000,,,,,,,,,,Mar 28,34,11.2,,,,,,
+2001,,,,,,,,,,Mar 27,31,7.5,,,,,,
+2002,,,,,,,,,,Mar 27,36,9.3,,,,,,
+2003,,,,,,,,,,Mar 31,47,15.2,,,,,,
+2004,,,,,,,Feb 26,35,11.4,Mar 28,31,11.4,Apr 30,12,4.4,,,
+2005,,,,,,,,,,Mar 29,35,9.8,,,,,,
+2006,,,,,,,Feb 27,41,9.8,Mar 29,42,13.9,,,,,,
+2007,,,,,,,Feb 27,34,8.2,Mar 27,22,8.0,,,,,,
+2008,,,,,,,Feb 28,33,9.7,Mar 27,40,12.0,,,,,,
+2009,,,,,,,Feb 28,46,13.4,Mar 31,64,18.0,,,,,,
+2010,,,,,,,Feb 26,37,9.8,Mar 28,34,10.6,,,,,,
+2011,,,,,,,Mar 01,46,9.3,Apr 02,56,19.8,,,,,,
+2012,,,,,,,Feb 23,43,10.0,,,,,,,,,
+2013,,,,,,,Mar 05,37,10.5,Mar 30,32,11.3,,,,,,
+2014,,,,,,,Feb 27,63,17.7,Mar 29,69,23.7,,,,,,
+2015,,,,,,,Mar 01,46,15.0,Apr 01,,9.3,,,,,,
+2016,,,,,,,Mar 03,34,10.3,Apr 04,34,12.7,,,,,,
+2017,,,,,,,Mar 05,34,7.4,,,,,,,,,
+2018,,,,,,,,,,Apr 04,72,23.0,,,,,,
+2019,,,,,,,Mar 01,61,15.0,Mar 23,48,16.2,,,,,,
+2020,,,,,,,Feb 29,46,14.5,,,,,,,,,
+2021,,,,,,,Mar 01,42,9.8,Mar 30,45,13.0,,,,,,

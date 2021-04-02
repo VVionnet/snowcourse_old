@@ -1,0 +1,97 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 51M02: Granite Point, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Granite Point (51M02) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 250 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:11:14 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1982,,,,Jan 25,21,5.8,Mar 01,8,2.8,Apr 05,14,4.4,May 04,,0.0,,,
+1983,,,,Feb 02,9,3.0,Mar 08,12,3.5,Apr 07,0,0.0,May 05,0,0.0,,,
+1984,,,,Mar 01,20,6.2,Mar 04,26,8.1,Apr 03,5,1.6,May 05,0,0.0,,,
+1985,,,,Jan 29,8,2.6,Mar 05,16,3.2,Apr 02,23,6.2,Apr 30,14,5.8,,,
+1986,,,,Feb 03,8,1.7,Mar 03,8,1.6,Mar 31,1,0.2,Sep 01,0,0.0,,,
+1987,,,,Mar 01,17,4.8,Mar 03,22,5.3,Jul 01,22,6.3,Apr 27,4,1.0,,,
+1988,,,,Mar 01,16,4.1,May 01,19,5.6,Apr 01,19,6.6,,,,,,
+1989,,,,Mar 01,28,6.8,Mar 01,31,7.2,Mar 31,25,7.8,,,,,,
+1990,,,,Mar 01,38,9.0,May 01,46,10.3,Mar 31,41,12.3,Apr 26,9,3.1,,,
+1991,,,,Mar 01,28,8.0,Feb 28,29,8.7,Mar 30,30,9.8,,,,,,
+1992,,,,,,,Feb 25,31,9.4,Mar 30,32,10.6,,,,,,
+1993,,,,,,,Feb 25,21,5.1,Mar 29,15,5.1,,,,,,
+1994,,,,,,,Feb 24,14,4.7,Mar 28,18,5.9,,,,,,
+1995,,,,Feb 02,29,7.2,Mar 01,32,8.2,Mar 30,28,9.2,,,,,,
+1996,,,,,,,Feb 27,21,3.2,Mar 27,12,4.0,,,,,,
+1997,,,,,,,Feb 28,9,2.8,Apr 02,9,2.8,,,,,,
+1998,,,,,,,May 01,22,5.0,Mar 30,6,2.0,,,,,,
+1999,,,,,,,Feb 25,20,4.7,Mar 29,16,4.3,,,,,,
+2000,,,,,,,Feb 28,28,7.6,Jul 01,27,7.8,,,,,,
+2001,,,,,,,,,,Mar 31,17,5.1,,,,,,
+2002,,,,,,,Mar 05,8,2.5,Mar 27,15,3.9,,,,,,
+2003,,,,,,,Feb 27,2,0.5,Mar 31,3,1.0,,,,,,
+2004,,,,,,,Feb 25,17,4.0,Mar 31,19,4.8,,,,,,
+2005,,,,,,,,,,,,,,,,,,
+2006,,,,,,,,,,,,,,,,,,
+2007,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,
+2010,,,,,,,Mar 01,11,2.7,Mar 31,10,3.0,,,,,,
+2011,,,,,,,Feb 28,17,4.2,Mar 29,14,4.2,,,,,,
+2012,,,,,,,Feb 29,40,9.5,Mar 28,35,10.2,,,,,,
+2013,,,,,,,Feb 27,17,3.9,Apr 01,14,4.1,,,,,,
+2014,,,,,,,Feb 26,1,0.2,Apr 01,0,0.0,,,,,,
+2015,,,,,,,Feb 27,0,0.0,Mar 30,0,0.0,,,,,,
+2016,,,,,,,Mar 01,0,0.0,Mar 31,0,0.0,,,,,,
+2017,,,,,,,Mar 01,14,2.8,Mar 30,14,3.5,,,,,,
+2018,,,,,,,Mar 01,9,1.9,Mar 29,9,2.4,,,,,,
+2019,,,,,,,Feb 27,26,6.3,,,,,,,,,
+2020,,,,,,,,,,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

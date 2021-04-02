@@ -1,0 +1,121 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 18E21: Bully Creek AM, OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Bully Creek Am (18E21) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 5300 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:23:08 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1958,,,,,,,Feb 27,18,6.0,,,,,,,,,
+1959,,,,Feb 01,0,0.0,Feb 25,13,3.9,Apr 02,0,0.0,,,,,,
+1960,,,,Feb 03,14,3.2,Feb 27,17,4.8,Apr 01,0,0.0,,,,,,
+1961,,,,Feb 10,0,0.0,Feb 28,0,0.0,Mar 27,1,0.3,,,,,,
+1962,,,,Jan 26,9,2.4,Feb 26,14,3.9,Mar 29,8,2.6,,,,,,
+1963,,,,Jan 23,0,0.0,Mar 04,0,0.0,Apr 03,0,0.0,,,,,,
+1964,,,,Feb 02,15,3.3,Feb 27,12,3.5,Mar 26,10,3.3,,,,,,
+1965,,,,Feb 01,9,2.5,Feb 25,4,1.4,Mar 29,0,0.0,,,,,,
+1966,,,,Jan 27,1,0.2,Mar 02,6,1.6,Apr 01,0,0.0,,,,,,
+1967,,,,Feb 05,8,2.4,Feb 27,6,1.8,Jul 01,,0.7,,,,,,
+1968,,,,Feb 04,8,1.6,Feb 27,0,0.0,Mar 29,0,0.0,,,,,,
+1969,,,,Feb 04,12,3.2,Feb 27,30,8.7,Mar 24,14,5.3,,,,,,
+1970,,,,Jan 29,12,3.2,Feb 25,6,2.1,Mar 27,0,0.0,,,,,,
+1971,,,,Jan 27,10,2.8,Mar 06,0,0.0,Mar 30,0,0.0,,,,,,
+1972,,,,Feb 02,10,2.0,Mar 07,0,0.0,Mar 29,0,0.0,,,,,,
+1973,,,,Jan 27,12,2.7,Feb 23,11,3.1,Apr 03,0,0.0,,,,,,
+1974,,,,Feb 05,6,1.8,Mar 08,10,2.5,Mar 26,0,0.0,,,,,,
+1975,,,,Mar 01,,2.8,Feb 22,12,3.6,Mar 29,8,2.6,,,,,,
+1976,,,,,,,Feb 24,10,2.8,Mar 30,1,0.3,,,,,,
+1977,,,,Feb 01,0,0.0,Mar 04,1,0.3,Mar 31,0,0.0,,,,,,
+1978,,,,Jan 24,20,5.4,Feb 28,12,4.0,Mar 27,0,0.0,,,,,,
+1979,,,,Mar 01,,3.6,Mar 02,15,3.9,Apr 04,0,0.0,,,,,,
+1980,,,,Mar 01,,1.7,Feb 29,0,0.1,Mar 25,0,0.1,,,,,,
+1981,,,,Feb 02,9,1.8,Feb 27,0,0.0,Apr 07,0,0.0,,,,,,
+1982,,,,Mar 01,,3.2,Feb 24,3,1.1,Apr 09,7,2.7,,,,,,
+1983,,,,Mar 01,,2.1,May 01,,1.3,Apr 05,0,0.1,,,,,,
+1984,,,,Mar 01,,3.9,Mar 07,6,1.5,Mar 30,0,0.0,,,,,,
+1985,,,,Jan 30,7,1.9,Feb 28,4,1.0,Apr 01,1,0.2,,,,,,
+1986,,,,,,,Feb 26,0,0.0,Jul 01,,0.0,,,,,,
+1987,,,,Feb 04,,0.1,May 01,,1.7,Mar 25,0,0.0,,,,,,
+1988,,,,Jan 28,6,1.3,Mar 07,0,0.0,Apr 05,0,0.0,,,,,,
+1989,,,,Jan 27,29,9.3,,,,,,,,,,,,
+1990,,,,Mar 01,,0.7,Feb 27,0,0.0,Apr 02,0,0.0,,,,,,
+1991,,,,Mar 01,,1.0,May 01,,0.0,Jul 01,,0.0,,,,,,
+1992,,,,Jan 30,9,1.8,Feb 26,5,1.8,Mar 30,0,0.0,,,,,,
+1993,,,,Jan 28,31,9.0,Feb 26,27,7.3,Mar 31,6,3.0,,,,,,
+1994,,,,Jan 27,9,2.2,Mar 01,7,1.9,Mar 29,0,0.0,,,,,,
+1995,,,,Feb 02,10,3.3,May 01,,0.0,Mar 27,0,0.0,,,,,,
+1996,,,,Feb 01,6,1.6,Feb 28,6,2.0,Apr 04,0,0.0,,,,,,
+1997,,,,Mar 01,,3.8,Feb 24,5,1.6,Mar 25,0,0.0,,,,,,
+1998,,,,Mar 01,,2.5,Feb 23,24,7.7,Mar 26,2,0.9,,,,,,
+1999,,,,Jan 27,11,2.9,Feb 26,24,8.9,Jul 01,,1.5,,,,,,
+2000,,,,Jan 26,13,3.1,Feb 28,24,7.0,Mar 27,5,2.4,,,,,,
+2001,,,,Jan 31,5,1.4,Feb 27,12,2.5,Mar 26,0,0.0,,,,,,
+2002,,,,Jan 29,12,3.6,Feb 26,12,4.1,Mar 26,7,2.9,,,,,,
+2003,,,,Jan 28,11,3.2,Feb 26,1,0.4,Mar 27,0,0.0,,,,,,
+2004,,,,Jan 26,27,7.8,,,,Mar 29,0,0.0,,,,,,
+2005,,,,Feb 01,10,3.4,Mar 01,8,2.7,Mar 30,0,0.0,,,,,,
+2006,,,,Jan 27,27,6.8,Feb 24,19,6.9,Mar 30,14,5.9,,,,,,
+2007,,,,Jan 29,3,0.9,Mar 05,8,2.2,Mar 29,0,0.0,,,,,,
+2008,,,,Feb 04,27,5.9,Feb 29,17,6.0,Apr 01,6,2.3,,,,,,
+2009,,,,Jan 29,5,1.6,Feb 27,4,1.4,,,,,,,,,
+2010,,,,Jan 28,24,5.8,Feb 25,18,5.6,Mar 24,8,3.0,,,,,,
+2011,,,,,,,,,1.8,,,3.9,,,,,,
+2012,,,,Jan 31,9,2.7,Feb 28,6,1.6,Apr 03,0,0.0,,,,,,
+2013,,,,Feb 01,7,1.8,Mar 01,4,1.2,,,,,,,,,
+2014,,,,Jan 28,0,0.0,Mar 07,0,0.0,,,,,,,,,
+2015,,,,,,,Feb 25,0,0.0,Mar 30,0,0.0,,,,,,
+2016,,,,Feb 01,16,4.2,Feb 29,9,3.6,Apr 01,0,0.0,,,,,,
+2017,,,,,,,Mar 02,27,9.2,Apr 01,0,0.0,,,,,,
+2018,,,,,,,Feb 27,1,0.2,Mar 30,0,0.0,,,,,,
+2019,,,,Jan 30,8,2.5,Mar 01,33,10.2,Apr 01,8,3.0,,,,,,
+2020,,,,Feb 01,12,4.8,Feb 26,3,1.4,Apr 02,0,0.0,,,,,,
+2021,,,,Jan 26,4,1.4,Feb 28,17,5.3,,,,,,,,,

@@ -1,0 +1,88 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 17D19: East Eagle, OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# East Eagle (17D19) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 4400 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:23:15 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1991,Dec 28,27,4.6,Jan 29,37,10.0,Feb 27,34,11.0,Mar 28,48,15.6,,,,,,
+1992,Dec 30,37,8.9,Jan 29,41,11.5,Feb 28,38,13.6,Mar 31,15,7.4,,,,,,
+1993,Dec 28,46,10.9,Jan 29,63,18.9,Feb 28,68,23.5,Apr 06,44,20.8,,,,,,
+1994,Dec 27,30,8.0,,,,Feb 28,68,21.0,Mar 27,51,20.3,,,,,,
+1995,Dec 26,52,15.8,Jan 26,62,21.6,Feb 26,64,38.4,Mar 28,63,25.2,,,,,,
+1996,Dec 28,22,5.4,Jan 31,63,14.4,Feb 25,53,17.4,,,,,,,,,
+1997,Dec 31,66,18.9,Jan 27,71,22.0,Feb 27,75,27.8,Apr 01,67,27.3,,,,,,
+1998,Dec 27,31,6.7,Jan 28,54,16.4,Feb 28,62,21.1,Mar 28,51,19.9,,,,,,
+1999,Jan 01,50,14.5,Jan 27,69,19.2,Feb 28,101,32.8,Mar 28,79,31.1,,,,,,
+2000,Dec 29,41,12.5,Jan 27,61,19.8,Feb 26,70,25.0,Mar 26,66,27.0,,,,,,
+2001,Jan 01,30,8.0,Jan 28,40,10.0,Feb 25,41,13.1,,,,,,,,,
+2002,Dec 30,48,13.7,Jan 31,68,20.7,Feb 27,69,24.5,,,,,,,,,
+2003,Jan 08,36,8.0,Jan 26,35,9.8,,,,,,,,,,,,
+2004,,,,,,,,,,Mar 31,55,23.8,,,,,,
+2005,Jan 01,31,7.1,,,,Mar 03,33,10.4,Mar 26,41,13.5,,,,,,
+2006,Dec 23,28,6.4,Jan 28,81,21.7,Feb 26,75,26.1,Mar 26,79,28.0,,,,,,
+2007,Dec 31,36,10.8,Feb 04,42,8.7,Feb 25,53,16.1,,,,,,,,,
+2008,Dec 31,50,8.7,Feb 01,95,20.6,Mar 02,73,25.9,Apr 09,72,29.5,,,,,,
+2009,Dec 28,40,5.5,Jan 31,50,14.3,Mar 02,49,16.6,Apr 02,54,17.8,,,,,,
+2010,Jan 01,48,9.8,Feb 01,53,14.9,Feb 28,58,19.1,Apr 03,61,19.7,,,,,,
+2011,,,11.4,,,13.7,,,18.9,,,22.9,,,,,,
+2012,Dec 31,26,7.2,Jan 31,54,13.2,Feb 29,63,16.8,Apr 03,54,18.0,,,,,,
+2013,Dec 31,19,2.4,Feb 01,34,8.8,Mar 01,47,13.4,Apr 01,29,10.2,,,,,,
+2014,Dec 31,16,2.4,,,,Mar 01,47,17.2,,,,,,,,,
+2015,Dec 29,38,7.6,Feb 01,43,12.4,Feb 28,38,15.4,,,,,,,,,
+2016,Dec 31,51,13.2,Jan 31,69,21.0,Mar 01,62,23.0,Apr 03,53,24.0,,,,,,
+2017,Dec 31,44,10.0,Jan 31,56,15.8,Feb 28,69,23.4,,,,,,,,,
+2018,Dec 31,11,2.9,Feb 02,31,9.0,Mar 01,48,13.0,Mar 31,39,15.6,,,,,,
+2019,Dec 31,35,10.8,Jan 27,49,14.4,Feb 28,85,25.4,Mar 31,68,25.8,,,,,,
+2020,Dec 28,21,5.0,Jan 31,59,18.6,Feb 29,60,23.2,,,,Apr 26,12,6.0,,,
+2021,Jan 01,43,10.2,Jan 31,60,19.6,Feb 28,90,25.0,,,,,,,,,

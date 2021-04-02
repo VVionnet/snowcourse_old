@@ -1,0 +1,74 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 18A24: Vulcan Mtn, WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Vulcan Mtn (18A24) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 4660 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:25:00 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+2005,,,,,,,Feb 24,19,5.8,,,,,,,,,
+2006,,,,Jan 31,43,10.6,Feb 28,49,14.3,Mar 28,46,15.9,,,,,,
+2007,,,,Jan 30,33,9.3,Feb 27,42,12.0,Mar 27,31,11.4,,,,,,
+2008,,,,Jan 30,28,8.2,Feb 28,31,9.9,Mar 31,36,11.4,,,,,,
+2009,,,,,,7.2,,,,,,11.3,,,,,,
+2010,,,,,29,8.9,,33,10.2,,34,11.6,,,,,,
+2011,,,,Jan 28,30,7.3,Feb 25,35,8.3,Mar 29,46,12.7,,,,,,
+2012,,,,Jan 31,24,5.8,Feb 24,37,8.1,Mar 27,40,11.4,,,,,,
+2013,,,,Jan 29,38,10.1,Feb 25,40,10.9,Mar 27,38,11.5,,,,,,
+2014,,,,,,,,,,Mar 26,32,8.0,,,,,,
+2015,,,,Jan 29,23,5.8,Feb 23,20,6.6,Mar 26,20,6.9,,,,,,
+2016,,,,Jan 29,39,10.4,Feb 25,40,12.8,Mar 31,40,14.4,,,,,,
+2017,,,,Jan 25,30,6.6,Feb 22,39,9.1,Mar 27,41,11.0,,,,,,
+2018,,,,Jan 30,45,11.2,,,,Mar 28,51,16.9,,,,,,
+2019,,,,,,,Feb 27,39,11.1,,,,,,,,,
+2020,,,,Jan 28,36,8.8,Feb 26,35,9.4,,,,,,,,,
+2021,,,,Jan 27,31,8.7,Feb 23,46,12.0,Mar 31,35,13.1,,,,,,

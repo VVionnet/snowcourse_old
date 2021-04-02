@@ -1,0 +1,75 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 13E29: Hahn Homestead, ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Hahn Homestead (13E29) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 7445 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:19:48 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+2004,,,,,,,Feb 27,28,4.0,Mar 30,15,3.8,,,,,,
+2005,,,,,,,Feb 26,25,3.0,Mar 31,26,4.5,,,,,,
+2006,,,,,,,Mar 02,33,6.0,Mar 29,34,7.2,,,,,,
+2007,,,,,,,Mar 02,29,4.0,Mar 30,21,4.8,,,,,,
+2008,,,,,,,Feb 28,29,4.8,Mar 31,34,7.8,,,,,,
+2009,,,,,,,Mar 02,22,3.0,Apr 02,30,7.0,,,,,,
+2010,,,,,,,Mar 01,18,3.0,Mar 31,23,2.8,,,,,,
+2011,,,,,,,Mar 03,28,7.0,Mar 31,29,5.5,,,,,,
+2012,,,,,,,Feb 29,28,5.6,Apr 02,22,5.5,,,,,,
+2013,,,,,,,Feb 26,24,3.8,Apr 01,18,4.0,,,,,,
+2014,,,,,,,Mar 03,40,8.2,Mar 31,35,9.2,,,,,,
+2015,,,,Jan 31,25,5.2,Feb 25,26,4.5,Mar 30,13,4.5,,,,,,
+2016,,,,,,,Mar 01,23,4.8,Mar 30,32,8.5,,,,,,
+2017,,,,,,,Feb 28,30,5.4,Mar 29,20,7.0,,,,,,
+2018,,,,,,,Mar 01,28,5.4,Apr 01,30,6.2,,,,,,
+2019,,,,,,,Mar 01,32,5.8,Apr 01,24,6.0,,,,,,
+2020,,,,,,,Feb 27,28,5.3,Mar 31,30,8.0,,,,,,
+2021,,,,,,,Mar 01,24,5.0,Mar 29,26,5.8,,,,,,

@@ -1,0 +1,116 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER FCV: Frenchman Cove, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Frenchman Cove (FCV) 
+# California  SNOW COURSE/AERIAL MARKER Site - 5800 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:15:39 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1963,,,,Feb 01,,0.0,Mar 01,,0.0,Apr 01,,0.0,May 01,,0.0,,,
+1964,Jan 02,,0.0,Feb 08,,4.5,Mar 04,,4.6,Apr 04,,0.0,Apr 28,,0.0,,,
+1965,Jan 06,,10.5,Jan 28,,11.9,Feb 26,,10.8,Apr 01,,4.4,Apr 29,,0.0,,,
+1966,Jan 06,,8.5,Jan 31,,7.8,Mar 01,,8.4,Mar 31,,0.0,May 03,,0.0,,,
+1967,Dec 29,,3.0,Feb 06,,11.0,Mar 02,,9.4,Mar 27,,9.7,May 03,,8.2,May 29,,0.0
+1968,Dec 29,,5.0,Feb 05,,9.1,Feb 26,,3.4,Mar 27,,0.0,May 03,,0.0,,,
+1969,Dec 26,,5.6,Jan 30,,10.9,Feb 28,,17.4,Mar 27,,15.8,Apr 28,,0.0,May 29,,0.0
+1970,Dec 31,,1.3,Jan 28,,0.8,Feb 27,,0.8,Mar 30,,0.0,May 01,,0.0,,,
+1971,Dec 31,,9.3,Jan 29,,10.2,Feb 24,,7.8,Apr 02,,2.2,Apr 30,,0.0,,,
+1972,Dec 29,,5.2,Jan 31,,6.6,Feb 28,,4.9,Apr 03,,0.0,May 01,,0.0,,,
+1973,Dec 26,,0.8,Jan 31,,3.6,Feb 26,,6.2,Mar 30,,2.6,May 01,,0.0,,,
+1974,Jan 03,,1.7,Jan 28,,0.0,Mar 04,,3.2,Mar 26,,0.0,May 03,,0.0,,,
+1975,Jan 06,,1.4,Feb 04,,5.8,Feb 25,,9.0,Mar 25,,12.4,Apr 30,,4.8,May 22,,0.0
+1976,Dec 30,,0.0,Jan 28,,0.0,Feb 24,,0.4,Mar 29,,0.0,Apr 29,,0.0,,,
+1977,Dec 28,,0.0,Jan 27,,1.6,Feb 25,,1.4,Mar 28,,0.0,Apr 27,,0.0,,,
+1978,Dec 27,,2.2,Jan 26,,8.8,Feb 27,,9.8,Mar 28,,0.0,Apr 26,,0.0,,,
+1979,Dec 27,,0.5,Jan 25,,1.3,Feb 28,,3.5,Mar 28,,0.5,Apr 25,,0.0,,,
+1980,Dec 27,,3.0,Jan 28,,0.4,Feb 25,,1.5,Mar 26,,0.0,Apr 28,,0.0,,,
+1981,Dec 30,,0.0,Jan 29,,3.3,Feb 24,,0.2,Mar 27,,0.0,Apr 28,,0.0,,,
+1982,Dec 28,,0.0,Jan 30,,3.8,Feb 23,,0.0,Mar 26,,0.0,Apr 27,,0.0,,,
+1983,Dec 31,,6.3,Jan 28,,9.9,Feb 23,,12.2,Mar 28,,13.1,Apr 25,,2.8,May 25,,0.0
+1984,Dec 28,,1.2,Jan 26,,0.0,Feb 22,,2.2,Mar 28,,0.0,Apr 26,,0.0,,,
+1985,Dec 28,,2.7,Jan 27,,3.1,Feb 24,,4.7,Mar 27,,2.4,Apr 28,,0.0,,,
+1986,Dec 31,,1.6,Jan 27,,0.3,Feb 27,,1.1,Mar 30,,0.0,Apr 28,,0.0,,,
+1987,Dec 30,,0.0,Jan 28,,1.2,Feb 27,,0.8,Mar 30,,0.0,Apr 27,,0.0,,,
+1988,Dec 27,,1.1,Jan 26,,4.4,Feb 24,,3.0,Mar 29,,0.0,Apr 25,,0.0,,,
+1989,Dec 31,,2.6,Jan 31,,5.0,Feb 22,,6.2,Mar 28,,0.0,Apr 26,,0.0,,,
+1990,Dec 29,,1.4,Jan 26,,1.2,Feb 26,,4.8,Mar 27,,0.0,Apr 27,,0.0,,,
+1991,Jan 02,,1.3,Jan 29,,0.1,Feb 25,,0.0,Mar 25,,1.6,Apr 25,,0.0,,,
+1992,Dec 30,,1.3,Jan 27,,0.8,Feb 24,,0.4,Mar 30,,0.0,Apr 27,,0.0,,,
+1993,Jan 01,,8.8,Jan 25,,12.5,Feb 23,,18.3,Mar 26,,6.6,Apr 28,,0.0,,,
+1994,Dec 27,,1.2,Jan 25,,0.0,Feb 25,,2.6,Mar 28,,0.0,Apr 26,,0.0,,,
+1995,Dec 27,,4.3,Jan 25,,8.4,Feb 22,,5.6,Mar 27,,3.5,Apr 26,,0.0,,,
+1996,Dec 26,,0.8,Jan 24,,3.3,Feb 23,,4.3,Mar 27,,2.2,Apr 26,,0.0,,,
+1997,Dec 27,,3.6,Jan 28,,4.5,Feb 25,,2.7,Mar 25,,0.0,Apr 24,,0.0,,,
+1998,Dec 26,,1.8,Jan 28,,1.2,Feb 23,,7.9,Mar 25,,0.6,Apr 27,,0.0,,,
+1999,Dec 28,,0.1,Jan 26,,3.0,Feb 22,,8.6,Mar 26,,3.1,Apr 26,,0.0,,,
+2000,Dec 28,,0.1,Jan 26,,4.2,Feb 23,,5.6,Mar 27,,0.1,Apr 24,,0.0,,,
+2001,Dec 26,,0.6,Jan 26,,2.0,Feb 22,,1.9,Mar 27,,0.0,Apr 25,,0.0,,,
+2002,Dec 27,,4.9,Jan 28,,5.5,Feb 22,,5.1,Mar 27,,0.0,Apr 29,,0.0,,,
+2003,Dec 27,,5.1,Jan 27,,4.3,Feb 26,,2.4,Mar 24,,0.0,Apr 24,,0.0,,,
+2004,Dec 29,,2.1,Jan 28,,5.4,Feb 26,,7.4,Mar 30,,0.0,Apr 28,,0.0,,,
+2005,Dec 28,,2.3,Jan 25,,7.2,Feb 22,,7.6,Mar 28,,1.4,May 02,,0.0,,,
+2006,,,,Jan 26,,3.0,Feb 27,,0.0,Mar 29,,1.3,Apr 26,,0.0,,,
+2007,Dec 27,,0.5,Jan 29,,0.0,Feb 26,,3.8,Mar 26,,0.0,Apr 24,,0.0,,,
+2008,Dec 29,,1.1,Feb 01,,6.8,Feb 26,,9.5,Apr 01,,0.0,Apr 24,,0.0,,,
+2009,Jan 02,,2.1,Jan 29,,1.3,Feb 23,,1.3,Mar 25,,0.0,Apr 30,,0.0,,,
+2010,,,,Feb 03,,4.8,Feb 24,,4.2,Mar 30,,0.4,Apr 27,,0.0,,,
+2011,Dec 29,,3.2,Feb 02,,1.4,,,,Mar 31,,6.5,Apr 29,,0.0,,,
+2012,Dec 26,,0.0,Jan 31,,0.0,Feb 28,,0.3,Mar 26,,0.0,Apr 24,,0.0,,,
+2013,Dec 29,,3.7,Jan 31,,4.0,Feb 28,,0.7,Mar 27,,0.0,May 02,,0.0,,,
+2014,Dec 30,,0.0,Jan 30,,0.0,Feb 25,,0.0,Mar 26,,0.0,Apr 28,,0.0,,,
+2015,Dec 31,,0.0,Jan 29,,0.0,Feb 23,,0.0,Mar 26,,0.0,Apr 29,,0.0,,,
+2016,,,,Feb 02,,1.5,Mar 01,,0.0,Mar 31,,0.0,Apr 25,,0.0,,,
+2017,Dec 28,,0.0,Jan 30,,9.0,Feb 26,,9.5,Mar 28,,2.0,Apr 24,,0.0,,,
+2018,Dec 26,,0.0,Jan 29,,1.5,Feb 22,,0.5,Mar 26,,3.5,Apr 24,,0.0,,,
+2019,Dec 28,,0.0,Jan 25,,4.5,Feb 22,,10.5,Mar 25,,10.0,Apr 26,,0.0,,,
+2020,Dec 27,,0.0,Jan 27,,0.0,Feb 26,,0.0,Mar 25,,1.5,Apr 24,,0.0,,,
+2021,Dec 26,,1.0,Jan 28,,4.0,Feb 23,,2.0,Mar 29,,0.0,,,,,,

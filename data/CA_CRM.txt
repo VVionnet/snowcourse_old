@@ -1,0 +1,93 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER CRM: Corral Meadow, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Corral Meadow (CRM) 
+# California  SNOW COURSE/AERIAL MARKER Site - 6650 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:15:12 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1986,,,,Jan 29,,13.0,,,,Mar 25,,26.4,,,,,,
+1987,,,,Jan 29,,6.3,,,,Mar 29,,15.6,,,,,,
+1988,,,,Jan 25,,14.7,,,,Mar 29,,0.0,,,,,,
+1989,,,,Feb 02,,16.0,,,,Mar 30,,14.0,,,,,,
+1990,,,,Jan 29,,7.5,,,,Mar 27,,10.0,,,,,,
+1991,,,,Feb 01,,3.6,,,,Apr 01,,20.8,,,,,,
+1992,,,,Jan 27,,8.4,,,,Mar 26,,16.1,,,,,,
+1993,,,,Jan 28,,34.3,,,,Mar 30,,35.4,,,,,,
+1994,,,,Jan 28,,9.5,,,,Apr 01,,9.8,,,,,,
+1995,,,,Feb 02,,31.2,,,,Mar 29,,33.9,,,,,,
+1996,,,,Feb 02,,18.0,,,,Mar 29,,22.0,,,,,,
+1997,,,,Jan 30,,22.0,,,,Mar 26,,6.2,,,,,,
+1998,,,,Jan 30,,18.0,,,,Mar 26,,37.0,,,,,,
+1999,,,,Jan 29,,14.6,,,,Apr 02,,23.8,,,,,,
+2000,,,,Jan 28,,7.2,,,,Mar 31,,17.4,,,,,,
+2001,,,,Feb 01,,9.5,,,,Apr 02,,12.2,,,,,,
+2002,,,,Jan 31,,19.0,,,,Apr 01,,15.7,,,,,,
+2003,,,,Jan 29,,17.1,,,,Mar 28,,10.8,,,,,,
+2004,,,,Jan 28,,21.7,,,,Mar 26,,22.0,,,,,,
+2005,,,,Jan 27,,31.0,,,,Mar 31,,38.2,,,,,,
+2006,,,,Jan 27,,13.0,,,,Mar 30,,25.2,,,,,,
+2007,,,,Feb 02,,7.3,,,,Mar 29,,7.2,,,,,,
+2008,,,,Jan 31,,21.0,,,,Mar 25,,24.6,,,,,,
+2009,,,,Jan 30,,10.1,,,,Apr 02,,13.5,,,,,,
+2010,,,,Jan 30,,19.8,,,,Apr 02,,26.6,,,,,,
+2011,,,,Jan 27,,18.5,,,,Apr 01,,25.4,,,,,,
+2012,,,,Jan 29,,3.0,,,,Apr 03,,8.6,,,,,,
+2013,,,,Jan 28,,6.4,,,,Mar 29,,0.0,,,,,,
+2014,,,,Jan 29,,0.0,,,,Mar 28,,2.0,,,,,,
+2015,,,,Jan 26,,2.5,,,,Mar 30,,0.0,,,,,,
+2016,,,,Jan 26,,21.0,,,,Mar 30,,11.0,,,,,,
+2017,,,,Jan 30,,22.5,,,,Apr 04,,18.5,,,,,,
+2018,,,,Jan 29,,1.5,,,,Mar 27,,9.5,,,,,,
+2019,,,,Jan 30,,21.0,,,,Apr 01,,43.0,,,,,,
+2020,,,,Jan 28,,15.0,,,,,,,,,,,,
+2021,,,,Feb 08,,18.0,,,,Mar 31,,17.5,,,,,,

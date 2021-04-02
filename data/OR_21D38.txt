@@ -1,0 +1,95 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21D38: High Prairie, OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# High Prairie (21D38) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 6080 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:23:20 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1984,Jan 05,66,26.1,Jan 30,67,26.8,Feb 28,92,36.4,Mar 29,109,43.6,Apr 27,107,47.9,,,
+1985,Jan 03,110,38.9,Jan 29,95,40.0,Feb 28,115,50.1,Apr 01,130,56.4,,,,,,
+1986,Dec 26,45,15.9,Jan 27,75,28.0,Feb 26,105,42.4,Mar 25,97,43.9,,,,,,
+1987,Dec 29,45,14.1,Jan 29,82,26.1,Feb 24,100,35.4,Mar 31,102,42.9,,,,,,
+1988,Dec 28,41,13.5,Jan 26,67,24.9,Feb 23,72,28.5,Mar 29,104,38.8,,,,,,
+1989,Dec 28,72,23.3,Jan 25,102,39.3,Feb 23,122,47.9,Mar 29,141,57.3,,,,,,
+1990,Dec 27,6,2.1,Mar 01,,23.4,Feb 23,101,36.9,Mar 26,92,40.0,,,,,,
+1991,Dec 31,43,14.0,Jan 25,51,19.0,Feb 26,54,22.7,Mar 25,89,32.1,,,,,,
+1992,Dec 30,36,12.1,Jan 28,56,19.0,Feb 25,69,26.9,Mar 26,57,25.3,,,,,,
+1993,Dec 29,70,20.0,Jan 29,88,33.4,Feb 24,93,34.4,Mar 31,90,39.4,,,,,,
+1994,Dec 28,36,11.8,Jan 31,53,20.5,Feb 24,113,33.6,Mar 29,89,37.9,,,,,,
+1995,Dec 28,59,22.2,Jan 30,93,35.4,Feb 27,87,37.5,Mar 28,106,45.0,,,,,,
+1996,Dec 28,24,7.8,Jan 29,102,27.6,Feb 29,113,33.3,Mar 28,87,35.4,,,,,,
+1997,Dec 27,113,37.8,Feb 01,106,46.1,Feb 25,122,51.4,Mar 27,134,60.1,,,,,,
+1998,Dec 30,30,9.7,Jan 29,90,30.3,Feb 26,120,43.4,Mar 26,103,44.1,,,,,,
+1999,Dec 30,98,37.8,Jan 27,127,47.7,Feb 26,192,76.0,Mar 30,192,82.7,,,,,,
+2000,Dec 28,42,15.8,Jan 28,100,34.3,Feb 25,108,44.3,Mar 30,114,50.1,,,,,,
+2001,Dec 28,45,12.7,Jan 30,54,17.1,Feb 27,57,19.6,Mar 28,56,21.8,,,,,,
+2002,Dec 31,82,29.8,Jan 29,126,43.1,Feb 25,118,50.8,Mar 27,139,61.0,,,,,,
+2003,Dec 30,56,13.9,Jan 31,45,18.6,Feb 28,63,24.1,Mar 27,109,39.6,,,,,,
+2004,Dec 31,79,22.3,Jan 27,84,29.7,Feb 27,107,40.1,Mar 30,99,41.6,,,,,,
+2005,Dec 29,25,7.8,Jan 27,22,8.1,Feb 28,34,11.4,Mar 29,56,16.7,,,,,,
+2006,Dec 28,62,17.0,Jan 30,124,40.9,Feb 24,128,51.6,Mar 29,148,62.9,,,,,,
+2007,Dec 28,70,23.3,Jan 30,79,30.7,,,,Mar 30,77,34.0,,,,,,
+2008,Dec 28,71,18.8,Feb 04,132,43.4,Mar 03,121,50.0,Apr 02,140,60.5,,,,,,
+2009,Dec 30,64,17.1,Jan 29,75,30.0,Mar 03,82,29.9,,,,,,,,,
+2010,,,,Jan 27,75,25.1,Feb 24,89,32.6,Mar 31,105,40.1,,,,,,
+2011,,,19.1,,,21.1,,,27.7,,,34.1,,,,,,
+2012,Dec 29,29,10.4,Jan 27,89,29.0,Feb 27,102,36.9,Mar 29,140,52.7,,,,,,
+2013,,,,,,,Feb 27,84,30.9,Mar 28,85,34.9,,,,,,
+2014,,,,,,,Feb 28,77,27.1,Mar 31,99,35.3,,,,,,
+2015,,,,Jan 28,27,9.4,Feb 27,34,11.1,Mar 27,24,9.4,,,,,,
+2016,Dec 30,71,21.1,Jan 29,83,29.9,Feb 26,87,39.4,Apr 02,102,43.4,,,,,,
+2017,,,,Jan 30,74,27.1,,,,Apr 03,106,45.6,,,,,,
+2018,Jan 02,19,5.9,Feb 03,47,15.0,Feb 28,79,22.1,Mar 29,79,27.9,,,,,,
+2019,Dec 31,48,13.4,Jan 30,61,21.3,Mar 01,112,32.4,,,,,,,,,
+2020,Dec 30,31,9.6,,,,Feb 27,89,34.3,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

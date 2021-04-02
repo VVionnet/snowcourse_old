@@ -1,0 +1,100 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 49L07: Resurrection Pass, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Resurrection Pass (49L07) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 2250 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:11:40 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1979,Dec 28,34,6.2,Jan 30,35,5.9,Feb 25,32,9.4,Mar 30,44,13.0,,,,,,
+1980,Dec 30,38,8.0,,,,Feb 26,64,19.4,Mar 29,61,22.8,,,,,,
+1981,Dec 30,12,1.7,,,,Feb 26,36,11.2,Mar 30,39,14.0,Apr 30,31,11.8,,,
+1982,,,,Jan 28,29,8.8,Mar 02,23,7.8,Mar 29,29,8.4,May 04,25,9.0,,,
+1983,,,,Mar 01,32,8.8,Feb 27,36,10.5,Mar 27,33,9.9,,,,,,
+1984,,,,Mar 01,30,6.4,Feb 28,34,8.6,Apr 03,31,10.0,,,,,,
+1985,,,,,,,May 01,29,6.5,Apr 02,39,10.8,,,,,,
+1986,,,,,,,May 01,49,10.1,Apr 01,37,10.3,,,,,,
+1987,,,,,,,Feb 15,33,9.2,Apr 01,35,11.5,,,,,,
+1988,,,,,,,May 01,46,14.5,Jul 01,50,17.5,May 03,44,16.5,,,
+1989,,,,,,,Feb 19,29,7.0,Jul 01,29,7.5,,,,,,
+1990,,,,,,,May 01,38,10.3,Jul 01,36,12.8,,,,,,
+1991,,,,,,,May 01,32,7.8,Mar 30,38,10.0,,,,,,
+1992,,,,,,,May 01,44,11.5,Mar 28,46,14.3,,,,,,
+1993,,,,,,,May 01,43,12.7,Mar 28,43,13.1,,,,,,
+1994,,,,Mar 01,24,7.2,May 01,32,8.2,Jul 01,31,9.5,Sep 01,4,1.5,,,
+1995,,,,,,,May 01,37,11.2,Apr 01,43,12.0,,,,,,
+1996,,,,,,,May 01,25,4.2,Jul 01,20,5.2,,,,,,
+1997,,,,,,,May 01,36,7.8,Mar 30,35,8.8,,,,,,
+1998,,,,,,,May 01,32,10.2,Jul 01,32,10.4,,,,,,
+1999,,,,,,,May 01,35,7.5,Mar 27,38,9.5,,,,,,
+2000,,,,,,,May 01,40,10.2,Apr 03,43,12.2,,,,,,
+2001,,,,,,,May 01,52,15.4,Jul 01,52,17.9,,,,,,
+2002,,,,,,,May 01,42,11.7,Mar 25,42,12.2,,,,,,
+2003,,,,,,,May 01,26,5.5,Mar 30,26,6.5,,,,,,
+2004,,,,,,,,,,Apr 10,31,11.8,,,,,,
+2005,,,,,,,,,,Apr 01,41,10.7,,,,,,
+2006,,,,,,,,,,Apr 01,37,10.0,,,,,,
+2007,,,,,,,,,,Mar 31,36,10.2,,,,,,
+2008,,,,,,,,,,Mar 28,43,12.7,,,,,,
+2009,,,,,,,,,,Jul 01,38,9.0,,,,,,
+2010,,,,,,,,,,Mar 27,38,10.4,,,,,,
+2011,,,,,,,,,,Mar 25,36,8.6,,,,,,
+2012,,,,,,,,,,Mar 30,53,18.0,,,,,,
+2013,,,,,,,,,,Apr 03,39,10.3,,,,,,
+2014,,,,,,,,,,,,,,,,,,
+2015,,,,,,,,,,Apr 03,19,5.5,,,,,,
+2016,,,,,,,,,,Mar 29,43,14.0,,,,,,
+2017,,,,,,,,,,Apr 01,32,7.4,,,,,,
+2018,,,,,,,,,,Mar 31,36,8.7,,,,,,
+2019,,,,,,,,,,Mar 29,27,7.9,,,,,,
+2020,,,,,,,,,,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

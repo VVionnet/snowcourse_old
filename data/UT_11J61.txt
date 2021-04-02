@@ -1,0 +1,95 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11J61: Alta Central, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Alta Central (11J61) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 8800 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:23:56 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1984,Jan 01,109,41.1,Feb 01,104,43.3,Mar 01,115,46.9,Apr 01,133,54.1,May 01,151,65.3,Jun 01,54,24.3
+1985,Jan 01,72,23.2,Feb 01,73,25.2,Mar 01,87,32.1,Apr 01,112,45.1,May 01,60,30.1,Jun 01,2,0.9
+1986,Jan 01,62,18.5,Feb 01,74,23.4,Mar 01,81,33.0,Apr 01,79,36.8,May 01,84,42.6,Jun 01,46,25.6
+1987,Jan 01,25,7.0,Feb 01,53,16.5,Mar 01,71,20.8,Apr 01,77,28.0,May 01,26,11.3,Jun 01,0,0.0
+1988,Jan 01,45,9.7,Feb 01,56,16.1,,,,,,,,,,,,
+1989,Jan 01,70,20.3,Jan 31,66,26.5,Mar 02,81,31.0,Mar 27,88,36.3,May 01,68,28.5,May 31,0,0.0
+1990,Jan 03,42,13.4,Feb 01,72,21.5,Mar 01,75,27.9,Mar 30,77,31.9,May 01,52,23.6,May 31,0,0.0
+1991,Jan 02,48,13.6,Jan 31,69,21.6,Feb 26,73,24.2,Mar 28,96,33.4,Apr 29,118,39.5,,,
+1992,Dec 30,48,16.3,Jan 27,51,18.4,Mar 03,66,23.8,Mar 31,64,26.1,Apr 30,22,10.8,,,
+1993,Dec 29,55,16.8,Feb 01,88,30.6,Feb 26,113,37.2,Mar 30,106,42.8,Apr 28,106,48.4,,,
+1994,Jan 03,27,7.8,Feb 02,49,15.4,Mar 01,80,27.2,Apr 01,69,27.4,Apr 29,61,23.7,May 31,0,0.0
+1995,Dec 28,53,17.3,Jan 31,88,34.7,Mar 01,92,35.8,Mar 30,117,47.2,Apr 28,108,48.4,May 31,101,47.7
+1996,Jan 02,55,14.9,Jan 29,99,25.6,Feb 27,126,39.0,Mar 28,111,42.9,May 02,102,46.2,May 30,37,20.3
+1997,Dec 27,81,23.6,Jan 28,111,37.9,Mar 03,129,44.4,Apr 01,103,42.1,May 02,109,46.7,May 28,40,19.8
+1998,Jan 02,38,11.2,Jan 28,80,24.3,Feb 26,130,36.1,Apr 02,106,41.9,Apr 28,93,41.7,Jun 02,34,17.4
+1999,Dec 30,32,10.8,Jan 28,73,19.4,Mar 03,76,25.3,Apr 01,77,26.9,Apr 28,81,33.5,Jun 02,37,16.5
+2000,Dec 28,36,9.8,Jan 28,65,19.6,Mar 02,89,27.9,Mar 30,94,33.4,May 01,54,24.4,Jun 01,0,0.0
+2001,Dec 29,44,14.0,Jan 31,58,16.7,Feb 27,72,21.8,Mar 28,59,23.4,May 02,51,22.0,May 31,0,0.0
+2002,Jan 02,55,19.0,Jan 29,82,24.1,Feb 26,81,29.4,Apr 03,88,37.8,May 02,66,33.2,May 30,8,4.7
+2003,Jan 02,43,10.4,Jan 31,47,14.1,Feb 28,55,19.0,Apr 01,71,27.2,May 02,58,24.3,,,
+2004,Dec 31,80,20.0,Jan 29,76,25.4,Mar 02,104,33.1,Mar 30,76,34.0,Apr 27,56,28.6,May 27,1,0.3
+2005,Dec 28,63,20.2,Feb 01,92,32.5,Mar 01,107,37.4,Apr 01,145,48.6,Apr 27,106,45.8,Jun 01,58,28.5
+2006,Dec 29,69,19.4,Feb 01,111,34.8,Mar 01,111,45.3,Mar 31,136,56.3,Apr 28,118,53.8,Jun 01,36,18.3
+2007,Dec 29,42,11.5,Feb 01,49,12.2,Mar 01,90,22.3,Mar 30,66,23.7,Apr 26,48,20.9,,,
+2008,Dec 28,44,9.5,Jan 31,100,26.5,Feb 28,107,37.0,Mar 26,106,39.5,Apr 29,101,43.2,May 30,56,28.2
+2009,Dec 31,58,15.7,Jan 29,93,26.4,Feb 26,89,30.7,Mar 31,117,37.7,Apr 30,101,45.0,May 29,24,11.6
+2010,Dec 29,30,7.2,Jan 29,68,17.2,Feb 25,85,23.1,Mar 30,74,27.4,Apr 27,79,32.5,May 28,71,31.4
+2011,,78,21.6,Jan 27,92,32.3,Feb 25,108,37.5,Mar 31,133,50.6,Apr 28,150,65.4,May 26,131,65.1
+2012,Dec 29,26,6.2,Jan 26,55,14.3,Feb 27,71,21.8,Mar 30,67,26.5,Apr 25,50,21.2,,,
+2013,Jan 03,51,14.4,Feb 01,71,19.2,Feb 28,78,23.7,Mar 28,73,27.0,Apr 26,80,31.3,,,
+2014,Dec 26,41,9.8,Jan 28,47,13.7,Feb 26,75,23.6,Mar 28,94,30.6,Apr 29,81,28.9,May 28,17,7.3
+2015,Dec 30,74,15.8,Jan 29,56,18.9,Feb 25,60,25.7,Mar 25,57,21.4,Apr 29,31,14.9,,,
+2016,Dec 29,50,11.4,Jan 26,72,18.8,Feb 26,71,25.3,Mar 30,85,29.5,Apr 27,69,26.1,Jun 01,5,2.7
+2017,Dec 28,56,15.6,Jan 27,101,27.7,Mar 01,114,37.9,Mar 30,88,37.7,Apr 26,98,39.7,May 31,18,9.1
+2018,Dec 26,30,6.9,Jan 26,54,11.6,Feb 27,64,18.0,Mar 29,67,25.5,Apr 27,53,24.3,Jun 05,0,0.0
+2019,Dec 27,44,10.4,Jan 31,69,20.5,Feb 26,95,33.6,Apr 02,105,40.6,May 01,94,41.0,May 30,67,33.7
+2020,,,,Jan 28,94,26.8,Mar 03,102,38.2,Mar 27,107,39.8,Apr 28,88,39.6,May 28,22,11.9
+2021,,,,,,,Feb 26,88,25.9,Mar 31,75,30.8,,,,,,

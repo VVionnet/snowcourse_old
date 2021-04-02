@@ -1,0 +1,140 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER MCP: Mcelroy Pass, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Mcelroy Pass (MCP) 
+# California  SNOW COURSE/AERIAL MARKER Site - 5300 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:16:18 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1939,,,,,,,,,,Apr 01,,0.0,,,,,,
+1940,,,,,,,,,,Apr 01,,0.0,,,,,,
+1941,,,,,,,,,,Mar 31,,0.0,,,,,,
+1942,,,,,,,,,,Mar 31,,2.8,,,,,,
+1943,,,,,,,,,,Apr 01,,0.5,,,,,,
+1944,,,,,,,,,,Apr 01,,5.1,,,,,,
+1945,,,,,,,,,,Mar 31,,2.8,,,,,,
+1946,,,,,,,,,,Apr 01,,2.4,,,,,,
+1947,,,,,,,Feb 27,,0.0,Apr 01,,0.0,,,,,,
+1948,,,,,,,,,,Mar 31,,3.4,,,,,,
+1949,,,,,,,,,,Apr 01,,5.4,,,,,,
+1950,,,,,,,,,,Mar 31,,3.7,,,,,,
+1951,,,,,,,,,,Mar 30,,1.6,,,,,,
+1952,,,,,,,,,,Mar 30,,18.0,,,,,,
+1953,,,,,,,,,,,,,,,,,,
+1954,,,,,,,,,,Mar 29,,0.0,,,,,,
+1955,,,,,,,,,,Apr 04,,0.0,,,,,,
+1956,,,,,,,,,,Mar 30,,4.0,,,,,,
+1957,,,,,,,,,,Mar 28,,0.0,,,,,,
+1958,,,,,,,,,,,,,,,,,,
+1959,,,,,,,,,,Apr 02,,0.0,,,,,,
+1960,,,,,,,,,,Apr 04,,0.0,,,,,,
+1961,,,,,,,,,,Mar 31,,0.7,,,,,,
+1962,,,,,,,,,,Apr 03,,2.4,,,,,,
+1963,,,,,,,,,,Mar 26,,0.0,,,,,,
+1964,,,,,,,,,,,,,,,,,,
+1965,,,,,,,,,,Mar 31,,0.0,,,,,,
+1966,,,,,,,,,,Mar 29,,0.0,,,,,,
+1967,,,,,,,,,,Apr 04,,0.8,,,,,,
+1968,,,,,,,,,,Mar 29,,0.0,,,,,,
+1969,,,,,,,,,,Apr 03,,0.0,,,,,,
+1970,,,,,,,,,,Mar 30,,0.0,,,,,,
+1971,,,,,,,,,,Mar 30,,0.0,,,,,,
+1972,,,,,,,,,,Apr 10,,0.0,,,,,,
+1973,,,,,,,,,,Apr 02,,1.0,,,,,,
+1974,,,,,,,,,,Mar 27,,0.7,,,,,,
+1975,,,,,,,,,,Mar 26,,5.4,,,,,,
+1976,,,,,,,,,,Mar 26,,0.0,,,,,,
+1977,,,,,,,,,,Mar 29,,0.0,,,,,,
+1978,,,,,,,,,,Mar 28,,0.0,,,,,,
+1979,,,,,,,,,,Mar 26,,5.1,,,,,,
+1980,,,,,,,,,,Mar 27,,0.0,,,,,,
+1981,,,,,,,,,,Mar 25,,0.0,,,,,,
+1982,,,,,,,,,,Mar 25,,0.0,,,,,,
+1983,,,,,,,,,,,,,,,,,,
+1984,,,,,,,,,,Mar 26,,0.0,,,,,,
+1985,,,,,,,,,,Mar 27,,3.4,,,,,,
+1986,,,,,,,,,,Mar 25,,0.0,,,,,,
+1987,,,,,,,,,,Mar 30,,0.0,,,,,,
+1988,,,,,,,,,,Mar 29,,0.0,,,,,,
+1989,,,,,,,,,,Mar 30,,0.0,,,,,,
+1990,,,,,,,,,,Mar 27,,0.0,,,,,,
+1991,,,,,,,,,,Mar 28,,6.0,,,,,,
+1992,,,,,,,,,,Apr 01,,0.0,,,,,,
+1993,,,,,,,,,,Mar 30,,2.2,,,,,,
+1994,,,,,,,,,,Mar 28,,1.2,,,,,,
+1995,,,,,,,,,,Mar 30,,1.9,,,,,,
+1996,,,,,,,,,,Apr 01,,0.0,,,,,,
+1997,,,,,,,,,,Mar 31,,0.0,,,,,,
+1998,,,,,,,,,,Mar 31,,4.6,,,,,,
+1999,,,,,,,,,,Mar 29,,2.8,,,,,,
+2000,,,,,,,,,,Mar 29,,0.0,,,,,,
+2001,,,,,,,,,,Mar 30,,0.0,,,,,,
+2002,,,,,,,,,,Mar 30,,1.8,,,,,,
+2003,,,,,,,,,,Mar 27,,0.0,,,,,,
+2004,,,,Feb 01,,9.8,Mar 01,,7.3,Mar 30,,0.8,,,,,,
+2005,,,,,,,,,,Mar 29,,0.0,,,,,,
+2006,,,,,,,,,,Mar 28,,5.0,,,,,,
+2007,,,,,,,,,,Apr 02,,0.0,,,,,,
+2008,,,,,,,,,,Apr 02,,5.9,,,,,,
+2009,,,,,,,,,,Mar 31,,1.5,,,,,,
+2010,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,Mar 28,,8.0,,,,,,
+2012,,,,,,,,,,Mar 26,,0.0,,,,,,
+2013,,,,,,,,,,Mar 27,,0.0,,,,,,
+2014,,,,,,,,,,Mar 30,,0.0,,,,,,
+2015,,,,,,,,,,Mar 30,,0.0,,,,,,
+2016,,,,,,,,,,Apr 01,,0.0,,,,,,
+2017,,,,,,,,,,Mar 27,,0.0,,,,,,
+2018,,,,,,,,,,Apr 03,,0.0,,,,,,
+2019,,,,,,,,,,Apr 04,,5.0,,,,,,
+2020,,,,,,,,,,Mar 26,,3.0,,,,,,
+2021,,,,,,,,,,,,,,,,,,

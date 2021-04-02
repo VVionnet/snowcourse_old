@@ -1,0 +1,119 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER TMK: Tamarack Creek, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Tamarack Creek (TMK) 
+# California  SNOW COURSE/AERIAL MARKER Site - 7250 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:17:24 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1960,,,,Jan 22,,6.0,Mar 04,,17.8,Mar 30,,12.8,May 02,,0.0,,,
+1961,,,,Jan 29,,8.8,Feb 28,,10.2,Mar 31,,12.6,May 01,,0.0,,,
+1962,,,,Jan 29,,13.2,,,,Mar 29,,41.0,May 02,,17.2,,,
+1963,,,,Feb 06,,1.4,Feb 27,,0.0,Apr 05,,5.4,Apr 29,,10.6,,,
+1964,,,,Jan 27,,10.9,Feb 25,,9.8,Apr 03,,14.3,Apr 29,,0.0,,,
+1965,,,,Jan 28,,27.7,Mar 03,,26.1,,,,May 07,,16.9,,,
+1966,,,,Jan 28,,16.5,Mar 08,,22.0,Mar 28,,15.8,May 06,,0.0,,,
+1967,,,,Jan 27,,12.7,Feb 27,,16.5,Mar 30,,24.6,May 04,,44.2,,,
+1968,,,,Jan 30,,9.6,Feb 28,,10.4,Mar 25,,11.0,Apr 29,,0.0,,,
+1969,,,,Jan 31,,40.2,Mar 06,,65.7,Mar 27,,68.4,Apr 30,,48.9,May 29,,11.6
+1970,,,,Jan 30,,12.0,Feb 27,,12.4,Apr 03,,13.1,May 04,,2.5,,,
+1971,,,,Jan 29,,23.1,Feb 26,,22.4,Mar 31,,19.4,May 05,,7.6,,,
+1972,,,,Jan 31,,22.0,Mar 01,,21.4,Mar 29,,9.6,Apr 25,,0.0,,,
+1973,,,,Feb 02,,19.0,Mar 05,,34.5,Mar 28,,42.7,Apr 30,,29.9,,,
+1974,,,,Jan 23,,19.9,Feb 22,,20.8,Mar 22,,22.7,May 03,,16.4,,,
+1975,,,,Jan 28,,12.1,Feb 26,,23.1,Mar 26,,33.7,Apr 28,,42.1,,,
+1976,,,,Jan 26,,1.7,Feb 25,,6.4,Mar 26,,7.8,Apr 26,,0.0,,,
+1977,,,,Jan 20,,3.0,Feb 22,,3.4,,,,,,,,,
+1978,,,,Jan 23,,25.8,Feb 21,,40.2,Mar 24,,50.2,Apr 24,,45.8,,,
+1979,,,,Jan 22,,15.8,Feb 23,,28.7,Mar 28,,33.5,Apr 26,,25.8,,,
+1980,,,,Jan 24,,15.0,Feb 28,,33.4,Mar 28,,39.2,Apr 29,,23.8,,,
+1981,,,,,,,Feb 27,,15.2,Mar 27,,22.5,,,,,,
+1982,,,,Feb 03,,18.6,Feb 25,,16.6,,,,,,,,,
+1983,,,,Jan 30,,34.9,,,,Apr 01,,62.2,,,,,,
+1984,,,,Jan 29,,11.0,Feb 26,,14.6,Mar 29,,8.5,,,,,,
+1985,,,,Feb 01,,13.6,Feb 24,,14.3,Mar 30,,21.1,,,,,,
+1986,,,,Jan 29,,14.8,Feb 26,,30.5,Apr 01,,29.6,Apr 30,,14.6,,,
+1987,,,,Jan 29,,5.9,Feb 25,,11.9,Apr 01,,16.1,May 04,,0.0,,,
+1988,,,,Jan 26,,13.1,Mar 02,,11.0,Mar 28,,4.2,Apr 26,,1.8,,,
+1989,,,,Jan 30,,12.6,Feb 27,,13.3,Mar 28,,14.1,May 03,,0.0,,,
+1990,,,,Feb 01,,10.4,Feb 27,,17.3,Mar 28,,13.3,,,,,,
+1991,,,,Jan 29,,5.0,Feb 25,,0.8,Apr 03,,24.6,Apr 29,,14.2,,,
+1992,,,,Jan 27,,8.2,Feb 26,,18.9,Apr 02,,18.5,,,,,,
+1993,,,,Jan 25,,33.1,Mar 03,,41.9,Mar 31,,46.3,,,,,,
+1994,,,,Feb 02,,9.1,Mar 01,,16.6,Mar 29,,13.1,,,,,,
+1995,,,,Jan 30,,35.4,Mar 06,,49.3,Mar 29,,49.3,May 02,,45.3,,,
+1996,,,,Jan 29,,12.4,Mar 04,,20.5,Mar 26,,21.7,,,,,,
+1997,,,,Jan 28,,27.6,Mar 04,,30.7,Mar 31,,21.3,,,,,,
+1998,,,,,,,Feb 26,,44.1,,,,Apr 29,,44.4,,,
+1999,,,,Feb 02,,14.3,Mar 02,,19.4,Mar 29,,18.9,,,,,,
+2000,,,,Feb 01,,8.1,Mar 03,,23.4,Mar 30,,22.2,Apr 26,,8.5,,,
+2001,,,,Jan 31,,9.6,Mar 03,,19.1,Mar 26,,21.3,,,,,,
+2002,,,,Jan 31,,15.6,Feb 27,,15.5,Mar 27,,19.0,,,,,,
+2003,,,,Jan 29,,10.9,Feb 28,,14.2,Mar 31,,9.7,,,,,,
+2004,,,,,,,,,,Mar 30,,17.2,,,,,,
+2005,,,,Feb 01,,33.6,Mar 02,,42.1,Mar 31,,49.4,,,,,,
+2006,,,,Jan 31,,17.9,Mar 01,,18.4,Mar 27,,31.7,Apr 26,,37.9,,,
+2007,,,,Jan 31,,6.6,Feb 28,,16.2,Mar 28,,13.0,,,,,,
+2008,,,,Jan 29,,22.3,Feb 25,,33.2,Mar 26,,27.5,,,,,,
+2009,,,,Jan 29,,9.7,Feb 24,,20.4,Mar 25,,21.8,,,,,,
+2010,,,,Jan 28,,22.8,Feb 23,,28.1,Mar 23,,35.9,,,,,,
+2011,,,,Jan 26,,27.3,Feb 23,,33.3,Mar 30,,52.2,,,,,,
+2012,,,,Jan 25,,5.2,Feb 23,,4.6,Mar 26,,8.2,,,,,,
+2013,,,,Jan 28,,11.8,Feb 26,,12.2,Mar 27,,7.2,,,,,,
+2014,,,,Jan 28,,0.0,Feb 25,,1.5,Apr 03,,4.0,,,,,,
+2015,,,,Jan 28,,3.5,Feb 25,,1.0,Mar 23,,0.0,,,,,,
+2016,,,,Jan 27,,17.0,Feb 23,,22.0,Mar 30,,21.5,,,,,,
+2017,,,,Jan 24,,26.0,Feb 28,,40.5,Mar 29,,38.0,,,,,,
+2018,,,,Jan 23,,0.5,Feb 20,,0.5,Mar 27,,12.0,,,,,,
+2019,,,,Jan 28,,15.5,Feb 26,,36.0,Mar 26,,43.0,,,,,,
+2020,,,,Jan 30,,10.5,Feb 27,,6.0,Mar 30,,10.5,,,,,,
+2021,,,,Feb 04,,11.0,Feb 23,,11.0,Mar 30,,2.0,,,,,,

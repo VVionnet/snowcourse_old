@@ -1,0 +1,80 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 52R02: Kanuti Chalatna, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Kanuti Chalatna (52R02) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 670 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:12:29 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1999,Jan 01,18,2.3,,,,Mar 03,18,2.9,Mar 21,20,3.6,Apr 19,8,2.0,,,
+2000,,,,Feb 01,9,2.0,Mar 01,57,2.7,Apr 05,26,6.0,Apr 28,16,2.0,,,
+2001,Jan 12,26,4.7,Feb 16,27,4.8,Mar 05,28,5.0,Apr 12,29,5.8,Apr 27,26,6.0,,,
+2002,,,,Jan 28,21,3.8,Mar 01,27,5.3,Mar 28,24,5.3,May 03,16,4.7,,,
+2003,,,,Mar 01,11,1.8,May 01,29,5.5,Mar 28,27,5.7,Apr 29,6,2.1,,,
+2004,,,,,,,Mar 01,27,5.4,Apr 01,24,5.6,Apr 29,2,0.5,,,
+2005,,,,,,,,,,Mar 31,36,9.2,Apr 28,25,8.0,,,
+2006,,,,Feb 10,24,5.0,Mar 03,30,5.6,Mar 28,34,7.0,May 01,19,6.2,,,
+2007,,,,Feb 01,17,2.2,Feb 28,16,2.2,Apr 02,15,2.6,Apr 27,0,0.0,,,
+2008,,,,Feb 01,25,3.3,Mar 02,23,3.4,Apr 06,26,4.8,May 01,21,5.6,,,
+2009,,,,Feb 04,31,6.0,Mar 02,45,7.8,Mar 29,39,8.8,Apr 29,18,5.7,,,
+2010,,,,,,,,,,,,,May 04,0,0.0,,,
+2011,,,,Feb 03,27,5.8,Feb 28,35,7.0,Mar 29,25,6.0,Apr 28,16,5.3,,,
+2012,,,,Feb 05,31,5.7,Mar 02,32,7.3,Apr 02,34,7.6,May 03,0,0.0,,,
+2013,,,,Feb 01,18,2.6,Feb 27,18,3.1,Mar 29,21,4.3,Apr 28,18,4.8,,,
+2014,,,,Jan 31,19,3.4,,,,Mar 27,30,7.6,,,,,,
+2015,,,,Jan 31,21,4.0,,,,Apr 05,22,5.3,Apr 30,0,0.0,,,
+2016,,,,Feb 01,24,4.3,,,,,,,,,,,,
+2017,,,,Jan 30,25,4.5,Mar 03,28,5.2,Apr 03,24,5.2,Apr 28,9,2.6,,,
+2018,,,,Jan 29,35,7.7,Mar 01,45,9.7,Apr 01,36,9.8,Apr 28,20,6.2,,,
+2019,,,,Jan 30,18,4.4,Feb 26,35,8.4,Apr 01,30,8.6,,,,,,
+2020,,,,,,,Feb 27,40,8.7,,,,,,,,,
+2021,,,,Jan 31,18,3.2,,,,,,,,,,,,
