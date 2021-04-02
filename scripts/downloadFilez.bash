@@ -29,7 +29,7 @@ while IFS= read -r station; do
  echo $outfile
 
  # build website
- webString="${website}${id}:${state}:${suffix}"
+ webString="${website}${id// /}:${state}:${suffix}"
 
  # download data
  wget "${webString}" -a ${dirData}/log.txt -O $outfile
