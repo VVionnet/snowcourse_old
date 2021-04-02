@@ -1,0 +1,1162 @@
+Allison Pass |14Z03 |SNOW |6496 |49.73 |-114.60 |1984 |AB
+Bow River |16X01 |SNOW |5183 |51.42 |-116.18 |1984 |AB
+Chateau Lawn |16X08 |SNOW |5709 |51.42 |-116.22 |1984 |AB
+Cuthead Lake |15X04 |SNOW |7251 |51.45 |-115.75 |1984 |AB
+Gable Mountain |15X05 |SNOW |7053 |51.63 |-115.75 |1986 |AB
+Katherine Lake |16X16 |SNOW |7808 |51.68 |-116.38 |1984 |AB
+Larch Valley |16X14 |SNOW |7316 |51.32 |-116.22 |1984 |AB
+Little Elbow Summit Pillow |14Y18 |SNOW |7300 |50.71 |-114.99 |1984|AB
+Marmot-Jasper |18W02 |SNOW |6003 |52.81 |-118.09 |1986 |AB
+McConnell Creek |16X17 |SNOW |6988 |51.68 |-115.98 |1986 |AB
+Mirror Lake |16X06 |SNOW |6660 |51.42 |-116.23 |1984 |AB
+Mist Creek |14Y07 |SNOW |5873 |50.52 |-114.83 |1984 |AB
+Mud Lake |15Y02 |SNOW |6266 |50.78 |-115.32 |1984 |AB
+Nigel Creek |17W02 |SNOW |6299 |52.19 |-117.08 |1986 |AB
+Pipestone Upper |16X02 |SNOW |5300 |51.43 |-116.17 |1984 |AB
+Ptarmigan Hut |16X09 |SNOW |7185 |51.47 |-116.10 |1984 |AB
+Sunwapta Falls |17W01 |SNOW |4593 |52.54 |-117.65 |1986 |AB
+Tent Ridge |15Y24 |SNOW |6644 |50.85 |-115.37 |1986 |AB
+Lee Creek Site Q |13Z08 |SNOW |4921 |49.06 |-113.56 |1984 |AB
+Lost Creek South Pillow |14Y20 |SNOW |7087 |50.17 |-114.71 |1986 |AB
+Skoki Lodge Pillow |16X15 |SNOW |6758 |51.54 |-116.06 |1984 |AB
+Sunshine Village Pillow |15X03 |SNOW |7316 |51.08 |-115.78 |1984 |AB
+Three Isle Lake Pillow |15Y03 |SNOW |7087 |50.63 |-115.28 |1984 |AB
+Wilkinson Summit Bush |14Y09 |SNOW |6496 |50.20 |-114.55 |1984 |AB
+Wilkinson Summit Open |14Y08 |SNOW |6496 |50.20 |-114.55 |1984 |AB
+Aniak |59M02 |SNOW |80 |61.58 |-159.58 |2013 |AK
+Bear Creek |50LL24 |SNOW |2516 |60.19 |-150.53 |2016 |AK
+Benjamin Creek |50LL21 |SNOW |3090 |60.31 |-150.27 |2016 |AK
+Bertha Creek |49L02 |SNOW |950 |60.76 |-149.24 |1970 |AK
+Bonanza Creek |48P01 |SNOW |1150 |64.74 |-148.32 |1968 |AK
+Borealis |47Q07 |SNOW |1330 |65.38 |-147.74 |1991 |AK
+Boundary |41P03 |SNOW |3500 |64.14 |-141.34 |1967 |AK
+Bridge Creek |51K01 |SNOW |1300 |59.69 |-151.47 |1972 |AK
+Browns Lake |50LL15 |SNOW |276 |60.47 |-150.73 |2018 |AK
+Bullfrog |59O04 |SNOW |100 |63.81 |-159.17 |2016 |AK
+Caribou Creek |47Q03 |SNOW |1250 |65.16 |-147.59 |1970 |AK
+Caribou Mine |45P02 |SNOW |1150 |64.68 |-145.72 |1965 |AK
+Cathedral Creek |42Q02 |SNOW |1800 |65.17 |-141.14 |2002 |AK
+Chisana |42N01 |SNOW |3320 |62.07 |-142.05 |1993 |AK
+Chokosna |43M01 |SNOW |1550 |61.46 |-143.83 |1993 |AK
+Cleary Summit |47Q01 |SNOW |2230 |65.05 |-147.43 |1960 |AK
+Cloverleaf |57Q02 |SNOW |170 |65.46 |-157.06 |2005 |AK
+Coldfoot |50S01 |SNOW |1040 |67.25 |-150.18 |1970 |AK
+Colorado Creek |46P04 |SNOW |700 |64.90 |-146.62 |1966 |AK
+Congahbuna Lake |51M03 |SNOW |550 |61.08 |-151.44 |1982 |AK
+Copper Creek |43P01 |SNOW |2000 |64.87 |-143.40 |2002 |AK
+Cropley Lake |34J02 |SNOW |1650 |58.27 |-134.53 |1977 |AK
+Cytex Pass |51KK17 |SNOW |1860 |59.97 |-151.01 |2016 |AK
+Deer Creek |55P01 |SNOW |195 |64.83 |-155.11 |2006 |AK
+Demonstration Forest |51K03 |SNOW |780 |59.66 |-151.65 |1976 |AK
+Eagle Crest |34J03 |SNOW |1200 |58.28 |-134.53 |1977 |AK
+Eagle Lake |51K06 |SNOW |1400 |59.83 |-151.13 |1981 |AK
+Exit Glacier |49L18 |SNOW |400 |60.19 |-149.62 |1989 |AK
+Faith Creek |46Q06 |SNOW |1750 |65.30 |-146.36 |1989 |AK
+Fish Creek |34J04 |SNOW |500 |58.31 |-134.56 |1977 |AK
+Fishtrap Lake |54L02 |SNOW |1800 |60.49 |-154.33 |1992 |AK
+Fort Greely |45O05 |SNOW |1500 |63.94 |-145.77 |1967 |AK
+Fort Yukon |45R01 |SNOW |430 |66.58 |-145.20 |1964 |AK
+Fossil |47Q10 |SNOW |1400 |65.46 |-147.61 |1992 |AK
+Fox River Bench |50KK09 |SNOW |1214 |59.92 |-150.76 |2016 |AK
+French Creek |46P02 |SNOW |1800 |64.58 |-146.76 |1962 |AK
+Gerstle River |44O02 |SNOW |1200 |63.90 |-144.92 |1984 |AK
+Granite Point |51M02 |SNOW |250 |61.02 |-151.45 |1982 |AK
+Jatahmund Lake |41N01 |SNOW |2180 |62.62 |-141.97 |1993 |AK
+Jean Lake |50L01 |SNOW |620 |60.52 |-150.18 |1970 |AK
+Jr Slough |57Q01 |SNOW |160 |65.05 |-157.30 |2005 |AK
+Kaldoyeit |51R02 |SNOW |750 |66.54 |-151.28 |1999 |AK
+Kantishna |50O01 |SNOW |1550 |63.54 |-150.99 |1995 |AK
+Kenai Summit |49L03 |SNOW |1390 |60.67 |-149.48 |1970 |AK
+Kincaid Park |50M04 |SNOW |250 |61.16 |-150.04 |1992 |AK
+Lone Ridge |51M07 |SNOW |1675 |61.24 |-151.47 |1983 |AK
+Mcgrath |55N01 |SNOW |340 |62.95 |-155.61 |1980 |AK
+Minnkokut |51R03 |SNOW |580 |66.58 |-151.64 |1999 |AK
+Monument Creek |45Q02 |SNOW |1850 |65.08 |-145.87 |1973 |AK
+Moose Pass |49L04 |SNOW |700 |60.52 |-149.49 |1970 |AK
+Mosquito Lake |50LL12 |SNOW |279 |60.64 |-150.83 |2016 |AK
+Mount Ripinsky |35K05 |SNOW |2540 |59.26 |-135.49 |2017 |AK
+Mt. Fairplay |42O01 |SNOW |3100 |63.71 |-142.27 |1970 |AK
+Mt. Ryan |46Q01 |SNOW |2800 |65.25 |-146.15 |1962 |AK
+Munson Ridge |46P01 |SNOW |3100 |64.85 |-146.21 |1962 |AK
+Mystery Bowl |50LL14 |SNOW |2765 |60.60 |-150.11 |2016 |AK
+Nikolai Creek |50LL25 |SNOW |853 |60.08 |-150.95 |2016 |AK
+Nolitna |52R03 |SNOW |560 |66.25 |-152.37 |1999 |AK
+Notch |41M01 |SNOW |2643 |61.01 |-141.53 |2006 |AK
+Nuka Glacier |50K06 |SNOW |1250 |59.70 |-150.71 |1991 |AK
+Paradise Hill |41N02 |SNOW |2200 |62.80 |-141.29 |1993 |AK
+Pargon Creek |63P02 |SNOW |100 |64.99 |-163.10 |2001 |AK
+Pass Creek |49L05 |SNOW |1200 |60.77 |-149.69 |1979 |AK
+Paxson |45O11 |SNOW |2650 |63.02 |-145.49 |1982 |AK
+Pepper Lake |50LL08 |SNOW |213 |60.86 |-150.43 |2016 |AK
+Port Alsworth |54L01 |SNOW |270 |60.19 |-154.33 |1992 |AK
+Portage Valley |48L04 |SNOW |50 |60.78 |-148.87 |1981 |AK
+Purkeypile Mine |52N01 |SNOW |2025 |62.94 |-152.26 |1980 |AK
+Rainbow Falls |33H05 |SNOW |500 |56.42 |-132.33 |2010 |AK
+Resurrection Pass |49L07 |SNOW |2250 |60.68 |-149.75 |1979 |AK
+Rocky Point |63P01 |SNOW |250 |64.55 |-163.48 |2002 |AK
+Seven Mile |49Q01 |SNOW |600 |65.93 |-149.86 |1971 |AK
+Shaw Creek Flats |45P01 |SNOW |980 |64.20 |-145.93 |1960 |AK
+Skilak Lake |50LL16 |SNOW |266 |60.39 |-150.42 |2016 |AK
+Snug Harbor Road |49L11 |SNOW |500 |60.41 |-149.68 |1982 |AK
+Speel River |33J03 |SNOW |280 |58.16 |-133.72 |1965 |AK
+Step Mountain |41Q02 |SNOW |2850 |65.46 |-141.56 |2002 |AK
+Tazlina |45N03 |SNOW |1250 |62.04 |-145.43 |1996 |AK
+Telaquana Lake |53L01 |SNOW |1550 |60.98 |-153.92 |1992 |AK
+Teuchet Creek |45P03 |SNOW |1640 |64.95 |-145.52 |1973 |AK
+Three Fingers |43P03 |SNOW |3350 |64.54 |-143.15 |2002 |AK
+Tok Junction |43O01 |SNOW |1650 |63.30 |-143.01 |1960 |AK
+Trapper Joe Ridge |50LL11 |SNOW |2424 |60.75 |-150.02 |2016 |AK
+Upper Chena |44Q01 |SNOW |3000 |65.11 |-144.92 |1967 |AK
+Upper Twin Lakes |53L02 |SNOW |2000 |60.65 |-153.80 |1993 |AK
+Valdez |46M02 |SNOW |50 |61.10 |-146.21 |1972 |AK
+West Creek |35K04 |SNOW |475 |59.53 |-135.39 |2009 |AK
+Windy Gap |47Q08 |SNOW |1900 |65.57 |-147.42 |1992 |AK
+Wolf |47Q09 |SNOW |1200 |65.55 |-147.67 |1992 |AK
+Archangel Road |49M25 |SNOW |2200 |61.79 |-149.20 |1982 |AK
+Arctic Ski Bowl |49M05 |SNOW |3000 |61.25 |-149.52 |1964 |AK
+Arctic Valley #1 |49M01 |SNOW |500 |61.23 |-149.64 |1964 |AK
+Arctic Valley #2 |49M02 |SNOW |1000 |61.23 |-149.61 |1964 |AK
+Arctic Valley #3 |49M03 |SNOW |1450 |61.23 |-149.58 |1964 |AK
+Arctic Valley #4 |49M04 |SNOW |2030 |61.24 |-149.56 |1964 |AK
+Birthday Pass |49M28 |SNOW |4020 |61.80 |-149.30 |2015 |AK
+Blueberry Hill |49N07 |SNOW |1200 |62.80 |-149.98 |1988 |AK
+Bonanza Forks |50R03 |SNOW |1200 |66.69 |-150.66 |1981 |AK
+Caribou Snow Pillow |47Q04 |SNOW |900 |65.15 |-147.56 |1970 |AK
+Chelatna Lake |51N01 |SNOW |1450 |62.46 |-151.46 |1964 |AK
+Chicken Airstrip |41P02 |SNOW |1650 |64.07 |-141.95 |1965 |AK
+Chistochina |44N01 |SNOW |1950 |62.61 |-144.63 |1985 |AK
+Circle Hot Springs |44Q05 |SNOW |860 |65.48 |-144.63 |1975 |AK
+Clearwater Lake |46N01 |SNOW |2650 |62.93 |-146.96 |1964 |AK
+Coal Creek |43Q02 |SNOW |1000 |65.31 |-143.16 |2002 |AK
+Colville Bend |57Q03 |SNOW |170 |65.57 |-157.26 |2006 |AK
+Copper Center |45N04 |SNOW |1264 |62.02 |-145.36 |2014 |AK
+Crescent Creek |43P02 |SNOW |2600 |64.85 |-143.94 |2003 |AK
+Curtis Lake |46N05 |SNOW |2850 |62.30 |-146.99 |1995 |AK
+Dadina Lake |44M01 |SNOW |2160 |61.85 |-144.80 |1985 |AK
+Denali View |50N06 |SNOW |700 |62.60 |-150.23 |1988 |AK
+Disaster Creek |49S01 |SNOW |1550 |67.70 |-149.72 |1971 |AK
+Dunkle Hills |49O02 |SNOW |2700 |63.27 |-149.54 |2004 |AK
+Dutch Hills |50N03 |SNOW |3100 |62.61 |-150.86 |1980 |AK
+E. Fork Chulitna |49O01 |SNOW |1770 |63.14 |-149.43 |1988 |AK
+East Chalatna |51R06 |SNOW |430 |66.45 |-151.70 |2015 |AK
+Fielding Lake |45O01 |SNOW |3000 |63.20 |-145.63 |1960 |AK
+Fishhook Basin |49M10 |SNOW |3300 |61.78 |-149.27 |1964 |AK
+Fog Lakes |48N02 |SNOW |2120 |62.79 |-148.46 |1964 |AK
+Galena Ecological Site |56P01 |SNOW |128 |64.75 |-156.82 |2015 |AK
+Graphite Lake |43S03 |SNOW |600 |67.09 |-143.41 |1999 |AK
+Haggard Creek |45N01 |SNOW |2540 |62.69 |-145.45 |1964 |AK
+Hess Creek |49Q02 |SNOW |1000 |65.77 |-149.39 |1980 |AK
+Horsepasture Pass |47N02 |SNOW |4300 |62.13 |-147.63 |1968 |AK
+Huggins Creek |54Q02 |SNOW |290 |65.86 |-154.51 |2006 |AK
+Independence Mine |49M26 |SNOW |3550 |61.79 |-149.28 |1989 |AK
+Institute Creek |32H04 |SNOW |1350 |56.43 |-132.31 |2010 |AK
+Kanuti Chalatna |52R02 |SNOW |670 |66.44 |-152.20 |1999 |AK
+Kanuti Kilolitna |52R04 |SNOW |550 |66.14 |-152.13 |1999 |AK
+Kenny Lake School |45M05 |SNOW |1300 |61.73 |-145.01 |1980 |AK
+Lake Louise |46N02 |SNOW |2400 |62.27 |-146.52 |1964 |AK
+Lake Minchumina |52O01 |SNOW |730 |63.89 |-152.30 |1967 |AK
+Lake Todatonten |52R01 |SNOW |550 |66.17 |-152.94 |1968 |AK
+Little Chena Bottom |46Q05 |SNOW |1100 |65.10 |-146.71 |1978 |AK
+Little Chena Ridge |46Q02 |SNOW |2000 |65.12 |-146.73 |1962 |AK
+Little Mud River |53P01 |SNOW |855 |64.73 |-153.09 |2006 |AK
+Little Nelchina |46M06 |SNOW |2650 |61.98 |-147.00 |1989 |AK
+Little Susitna |49M24 |SNOW |1700 |61.77 |-149.21 |1982 |AK
+Long Glacier |44M03 |SNOW |4820 |61.82 |-144.08 |2005 |AK
+Lost Chicken Hill |41P05 |SNOW |2150 |64.06 |-141.92 |1990 |AK
+Lost Creek |43N02 |SNOW |3030 |62.51 |-143.17 |1993 |AK
+Lowe River |45M03 |SNOW |600 |61.11 |-145.82 |1972 |AK
+Lower Beaver Creek |46R02 |SNOW |400 |66.27 |-146.51 |1999 |AK
+Lower Nowitna River |54P01 |SNOW |205 |64.70 |-154.54 |2006 |AK
+Mentasta Pass |43N01 |SNOW |2430 |62.90 |-143.67 |1962 |AK
+Middle Innoko |58O02 |SNOW |150 |63.30 |-158.49 |1996 |AK
+Monahan Flat |47O01 |SNOW |2710 |63.31 |-147.65 |1964 |AK
+Monsoon Lake |46N03 |SNOW |3100 |62.83 |-146.63 |1985 |AK
+Moore Creek Bridge |35K02 |SNOW |2250 |59.59 |-135.19 |1989 |AK
+Ninemile Island |58P02 |SNOW |140 |64.62 |-158.24 |2005 |AK
+Nugget Bench |50N01 |SNOW |2010 |62.52 |-150.94 |1968 |AK
+Petersburg Reservoir |32H01 |SNOW |550 |56.78 |-132.92 |1979 |AK
+Petersburg Ridge, S. |32H03 |SNOW |1650 |56.78 |-132.94 |1979 |AK
+Pike Trap Lake |58P01 |SNOW |130 |64.39 |-158.01 |2005 |AK
+Ptarmigan Creek |45Q03 |SNOW |2270 |65.43 |-145.55 |1989 |AK
+Ramsdyke Creek |50N04 |SNOW |2220 |62.62 |-150.81 |1980 |AK
+Rock Creek Bottom |48O03 |SNOW |2250 |63.72 |-148.97 |1992 |AK
+Sanford River |45N02 |SNOW |2280 |62.22 |-145.06 |1967 |AK
+Sheep Mountain |47M02 |SNOW |2900 |61.81 |-147.48 |1958 |AK
+Skwentna |51M01 |SNOW |160 |61.97 |-151.20 |1967 |AK
+South Campbell Creek |49M11 |SNOW |1200 |61.14 |-149.69 |1973 |AK
+Square Lake |47N01 |SNOW |2950 |62.40 |-147.47 |1964 |AK
+Squirrel Creek |57P01 |SNOW |150 |64.80 |-157.84 |2005 |AK
+St. Anne Lake |46M01 |SNOW |1990 |61.90 |-146.05 |1964 |AK
+Stack Pup Creek |45Q04 |SNOW |1620 |65.55 |-145.14 |1989 |AK
+Sugarloaf Mountain |46M04 |SNOW |550 |61.08 |-146.30 |1985 |AK
+Table Mountain |49S03 |SNOW |2200 |67.97 |-149.76 |1972 |AK
+Talkeetna |50N02 |SNOW |350 |62.32 |-150.09 |1967 |AK
+Tebay Lake |44M02 |SNOW |1930 |61.18 |-144.34 |2005 |AK
+Thirty Mile |50R02 |SNOW |1350 |66.22 |-150.25 |1972 |AK
+Tokositna Valley |50N05 |SNOW |850 |62.63 |-150.77 |1980 |AK
+Tolsona Creek |46N04 |SNOW |2000 |62.10 |-146.05 |1985 |AK
+Treat Island |56Q01 |SNOW |190 |65.94 |-156.18 |2006 |AK
+Tsaina River |45M04 |SNOW |1650 |61.21 |-145.50 |1971 |AK
+Twin Lakes |46M03 |SNOW |2400 |61.92 |-146.91 |1985 |AK
+Tyone River |47N03 |SNOW |2400 |62.68 |-147.08 |1981 |AK
+Upper Innoko |56O01 |SNOW |180 |63.70 |-156.92 |1996 |AK
+Upper Oshetna River |47N07 |SNOW |3150 |62.33 |-147.33 |1995 |AK
+Upper Sanona Creek |47N06 |SNOW |3100 |62.33 |-147.28 |1995 |AK
+Vunzik Lake |46R03 |SNOW |500 |66.80 |-146.70 |1999 |AK
+Wapoo Hills |57O02 |SNOW |220 |63.70 |-157.63 |1996 |AK
+Willow Airstrip |50M02 |SNOW |200 |61.75 |-150.05 |1964 |AK
+Worthington Glacier |45M02 |SNOW |2100 |61.18 |-145.69 |1958 |AK
+Yankee Slough |59O03 |SNOW |100 |63.26 |-159.57 |1996 |AK
+Baker Butte No. 2 |11R07 |SNOW |7700 |34.45 |-111.38 |1972 |AZ
+Beaver Spring |09N05 |SNOW |9220 |36.33 |-109.05 |1986 |AZ
+Bright Angel |12N01 |SNOW |8400 |36.22 |-112.07 |1947 |AZ
+Buck Spring |09R11 |SNOW |7400 |34.12 |-109.85 |1998 |AZ
+Chalender |12P01 |SNOW |7100 |35.25 |-112.07 |1947 |AZ
+Cheese Springs |09R07 |SNOW |8700 |34.05 |-109.50 |1969 |AZ
+Coronado Trail |09S07 |SNOW |8350 |33.80 |-109.15 |1938 |AZ
+Fluted Rock |09P01 |SNOW |7800 |35.88 |-109.25 |1985 |AZ
+Fort Apache |09R05 |SNOW |9160 |34.00 |-109.52 |1951 |AZ
+Fort Valley |11P02 |SNOW |7350 |35.27 |-111.75 |1947 |AZ
+Grand Canyon |11P01 |SNOW |7500 |35.97 |-111.97 |1947 |AZ
+Happy Jack |11R05 |SNOW |7630 |34.75 |-111.40 |1951 |AZ
+Lake Mary |11P12 |SNOW |6930 |35.02 |-111.45 |1975 |AZ
+Mormon Mountain Summit #2 |11R12 |SNOW |8470 |34.97 |-111.52 |1975|AZ
+Newman Park |11P05 |SNOW |6750 |35.00 |-111.68 |1963 |AZ
+Nutrioso |09S04 |SNOW |8500 |33.90 |-109.15 |1938 |AZ
+Snow Bowl #2 |11P06 |SNOW |11200 |35.33 |-111.70 |1965 |AZ
+Tsaile Canyon #1 |09N02 |SNOW |8160 |36.40 |-109.10 |1985 |AZ
+Tsaile Canyon #3 |09N04 |SNOW |8920 |36.45 |-109.10 |1986 |AZ
+Williams Ski Run |12P03 |SNOW |7720 |35.20 |-112.20 |1967 |AZ
+Aberdeen Lake |1F01A |SNOW |4298 |50.15 |-119.05 |1939 |BC
+Atlin Lake |33K01 |SNOW |2395 |59.57 |-133.70 |1964 |BC
+Beaverfoot |2A11 |SNOW |6201 |51.27 |-116.90 |1948 |BC
+Blue River |1E01B |SNOW |2198 |52.12 |-119.29 |1983 |BC
+Bouleau Lake |2F21 |SNOW |4593 |50.27 |-119.64 |1971 |BC
+Brookmere |1C01 |SNOW |3215 |49.81 |-120.88 |1945 |BC
+Bush River |2A23 |SNOW |6299 |51.73 |-117.42 |1967 |BC
+Carmi |2E02 |SNOW |4101 |49.49 |-119.08 |1963 |BC
+Char Creek |2D06 |SNOW |4298 |49.10 |-116.95 |1965 |BC
+Enderby |1F04 |SNOW |6234 |50.66 |-118.93 |1963 |BC
+Esperon Cr Upper |2F13 |SNOW |5413 |50.07 |-119.75 |1966 |BC
+Farron |2B02A |SNOW |4003 |49.27 |-118.12 |1973 |BC
+Ferguson |2D02 |SNOW |2887 |50.68 |-117.47 |1938 |BC
+Field |2A03A |SNOW |4216 |51.39 |-116.51 |1939 |BC
+Glacier |2A02 |SNOW |4101 |51.25 |-117.49 |1937 |BC
+Goldstream |2A16 |SNOW |6299 |51.69 |-118.44 |1963 |BC
+Gray Creek Lower |2D05 |SNOW |5085 |49.61 |-116.68 |1948 |BC
+Gray Creek Upper |2D10 |SNOW |6365 |49.61 |-116.66 |1969 |BC
+Graystoke Lake |2F04 |SNOW |6037 |50.00 |-118.88 |1935 |BC
+Hamilton Hill |2G06 |SNOW |4888 |49.49 |-120.80 |1960 |BC
+Isintok Lake |2F11 |SNOW |5512 |49.56 |-119.98 |1965 |BC
+Islaht Lake |2F24 |SNOW |4856 |50.00 |-119.81 |1982 |BC
+Keystone Creek |2A18 |SNOW |6201 |51.41 |-118.36 |1966 |BC
+Kicking Horse |2A07 |SNOW |5413 |51.44 |-116.36 |1947 |BC
+Kirbyville Lake |2A25 |SNOW |5741 |51.58 |-118.78 |1972 |BC
+Klesilkwa |3D03A |SNOW |3855 |49.12 |-121.31 |1948 |BC
+Koch Creek |2B07 |SNOW |6102 |49.73 |-117.98 |1959 |BC
+Lightning Lake |3D02 |SNOW |4003 |49.03 |-120.85 |1947 |BC
+Log Cabin B.C. |34K01 |SNOW |2900 |59.75 |-134.97 |1958 |BC
+Macdonald Lake |2F23 |SNOW |5709 |49.90 |-120.02 |1977 |BC
+McCulloch |2F03 |SNOW |4199 |49.80 |-119.19 |1935 |BC
+Monashee Pass |2E01 |SNOW |4495 |50.08 |-118.51 |1949 |BC
+Mount Abbot |2A14 |SNOW |6594 |51.24 |-117.51 |1959 |BC
+Mount Joffre |2C16 |SNOW |5741 |50.54 |-115.12 |1969 |BC
+Mount Kobau |2F12 |SNOW |5938 |49.12 |-119.68 |1966 |BC
+Mount Templeman |2D09 |SNOW |6102 |50.71 |-117.20 |1967 |BC
+Nelson |2D04 |SNOW |3051 |49.42 |-117.23 |1938 |BC
+Oyama Lake |2F19 |SNOW |4396 |50.10 |-119.27 |1969 |BC
+Postill Lake |2F07 |SNOW |4495 |50.00 |-119.20 |1950 |BC
+Record Mountain |2B09 |SNOW |6201 |49.10 |-117.88 |1975 |BC
+Sandon |2D03 |SNOW |3510 |49.98 |-117.22 |1938 |BC
+Sinclair Pass |2C01 |SNOW |4495 |50.66 |-117.97 |1936 |BC
+Sullivan Mine |2C04 |SNOW |5085 |49.73 |-116.02 |1946 |BC
+Sunbeam Lake |2A22 |SNOW |6594 |51.59 |-117.66 |1967 |BC
+Thunder Creek |2C17 |SNOW |6594 |50.03 |-115.24 |1969 |BC
+Vaseux Creek |2F20 |SNOW |4593 |49.27 |-119.32 |1971 |BC
+Vermont Creek |2A19 |SNOW |4987 |50.97 |-116.95 |1966 |BC
+Whatshan Upper |2B05 |SNOW |5003 |50.19 |-118.03 |1958 |BC
+Downie Slide Lower |2A27 |SNOW |3215 |51.51 |-118.53 |1977 |BC
+Downie Slide Upper |2A29 |SNOW |5348 |51.51 |-118.56 |1978 |BC
+Duncan Lake No. 2 |2D07A |SNOW |2067 |50.25 |-116.97 |1991 |BC
+Esperon Cr Middle |2F14 |SNOW |4692 |50.07 |-119.69 |1966 |BC
+Fidelity Mountain |2A17 |SNOW |6135 |51.24 |-117.69 |1963 |BC
+Greyback Reservoir |2F08 |SNOW |5085 |49.61 |-119.42 |1953 |BC
+Lost Horse Mountain |2G04 |SNOW |6299 |49.27 |-120.12 |1960 |BC
+Missezula Mountain |2G05 |SNOW |5085 |49.75 |-120.54 |1960 |BC
+Mount Assiniboine |2C15 |SNOW |7316 |50.91 |-115.61 |1969 |BC
+Shovelnose Mountain |1C29 |SNOW |4757 |49.86 |-120.86 |1979 |BC
+Silver Star Mountain |2F10 |SNOW |6037 |50.37 |-119.05 |1959 |BC
+Sumallo River West |3D01C |SNOW |2592 |49.25 |-121.24 |1992 |BC
+Summerland Reservoir |2F02 |SNOW |4199 |49.81 |-120.00 |1935 |BC
+Whiterocks Mountain |2F09 |SNOW |6004 |50.02 |-119.75 |1953 |BC
+Abbey |ABY |SNOW |5650 |39.95 |-120.54 |1963 |CA
+Adin Mountains |20H08 |SNOW |6190 |41.23 |-120.79 |1930 |CA
+Agnew Pass |AGP |SNOW |9450 |37.72 |-119.14 |1930 |CA
+Alpha |APH |SNOW |7600 |38.80 |-120.22 |1965 |CA
+Althouse #3 Rev |23G17 |SNOW |4970 |42.00 |-123.55 |2014 |CA
+Antelope Ridge |ANR |SNOW |5650 |40.16 |-120.54 |1963 |CA
+Antelope Springs |ATS |SNOW |4350 |38.50 |-120.47 |1939 |CA
+Anthony Peak |ATP |SNOW |6200 |39.84 |-122.95 |1944 |CA
+Ash Creek |ASH |SNOW |5000 |41.40 |-122.05 |1945 |CA
+Badger Flat |BDF |SNOW |8300 |37.27 |-119.11 |1960 |CA
+Beach Meadows |BHM |SNOW |7650 |36.12 |-118.29 |1930 |CA
+Bear Basin |BBS |SNOW |6500 |40.97 |-122.87 |1947 |CA
+Bear Valley Ridge 1 |BV1 |SNOW |6700 |38.62 |-120.23 |1930 |CA
+Beard Meadow |BMD |SNOW |9800 |37.11 |-118.84 |1930 |CA
+Beehive Meadow |BHV |SNOW |6500 |37.99 |-119.78 |1930 |CA
+Bell Meadow |BEM |SNOW |6500 |38.17 |-119.94 |1937 |CA
+Bench Lake |BNH |SNOW |10600 |36.96 |-118.44 |1973 |CA
+Big Flat (course) |BFT |SNOW |5100 |41.08 |-122.94 |1946 |CA
+Big Meadows |BMS |SNOW |7600 |36.72 |-118.84 |1930 |CA
+Big Pine Creek 2 |BP2 |SNOW |9700 |37.13 |-118.47 |1926 |CA
+Big Pine Creek 3 |BP3 |SNOW |9800 |37.13 |-118.47 |1926 |CA
+Big Whitney Meadow |BWH |SNOW |9750 |36.44 |-118.26 |1948 |CA
+Bighorn Plateau |BGH |SNOW |11350 |36.62 |-118.38 |1949 |CA
+Bishop Lake |BSP |SNOW |11300 |37.12 |-118.55 |1951 |CA
+Bishop Pass |BSH |SNOW |11200 |37.10 |-118.56 |1930 |CA
+Black Springs |BLS |SNOW |6500 |38.38 |-120.19 |1971 |CA
+Blackcap Basin |BCB |SNOW |10300 |37.07 |-118.77 |1930 |CA
+Blacks Mountain |BMN |SNOW |6700 |40.76 |-121.19 |1945 |CA
+Bloods Creek |BLD |SNOW |7200 |38.45 |-120.03 |1978 |CA
+Blue Lake Ranch |20H14 |SNOW |6830 |41.15 |-120.25 |1997 |CA
+Blue Lakes |19L05 |SNOW |8000 |38.60 |-119.92 |1918 |CA
+Bond Pass |19L35 |SNOW |9300 |38.18 |-119.62 |1948 |CA
+Bonita Meadows |BNM |SNOW |8300 |36.04 |-118.33 |1930 |CA
+Bowman Lake |BOM |SNOW |5650 |39.46 |-120.60 |1927 |CA
+Box Camp |BXC |SNOW |6450 |41.60 |-123.17 |1979 |CA
+Brewer Creek |BWR |SNOW |6250 |41.44 |-122.10 |1945 |CA
+Browns Camp |BCP |SNOW |5400 |39.90 |-121.26 |1937 |CA
+Bullfrog Lake |BLF |SNOW |10650 |36.77 |-118.40 |1932 |CA
+Burney Springs |BNS |SNOW |4700 |40.78 |-121.62 |1945 |CA
+Caples Lake |20L11 |SNOW |8000 |38.71 |-120.04 |1939 |CA
+Casa Vieja Meadows |CSV |SNOW |8300 |36.20 |-118.27 |1930 |CA
+Castle Creek 5 |20K28 |SNOW |7400 |39.35 |-120.35 |1946 |CA
+Cedar Pass |20H06 |SNOW |7050 |41.58 |-120.30 |1930 |CA
+Chalk Bluff |CHK |SNOW |4850 |39.31 |-120.81 |1986 |CA
+Chapman Creek |CMC |SNOW |5850 |39.63 |-120.53 |1968 |CA
+Charlotte Ridge |CLT |SNOW |10700 |36.77 |-118.42 |1955 |CA
+Chester Flat |CHF |SNOW |4600 |40.28 |-121.25 |1930 |CA
+Chilkoot Lake |CKT |SNOW |7450 |37.41 |-119.48 |1930 |CA
+Chilkoot Meadow |CHM |SNOW |7150 |37.41 |-119.49 |1930 |CA
+Chiquito Creek |CHQ |SNOW |6800 |37.50 |-119.41 |1939 |CA
+Church Meadows |CHU |SNOW |6700 |39.68 |-120.62 |1931 |CA
+Cisco |CCO |SNOW |5900 |39.30 |-120.54 |1925 |CA
+Clark Fork Meadow |CFM |SNOW |8900 |38.36 |-119.68 |1960 |CA
+Clover Meadow |CLM |SNOW |7000 |37.53 |-119.28 |1939 |CA
+Colby Meadow |CBM |SNOW |9700 |37.18 |-118.72 |1944 |CA
+Cora Lakes |CRA |SNOW |8400 |37.60 |-119.27 |1939 |CA
+Corral Flat |CRF |SNOW |7200 |38.63 |-120.22 |1938 |CA
+Corral Meadow |CRM |SNOW |6650 |38.40 |-120.04 |1986 |CA
+Cottonwood Lakes 1 |CW1 |SNOW |10150 |36.48 |-118.18 |1926 |CA
+Cottonwood Pass |CWP |SNOW |11050 |36.45 |-118.22 |1948 |CA
+Courtright |CUR |SNOW |8350 |37.07 |-118.97 |1983 |CA
+Coyote Lake |CYT |SNOW |8850 |37.21 |-119.07 |1946 |CA
+Crabtree Meadow |CBT |SNOW |10700 |36.56 |-118.35 |1949 |CA
+Dana Meadows |DAN |SNOW |9800 |37.90 |-119.26 |1926 |CA
+Dead Horse Meadow |DHM |SNOW |7300 |35.87 |-118.59 |1937 |CA
+Deadfall Lakes |DDF |SNOW |7200 |41.32 |-122.50 |1946 |CA
+Deadman Creek |DDM |SNOW |9250 |38.33 |-119.65 |1960 |CA
+Devils Postpile |DPO |SNOW |7569 |37.63 |-119.08 |2013 |CA
+Diamond Crossing |DMN |SNOW |6050 |39.11 |-120.28 |1967 |CA
+Dodsons Meadow |DSM |SNOW |8050 |37.09 |-118.96 |1956 |CA
+Donner Summit |20K10 |SNOW |6900 |39.31 |-120.34 |1910 |CA
+Dutch Lake |DTL |SNOW |9100 |37.26 |-119.00 |1938 |CA
+Dynamite Meadow |DYM |SNOW |5700 |41.23 |-122.82 |1955 |CA
+Eagle Meadow |EGM |SNOW |7500 |38.29 |-119.83 |1931 |CA
+East Piute Pass |EPP |SNOW |10800 |37.23 |-118.69 |1930 |CA
+Echo Summit |20L05 |SNOW |7450 |38.83 |-120.04 |1940 |CA
+Ellery Lake |ELL |SNOW |9600 |37.94 |-119.25 |1926 |CA
+Emerald Lake |EML |SNOW |10600 |37.18 |-118.76 |1944 |CA
+English Mountain |ENM |SNOW |7100 |39.44 |-120.53 |1927 |CA
+Etna Mountain |ETN |SNOW |5900 |41.40 |-123.00 |1951 |CA
+Eureka Bowl |ERB |SNOW |6800 |39.76 |-120.72 |1948 |CA
+Eureka Lake |EUR |SNOW |6200 |39.76 |-120.71 |1939 |CA
+Farewell Gap |FRW |SNOW |9500 |36.41 |-118.58 |1952 |CA
+Findley Peak |FNP |SNOW |6500 |39.47 |-120.57 |1927 |CA
+Florence Lake |FLC |SNOW |7200 |37.28 |-118.96 |1930 |CA
+Fred Meadow |FDM |SNOW |6950 |37.02 |-119.08 |1930 |CA
+Fredonyer Pass 3 |FP3 |SNOW |5850 |40.38 |-120.87 |1972 |CA
+Freel Bench |19L02 |SNOW |7132 |38.87 |-119.96 |1930 |CA
+Frenchman Cove |FCV |SNOW |5800 |39.90 |-120.27 |1963 |CA
+Furnace Flat |20K08 |SNOW |6700 |39.35 |-120.50 |1918 |CA
+Gem Lake |GML |SNOW |9150 |37.75 |-119.16 |1927 |CA
+Gem Pass |GEM |SNOW |10750 |37.78 |-119.17 |1931 |CA
+Gianelli Meadow |GNL |SNOW |8400 |38.20 |-119.89 |1984 |CA
+Giant Forest |GFR |SNOW |6400 |36.57 |-118.77 |1930 |CA
+Gibsonville |GBN |SNOW |5400 |39.73 |-120.93 |1950 |CA
+Gray Rock Lakes |GYR |SNOW |6200 |41.22 |-122.42 |1941 |CA
+Grizzly Ridge |GRZ |SNOW |6900 |39.92 |-120.65 |1965 |CA
+Guyot Flat |GYF |SNOW |10650 |36.52 |-118.35 |1949 |CA
+Hams Station |HMS |SNOW |5500 |38.54 |-120.38 |1937 |CA
+Harkness Flat |HRF |SNOW |6200 |40.42 |-121.28 |1930 |CA
+Heart Lake |HRT |SNOW |10100 |37.27 |-118.88 |1940 |CA
+Hells Kitchen |HLK |SNOW |6550 |38.42 |-120.10 |1968 |CA
+Helms Meadow |HLM |SNOW |8250 |37.12 |-119.01 |1930 |CA
+Herring Creek |HRG |SNOW |7300 |38.24 |-119.94 |1937 |CA
+Highland Lakes |HIG |SNOW |6030 |41.09 |-122.48 |1947 |CA
+Highland Meadow |HHM |SNOW |8700 |38.49 |-119.81 |1952 |CA
+Hockett Meadows |HKM |SNOW |8500 |36.38 |-118.66 |1930 |CA
+Horse Meadow |HRS |SNOW |8400 |38.16 |-119.66 |1948 |CA
+Huckleberry Lake |HCL |SNOW |7800 |38.10 |-119.75 |1948 |CA
+Humbug Summit 2 |HS2 |SNOW |4850 |40.19 |-121.30 |1993 |CA
+Huntington Lake |HTT |SNOW |7000 |37.23 |-119.22 |1930 |CA
+Huysink |HYS |SNOW |6600 |39.28 |-120.53 |1937 |CA
+Ice House |IHS |SNOW |5300 |38.81 |-120.38 |1932 |CA
+Jackass Meadow |JCM |SNOW |6950 |37.50 |-119.33 |1939 |CA
+Kaiser Pass |KSR |SNOW |9100 |37.30 |-119.10 |1930 |CA
+Kerrick Corral |KRC |SNOW |7000 |38.18 |-119.96 |1961 |CA
+Kettle Rock |KTL |SNOW |7300 |40.14 |-120.72 |1965 |CA
+Lake Audrain |ABN |SNOW |7300 |38.82 |-120.04 |1941 |CA
+Lake Fordyce |20K07 |SNOW |6500 |39.36 |-120.50 |1918 |CA
+Lake Lucille |20L04 |SNOW |8188 |38.86 |-120.11 |1913 |CA
+Lake Spaulding |SPD |SNOW |5200 |39.32 |-120.64 |1927 |CA
+Letterbox |LTT |SNOW |5600 |39.86 |-121.26 |1940 |CA
+Lexington |LXN |SNOW |5600 |39.68 |-121.01 |1972 |CA
+Little Shasta |LSH |SNOW |6200 |41.81 |-122.19 |1946 |CA
+Lost Corner Mountain |LCR |SNOW |7500 |39.02 |-120.22 |1959 |CA
+Lower Carson Pass |LCP |SNOW |8400 |38.69 |-120.00 |1951 |CA
+Lower Kibbie |LKB |SNOW |6700 |38.03 |-119.88 |1937 |CA
+Lower Lassen Peak |LLP |SNOW |8250 |40.47 |-121.51 |1930 |CA
+Lumberyard 2 |LB2 |SNOW |6500 |38.55 |-120.31 |1993 |CA
+Lyons Creek |LYN |SNOW |6700 |38.81 |-120.24 |1937 |CA
+Mammoth |MMT |SNOW |8300 |37.62 |-118.99 |1928 |CA
+Mammoth Pass (ladwp) |MAM |SNOW |9300 |37.61 |-119.03 |1928 |CA
+Mcelroy Pass |MCP |SNOW |5300 |40.70 |-121.48 |1939 |CA
+Meadow Lake |MWL |SNOW |7200 |39.42 |-120.51 |1920 |CA
+Medicine Lake |MDC |SNOW |6700 |41.59 |-121.61 |1938 |CA
+Middle Boulder 1 |MBL |SNOW |6600 |41.22 |-122.81 |1946 |CA
+Middle Boulder 3 |MB3 |SNOW |6200 |41.23 |-122.81 |1948 |CA
+Mill Creek Flat |MLF |SNOW |5900 |39.94 |-121.19 |1930 |CA
+Minarets 2 |MN2 |SNOW |9000 |37.66 |-119.02 |1928 |CA
+Mineral King |MNK |SNOW |8000 |36.44 |-118.59 |1948 |CA
+Miranda Cabin |MCB |SNOW |6200 |39.12 |-120.36 |1967 |CA
+Mono Pass |MNP |SNOW |11450 |37.44 |-118.77 |1950 |CA
+Mount Dyer 1 |MDY |SNOW |7100 |40.24 |-121.04 |1930 |CA
+Mount Dyer 2 |MD2 |SNOW |6050 |40.26 |-121.05 |1952 |CA
+Mount Hough |MHG |SNOW |6700 |40.04 |-120.88 |1965 |CA
+Mount Shasta |MSH |SNOW |7900 |41.37 |-122.23 |1930 |CA
+Mount Stover |MSV |SNOW |5600 |40.29 |-121.29 |1931 |CA
+Mumbo Basin |MUM |SNOW |5650 |41.20 |-122.52 |1947 |CA
+Nellie Lake |NLL |SNOW |8000 |37.26 |-119.22 |1944 |CA
+New Manzanita Lake |NMN |SNOW |5900 |40.53 |-121.56 |2016 |CA
+Niagara Flat |NGF |SNOW |6500 |38.33 |-119.91 |1930 |CA
+North Lake |NTH |SNOW |9300 |37.23 |-118.62 |1930 |CA
+Norvell Flat |NRF |SNOW |5700 |40.48 |-121.01 |1940 |CA
+Ostrander Lake |STR |SNOW |8200 |37.64 |-119.55 |1938 |CA
+Pacific Valley |PFV |SNOW |7500 |38.52 |-119.90 |1930 |CA
+Panther Meadow |PTM |SNOW |8600 |36.59 |-118.72 |1925 |CA
+Paradise Meadow |PDS |SNOW |7650 |38.05 |-119.67 |1946 |CA
+Parks Creek |PRK |SNOW |6700 |41.37 |-122.55 |1936 |CA
+Peregoy Meadows |PGM |SNOW |7000 |37.67 |-119.63 |1931 |CA
+Phillips |PHL |SNOW |6800 |38.82 |-120.07 |1941 |CA
+Pilot Peak (dwr) |PLP |SNOW |6800 |39.79 |-120.88 |1972 |CA
+Pioneer Basin |PNB |SNOW |10400 |37.46 |-118.80 |1949 |CA
+Piute Pass |PPS |SNOW |11300 |37.24 |-118.69 |2016 |CA
+Plaskett Meadows |PSM |SNOW |6000 |39.73 |-122.85 |1944 |CA
+Podesta |PDT |SNOW |7200 |38.60 |-120.23 |1965 |CA
+Poison Meadow |PMD |SNOW |6800 |37.40 |-119.52 |1944 |CA
+Post Corral Meadow |PRM |SNOW |8200 |37.12 |-118.90 |1930 |CA
+Quaking Aspen |QKA |SNOW |7000 |36.12 |-118.55 |1937 |CA
+Rafferty Meadows |RFM |SNOW |9400 |37.84 |-119.33 |1948 |CA
+Ramshaw Meadows |RMM |SNOW |8700 |36.35 |-118.27 |1930 |CA
+Red Mountain |RDM |SNOW |7200 |39.34 |-120.51 |1919 |CA
+Red Rock Mountain |RRM |SNOW |6700 |41.02 |-122.89 |1946 |CA
+Relief Dam |RLD |SNOW |7250 |38.28 |-119.73 |1930 |CA
+Richardsons #2 |20L03 |SNOW |6553 |38.92 |-120.04 |1944 |CA
+Ridge Trail |RGT |SNOW |7500 |36.75 |-118.95 |2007 |CA
+Robbs Valley |RBV |SNOW |5600 |38.92 |-120.38 |1932 |CA
+Robinson Cow Camp Snow Course |RCW |SNOW |6480 |39.62 |-120.68|1972 |CA
+Rock Creek |RCR |SNOW |9600 |36.50 |-118.33 |1949 |CA
+Rock Creek 1 |RC1 |SNOW |8700 |37.49 |-118.72 |1926 |CA
+Rock Creek 2 |RC2 |SNOW |9050 |37.47 |-118.72 |1926 |CA
+Rock Creek 3 |RC3 |SNOW |10000 |37.45 |-118.74 |1926 |CA
+Rose Marie |RMR |SNOW |10000 |37.32 |-118.87 |1946 |CA
+Round Corral |RDC |SNOW |9000 |36.99 |-118.90 |1938 |CA
+Round Meadow |RMD |SNOW |9000 |35.97 |-118.36 |1930 |CA
+Rowell Meadow |RWM |SNOW |8850 |36.72 |-118.74 |1931 |CA
+Rowland Creek |20J01 |SNOW |6700 |40.02 |-120.30 |1950 |CA
+Rubicon #1 |20L01 |SNOW |8100 |38.99 |-120.13 |1910 |CA
+Rubicon Peak 2 |RP2 |SNOW |7577 |39.00 |-120.13 |1912 |CA
+Sachse Springs |SAS |SNOW |7900 |38.09 |-119.84 |1948 |CA
+Saddlebag Lake |SDL |SNOW |9750 |37.96 |-119.27 |1926 |CA
+Sandy Meadows |SDM |SNOW |10650 |36.57 |-118.37 |1949 |CA
+Sapps Hollow |SHW |SNOW |6950 |38.41 |-120.03 |1992 |CA
+Sawmill |SWM |SNOW |10200 |37.16 |-118.56 |1926 |CA
+Sawmill Ridge |19L34 |SNOW |8760 |38.21 |-119.35 |1976 |CA
+Scenic Meadow |SCE |SNOW |9650 |36.69 |-118.60 |1973 |CA
+Shimmy Lake |SHM |SNOW |6400 |41.01 |-122.80 |1947 |CA
+Siberian Pass |SIB |SNOW |10900 |36.47 |-118.27 |1948 |CA
+Silver Lake |SIL |SNOW |7100 |38.68 |-120.12 |1930 |CA
+Slate Creek |SLT |SNOW |5700 |41.05 |-122.48 |1945 |CA
+Snow Flat |SNF |SNOW |8700 |37.83 |-119.50 |1930 |CA
+Snow Mountain |SMT |SNOW |6050 |40.77 |-121.78 |1930 |CA
+Soda Creek Flat |SCF |SNOW |7800 |38.27 |-119.68 |2016 |CA
+Sonora Pass |19L07 |SNOW |8760 |38.32 |-119.61 |1930 |CA
+Spotted Fawn |SPF |SNOW |7800 |38.09 |-119.76 |1948 |CA
+Squaw Valley #2 |20K19 |SNOW |7694 |39.18 |-120.25 |1954 |CA
+Stanislaus Meadow |SLM |SNOW |7750 |38.51 |-119.94 |1971 |CA
+Statum Meadow |SMD |SNOW |8300 |36.94 |-118.91 |1930 |CA
+Stouts Meadow |STM |SNOW |5400 |41.17 |-121.94 |1945 |CA
+Sunnyside Meadow |SSM |SNOW |6300 |39.70 |-120.78 |1972 |CA
+Swampy John |SWJ |SNOW |5500 |41.40 |-122.99 |1951 |CA
+Sweetwater |SWT |SNOW |5850 |41.38 |-122.54 |1936 |CA
+Talbot Camp |TBC |SNOW |5750 |39.19 |-120.38 |1940 |CA
+Tamarack Creek |TMK |SNOW |7250 |37.18 |-119.21 |1960 |CA
+Tamarack Flat |TMF |SNOW |6550 |38.80 |-120.10 |1939 |CA
+Tenaya Lake |TNY |SNOW |8150 |37.84 |-119.45 |1930 |CA
+Thousand Lakes |THL |SNOW |6500 |40.71 |-121.58 |1946 |CA
+Three Lakes |3LK |SNOW |6250 |39.97 |-121.21 |1930 |CA
+Tioga Pass |19M01 |SNOW |9800 |37.92 |-119.25 |1926 |CA
+Tragedy Creek |TRG |SNOW |8150 |38.63 |-120.15 |1965 |CA
+Trailhead |TRL |SNOW |9100 |36.34 |-118.16 |1982 |CA
+Truckee, Upper |19L01 |SNOW |6396 |38.88 |-119.98 |1930 |CA
+Tuolumne Meadows |TUM |SNOW |8600 |37.87 |-119.35 |1930 |CA
+Tyndall Creek |TND |SNOW |10650 |36.63 |-118.39 |1949 |CA
+Upper Burnt Corral |UBC |SNOW |9700 |37.18 |-118.94 |1927 |CA
+Vernon Lake |VNN |SNOW |6700 |38.02 |-119.72 |1947 |CA
+Volcanic Knob |VLC |SNOW |10050 |37.39 |-118.90 |1946 |CA
+Wabena Meadows |WBM |SNOW |6300 |39.23 |-120.40 |1937 |CA
+Ward Creek #2 |20K17 |SNOW |7000 |39.14 |-120.22 |1913 |CA
+Warner Creek |WRN |SNOW |5100 |40.39 |-121.31 |1930 |CA
+Webber Lake |20K02 |SNOW |7000 |39.48 |-120.43 |1925 |CA
+Webber Peak |20K01 |SNOW |7800 |39.48 |-120.44 |1922 |CA
+Whalan |WHN |SNOW |5400 |41.15 |-122.45 |1940 |CA
+Wheeler Lake |WHE |SNOW |7800 |38.52 |-119.99 |1937 |CA
+Willow Flat |19L09 |SNOW |8245 |38.26 |-119.46 |1925 |CA
+Wilma Lake |WLW |SNOW |8000 |38.08 |-119.63 |1946 |CA
+Wolford Cabin |WLC |SNOW |6150 |41.20 |-122.83 |1949 |CA
+Woodchuck Meadow |WDH |SNOW |8800 |37.02 |-118.91 |1930 |CA
+Wrights Lake |WRG |SNOW |6900 |38.85 |-120.23 |1956 |CA
+Yuba Pass |YBP |SNOW |6700 |39.62 |-120.49 |1937 |CA
+Feather River Meadow |FEM |SNOW |5400 |40.35 |-121.42 |1930 |CA
+Gin Flat (course) |GFL |SNOW |7000 |37.77 |-119.77 |1930 |CA
+Horse Corral Meadow |HCM |SNOW |7600 |36.75 |-118.75 |1930 |CA
+Lake Thomas A Edison |THE |SNOW |7800 |37.38 |-119.02 |2016 |CA
+Long Meadow (kings R) |LMD |SNOW |8500 |37.13 |-118.92 |1930 |CA
+Lower Relief Valley |REL |SNOW |8100 |38.24 |-119.76 |1930 |CA
+New Grace Meadow |19L36 |SNOW |8900 |38.15 |-119.62 |1966 |CA
+North Fork Sacramento R |NFS |SNOW |6900 |41.31 |-122.49 |1936 |CA
+Old Enterprise Mill |OEM |SNOW |6600 |36.24 |-118.68 |1937 |CA
+Quinn Ranger Station |QRS |SNOW |8350 |36.33 |-118.57 |1930 |CA
+Rattlesnake Creek Ba |RTT |SNOW |9900 |36.98 |-118.72 |1973 |CA
+Sand Flat (course) |SFT |SNOW |6800 |41.35 |-122.25 |1945 |CA
+Silver Lake Meadows |21J01 |SNOW |6450 |40.50 |-121.15 |1940 |CA
+State Line Am (Ca) |20H01 |SNOW |5690 |41.99 |-120.72 |1958 |CA
+Upper Carson Pass |19L04 |SNOW |8500 |38.70 |-119.98 |1930 |CA
+Upper Kibbie Ridge |UKR |SNOW |6700 |38.04 |-119.89 |1937 |CA
+Virginia Lakes Ridge |19L22 |SNOW |9400 |38.08 |-119.25 |1969 |CA
+Antero |05L05 |SNOW |9300 |38.92 |-105.97 |1949 |CO
+Antero Reservoir |05L06 |SNOW |9000 |39.00 |-105.88 |1983 |CO
+Baltimore |05K23 |SNOW |8800 |39.90 |-105.58 |1961 |CO
+Bennett Creek |05J33 |SNOW |9200 |40.67 |-105.62 |1966 |CO
+Berthoud Falls |05K13 |SNOW |10500 |39.78 |-105.78 |1951 |CO
+Berthoud Pass |05K03 |SNOW |9700 |39.83 |-105.75 |1936 |CO
+Big South |05J03 |SNOW |8600 |40.62 |-105.82 |1936 |CO
+Blue River |06K21 |SNOW |10500 |39.38 |-106.05 |1957 |CO
+Boulder Falls |05J25 |SNOW |10000 |40.02 |-105.57 |1952 |CO
+Brown Cabin |05M04 |SNOW |9600 |37.55 |-105.40 |1965 |CO
+Butterhill |06J37 |SNOW |7880 |40.93 |-106.98 |1976 |CO
+Cameron Pass |05J01 |SNOW |10285 |40.52 |-105.89 |1936 |CO
+Chambers Lake |05J02 |SNOW |9000 |40.62 |-105.83 |1936 |CO
+Columbine Ditch |06K47 |SNOW |11576 |39.38 |-106.25 |2004 |CO
+Columbine Lodge |06J03 |SNOW |9160 |40.40 |-106.60 |1936 |CO
+Como |05K25 |SNOW |10370 |39.35 |-105.92 |1967 |CO
+Copeland Lake |05J18 |SNOW |8600 |40.20 |-105.57 |1949 |CO
+Corral Creek |06J17 |SNOW |9700 |40.15 |-106.15 |1995 |CO
+Crested Butte |07L01 |SNOW |8920 |38.88 |-107.00 |1936 |CO
+Cucharas Creek |05M12 |SNOW |9700 |37.33 |-105.08 |1974 |CO
+Cumbres Pass |06M07 |SNOW |10020 |37.02 |-106.45 |1936 |CO
+Deadman Hill |05J06 |SNOW |10220 |40.80 |-105.77 |1937 |CO
+Deer Ridge |05J17 |SNOW |9000 |40.40 |-105.63 |1949 |CO
+Eleven Mile |05L07 |SNOW |8590 |38.95 |-105.53 |1983 |CO
+Empire #2 |05K29 |SNOW |9680 |39.77 |-105.78 |1972 |CO
+Ewing Upper |06K48 |SNOW |11270 |39.37 |-106.28 |2006 |CO
+Geneva Park |05K11 |SNOW |9600 |39.52 |-105.72 |1949 |CO
+Gore Pass |06J11 |SNOW |9400 |40.08 |-106.55 |1951 |CO
+Granby |05J16 |SNOW |8600 |40.15 |-106.00 |1949 |CO
+Grayback |06M21 |SNOW |11600 |37.47 |-106.53 |1967 |CO
+Groundhog |08M03 |SNOW |8940 |37.80 |-108.27 |1975 |CO
+Hagerman Tunnel |06K42 |SNOW |11150 |39.25 |-106.50 |1981 |CO
+Hidden Valley |05J13 |SNOW |9480 |40.40 |-105.65 |1941 |CO
+Hourglass Lake |05J11 |SNOW |9360 |40.58 |-105.63 |1938 |CO
+Ironton Park |07M06 |SNOW |9600 |37.97 |-107.67 |1937 |CO
+Jones Pass |05K21 |SNOW |10400 |39.77 |-105.90 |1957 |CO
+Keystone |07L04 |SNOW |9960 |38.87 |-107.03 |1961 |CO
+La Veta Pass |05M01 |SNOW |9440 |37.60 |-105.20 |1938 |CO
+Lake City |07M08 |SNOW |10160 |37.98 |-107.25 |1948 |CO
+Lake Irene |05J10 |SNOW |10700 |40.42 |-105.82 |1938 |CO
+Lapland |05K07 |SNOW |9300 |39.89 |-105.89 |1938 |CO
+Left Hand |05J44 |SNOW |9900 |40.08 |-105.53 |2008 |CO
+Lemon Reservoir |07M23 |SNOW |8700 |37.45 |-107.67 |1968 |CO
+Longs Peak |05J22 |SNOW |10500 |40.27 |-105.58 |1951 |CO
+Lostman |06K49 |SNOW |10626 |39.12 |-106.62 |2006 |CO
+Love Lake |07M10 |SNOW |10000 |37.67 |-107.02 |1962 |CO
+Mc Intyre |05J15 |SNOW |9100 |40.78 |-105.93 |1949 |CO
+Mc Kenzie Gulch |06K28 |SNOW |8500 |39.50 |-106.75 |1961 |CO
+Mesa Lakes |08K04 |SNOW |10000 |39.05 |-108.08 |1937 |CO
+Milner Pass |05J24 |SNOW |9750 |40.40 |-105.83 |1952 |CO
+Mosquito Creek |06K34 |SNOW |10980 |39.28 |-106.13 |1967 |CO
+Nast Lake |06K06 |SNOW |8700 |39.30 |-106.60 |1936 |CO
+Park Cone |06L02 |SNOW |9600 |38.82 |-106.58 |1936 |CO
+Park View |06J02 |SNOW |9160 |40.37 |-106.10 |1936 |CO
+Pinos Mill |06M24 |SNOW |10000 |37.05 |-106.42 |1969 |CO
+Platoro |06M09 |SNOW |9880 |37.35 |-106.55 |1949 |CO
+Porcupine |07M20 |SNOW |10280 |37.85 |-107.17 |1951 |CO
+Ranch Creek |05K18 |SNOW |9400 |39.93 |-105.73 |1957 |CO
+Red Feather |05J20 |SNOW |9000 |40.82 |-105.65 |1949 |CO
+Rio Blanco |07J01 |SNOW |8500 |40.03 |-107.28 |1936 |CO
+Saint Elmo |06L05 |SNOW |10400 |38.70 |-106.37 |1949 |CO
+Santa Maria |07M17 |SNOW |9600 |37.82 |-107.12 |1939 |CO
+Sawtooth |05J45 |SNOW |9740 |40.13 |-105.58 |2002 |CO
+Shrine Pass |06K09 |SNOW |10700 |39.53 |-106.22 |1942 |CO
+Silver Lakes |06M04 |SNOW |9500 |37.38 |-106.40 |1937 |CO
+Snake River |05K16 |SNOW |10000 |39.63 |-105.90 |1951 |CO
+Sundance |05K22 |SNOW |11100 |39.57 |-105.73 |1979 |CO
+Telluride |07M02 |SNOW |8800 |37.93 |-107.80 |1936 |CO
+Tennessee Pass #2 |06K25 |SNOW |10280 |39.35 |-106.35 |1983 |CO
+Trout Lake #2 |07M28 |SNOW |9780 |37.83 |-107.88 |1983 |CO
+Twin Lakes Tunnel |06K03 |SNOW |10450 |39.08 |-106.53 |1937 |CO
+Upper San Juan |06M03 |SNOW |10200 |37.48 |-106.83 |1936 |CO
+Ute Creek |05M17 |SNOW |10650 |37.62 |-105.37 |1996 |CO
+Vasquez |05K19 |SNOW |9600 |39.85 |-105.82 |1957 |CO
+Weston |06K26 |SNOW |9300 |39.07 |-106.02 |1982 |CO
+Wild Basin |05J05 |SNOW |9600 |40.20 |-105.60 |1936 |CO
+Willow Creek Pass |06J05 |SNOW |9540 |40.35 |-106.10 |1938 |CO
+Wurtz Lower |06K51 |SNOW |10690 |39.39 |-106.36 |2004 |CO
+Wurtz Middle |06K52 |SNOW |10436 |39.41 |-106.37 |2004 |CO
+Yampa View |06J10 |SNOW |8200 |40.37 |-106.77 |1951 |CO
+Cochetopa Pass |06L06 |SNOW |10000 |38.17 |-106.60 |1949 |CO
+Horseshoe Mountain |06K35 |SNOW |11220 |39.20 |-106.13 |1967 |CO
+Independence Pass |06K04 |SNOW |10600 |39.07 |-106.62 |1936 |CO
+Long Draw Reservoir |05J27 |SNOW |9980 |40.51 |-105.77 |1971 |CO
+Middle Fork Campground |06K12 |SNOW |9000 |39.78 |-106.02 |1936 |CO
+Monarch Offshoot |06L09 |SNOW |10500 |38.52 |-106.33 |1941 |CO
+North Inlet Grand Lake |05J09 |SNOW |9000 |40.28 |-105.77 |1938 |CO
+Pool Table Mountain |06M14 |SNOW |9840 |37.80 |-106.80 |1949 |CO
+Porphyry Creek |06L03 |SNOW |10760 |38.48 |-106.33 |1940 |CO
+Trout Creek Pass |06L12 |SNOW |9720 |38.92 |-106.05 |1967 |CO
+University Camp |05J08 |SNOW |10300 |40.03 |-105.57 |1938 |CO
+Winfield Middle |06K50 |SNOW |10340 |38.98 |-106.45 |2010 |CO
+Above Gilmore |13E19 |SNOW |8289 |44.46 |-113.30 |1961 |ID
+Above Roland |15B07 |SNOW |4347 |47.39 |-115.66 |1926 |ID
+Allen Ranch |11G35 |SNOW |6496 |42.79 |-111.43 |1961 |ID
+Bad Bear |15F02 |SNOW |4928 |43.90 |-115.71 |1961 |ID
+Badger Gulch |14G03 |SNOW |6756 |42.10 |-114.17 |1947 |ID
+Battle Creek AM |16G09 |SNOW |5710 |42.48 |-116.33 |1958 |ID
+Benton Meadow |16A02 |SNOW |2375 |48.35 |-116.84 |1936 |ID
+Benton Spring |16A03 |SNOW |4777 |48.35 |-116.77 |1936 |ID
+Big Springs |11E09 |SNOW |6395 |44.48 |-111.27 |1936 |ID
+Blue Ridge |11F17 |SNOW |6870 |43.21 |-111.86 |1961 |ID
+Bogus Basin |16F02 |SNOW |6340 |43.76 |-116.10 |1942 |ID
+Bogus Basin Road |16F04 |SNOW |5568 |43.73 |-116.13 |1955 |ID
+Bone |11F08 |SNOW |6168 |43.30 |-111.79 |1961 |ID
+Boy Scout Camp |13G02 |SNOW |7750 |42.22 |-113.67 |1936 |ID
+Bruno Creek |14E08 |SNOW |7947 |44.35 |-114.53 |1961 |ID
+Bull Basin AM |16G10 |SNOW |5460 |42.35 |-116.97 |1959 |ID
+Camp Creek |12E03 |SNOW |6549 |44.44 |-112.23 |1936 |ID
+Chimney Creek |15F15 |SNOW |6401 |43.43 |-115.03 |1979 |ID
+Copes Camp |13E17 |SNOW |7372 |44.85 |-113.80 |1961 |ID
+Copper Basin |13F02 |SNOW |7619 |43.82 |-113.92 |1936 |ID
+Couch Summit #2 |14F18 |SNOW |6785 |43.52 |-114.80 |1961 |ID
+Cougar Point |14D06 |SNOW |6733 |45.09 |-114.06 |1986 |ID
+Crooked Fork |14C11 |SNOW |3610 |46.52 |-114.69 |1961 |ID
+Daniels Creek |12G12 |SNOW |6277 |42.40 |-112.35 |1961 |ID
+Deadman Gulch |16F01 |SNOW |5246 |43.91 |-116.01 |1949 |ID
+Democrat Creek |16F13 |SNOW |5718 |43.09 |-116.78 |1970 |ID
+Dobson Creek |16F12 |SNOW |7093 |43.08 |-116.83 |1970 |ID
+Dodson Pass |16E15 |SNOW |4318 |44.34 |-116.34 |1996 |ID
+Dry Basin |11G14 |SNOW |7880 |42.26 |-111.60 |1961 |ID
+Dry Fork |13F20 |SNOW |7220 |43.58 |-113.68 |1961 |ID
+East Creek |11G34 |SNOW |7090 |42.53 |-111.97 |1980 |ID
+Emigration Canyon |11G07 |SNOW |6496 |42.36 |-111.51 |1953 |ID
+Fall Creek |11F19 |SNOW |6769 |43.41 |-111.60 |1984 |ID
+Hahn Homestead |13E29 |SNOW |7445 |44.37 |-113.23 |2004 |ID
+Iron Mine Creek |13F10 |SNOW |6300 |43.56 |-113.72 |1958 |ID
+Irving Creek |12E04 |SNOW |7251 |44.46 |-112.61 |1960 |ID
+Jakes Canyon |13E28 |SNOW |9023 |44.79 |-113.35 |1986 |ID
+Johnson Creek |11G36 |SNOW |6730 |42.67 |-111.43 |1980 |ID
+Kellogg Peak |16B05 |SNOW |5560 |47.50 |-116.12 |1928 |ID
+Ketchum R S |14F21 |SNOW |5890 |43.68 |-114.35 |2003 |ID
+Kilgore |11E12 |SNOW |6323 |44.40 |-111.89 |1937 |ID
+Lake Fork |15E01 |SNOW |5312 |44.92 |-115.95 |1936 |ID
+Langford Flat Creek |14G08 |SNOW |5916 |42.13 |-114.38 |1956 |ID
+Latham Springs |11E16 |SNOW |7658 |44.46 |-111.15 |1961 |ID
+Lava Creek |11F15 |SNOW |7100 |43.28 |-111.50 |1961 |ID
+Logger Springs |13G03 |SNOW |8091 |42.15 |-113.73 |1961 |ID
+Lower Pebble |12G06 |SNOW |5948 |42.74 |-112.06 |1961 |ID
+Lucky Dog |11E14 |SNOW |6903 |44.47 |-111.22 |1961 |ID
+Mesa Ditch |16E19 |SNOW |3366 |44.64 |-116.37 |2003 |ID
+Mount Baldy |14F09 |SNOW |8816 |43.66 |-114.41 |1949 |ID
+Mud Creek |11F14 |SNOW |6989 |43.28 |-111.88 |1974 |ID
+Mud Spring |14F20 |SNOW |5656 |43.21 |-114.67 |2004 |ID
+Muldoon |13F05 |SNOW |6355 |43.57 |-113.91 |1953 |ID
+Packsaddle Spring |11F18 |SNOW |8193 |43.72 |-111.36 |1981 |ID
+Pebble Creek |12G02 |SNOW |6513 |42.77 |-112.11 |1945 |ID
+Perreau Meadows |14D05 |SNOW |8590 |45.13 |-114.07 |1961 |ID
+Placer Creek |16E02 |SNOW |5794 |44.81 |-116.69 |1938 |ID
+Red Canyon AM |16G11 |SNOW |6600 |42.43 |-116.85 |1961 |ID
+Roland Summit |15B05 |SNOW |5353 |47.39 |-115.65 |1921 |ID
+Shirts Creek |16E16 |SNOW |3317 |44.42 |-116.44 |1996 |ID
+Skitwish Ridge |16B11 |SNOW |4840 |47.71 |-116.50 |1961 |ID
+Squaw Meadow |15D02 |SNOW |5900 |45.15 |-116.00 |1936 |ID
+State Line |11F01 |SNOW |6660 |43.54 |-111.05 |1936 |ID
+Sublett |12G08 |SNOW |5942 |42.38 |-112.96 |1936 |ID
+Succor Creek AM |16F06 |SNOW |6310 |43.12 |-116.88 |1961 |ID
+Telfer Ranch |13F06 |SNOW |5820 |43.52 |-113.77 |1953 |ID
+Tollgate |15F20 |SNOW |4541 |43.27 |-115.59 |1994 |ID
+Tripod Summit |16E03 |SNOW |5207 |44.29 |-116.13 |1960 |ID
+Upper Elkhorn |12G10 |SNOW |7130 |42.35 |-112.31 |1961 |ID
+Upper Home Canyon |11G26 |SNOW |8583 |42.42 |-111.23 |1961 |ID
+Valley View |11E08 |SNOW |6798 |44.65 |-111.31 |1936 |ID
+Vaught Ranch AM |16G12 |SNOW |5850 |42.49 |-116.44 |1961 |ID
+Webb Creek #2 |16C21 |SNOW |4720 |46.16 |-116.77 |2007 |ID
+Webber Creek |12E05 |SNOW |6884 |44.36 |-112.66 |1960 |ID
+Willow Flat |11G04 |SNOW |6080 |42.14 |-111.63 |1955 |ID
+Worm Creek |11G28 |SNOW |6615 |42.18 |-111.68 |1961 |ID
+Fish Lake Airstrip |15C02 |SNOW |5676 |46.33 |-115.07 |1952 |ID
+Fourth Of July Summit |16B03 |SNOW |3140 |47.62 |-116.52 |1921 |ID
+John Evans Canyon |12G22 |SNOW |5784 |42.22 |-112.46 |2011 |ID
+Little Camas Flat |15F12 |SNOW |4954 |43.32 |-115.40 |1961 |ID
+Lower Sands Creek #2 |16B13 |SNOW |3179 |47.73 |-116.49 |1961 |ID
+McCall U Of I Campus |16E20 |SNOW |5020 |44.93 |-116.08 |2008 |ID
+McRenolds Reservoir |11F12 |SNOW |6736 |43.96 |-111.06 |1961 |ID
+Mores Creek Summit |15F01 |SNOW |6086 |43.93 |-115.67 |1932 |ID
+Morse Creek Sawmill |13E26 |SNOW |7120 |44.65 |-113.75 |1969 |ID
+North Crane Creek |16E17 |SNOW |3481 |44.32 |-116.41 |1996 |ID
+Rattlesnake Spring |15F19 |SNOW |3973 |43.21 |-115.55 |1994 |ID
+Reynolds Mountain |16F08 |SNOW |6745 |43.07 |-116.75 |1970 |ID
+Reynolds West Fork #1 |16F10 |SNOW |6971 |43.07 |-116.81 |1970 |ID
+Reynolds West Fork #2 |16F09 |SNOW |6801 |43.06 |-116.80 |1970 |ID
+Reynolds-Dobson Divide |16F11 |SNOW |7043 |43.08 |-116.82 |1970 |ID
+Sandpoint Exp Stn |16A11 |SNOW |2090 |48.29 |-116.55 |1998 |ID
+Spring Mountain Canyon |13E30 |SNOW |8777 |44.35 |-113.27 |2004 |ID
+Strawberry Creek |11G09 |SNOW |5830 |42.31 |-111.67 |1955 |ID
+Thorson Cabin #2 |17E06 |SNOW |5125 |44.56 |-117.01 |2008 |ID
+Twin Spirit Divide |16B12 |SNOW |3514 |47.91 |-117.00 |1984 |ID
+Arch Falls |10D14 |SNOW |7350 |45.43 |-110.96 |1961 |MT
+Ashley Divide |14A19 |SNOW |4820 |48.20 |-114.51 |1981 |MT
+Baree Creek |15B11 |SNOW |5500 |47.96 |-115.54 |1937 |MT
+Baree Midway |15B16 |SNOW |4600 |47.96 |-115.52 |1966 |MT
+Baree Trail |15B15 |SNOW |3800 |47.95 |-115.49 |1965 |MT
+Basin Creek |12D09 |SNOW |7180 |45.80 |-112.52 |1961 |MT
+Bassoo Peak |14B03 |SNOW |5150 |47.86 |-114.76 |1961 |MT
+Big Snowy |09C05 |SNOW |7150 |46.78 |-109.53 |1966 |MT
+Black Mountain |12C19 |SNOW |7750 |46.32 |-112.58 |1976 |MT
+Blacktail |14B04 |SNOW |5650 |47.98 |-114.35 |1987 |MT
+Bots Sots |09D14 |SNOW |7750 |45.17 |-109.48 |1961 |MT
+Boxelder Creek |09A08 |SNOW |5100 |48.17 |-109.60 |1973 |MT
+Branham Lakes |11D14 |SNOW |8850 |45.52 |-111.99 |1961 |MT
+Bristow Creek |15A10 |SNOW |3900 |48.56 |-115.39 |1969 |MT
+Bull Mountain |12D08 |SNOW |6600 |45.92 |-112.77 |1974 |MT
+Cabin Creek |12B06 |SNOW |5200 |47.70 |-112.88 |1949 |MT
+Camp Senia |09D01 |SNOW |7890 |45.17 |-109.47 |1937 |MT
+Chicago Ridge |15B22 |SNOW |5800 |48.06 |-115.70 |2003 |MT
+Chicken Creek |14A15 |SNOW |4060 |48.62 |-114.53 |1977 |MT
+Colley Creek |10D30 |SNOW |6300 |45.27 |-110.46 |1961 |MT
+Cottonwood Creek |12C17 |SNOW |6400 |46.36 |-112.57 |1974 |MT
+Coyote Hill |13B10 |SNOW |4200 |47.33 |-113.58 |1947 |MT
+Crevice Mountain |10D05 |SNOW |8400 |45.04 |-110.61 |1935 |MT
+Discovery Basin |13C42 |SNOW |7050 |46.26 |-113.23 |1961 |MT
+Dix Hill |12C15 |SNOW |6400 |46.70 |-112.55 |1961 |MT
+Eagle Creek |10C13 |SNOW |7000 |46.22 |-110.43 |1961 |MT
+East Fork R.S. |13D01 |SNOW |5400 |45.92 |-113.73 |1937 |MT
+El Dorado Mine |13C09 |SNOW |7800 |46.43 |-113.06 |1949 |MT
+Elk Peak |10C07 |SNOW |8000 |46.48 |-110.72 |1961 |MT
+Fatty Creek |13B04 |SNOW |5500 |47.69 |-113.93 |1961 |MT
+Fish Creek |12D10 |SNOW |8000 |45.79 |-112.50 |1961 |MT
+Fleecer Ridge |12D07 |SNOW |7500 |45.87 |-112.83 |1961 |MT
+Foolhen |13D21 |SNOW |8280 |45.76 |-113.18 |1961 |MT
+Forest Lake |10C14 |SNOW |6400 |46.25 |-110.44 |1961 |MT
+Four Mile |11D12 |SNOW |6900 |45.52 |-111.89 |1961 |MT
+Freight Creek |12A01 |SNOW |6000 |48.01 |-112.82 |1948 |MT
+Grasshopper |10C02 |SNOW |7000 |46.53 |-110.77 |1938 |MT
+Haymaker |10C11 |SNOW |8050 |46.71 |-110.22 |1961 |MT
+Hebgen Dam |11E05 |SNOW |6550 |44.87 |-111.34 |1937 |MT
+Highwood Divide |10B02 |SNOW |5650 |47.41 |-110.57 |1974 |MT
+Holbrook |13B13 |SNOW |4530 |47.58 |-113.31 |1951 |MT
+Intergaard |13C04 |SNOW |6450 |46.21 |-113.28 |1936 |MT
+Johnson Park |10C12 |SNOW |6450 |46.63 |-110.35 |1961 |MT
+Kings Hill |10C01 |SNOW |7500 |46.84 |-110.69 |1934 |MT
+Kishenehn |14A06 |SNOW |3890 |48.96 |-114.42 |1946 |MT
+Little Park |11D10 |SNOW |7400 |45.31 |-111.35 |1961 |MT
+Logan Creek |14A05 |SNOW |4300 |48.33 |-114.64 |1937 |MT
+Marias Pass |13A05 |SNOW |5250 |48.32 |-113.36 |1934 |MT
+Mill Creek |10D19 |SNOW |7500 |45.26 |-110.41 |1961 |MT
+Mineral Creek |13A16 |SNOW |4000 |48.76 |-113.82 |1939 |MT
+Mudd Lake |13D25 |SNOW |7650 |45.92 |-113.42 |1961 |MT
+New World |10D01 |SNOW |6900 |45.56 |-110.93 |1939 |MT
+Nez Perce Pass |14D01 |SNOW |6570 |45.72 |-114.50 |1937 |MT
+Ophir Park |12C16 |SNOW |7150 |46.71 |-112.54 |1961 |MT
+Pipestone Pass |12D01 |SNOW |7200 |45.85 |-112.46 |1938 |MT
+Ptarmigan No 8 |13A08 |SNOW |5800 |48.83 |-113.72 |1937 |MT
+Red Mountain |15A01 |SNOW |6000 |48.91 |-115.36 |1937 |MT
+Revais |14B06 |SNOW |4800 |47.24 |-114.37 |1989 |MT
+Rock Creek Mdws |15B24 |SNOW |3400 |48.04 |-115.67 |2003 |MT
+Rocky Boy |09A01 |SNOW |4700 |48.17 |-109.65 |1941 |MT
+Smuggler Mine |12D05 |SNOW |6960 |45.48 |-112.04 |1961 |MT
+Stemple Pass |12C01 |SNOW |6600 |46.89 |-112.50 |1934 |MT
+Storm Lake |13C07 |SNOW |7780 |46.09 |-113.27 |1939 |MT
+Stryker Basin |14A17 |SNOW |6180 |48.68 |-114.66 |1977 |MT
+Taylor Road |09A07 |SNOW |4080 |48.26 |-109.70 |1973 |MT
+Ten Mile Lower |12C02 |SNOW |6600 |46.46 |-112.29 |1935 |MT
+Ten Mile Middle |12C03 |SNOW |6800 |46.44 |-112.29 |1934 |MT
+Timberline Creek |09D04 |SNOW |8850 |45.15 |-109.48 |1961 |MT
+Trinkus Lake |13B01 |SNOW |6100 |47.95 |-113.75 |1949 |MT
+Truman Creek |14A18 |SNOW |4060 |48.02 |-114.41 |1981 |MT
+Weasel Divide |14A07 |SNOW |5450 |48.96 |-114.76 |1937 |MT
+Wrong Creek |12B04 |SNOW |5700 |47.87 |-112.93 |1949 |MT
+Wrong Ridge |12B03 |SNOW |6800 |47.91 |-112.92 |1949 |MT
+Brush Creek Timber |14A13 |SNOW |5000 |48.37 |-114.87 |1949 |MT
+Chessman Reservoir |12C05 |SNOW |6200 |46.48 |-112.19 |1936 |MT
+Copper Mountain |12C09 |SNOW |7700 |46.02 |-112.42 |1961 |MT
+Desert Mountain |13A02 |SNOW |5600 |48.41 |-113.95 |1937 |MT
+Elk Horn Springs |13D15 |SNOW |7800 |45.47 |-113.10 |1935 |MT
+Government Saddle |15B23 |SNOW |5270 |48.06 |-115.74 |2003 |MT
+Griffin Creek Divide |14A09 |SNOW |5150 |48.20 |-114.73 |1960 |MT
+Hell Roaring Divide |14A03 |SNOW |5770 |48.50 |-114.36 |1942 |MT
+Herrig Junction |14A16 |SNOW |4850 |48.69 |-114.62 |1961 |MT
+Highwood Station |10B01 |SNOW |4600 |47.48 |-110.61 |1974 |MT
+Iceberg Lake No 3 |13A03 |SNOW |5600 |48.82 |-113.71 |1922 |MT
+Jahnke Lake Trail |13D27 |SNOW |7200 |45.22 |-113.50 |1948 |MT
+Josephine Lower No 9 |13A14 |SNOW |4900 |48.78 |-113.68 |1955 |MT
+Lakeview Canyon |11E04 |SNOW |6930 |44.59 |-111.82 |1948 |MT
+Lubrecht Forest No 3 |13C21 |SNOW |5450 |46.87 |-113.42 |1951 |MT
+Lubrecht Forest No 4 |13C22 |SNOW |4650 |46.87 |-113.46 |1951 |MT
+Lubrecht Forest No 6 |13C08 |SNOW |4040 |46.90 |-113.45 |1951 |MT
+Lubrecht Hydroplot |13C37 |SNOW |4200 |46.88 |-113.37 |1961 |MT
+Middle Mill Creek |11D15 |SNOW |7850 |45.49 |-111.99 |1961 |MT
+Moulton Reservoir |12C20 |SNOW |6850 |46.09 |-112.51 |1976 |MT
+Mount Allen No 7 |13A07 |SNOW |5700 |48.76 |-113.69 |1922 |MT
+Nez Perce Creek |12C10 |SNOW |6600 |46.10 |-112.34 |1961 |MT
+North Fork Jocko |13B07 |SNOW |6330 |47.27 |-113.76 |1941 |MT
+Piegan Pass No 6 |13A06 |SNOW |5500 |48.77 |-113.69 |1922 |MT
+Potomageton Park |11E21 |SNOW |7150 |44.92 |-111.36 |1961 |MT
+Rock Creek Meadow |11D21 |SNOW |8160 |45.18 |-111.08 |1961 |MT
+Slag-A-Melt Lake |13D24 |SNOW |8750 |45.36 |-113.72 |1961 |MT
+Slide Rock Mountain |13C02 |SNOW |7100 |46.59 |-113.57 |1937 |MT
+Spotted Bear Mountain |13B02 |SNOW |5900 |47.92 |-113.47 |1948 |MT
+Twenty-One Mile |11E06 |SNOW |7150 |44.92 |-111.05 |1937 |MT
+Upper Holland Lake |13B05 |SNOW |6200 |47.46 |-113.52 |1948 |MT
+West Yellowstone |11E07 |SNOW |6700 |44.66 |-111.09 |1934 |MT
+Aztec #2 |05N21 |SNOW |9880 |36.63 |-105.18 |1993 |NM
+Boon |08P06 |SNOW |8140 |35.28 |-108.40 |1994 |NM
+Bowl Canyon |08N04 |SNOW |8980 |36.03 |-108.88 |1986 |NM
+Dan Valley |08P05 |SNOW |7640 |35.22 |-108.43 |1994 |NM
+Hematite Park |05N03 |SNOW |9500 |36.67 |-105.37 |1937 |NM
+Hidden Valley |08N05 |SNOW |8480 |36.27 |-109.00 |1988 |NM
+Mcgaffey |08P07 |SNOW |8120 |35.33 |-108.45 |1999 |NM
+Missionary Spring |08N06 |SNOW |7940 |36.10 |-108.83 |1991 |NM
+Ojo Redondo |08P02 |SNOW |8200 |35.17 |-108.18 |1982 |NM
+Palo |05N13 |SNOW |9300 |36.41 |-105.33 |1972 |NM
+PanchueLa |05P02 |SNOW |8400 |35.83 |-105.67 |1937 |NM
+Rio En Medio |05P05 |SNOW |10300 |35.80 |-105.80 |1950 |NM
+San Antonio Sink |06N15 |SNOW |9200 |36.87 |-106.23 |1969 |NM
+Shuree |05N23 |SNOW |10097 |36.78 |-105.23 |1998 |NM
+State Line |09S08 |SNOW |8000 |33.80 |-109.05 |1938 |NM
+Taos Canyon |05N02 |SNOW |9100 |36.41 |-105.33 |1937 |NM
+Taos Powderhorn |05N14 |SNOW |11250 |36.58 |-105.46 |1974 |NM
+Tres Ritos |05N04 |SNOW |8600 |36.13 |-105.53 |1938 |NM
+Whiskey Creek |08N03 |SNOW |9050 |36.18 |-108.95 |1986 |NM
+American Beauty - Aerial Marker |15J17 |SNOW |7545 |40.53 |-115.46|1964 |NV
+Baker Creek #1 |14L01 |SNOW |7950 |38.97 |-114.25 |1942 |NV
+Baker Creek #2 |14L02 |SNOW |8950 |38.97 |-114.28 |1942 |NV
+Baker Creek #3 |14L03 |SNOW |9250 |38.97 |-114.29 |1942 |NV
+Bald Mt. |19H01 |SNOW |6720 |41.78 |-119.62 |1940 |NV
+Big Creek Mine |17K02 |SNOW |7715 |39.31 |-117.12 |1942 |NV
+Clear Creek |19K05 |SNOW |7284 |39.11 |-119.89 |1949 |NV
+Columbia Basin - Aerial Marker |16H06 |SNOW |6483 |41.67 |-116.07|1964 |NV
+Defiance Mines, Aerial Marker |14K09 |SNOW |9302 |39.09 |-114.90|1970 |NV
+Dry Creek |15J03 |SNOW |6500 |40.86 |-115.22 |1933 |NV
+Fry Canyon |15H07 |SNOW |6700 |41.58 |-115.93 |1934 |NV
+Glenbrook #2 |19K06 |SNOW |6966 |39.08 |-119.90 |1942 |NV
+Gold Creek |15H05 |SNOW |6695 |41.75 |-115.68 |1932 |NV
+Harrison Pass #1 |15J10 |SNOW |6500 |40.32 |-115.56 |1919 |NV
+Jack Creek, Lower |16H01 |SNOW |7125 |41.53 |-116.03 |1921 |NV
+Jakes Creek - Aerial Marker |14H04 |SNOW |7380 |41.57 |-115.03|1983 |NV
+Kyle Canyon |15N05 |SNOW |8300 |36.27 |-115.67 |1941 |NV
+Lamoille #1 |15J04 |SNOW |7265 |40.66 |-115.43 |1922 |NV
+Lamoille #5 |15J08 |SNOW |8830 |40.60 |-115.38 |1935 |NV
+Lee Canyon #2 |15N03 |SNOW |9165 |36.31 |-115.70 |1941 |NV
+Lee Canyon #3 |15N08 |SNOW |8620 |36.31 |-115.67 |1962 |NV
+Little Bally Mt. - Aerial Marker |19H04 |SNOW |6580 |41.83 |-119.87|1961 |NV
+Little Valley |19K03 |SNOW |6510 |39.25 |-119.88 |1942 |NV
+Merritt Mountain - Aerial Marker |15H20 |SNOW |6915 |41.89 |-115.86|1965 |NV
+Midas |16H03 |SNOW |6630 |41.27 |-116.80 |1940 |NV
+Mount Rose |19K02 |SNOW |9200 |39.35 |-119.90 |1910 |NV
+Murray Summit |14K03 |SNOW |7285 |39.22 |-114.96 |1940 |NV
+ONeil Creek |15H25 |SNOW |6430 |41.86 |-115.08 |1970 |NV
+Pole Canyon #2 |15J20 |SNOW |7700 |40.86 |-115.12 |1977 |NV
+Quinn Ridge AM |17H06 |SNOW |6270 |41.96 |-117.34 |1959 |NV
+Robinson Lake - Aerial Marker |15J16 |SNOW |9194 |40.73 |-115.28|1966 |NV
+Robinson Summit |15K01 |SNOW |7600 |39.41 |-115.08 |1949 |NV
+Silver Creek #2 |14K07 |SNOW |8200 |39.23 |-114.24 |1957 |NV
+Smith Creek |15J19 |SNOW |7588 |40.45 |-115.51 |1977 |NV
+Stag Mountain AM |15H19 |SNOW |7640 |41.41 |-115.45 |1964 |NV
+Tent Mtn., Lower - Aerial Marker |15J22 |SNOW |7100 |40.98 |-115.17|1968 |NV
+Tent Mtn., Upper- Aerial Marker |15J23 |SNOW |8333 |40.97 |-115.16|1968 |NV
+Tremewan Ranch |15H08 |SNOW |5700 |41.29 |-115.79 |1932 |NV
+Trout Creek, Lower |15H10 |SNOW |6735 |41.07 |-115.10 |1935 |NV
+Trout Creek, Upper - AM |15H11 |SNOW |8280 |41.05 |-115.10 |1935|NV
+White River #1 |15L01 |SNOW |7367 |38.95 |-115.38 |1959 |NV
+White River Nv |15L01S |SNTL |7367 |38.95 |-115.38 |2012 |NV
+Corduroy Flat Aerial |15L02 |SNOW |8640 |39.00 |-115.42 |1983 |NV
+Snow Storm Mountain-Am |16H11 |SNOW |7403 |41.34 |-116.98 |1983 |NV
+Bald Mtn Am OR |17D10 |SNOW |6600 |45.21 |-117.66 |1960 |OR
+Bald Peter |21E22 |SNOW |5600 |44.68 |-121.69 |1973 |OR
+Barley Camp AM |20G23 |SNOW |6890 |42.02 |-120.11 |1981 |OR
+Beaver Creek #1 |21D36 |SNOW |4210 |45.10 |-121.61 |1982 |OR
+Beaver Creek #2 |21D37 |SNOW |4220 |45.10 |-121.61 |1982 |OR
+Big Sheep AM |17D14 |SNOW |6230 |45.17 |-117.09 |1963 |OR
+Buck Pasture AM |18F06 |SNOW |5740 |43.03 |-118.41 |1959 |OR
+Buckskin Lake AM |18F10 |SNOW |5190 |43.03 |-118.95 |1962 |OR
+Bully Creek AM |18E21 |SNOW |5300 |44.12 |-118.13 |1958 |OR
+Caliban (Alt.) |22G34 |SNOW |6500 |42.09 |-122.71 |1974 |OR
+Call Meadows AM |18F07 |SNOW |5380 |43.81 |-118.79 |1959 |OR
+Camas Creek #3 |20G24 |SNOW |5860 |42.22 |-120.29 |1990 |OR
+Colvin Creek AM |20G18 |SNOW |6520 |42.46 |-120.19 |1966 |OR
+Cox Flat AM |20G11 |SNOW |5750 |42.37 |-120.60 |1958 |OR
+Derr |19E03 |SNOW |5860 |44.45 |-119.93 |1937 |OR
+Dog Hollow AM |21G06 |SNOW |4920 |42.13 |-121.12 |1958 |OR
+Dooley Mountain |17E04 |SNOW |5440 |44.57 |-117.84 |1939 |OR
+East Eagle |17D19 |SNOW |4400 |45.33 |-117.32 |1991 |OR
+Eldorado Pass |18E20 |SNOW |4630 |44.34 |-118.08 |1955 |OR
+Finley Corrals AM |20G14 |SNOW |6000 |42.45 |-120.78 |1958 |OR
+Flag Prairie AM |18E26 |SNOW |4720 |44.14 |-118.32 |1961 |OR
+Govt Corrals AM |18G04A |SNOW |7400 |42.04 |-118.32 |2002 |OR
+Hart Mountain AM |19G01 |SNOW |6430 |42.48 |-119.72 |1939 |OR
+High Prairie |21D38 |SNOW |6080 |45.35 |-121.53 |1984 |OR
+Howard Prairie |22G26 |SNOW |4580 |42.21 |-122.37 |1959 |OR
+Hungry Flat |21F04 |SNOW |4400 |43.99 |-121.44 |1952 |OR
+Indian Ridge |18D24 |SNOW |4908 |45.94 |-118.01 |2007 |OR
+King Mountain 1 |23G08 |SNOW |4760 |42.72 |-123.20 |1961 |OR
+King Mountain 3 |23G10 |SNOW |3680 |42.74 |-123.17 |1961 |OR
+King Mountain 4 |23G11 |SNOW |3050 |42.75 |-123.18 |1967 |OR
+Little Alps |18E23 |SNOW |6360 |44.97 |-118.18 |1959 |OR
+Louse Canyon AM |17G04 |SNOW |6530 |42.07 |-117.55 |1959 |OR
+Marks Creek |20E01 |SNOW |4580 |44.49 |-120.39 |1938 |OR
+Mill Creek Meadow |21D39 |SNOW |4400 |45.45 |-121.52 |1985 |OR
+Mirror Lake AM |17D13 |SNOW |8120 |45.18 |-117.31 |1963 |OR
+Ochoco Meadows |20E02 |SNOW |5190 |44.43 |-120.34 |1928 |OR
+Park H.q. Rev |22G05 |SNOW |6570 |42.90 |-122.14 |1943 |OR
+Patton Meadows AM |20G17 |SNOW |6800 |42.25 |-120.62 |1963 |OR
+Pueblo Summit AM |18G09 |SNOW |6970 |42.10 |-118.69 |1982 |OR
+Racing Creek |21E23 |SNOW |5160 |44.69 |-121.66 |1973 |OR
+Red Butte 1 |22F23 |SNOW |4460 |43.17 |-122.88 |1960 |OR
+Red Butte 2 |22F24 |SNOW |4050 |43.19 |-122.86 |1960 |OR
+Red Butte 3 |22F25 |SNOW |3500 |43.20 |-122.87 |1961 |OR
+Red Butte 4 |22F26 |SNOW |3000 |43.20 |-122.85 |1961 |OR
+Rogger Meadow AM |20G19 |SNOW |6360 |42.17 |-120.25 |1976 |OR
+Sherman Valley AM |20G10 |SNOW |6640 |42.36 |-120.23 |1958 |OR
+Silver Burn |22G02 |SNOW |3680 |42.93 |-122.40 |1937 |OR
+Ski Bowl Road |22G32 |SNOW |6070 |42.07 |-122.69 |1966 |OR
+Standley AM |17D11 |SNOW |7360 |45.38 |-117.57 |1961 |OR
+Sycan Flat AM |21G09 |SNOW |5580 |42.86 |-121.00 |1958 |OR
+Tangent |21F03 |SNOW |5470 |43.99 |-121.54 |1952 |OR
+Trout Creek AM |18G05 |SNOW |7890 |42.04 |-118.24 |1959 |OR
+Tv Ridge AM |17D16 |SNOW |7050 |45.40 |-117.39 |1965 |OR
+V Lake AM |18G07 |SNOW |6600 |42.47 |-118.72 |1959 |OR
+Anthony Lake (Rev) |18E31 |SNOW |7160 |44.96 |-118.23 |2008 |OR
+Barney Creek (New) |18E37 |SNOW |5830 |44.36 |-118.31 |2008 |OR
+Bear Flat Meadow AM |20G15 |SNOW |6580 |42.42 |-120.47 |1958 |OR
+Beaver Dam Creek |22G28 |SNOW |5120 |42.30 |-122.29 |1960 |OR
+Boulder Creek AM |18E35 |SNOW |5710 |44.40 |-118.03 |1980 |OR
+Deadwood Junction |22G27 |SNOW |4660 |42.29 |-122.38 |1960 |OR
+Little Antone (Alt.) |18E34 |SNOW |4560 |44.97 |-118.12 |1974 |OR
+Lookout Butte AM |17G06 |SNOW |5740 |42.13 |-117.18 |1961 |OR
+Marys Peak (Rev.) |23E04 |SNOW |3580 |44.51 |-123.56 |1938 |OR
+Mount Ashland Switchback |22G31 |SNOW |6430 |42.09 |-122.69 |1966 |OR
+New Dutchman #3 |21E26 |SNOW |6320 |44.01 |-121.66 |1990 |OR
+Oregon Canyon AM |18G11 |SNOW |7050 |42.11 |-118.05 |1959 |OR
+Siskiyou Summit Rev. #2 |22G43 |SNOW |4560 |42.07 |-122.61 |1974 |OR
+West Eagle Meadows AM |17D17 |SNOW |5500 |45.08 |-117.48 |1976 |OR
+Alta Central |11J61 |SNOW |8800 |40.59 |-111.64 |1984 |UT
+Birch Crossing |12M16 |SNOW |8045 |37.74 |-112.84 |1965 |UT
+Brighton Cabin |11J58 |SNOW |8700 |40.60 |-111.58 |1961 |UT
+Bryce Canyon |12M08 |SNOW |8000 |37.63 |-112.17 |1935 |UT
+Buckboard Flat |09M01 |SNOW |8998 |37.87 |-109.45 |1930 |UT
+Fish Lake |11L03 |SNOW |8818 |38.51 |-111.77 |1931 |UT
+Garden City Summit |11H07 |SNOW |7600 |41.92 |-111.47 |1931 |UT
+Gooseberry RS |11L02 |SNOW |8374 |38.79 |-111.69 |1930 |UT
+Hidden Springs |11J59 |SNOW |5500 |40.82 |-111.81 |1982 |UT
+Killyon Canyon |11J60 |SNOW |6300 |40.80 |-111.70 |1986 |UT
+Lambs Canyon |11J41 |SNOW |7463 |40.72 |-111.62 |1969 |UT
+Lasal Mountain-Lower |09L01 |SNOW |8825 |38.48 |-109.29 |1931 |UT
+Mill Creek |11J44 |SNOW |6950 |40.68 |-111.67 |1974 |UT
+Mill D-South Fork |11J10 |SNOW |7400 |40.63 |-111.63 |1935 |UT
+Tall Poles |12M15 |SNOW |8656 |37.72 |-112.84 |1965 |UT
+Thistle Flat |11K35 |SNOW |8858 |39.24 |-111.52 |1956 |UT
+Tony Grove Ranger Station |11H03 |SNOW |6250 |41.88 |-111.57 |1924|UT
+Trial Lake |10J08 |SNOW |9953 |40.68 |-110.95 |1931 |UT
+Vipont |13H03 |SNOW |7670 |41.94 |-113.83 |1962 |UT
+Yankee Reservoir |12M11 |SNOW |8715 |37.75 |-112.77 |1942 |UT
+G.B.R.C. Meadows |11K10 |SNOW |9780 |39.30 |-111.45 |1930 |UT
+Hobble Creek Summit |11J22 |SNOW |7399 |40.19 |-111.36 |1936 |UT
+Huntington-Horseshoe |11K05 |SNOW |9657 |39.61 |-111.30 |1930 |UT
+Alpine Meadow |21B48 |SNOW |3500 |47.78 |-121.70 |1969 |WA
+Baird #2 |17A07 |SNOW |3159 |48.61 |-117.55 |1994 |WA
+Beaver Pass |21A01 |SNOW |3621 |48.88 |-121.26 |1944 |WA
+Boyer Mountain |17A02 |SNOW |5250 |48.19 |-117.43 |1946 |WA
+Browns Pass |19A20 |SNOW |3940 |48.48 |-119.33 |2002 |WA
+Bumping Lake New |21C36 |SNOW |3400 |46.88 |-121.28 |1961 |WA
+Chamokane 2 |18A23 |SNOW |3550 |48.12 |-118.01 |2007 |WA
+Chewelah 2 |17A08 |SNOW |4925 |48.30 |-117.59 |1994 |WA
+City Cabin |21B03 |SNOW |2390 |47.32 |-121.52 |1948 |WA
+Cloudy Pass AM |20A22 |SNOW |6500 |48.21 |-120.92 |1927 |WA
+Cox Valley |23B14 |SNOW |4500 |47.97 |-123.48 |1959 |WA
+Deer Park |23B04 |SNOW |5346 |47.95 |-123.26 |1949 |WA
+Devils Park |20A04 |SNOW |5900 |48.75 |-120.86 |1950 |WA
+Disautel Pass |19A19 |SNOW |3310 |48.28 |-119.15 |2002 |WA
+Dock Butte AM |21A11 |SNOW |3800 |48.63 |-121.80 |1959 |WA
+Dommerie Flats |21B14 |SNOW |2200 |47.22 |-121.05 |1939 |WA
+Duncan Ridge |19A16 |SNOW |5370 |48.86 |-119.80 |1996 |WA
+Fish Lake |21B04 |SNOW |3300 |47.53 |-121.09 |1943 |WA
+Goat Creek |18A04 |SNOW |3600 |48.85 |-118.33 |1961 |WA
+Granite Creek |20A06 |SNOW |3500 |48.60 |-120.81 |1971 |WA
+Grass Mtn. No. 2 |21B27 |SNOW |2900 |47.22 |-121.76 |1961 |WA
+Harts Pass |20A05 |SNOW |6200 |48.72 |-120.66 |1941 |WA
+Hurricane |23B03 |SNOW |5228 |47.97 |-123.50 |1949 |WA
+Irene's Camp |19A17 |SNOW |5530 |48.85 |-119.95 |1996 |WA
+Jasper Pass AM |21A06 |SNOW |5400 |48.78 |-121.40 |1959 |WA
+Keller Ridge |18A14 |SNOW |3700 |48.17 |-118.79 |1986 |WA
+Lost Lake |19A25 |SNOW |4077 |48.85 |-119.06 |2010 |WA
+Loup Loup Campground (New) |19A23 |SNOW |4120 |48.40 |-119.90 |2002|WA
+Lynn Lake |21B50 |SNOW |3885 |47.20 |-121.78 |1970 |WA
+Marten Lake |21A09 |SNOW |3600 |48.76 |-121.72 |1959 |WA
+Mazama |20A45 |SNOW |2180 |48.61 |-120.45 |2002 |WA
+Meadow Cabins |20A08 |SNOW |1900 |48.58 |-121.03 |1945 |WA
+Meteor |18A18 |SNOW |2220 |48.28 |-118.37 |2002 |WA
+Moses Mtn #2 |19A13 |SNOW |4800 |48.37 |-119.06 |1989 |WA
+Moses Peak |19A15 |SNOW |6650 |48.44 |-119.30 |1987 |WA
+Mount Blum AM |21A18 |SNOW |5800 |48.76 |-121.50 |1964 |WA
+Mount Tolman |18A12 |SNOW |2400 |48.05 |-118.71 |1985 |WA
+Mt. Gardner |21B21 |SNOW |3300 |47.36 |-121.57 |1959 |WA
+Ragged Ridge |17B02 |SNOW |3333 |47.85 |-117.06 |1982 |WA
+Rainy Pass |20A09 |SNOW |4780 |48.52 |-120.74 |1930 |WA
+Rocky Creek |21A12 |SNOW |2100 |48.68 |-121.78 |1959 |WA
+Round Top Mtn |17B07 |SNOW |4020 |47.87 |-117.10 |2003 |WA
+Rusty Creek |19A03 |SNOW |4000 |48.53 |-119.86 |1943 |WA
+Satus Pass |20D01 |SNOW |4030 |45.99 |-120.68 |1957 |WA
+Skookum Lakes |17A09 |SNOW |4227 |48.40 |-117.16 |2005 |WA
+South Baldy |17A10 |SNOW |4920 |48.43 |-117.15 |2005 |WA
+Summit G.S. #2 |18A15 |SNOW |4600 |48.86 |-118.40 |1987 |WA
+Summit Trail |18A13 |SNOW |3840 |48.25 |-118.53 |1986 |WA
+Thompson Creek |17B05 |SNOW |2500 |47.84 |-117.09 |1997 |WA
+Thunder Basin |20A07 |SNOW |4320 |48.52 |-120.99 |1948 |WA
+Toats Coulee |19A06 |SNOW |2845 |48.85 |-119.73 |1959 |WA
+Togo |18A10 |SNOW |3370 |48.04 |-118.08 |1962 |WA
+Tunnel Avenue |21B08 |SNOW |2433 |47.32 |-121.34 |1941 |WA
+Vulcan Mtn |18A24 |SNOW |4660 |48.99 |-118.65 |2005 |WA
+Vulcan Road |18A25 |SNOW |3840 |48.97 |-118.63 |2005 |WA
+Watson Lakes |21A08 |SNOW |4500 |48.67 |-121.59 |1959 |WA
+West Smay Creek |21B44 |SNOW |3600 |47.29 |-121.59 |2007 |WA
+White Pass E.S. |21C28S |SNTL |4440 |46.64 |-121.38 |1980 |WA
+Bonaupart South |19A24 |SNOW |4740 |48.73 |-119.17 |2010 |WA
+Brown Top Ridge AM |21A28 |SNOW |6000 |48.93 |-121.20 |1970 |WA
+Cold Creek Strip |19A18 |SNOW |6020 |48.92 |-119.78 |1996 |WA
+Freezeout Cr. Tr. |20A01 |SNOW |3500 |48.95 |-120.93 |1944 |WA
+Little Meadows AM |20A24 |SNOW |5227 |48.20 |-120.90 |1927 |WA
+Mutton Creek No. 1 |19A01 |SNOW |5700 |48.68 |-119.87 |1938 |WA
+New Lake Hozomeen |21A30 |SNOW |2800 |48.94 |-121.03 |1971 |WA
+Pettijohn Creek |19A26 |SNOW |4309 |48.76 |-119.10 |2010 |WA
+Schreibers Meadow |21A10 |SNOW |3400 |48.70 |-121.82 |1959 |WA
+Starvation Mountain |19A22 |SNOW |6740 |48.53 |-119.94 |2001 |WA
+Albany |06H11 |SNOW |9120 |41.18 |-106.17 |1949 |WY
+Aster Creek |10E08 |SNOW |7750 |44.27 |-110.63 |1919 |WY
+Base Camp |10F02 |SNOW |7030 |43.95 |-110.45 |1930 |WY
+Bear Lodge Divide |04E02 |SNOW |4680 |44.55 |-104.32 |1964 |WY
+Big Park |10G11 |SNOW |8620 |42.36 |-110.77 |1951 |WY
+Blue Ridge |08G02 |SNOW |9620 |42.65 |-108.87 |1940 |WY
+Castle Creek |09F20 |SNOW |8400 |43.67 |-109.38 |1975 |WY
+Ccc Camp |10G07 |SNOW |7000 |42.52 |-110.88 |1936 |WY
+Darby Canyon |10F21 |SNOW |8250 |43.66 |-111.01 |1961 |WY
+Deep Lake |06H17 |SNOW |10500 |41.40 |-106.28 |1965 |WY
+Dunoir |09F06 |SNOW |8760 |43.58 |-109.80 |1941 |WY
+Elbo Ranch |10F28 |SNOW |7100 |43.67 |-110.60 |1963 |WY
+Four Mile Meadow |10F06 |SNOW |7860 |43.82 |-110.27 |1936 |WY
+Fox Park #2 |06H24 |SNOW |9060 |41.08 |-106.17 |2011 |WY
+Foxpark |06H12 |SNOW |9060 |41.08 |-106.17 |1950 |WY
+Geyser Creek |09F07 |SNOW |8500 |43.54 |-109.75 |1949 |WY
+Glade Creek |10E13 |SNOW |7040 |44.10 |-110.74 |1919 |WY
+Grassy Lake |10E15 |SNOW |7265 |44.13 |-110.83 |1940 |WY
+Hairpin Turn |06H02 |SNOW |9460 |41.33 |-106.20 |1936 |WY
+Haskins Creek |07H01 |SNOW |8975 |41.15 |-107.03 |1976 |WY
+Hoback GS |10F30 |SNOW |6664 |43.22 |-110.43 |2000 |WY
+Jackpine Creek |10F26 |SNOW |7350 |43.94 |-111.00 |1961 |WY
+Lake Camp |10E04 |SNOW |7780 |44.55 |-110.40 |1936 |WY
+Larsen Creek |09G06 |SNOW |9020 |42.59 |-109.09 |1949 |WY
+Lewis Lake Divide |10E09 |SNOW |7850 |44.21 |-110.67 |1919 |WY
+Libby Lodge |06H03 |SNOW |8750 |41.32 |-106.18 |1936 |WY
+Little Bear Run |04F01 |SNOW |6245 |43.97 |-104.06 |1992 |WY
+Lupine Creek |10E01 |SNOW |7380 |44.92 |-110.62 |1938 |WY
+Mallo |04E05 |SNOW |6420 |44.11 |-104.07 |1977 |WY
+Medicine Lodge Lakes |07E24 |SNOW |9340 |44.40 |-107.39 |1956 |WY
+Middle Fork |08G06 |SNOW |7420 |42.73 |-108.85 |1968 |WY
+Moran |10F04 |SNOW |6750 |43.86 |-110.58 |1919 |WY
+Moss Lake |06H16 |SNOW |9880 |41.40 |-106.37 |1965 |WY
+Moss Lake #2 |06H26 |SNOW |9880 |41.40 |-106.37 |2011 |WY
+Mount Tom |04E04 |SNOW |5560 |44.16 |-104.32 |1977 |WY
+Norris Basin |10E19 |SNOW |7550 |44.75 |-110.70 |1936 |WY
+North Tongue |07E15 |SNOW |8450 |44.75 |-107.60 |1960 |WY
+Old Faithful |10E18 |SNOW |7400 |44.45 |-110.82 |1975 |WY
+Onion Gulch |07E27 |SNOW |8780 |44.08 |-107.12 |1956 |WY
+Pocket Creek |09G11 |SNOW |9350 |42.71 |-109.41 |1961 |WY
+Pole Mountain |05H01 |SNOW |8360 |41.25 |-105.42 |1936 |WY
+Purgatory Gulch |06H18 |SNOW |8970 |41.13 |-106.73 |1966 |WY
+Ranger Creek |07E04 |SNOW |8120 |44.54 |-107.50 |1936 |WY
+Reuter Canyon |04E03 |SNOW |6280 |44.37 |-104.43 |1965 |WY
+Rowdy Creek |10G21 |SNOW |8300 |42.94 |-110.53 |1961 |WY
+Ryan Park |06H06 |SNOW |8350 |41.32 |-106.50 |1936 |WY
+Sawmill Divide |07E38 |SNOW |9260 |44.63 |-107.38 |1956 |WY
+Soldier Park |07E05 |SNOW |8780 |44.35 |-107.01 |1950 |WY
+Sour Dough |06E01 |SNOW |8460 |44.21 |-107.00 |1937 |WY
+T-Cross Ranch |09F03 |SNOW |7900 |43.71 |-109.64 |1941 |WY
+Teton Pass W.s. |10F24 |SNOW |7740 |43.50 |-110.97 |1961 |WY
+Thumb Divide |10E07 |SNOW |7980 |44.37 |-110.58 |1938 |WY
+Togwotee Pass |10F09 |SNOW |9580 |43.75 |-110.06 |1936 |WY
+Turpin Meadows |10F05 |SNOW |6900 |43.86 |-110.28 |1936 |WY
+Tyrell R.S. |07E35 |SNOW |8350 |44.18 |-107.25 |1936 |WY
+Wood Rock G.S. |07E13 |SNOW |8440 |44.68 |-107.44 |1956 |WY
+Grannier Meadows |08G04 |SNOW |8860 |42.56 |-108.83 |1937 |WY
+Grover Park Divide |10G03 |SNOW |7000 |42.81 |-110.90 |1936 |WY
+Huckleberry Divide |10E14 |SNOW |7300 |44.05 |-110.69 |1919 |WY
+North Barrett Creek |06H05 |SNOW |9430 |41.32 |-106.43 |1936 |WY
+Sheridan R.S. (New) |09F15 |SNOW |7790 |43.63 |-109.92 |1936 |WY
+Snake River Station |10E12 |SNOW |6920 |44.13 |-110.67 |1919 |WY
+Snow King Mountain |10F20 |SNOW |7660 |43.46 |-110.77 |1959 |WY
+Beaver Creek |40M01 |SNOW |2150 |62.42 |-140.85 |1975 |YK
+Burns Lake |29N01 |SNOW |3650 |62.28 |-129.95 |1986 |YK
+Calumet |35O02 |SNOW |4300 |63.92 |-135.40 |1975 |YK
+Casino Creek |38N01 |SNOW |3495 |62.73 |-138.80 |1977 |YK
+Chair Mountain |40N02 |SNOW |3500 |62.07 |-140.80 |1988 |YK
+Eagle Plains |36R01 |SNOW |2330 |66.42 |-136.75 |1983 |YK
+Eagle River |36R02 |SNOW |1115 |66.45 |-136.72 |1983 |YK
+Edwards Lake |34O01 |SNOW |2720 |63.70 |-134.30 |1987 |YK
+Fuller Lake |30N01 |SNOW |3695 |62.97 |-130.20 |1986 |YK
+Grizzly Creek |38P01 |SNOW |3200 |64.43 |-138.28 |1975 |YK
+Hoole River |31M01 |SNOW |3400 |61.47 |-131.47 |1977 |YK
+Jordan Lake |32L02 |SNOW |3050 |60.87 |-132.83 |1987 |YK
+Macintosh |37M01 |SNOW |3805 |61.72 |-137.33 |1976 |YK
+Mayo Airport |35O01 |SNOW |1770 |63.62 |-135.87 |1968 |YK
+Meadow Creek |33L01 |SNOW |4050 |60.58 |-133.08 |1976 |YK
+Midnight Dome |39P01 |SNOW |2805 |64.07 |-139.40 |1975 |YK
+Montana Mtn. |34L01 |SNOW |3350 |60.13 |-134.73 |1975 |YK
+Morley Lake |32L01 |SNOW |2700 |60.00 |-132.12 |1987 |YK
+Mt. Berdoe |36N01 |SNOW |3395 |62.03 |-136.23 |1975 |YK
+Mt. Mcintyre B |35L02 |SNOW |3600 |60.67 |-135.13 |1975 |YK
+Mt. Nansen |37N01 |SNOW |3350 |62.02 |-137.07 |1976 |YK
+Old Crow |39S01 |SNOW |980 |67.57 |-139.85 |1977 |YK
+Pelly Farm |37N02 |SNOW |1550 |62.82 |-137.37 |1983 |YK
+Plata Airstrip |32N01 |SNOW |2725 |63.52 |-132.08 |1977 |YK
+Rackla Lake |33P01 |SNOW |3410 |64.28 |-133.25 |1987 |YK
+Riffs Ridge |37Q01 |SNOW |2130 |65.95 |-137.37 |1987 |YK
+Rose Creek Faro |33N01 |SNOW |1080 |62.33 |-133.38 |1975 |YK
+Russell Lake |33O01 |SNOW |3480 |63.20 |-133.48 |1987 |YK
+Satasha Lake |36M02 |SNOW |3630 |61.48 |-136.27 |1987 |YK
+Summit |37L03 |SNOW |985 |60.87 |-137.63 |1980 |YK
+Tagish |34L02 |SNOW |3540 |60.28 |-134.18 |1975 |YK
+Twin Creeks |31N01 |SNOW |2950 |62.67 |-131.67 |1977 |YK
+Williams Creek |36L02 |SNOW |3000 |60.35 |-136.72 |1995 |YK
+Withers Lake |32O02 |SNOW |3200 |63.98 |-132.30 |1986 |YK
+Finlayson Airstrip |30M01 |SNOW |3240 |61.70 |-130.77 |1987 |YK
+King Solomon Dome |38O01 |SNOW |3540 |63.88 |-138.93 |1975 |YK
+Whitehorse Airport |35L01 |SNOW |2300 |60.72 |-135.07 |1965 |YK
