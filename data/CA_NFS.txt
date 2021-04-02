@@ -1,0 +1,143 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER NFS: North Fork Sacramento R, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# North Fork Sacramento R (NFS) 
+# California  SNOW COURSE/AERIAL MARKER Site - 6900 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:17:52 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1936,,,,,,,Mar 07,,21.2,,,,,,,,,
+1937,,,,Jan 24,,9.2,,,,Mar 30,,37.3,,,,,,
+1938,,,,Jan 25,,7.7,,,,Mar 27,,38.8,,,,,,
+1939,,,,Jan 26,,7.0,,,,Mar 28,,10.2,,,,,,
+1940,,,,Jan 27,,8.6,,,,Mar 28,,24.0,,,,,,
+1941,,,,Jan 26,,31.4,,,,Mar 28,,46.5,,,,,,
+1942,,,,Jan 31,,15.9,,,,Mar 30,,23.6,,,,,,
+1943,,,,Jan 29,,18.2,,,,Apr 01,,16.8,,,,,,
+1944,,,,Feb 04,,9.3,,,,Mar 28,,12.8,,,,,,
+1945,,,,,,,,,,Mar 30,,21.6,,,,,,
+1946,,,,,,,,,,Mar 26,,26.8,,,,,,
+1947,,,,,,,,,,Apr 01,,15.0,,,,,,
+1948,,,,,,,,,,Apr 04,,10.5,,,,,,
+1949,,,,,,,,,,Apr 01,,28.9,,,,,,
+1950,,,,,,,,,,Apr 01,,19.0,,,,,,
+1951,,,,,,,,,,Mar 31,,15.7,,,,,,
+1952,,,,,,,,,,Mar 30,,41.6,,,,,,
+1953,,,,,,,,,,Mar 29,,25.8,,,,,,
+1954,,,,,,,,,,Mar 28,,26.2,,,,,,
+1955,,,,,,,,,,Apr 05,,14.7,,,,,,
+1956,,,,,,,,,,Apr 03,,40.5,,,,,,
+1957,,,,,,,,,,Apr 02,,21.8,,,,,,
+1958,,,,,,,,,,Mar 26,,41.0,,,,,,
+1959,,,,,,,,,,Apr 01,,24.3,,,,,,
+1960,,,,,,,,,,Mar 29,,17.8,,,,,,
+1961,,,,,,,,,,Mar 28,,29.7,,,,,,
+1962,,,,,,,,,,Mar 28,,29.8,,,,,,
+1963,,,,,,,,,,Apr 02,,8.3,,,,,,
+1964,,,,,,,,,,Mar 30,,9.2,,,,,,
+1965,,,,,,,,,,Mar 30,,9.6,,,,,,
+1966,,,,,,,,,,Mar 30,,29.6,,,,,,
+1967,,,,,,,,,,Mar 29,,22.1,,,,,,
+1968,,,,,,,,,,Mar 26,,19.0,,,,,,
+1969,,,,,,,,,,Mar 26,,47.2,,,,,,
+1970,,,,,,,,,,Mar 31,,19.4,,,,,,
+1971,,,,,,,,,,Mar 29,,21.8,,,,,,
+1972,,,,,,,,,,Mar 27,,17.6,,,,,,
+1973,,,,,,,,,,Mar 29,,33.3,,,,,,
+1974,,,,,,,,,,Mar 22,,34.8,,,,,,
+1975,,,,,,,,,,Mar 28,,39.6,,,,,,
+1976,,,,,,,,,,Mar 24,,10.1,,,,,,
+1977,,,,,,,,,,Mar 25,,7.5,,,,,,
+1978,,,,,,,,,,Mar 28,,40.2,,,,,,
+1979,,,,,,,,,,Apr 02,,19.1,,,,,,
+1980,,,,,,,,,,Mar 28,,34.7,,,,,,
+1981,,,,,,,,,,Mar 28,,15.7,,,,,,
+1982,,,,,,,,,,Mar 23,,23.5,,,,,,
+1983,,,,,,,,,,Apr 05,,64.4,,,,,,
+1984,,,,,,,,,,Mar 30,,22.5,,,,,,
+1985,,,,,,,,,,Apr 01,,20.1,,,,,,
+1986,,,,,,,,,,Mar 31,,26.4,,,,,,
+1987,,,,,,,,,,Mar 31,,25.4,,,,,,
+1988,,,,,,,,,,Apr 01,,5.3,,,,,,
+1989,,,,,,,,,,Apr 03,,18.6,,,,,,
+1990,,,,,,,,,,Apr 03,,3.2,,,,,,
+1991,,,,,,,,,,Mar 28,,17.3,,,,,,
+1992,,,,,,,,,,Apr 01,,22.6,,,,,,
+1993,,,,,,,,,,Mar 29,,33.4,,,,,,
+1994,,,,,,,,,,Mar 29,,12.5,,,,,,
+1995,,,,,,,,,,Mar 30,,43.9,,,,,,
+1996,,,,,,,,,,Mar 29,,17.6,,,,,,
+1997,,,,,,,,,,Mar 27,,10.7,,,,,,
+1998,,,,,,,,,,Mar 30,,57.8,,,,,,
+1999,,,,,,,,,,Apr 01,,36.1,,,,,,
+2000,,,,,,,,,,Mar 29,,32.1,,,,,,
+2001,,,,,,,,,,Mar 28,,19.8,,,,,,
+2002,,,,,,,,,,Mar 26,,24.8,,,,,,
+2003,,,,,,,,,,Mar 27,,30.7,May 01,,59.2,,,
+2004,,,,,,,,,,Apr 01,,27.2,,,,,,
+2005,,,,,,,,,,Mar 31,,24.8,,,,,,
+2006,,,,,,,,,,Mar 27,,38.6,Apr 27,,72.7,,,
+2007,,,,,,,,,,Mar 29,,10.1,,,,,,
+2008,,,,,,,,,,Mar 31,,22.5,,,,,,
+2009,,,,,,,,,,,,,,,,,,
+2010,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,,,,Apr 02,,21.9,,,,,,
+2013,,,,,,,,,,Mar 25,,15.5,,,,,,
+2014,,,,,,,,,,Mar 27,,2.0,,,,,,
+2015,,,,,,,,,,Apr 02,,0.0,,,,,,
+2016,,,,,,,,,,Apr 01,,29.0,,,,,,
+2017,,,,,,,,,,Apr 03,,21.5,,,,,,
+2018,,,,,,,,,,,,,,,,,,
+2019,,,,,,,,,,Mar 29,,42.0,,,,,,
+2020,,,,,,,,,,Apr 02,,10.0,,,,,,
+2021,,,,,,,,,,Mar 27,,16.5,,,,,,

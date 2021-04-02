@@ -1,0 +1,86 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 42N01: Chisana, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Chisana (42N01) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 3320 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:10:53 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1993,Dec 29,14,2.7,,,,May 01,16,3.6,Mar 30,18,4.0,,,,,,
+1994,Jan 02,19,3.9,,,,May 01,24,5.0,Mar 31,22,5.0,,,,,,
+1995,Jan 03,12,2.4,,,,May 01,20,3.6,Mar 30,20,3.8,,,,,,
+1996,Jan 11,5,0.8,,,,May 01,16,2.4,Apr 02,16,3.0,,,,,,
+1997,,,,,,,May 01,16,3.0,Mar 31,18,3.6,,,,,,
+1998,Jan 08,16,3.0,Jan 08,16,3.0,May 01,18,3.2,Mar 27,18,3.2,,,,,,
+1999,Jan 05,8,1.1,,,,May 01,15,2.2,Mar 25,11,2.2,,,,,,
+2000,Jan 03,17,3.6,,,,May 01,17,4.2,Mar 31,17,4.2,,,,,,
+2001,Jan 21,16,3.6,,,,,,,Mar 15,23,4.9,,,,,,
+2002,Dec 29,9,1.4,,,,,,,Mar 30,13,2.2,,,,,,
+2003,Jan 16,13,2.0,Jan 16,13,2.0,,,,Apr 01,16,3.0,,,,,,
+2004,,,,Feb 04,20,3.5,,,,Mar 30,23,5.0,,,,,,
+2005,,,,Feb 01,29,4.7,Mar 08,28,5.2,Mar 29,28,5.6,,,,,,
+2006,Dec 28,11,2.3,Feb 02,12,2.3,Mar 01,12,2.1,Mar 29,15,2.7,,,,,,
+2007,Jan 04,13,2.0,Mar 01,14,1.9,May 01,12,1.9,Mar 27,17,3.0,,,,,,
+2008,,,,Jan 30,15,3.0,May 01,18,3.4,Mar 28,18,3.6,,,,,,
+2009,,,,,,,Mar 01,26,4.9,,,,,,,,,
+2010,,,,,,,,,,Apr 01,17,3.4,,,,,,
+2011,,,,,,,,,,Mar 28,21,4.2,,,,,,
+2012,,,,,,,Mar 01,18,3.0,Mar 29,19,3.7,,,,,,
+2013,,,,,,,,,,,,,,,,,,
+2014,,,,,,,,,,,,,,,,,,
+2015,,,,,,,,,,Mar 29,15,2.7,,,,,,
+2016,,,,,,,Feb 29,15,2.5,,,,,,,,,
+2017,,,,,,,,,,,,,,,,,,
+2018,,,,,,,,,,,,,,,,,,
+2019,,,,,,,,,,,,,Apr 30,0,0.0,,,
+2020,,,,,,,,,,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

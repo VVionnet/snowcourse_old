@@ -1,0 +1,87 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 47Q08: Windy Gap, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Windy Gap (47Q08) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 1900 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:11:55 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1992,,,,Jan 29,25,3.6,Mar 04,31,5.6,Mar 31,27,6.6,,,,,,
+1993,,,,Mar 01,44,10.9,Mar 02,45,11.2,Mar 31,49,11.6,,,,,,
+1994,Jan 06,16,2.2,Feb 02,19,4.0,Mar 03,22,4.2,Apr 06,24,6.4,,,,,,
+1995,,,,Mar 01,27,5.3,Mar 02,26,5.7,Mar 30,30,6.6,,,,,,
+1996,,,,Jan 25,7,0.8,Mar 01,20,3.6,Apr 03,24,5.1,,,,,,
+1997,,,,Jan 30,24,4.7,Mar 03,23,4.7,Apr 03,24,5.6,,,,,,
+1998,Jan 06,18,2.9,Jan 29,19,3.0,Feb 27,22,3.5,Apr 06,21,3.5,,,,,,
+1999,,,,Mar 01,16,2.6,Feb 26,18,3.0,Mar 31,23,3.8,,,,,,
+2000,,,,Jan 27,41,7.2,Feb 29,35,8.2,Mar 30,36,8.0,,,,,,
+2001,,,,Jan 31,22,4.0,Feb 28,27,4.8,Mar 29,30,5.8,,,,,,
+2002,,,,Feb 01,15,2.6,Feb 28,17,3.0,Mar 28,17,3.4,,,,,,
+2003,,,,Jan 31,18,3.3,Feb 28,25,4.8,Mar 25,26,5.7,,,,,,
+2004,,,,Jan 28,25,5.6,Feb 25,25,5.4,Mar 25,27,5.7,,,,,,
+2005,,,,Feb 07,35,9.0,Mar 01,38,9.2,Mar 30,40,10.6,,,,,,
+2006,,,,Feb 06,17,3.5,Feb 28,30,6.1,Mar 30,29,6.6,,,,,,
+2007,,,,Jan 30,17,3.1,Mar 02,16,3.2,Mar 28,20,3.8,,,,,,
+2008,,,,Feb 02,15,2.1,Mar 02,16,2.5,Mar 31,19,3.5,,,,,,
+2009,,,,,,,Feb 26,24,4.6,Mar 25,26,5.7,,,,,,
+2010,,,,,,,Mar 02,16,3.5,Apr 01,18,4.2,,,,,,
+2011,,,,Jan 29,30,7.1,Mar 03,40,8.9,Mar 29,36,8.9,,,,,,
+2012,,,,,,,,,,Mar 30,30,7.0,,,,,,
+2013,,,,Jan 24,19,3.5,Feb 27,22,4.4,Mar 29,26,5.6,,,,,,
+2014,,,,Jan 30,24,5.1,Feb 26,25,6.2,Apr 03,25,6.0,,,,,,
+2015,,,,Feb 03,21,4.2,,,,Mar 27,28,7.3,,,,,,
+2016,,,,,,,Mar 02,24,6.0,Mar 28,28,6.5,,,,,,
+2017,,,,Feb 02,24,5.6,Mar 03,32,7.4,Apr 03,29,7.1,,,,,,
+2018,,,,,,,Mar 02,46,10.3,Apr 03,49,13.3,,,,,,
+2019,,,,,,,Mar 01,23,4.6,Apr 02,24,5.3,,,,,,
+2020,,,,,,,Feb 28,35,7.9,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

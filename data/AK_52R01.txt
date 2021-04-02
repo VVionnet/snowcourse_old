@@ -1,0 +1,111 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 52R01: Lake Todatonten, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Lake Todatonten (52R01) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 550 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:12:33 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1968,,,,,,,Mar 06,41,8.2,Apr 04,37,8.9,,,,,,
+1969,,,,,,,Mar 02,19,3.2,Mar 31,18,3.2,,,,,,
+1970,,,,,,,Mar 02,14,2.2,Apr 02,17,3.2,,,,,,
+1971,,,,,,,Mar 04,35,7.4,Apr 01,34,7.5,,,,,,
+1972,,,,,,,Feb 29,34,6.5,Apr 04,31,6.5,,,,,,
+1973,,,,,,,Feb 26,24,4.8,Mar 26,26,5.5,,,,,,
+1974,,,,,,,Feb 24,21,3.4,Mar 26,20,3.4,,,,,,
+1975,,,,,,,Feb 24,24,4.8,Mar 26,27,5.6,,,,,,
+1976,,,,,,,Feb 23,26,4.5,Mar 26,28,5.3,,,,,,
+1977,,,,,,,May 01,29,5.4,Mar 28,29,5.8,,,,,,
+1978,,,,,,,Feb 26,20,3.5,Mar 27,21,3.7,,,,,,
+1979,,,,,,,May 01,32,6.1,Mar 25,32,6.5,,,,,,
+1980,,,,,,,Feb 25,19,4.0,Mar 27,16,3.4,,,,,,
+1981,,,,,,,Mar 02,21,4.0,Mar 30,21,4.0,,,,,,
+1982,,,,,,,Mar 01,24,4.6,Apr 02,32,5.0,,,,,,
+1983,,,,,,,Mar 03,19,3.4,Mar 28,19,3.6,,,,,,
+1984,,,,,,,Feb 23,22,3.0,Mar 30,21,4.2,,,,,,
+1985,,,,,,,Mar 01,35,7.3,Apr 01,35,8.0,,,,,,
+1986,,,,,,,Feb 27,23,4.2,Mar 27,23,4.6,,,,,,
+1987,,,,,,,Feb 18,24,5.0,Mar 30,23,4.9,,,,,,
+1988,,,,,,,Mar 03,31,6.9,Mar 30,30,7.2,,,,,,
+1989,,,,,,,Feb 27,36,7.0,Mar 28,31,6.8,,,,,,
+1990,,,,,,,May 01,30,5.5,Apr 02,30,6.7,,,,,,
+1991,,,,,,,Feb 26,26,5.6,Apr 01,36,7.0,,,,,,
+1992,,,,,,,Feb 26,20,3.8,Apr 01,23,4.8,,,,,,
+1993,,,,,,,Mar 01,39,9.7,Mar 30,38,9.8,,,,,,
+1994,,,,,,,May 01,34,5.9,Jul 01,34,6.3,,,,,,
+1995,,,,,,,Mar 01,30,5.0,Mar 29,32,5.5,,,,,,
+1996,,,,,,,May 01,24,3.6,Mar 27,26,4.6,,,,,,
+1997,,,,,,,Feb 21,30,4.7,Mar 28,24,5.1,,,,,,
+1998,,,,,,,Feb 28,20,3.0,Mar 31,21,3.8,,,,,,
+1999,,,,,,,Feb 24,24,4.0,Mar 29,25,4.2,,,,,,
+2000,,,,,,,Feb 23,27,6.0,Apr 03,31,7.0,,,,,,
+2001,,,,,,,Feb 26,27,5.0,Apr 06,32,6.5,,,,,,
+2002,,,,,,,Feb 25,31,5.4,Apr 01,29,5.8,,,,,,
+2003,,,,,,,Mar 03,33,4.9,Apr 02,27,5.6,,,,,,
+2004,,,,,,,Feb 27,30,5.4,Apr 02,28,5.0,,,,,,
+2005,,,,,,,Feb 28,41,8.6,Apr 05,44,11.3,,,,,,
+2006,,,,,,,Mar 06,29,5.2,Apr 03,30,5.6,,,,,,
+2007,,,,,,,Mar 01,20,2.8,Apr 02,18,3.1,,,,,,
+2008,,,,,,,Mar 03,30,5.1,Mar 28,29,5.3,,,,,,
+2009,,,,,,,Mar 02,49,8.5,Mar 30,44,9.6,,,,,,
+2010,,,,,,,Mar 02,15,1.9,Mar 31,16,2.2,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,,,,Apr 04,31,7.6,,,,,,
+2013,,,,,,,,,,Mar 28,21,5.1,,,,,,
+2014,,,,,,,,,,Apr 01,26,6.8,,,,,,
+2015,,,,,,,,,,Mar 31,18,4.0,,,,,,
+2016,,,,,,,,,,Apr 01,29,5.9,,,,,,
+2017,,,,,,,,,,Mar 31,26,6.0,,,,,,
+2018,,,,,,,,,,Mar 30,30,7.8,,,,,,
+2019,,,,,,,,,,Mar 28,31,8.5,,,,,,
+2020,,,,,,,,,,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

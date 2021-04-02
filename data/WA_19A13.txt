@@ -1,0 +1,90 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 19A13: Moses Mtn #2, WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Moses Mtn #2 (19A13) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 4800 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:24:44 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1989,,,,Jan 24,27,7.7,,,,,,,Apr 25,18,5.4,,,
+1990,,,,Jan 25,24,4.9,Feb 20,37,9.2,Mar 26,31,11.3,May 07,26,11.0,May 25,0,0.0
+1991,,,,Jan 24,18,4.2,Mar 07,23,5.9,,,,,,,May 27,25,7.7
+1992,,,,,,,Feb 25,42,13.0,,,,,,,,,
+1993,,,,Jan 26,39,11.1,Feb 23,44,11.6,Mar 26,32,10.4,Apr 30,26,10.6,,,
+1994,,,,Jan 20,26,8.1,Feb 24,44,10.6,Mar 31,33,12.0,Apr 24,52,14.7,,,
+1995,,,,,,,Feb 21,48,16.2,Mar 29,50,18.0,Apr 25,37,14.6,,,
+1996,,,,Jan 24,31,7.1,Feb 29,34,10.3,,,,,,,,,
+1997,,,,Jan 31,46,12.3,Feb 25,24,6.8,,,,,,,,,
+1998,,,,Jan 29,37,9.7,Feb 25,53,15.5,Mar 26,48,18.2,,,,,,
+1999,,,,Jan 25,51,15.0,Feb 24,74,22.4,Mar 30,66,25.9,,,,,,
+2000,,,,,,,,,,Mar 31,46,16.3,,,,,,
+2001,,,,Jan 31,17,3.5,Feb 28,26,5.8,,,,,,,,,
+2002,,,,Jan 28,34,10.6,Feb 27,38,12.3,Mar 27,43,14.7,,,,,,
+2003,,,,Jan 28,37,10.2,Feb 24,37,11.5,,,,,,,,,
+2004,,,,Jan 29,24,6.2,Feb 27,39,10.3,Mar 31,29,10.0,,,,,,
+2005,,,,Jan 27,13,4.4,Feb 28,13,4.0,Mar 31,17,5.4,,,,,,
+2006,,,,Jan 31,62,16.3,Mar 01,56,19.1,Mar 29,59,21.3,,,,,,
+2007,,,,Jan 31,36,10.1,Feb 28,59,16.6,Mar 28,38,14.5,,,,,,
+2008,,,,Jan 31,38,11.6,Feb 26,39,13.2,Mar 27,48,14.5,,,,,,
+2009,,,,,,4.1,,,6.8,,,8.0,,,,,,
+2010,,,,Jan 29,35,10.0,Mar 01,43,12.6,,48,16.0,,,,,,
+2011,,,,Jan 31,25,5.2,Feb 28,35,8.0,Mar 31,49,13.9,,,,,,
+2012,,,,Jan 31,26,6.4,Feb 29,35,9.1,Apr 02,61,21.0,,,,,,
+2013,,,,Feb 01,52,18.0,Feb 28,51,18.3,Mar 28,49,17.9,,,,,,
+2014,,,,,,,Feb 27,26,5.4,Apr 01,21,7.3,,,,,,
+2015,,,,Jan 29,15,3.8,Feb 25,9,2.6,Mar 26,0,0.0,,,,,,
+2016,,,,Jan 28,49,13.0,Feb 25,46,15.6,,,,,,,,,
+2017,,,,Feb 01,39,9.5,Mar 01,44,12.6,,,,,,,,,
+2018,,,,Jan 31,43,11.4,Feb 28,42,12.8,Mar 30,47,16.3,,,,,,
+2019,,,,Jan 31,28,8.3,Feb 28,36,9.8,,,,,,,,,
+2020,,,,Jan 29,24,5.3,Feb 26,26,6.4,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,91 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 40N02: Chair Mountain, YK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Chair Mountain (40N02) 
+# Yukon Territory  SNOW COURSE/AERIAL MARKER Site - 3500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:26:10 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1988,,,,,,,Mar 02,12,2.3,Mar 31,13,2.8,Apr 27,0,0.0,,,
+1989,,,,,,,Feb 28,18,3.0,Apr 03,20,4.3,Apr 28,0,0.0,,,
+1990,,,,,,,Feb 28,20,2.7,Mar 30,15,3.2,,,,,,
+1991,,,,,,,Feb 28,20,3.4,Mar 28,20,4.3,,,,,,
+1992,,,,,,,Feb 28,23,4.2,Mar 31,22,4.3,,,,,,
+1993,,,,,,,Feb 25,23,4.1,Mar 31,22,4.1,,,,,,
+1994,,,,,,,Mar 02,18,3.0,Mar 30,19,3.9,,,,,,
+1995,,,,,,,Mar 01,19,3.0,Mar 30,20,3.4,,,,,,
+1996,,,,,,,,,,,,,,,,,,
+1997,,,,,,,,,,,,,,,,,,
+1998,,,,,,,Feb 24,22,3.9,Apr 02,23,4.6,,,,,,
+1999,,,,,,,,,,Mar 30,17,3.2,Apr 29,0,0.0,,,
+2000,,,,,,,Feb 24,15,3.0,Mar 29,13,3.1,,,,,,
+2001,,,,,,,Mar 01,22,4.3,Mar 29,19,3.5,,,,,,
+2002,,,,,,,Feb 25,19,2.8,Mar 25,19,3.5,Apr 26,12,3.5,,,
+2003,,,,,,,,,,Mar 25,13,1.7,,,,,,
+2004,,,,,,,Mar 01,19,3.7,Mar 31,22,4.0,,,,,,
+2005,,,,,,,Feb 28,24,4.5,Mar 29,24,5.3,Apr 27,0,0.0,,,
+2006,,,,,,,Feb 27,15,2.0,Mar 28,17,2.6,Apr 27,9,2.0,,,
+2007,,,,,,,Feb 27,20,3.0,Mar 27,19,3.0,,,,,,
+2008,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,Mar 30,33,7.3,Apr 28,19,5.3,,,
+2010,,,,,,,,,,Mar 26,20,3.4,Apr 28,0,0.0,,,
+2011,,,,,,,,,,Mar 30,26,4.7,Apr 29,18,4.2,,,
+2012,,,,,,,Feb 28,19,3.0,Mar 27,22,4.2,Apr 26,0,0.0,,,
+2013,,,,,,,Feb 26,23,4.2,Mar 27,21,3.8,Apr 26,25,4.9,,,
+2014,,,,,,,Feb 27,24,4.8,Mar 26,22,4.8,,,,,,
+2015,,,,,,,Feb 25,21,3.1,Mar 26,21,3.9,Apr 29,0,0.0,,,
+2016,,,,,,,Feb 25,12,2.1,,,,May 01,0,0.0,,,
+2017,,,,,,,Mar 03,20,3.1,Mar 30,21,4.0,,,,,,
+2018,,,,,,,Mar 01,30,5.1,Mar 26,29,6.0,Apr 26,24,5.8,,,
+2019,,,,,,,Feb 27,19,2.8,Mar 27,12,2.4,,,,,,
+2020,,,,,,,Feb 26,22,3.9,Apr 01,26,5.1,,,,,,
+2021,,,,,,,Feb 24,20,2.8,,,,,,,,,

@@ -1,0 +1,138 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER GYR: Gray Rock Lakes, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Gray Rock Lakes (GYR) 
+# California  SNOW COURSE/AERIAL MARKER Site - 6200 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:15:46 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1941,,,,,,,,,,Apr 07,,94.8,,,,,,
+1942,,,,,,,,,,,,,,,,,,
+1943,,,,,,,,,,Mar 27,,32.5,,,,,,
+1944,,,,,,,,,,Apr 03,,28.5,,,,,,
+1945,,,,,,,,,,Mar 30,,35.5,,,,,,
+1946,,,,,,,,,,Mar 24,,50.1,,,,,,
+1947,,,,,,,,,,Mar 31,,28.4,,,,,,
+1948,,,,,,,,,,Apr 11,,29.1,,,,,,
+1949,,,,,,,,,,Apr 11,,52.9,,,,,,
+1950,,,,,,,,,,Apr 10,,38.6,,,,,,
+1951,,,,,,,,,,Apr 03,,32.6,,,,,,
+1952,,,,,,,,,,Apr 03,,66.5,,,,,,
+1953,,,,,,,,,,Apr 01,,53.7,,,,,,
+1954,,,,,,,,,,Apr 02,,50.2,,,,,,
+1955,,,,,,,,,,Apr 05,,29.5,,,,,,
+1956,,,,,,,,,,Apr 06,,67.4,,,,,,
+1957,,,,,,,,,,Apr 02,,33.0,,,,,,
+1958,,,,,,,,,,,,,,,,,,
+1959,,,,,,,,,,Mar 26,,44.5,,,,,,
+1960,,,,,,,,,,Apr 04,,39.3,,,,,,
+1961,,,,,,,,,,Mar 28,,47.3,,,,,,
+1962,,,,,,,,,,Mar 27,,64.7,,,,,,
+1963,,,,,,,,,,Mar 31,,14.6,,,,,,
+1964,,,,,,,,,,Apr 03,,26.1,,,,,,
+1965,,,,,,,,,,Apr 05,,27.1,,,,,,
+1966,,,,,,,,,,Mar 25,,59.2,,,,,,
+1967,,,,,,,,,,Mar 31,,50.9,,,,,,
+1968,,,,,,,,,,Mar 28,,40.0,,,,,,
+1969,,,,,,,,,,Mar 27,,74.1,,,,,,
+1970,,,,,,,,,,Mar 26,,43.4,,,,,,
+1971,,,,,,,,,,Mar 31,,55.4,,,,,,
+1972,,,,,,,,,,Mar 28,,39.4,,,,,,
+1973,,,,,,,,,,Mar 26,,71.5,,,,,,
+1974,,,,,,,,,,Mar 20,,60.1,,,,,,
+1975,,,,Jan 23,,17.9,,,,Mar 26,,65.3,,,,,,
+1976,,,,Jan 21,,11.5,,,,Mar 23,,23.0,,,,,,
+1977,,,,Jan 28,,4.9,,,,Mar 29,,15.1,,,,,,
+1978,,,,Jan 24,,51.0,,,,Mar 28,,79.0,,,,,,
+1979,,,,Jan 23,,14.6,,,,Mar 30,,41.9,,,,,,
+1980,,,,Jan 22,,24.7,,,,Mar 28,,41.5,,,,,,
+1981,,,,Feb 02,,22.6,,,,Mar 28,,40.2,,,,,,
+1982,,,,Jan 29,,26.8,,,,Mar 23,,38.9,,,,,,
+1983,,,,Feb 04,,49.6,,,,Apr 05,,110.2,,,,,,
+1984,,,,Jan 31,,29.7,,,,Mar 30,,46.1,,,,,,
+1985,,,,,,,,,,Apr 01,,43.4,,,,,,
+1986,,,,Feb 07,,37.0,,,,Mar 31,,51.6,,,,,,
+1987,,,,Feb 05,,17.7,,,,Mar 31,,36.7,,,,,,
+1988,,,,Jan 27,,30.9,,,,Apr 01,,25.6,,,,,,
+1989,,,,Jan 30,,18.5,,,,Apr 03,,36.2,,,,,,
+1990,,,,Feb 02,,13.0,,,,Mar 27,,18.2,,,,,,
+1991,,,,Jan 30,,4.6,,,,Mar 28,,33.7,,,,,,
+1992,,,,Feb 02,,19.2,,,,Apr 01,,57.5,,,,,,
+1993,,,,Jan 27,,43.1,,,,Mar 29,,57.7,,,,,,
+1994,,,,Jan 28,,23.1,,,,Mar 29,,32.6,,,,,,
+1995,,,,Feb 03,,57.6,,,,Mar 30,,76.4,,,,,,
+1996,,,,,,,,,,Mar 29,,34.8,,,,,,
+1997,,,,Jan 29,,26.1,,,,Mar 27,,25.3,,,,,,
+1998,,,,Jan 30,,42.0,,,,Mar 30,,97.5,,,,,,
+1999,,,,Jan 27,,28.3,,,,Apr 01,,61.6,,,,,,
+2000,,,,,,,,,,Mar 29,,68.9,,,,,,
+2001,,,,Jan 30,,21.4,,,,Mar 28,,50.2,,,,,,
+2002,,,,Jan 29,,34.8,,,,Mar 26,,45.9,,,,,,
+2003,,,,Jan 29,,45.7,,,,Mar 27,,54.2,May 02,,60.0,,,
+2004,,,,Jan 29,,43.7,,,,Apr 01,,63.0,,,,,,
+2005,,,,Feb 01,,40.0,,,,Mar 31,,59.9,,,,,,
+2006,,,,Jan 25,,28.2,,,,Mar 27,,66.1,,,,,,
+2007,,,,Feb 02,,12.1,,,,Mar 29,,28.0,,,,,,
+2008,,,,Feb 05,,40.6,,,,Mar 31,,47.4,,,,,,
+2009,,,,Jan 30,,7.8,,,,Mar 25,,36.8,,,,,,
+2010,,,,Feb 02,,45.2,,,,,,,,,,,,
+2011,,,,Feb 02,,30.0,,,,Mar 31,,55.0,,,,,,
+2012,,,,Feb 01,,15.0,Feb 26,,18.0,Apr 03,,41.0,,,,,,
+2013,,,,Feb 04,,21.0,,,,Apr 03,,24.0,,,,,,
+2014,,,,Jan 27,,1.5,,,,Apr 03,,6.0,,,,,,
+2015,,,,Feb 01,,8.5,,,,Apr 02,,4.5,,,,,,
+2016,,,,Jan 26,,34.0,,,,,,,,,,,,
+2017,,,,Jan 28,,37.0,,,,Apr 04,,42.0,,,,,,
+2018,,,,,,,,,,Apr 02,,15.5,,,,,,
+2019,,,,Feb 04,,13.5,,,,,,,,,,,,
+2020,,,,Jan 27,,17.5,,,,Apr 03,,21.5,,,,,,
+2021,,,,Feb 02,,18.5,,,,Mar 29,,52.0,,,,,,

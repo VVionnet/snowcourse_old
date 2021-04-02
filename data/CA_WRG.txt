@@ -1,0 +1,123 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER WRG: Wrights Lake, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Wrights Lake (WRG) 
+# California  SNOW COURSE/AERIAL MARKER Site - 6900 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:17:45 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1956,,,,,,,,,,Apr 10,,42.2,,,,,,
+1957,,,,,,,,,,,,,,,,,,
+1958,,,,Jan 30,,18.8,Mar 05,,36.0,Apr 10,,62.0,,,,,,
+1959,,,,Jan 29,,9.9,Feb 28,,21.7,Mar 27,,20.1,May 05,,0.0,,,
+1960,,,,Feb 04,,16.4,Mar 09,,24.1,Apr 01,,24.6,May 03,,9.2,,,
+1961,,,,Feb 03,,11.0,Mar 07,,12.1,Apr 01,,18.4,May 05,,5.3,,,
+1962,,,,Feb 04,,12.4,Mar 09,,36.0,Mar 29,,44.6,Apr 30,,28.1,,,
+1963,,,,Feb 05,,0.0,Feb 28,,0.0,Apr 04,,11.1,Apr 29,,23.7,,,
+1964,,,,Jan 30,,19.8,Feb 28,,17.0,Apr 02,,21.8,May 08,,13.2,,,
+1965,,,,Jan 31,,33.5,Feb 26,,33.7,Apr 01,,38.2,Apr 29,,35.6,,,
+1966,,,,Feb 02,,24.7,Feb 28,,28.7,Apr 02,,24.6,Apr 29,,9.6,,,
+1967,,,,Feb 02,,31.9,Feb 27,,30.8,Apr 03,,43.3,May 02,,56.5,Jun 03,,37.5
+1968,,,,Feb 01,,17.6,Mar 01,,17.0,Mar 28,,21.8,Apr 30,,4.5,,,
+1969,,,,Jan 29,,45.1,Feb 26,,68.3,Mar 28,,66.8,May 03,,54.9,Jun 02,,7.0
+1970,,,,Jan 30,,27.7,Mar 03,,34.1,Mar 31,,28.6,May 01,,26.4,,,
+1971,,,,Jan 29,,30.3,Mar 02,,31.5,Mar 31,,37.4,Apr 27,,33.2,,,
+1972,,,,Jan 30,,24.2,Mar 05,,29.4,Mar 31,,22.4,May 01,,20.2,,,
+1973,,,,Feb 01,,26.4,Mar 02,,33.5,Mar 29,,41.4,Apr 26,,34.3,,,
+1974,,,,Jan 23,,24.8,Mar 04,,35.4,Mar 20,,36.1,Apr 27,,43.2,,,
+1975,,,,Jan 28,,14.9,Feb 27,,31.8,Apr 01,,45.0,Apr 30,,52.5,Jun 02,,21.6
+1976,,,,Jan 29,,4.8,Mar 04,,12.1,Apr 01,,12.6,Apr 30,,4.4,,,
+1977,,,,Jan 28,,6.5,Mar 02,,8.8,Mar 31,,12.2,Apr 29,,0.0,,,
+1978,,,,Jan 30,,34.2,Feb 28,,40.9,Apr 03,,44.7,Apr 27,,50.3,,,
+1979,,,,Jan 29,,14.2,Feb 27,,26.9,Mar 30,,34.2,Apr 30,,27.5,,,
+1980,,,,Feb 01,,25.2,Mar 01,,39.4,Mar 31,,43.6,Apr 30,,34.5,,,
+1981,,,,Feb 03,,12.6,Feb 28,,12.0,Mar 28,,20.2,May 01,,5.7,,,
+1982,Jan 12,,19.6,Feb 03,,25.3,Feb 24,,24.8,Apr 07,,43.7,Apr 29,,40.6,,,
+1983,,,,Feb 02,,41.6,Mar 06,,67.4,Mar 29,,77.1,May 03,,83.5,May 27,,64.9
+1984,,,,Jan 27,,24.4,Feb 28,,31.3,Apr 02,,28.4,May 07,,23.6,,,
+1985,,,,Jan 31,,17.2,Feb 28,,21.6,Mar 29,,30.9,May 01,,12.6,,,
+1986,,,,Feb 04,,21.7,Feb 28,,43.5,Mar 27,,43.4,Apr 29,,27.5,,,
+1987,,,,Feb 04,,11.3,Mar 10,,18.8,Mar 30,,24.5,Apr 28,,3.5,,,
+1988,,,,Jan 27,,17.0,Feb 24,,15.6,Apr 01,,5.1,Apr 27,,0.0,,,
+1989,,,,Feb 07,,22.5,Feb 27,,22.9,Mar 29,,31.9,Apr 27,,18.6,,,
+1990,,,,Feb 05,,13.0,Feb 28,,17.5,Mar 28,,17.3,May 03,,0.0,,,
+1991,,,,Jan 30,,5.5,Feb 26,,6.3,Mar 28,,25.1,May 03,,18.9,,,
+1992,,,,Jan 30,,9.4,Feb 26,,17.4,Apr 01,,16.0,Apr 29,,0.0,,,
+1993,,,,Jan 27,,43.1,Mar 02,,56.9,Mar 31,,52.9,Apr 29,,46.0,,,
+1994,,,,Feb 01,,11.4,Mar 01,,22.3,Mar 30,,18.1,May 02,,3.0,,,
+1995,,,,Jan 31,,40.1,Feb 27,,40.1,Mar 28,,61.3,May 02,,63.5,,,
+1996,,,,Feb 01,,24.4,Feb 27,,28.1,Apr 02,,38.5,Apr 29,,31.2,,,
+1997,,,,Jan 30,,39.0,Feb 25,,37.0,Mar 27,,31.2,Apr 30,,13.0,,,
+1998,,,,Jan 27,,21.2,Feb 25,,46.1,Mar 26,,45.8,Apr 29,,50.4,,,
+1999,,,,Jan 28,,23.9,Feb 24,,42.8,Mar 26,,44.3,Apr 30,,41.4,,,
+2000,,,,Jan 27,,13.6,Mar 01,,34.0,Mar 27,,30.2,Apr 24,,18.5,,,
+2001,,,,Jan 31,,10.6,Feb 28,,20.3,Mar 27,,17.0,Apr 27,,15.0,,,
+2002,,,,Jan 30,,23.8,Feb 26,,26.3,Mar 29,,32.5,May 01,,20.5,,,
+2003,,,,Jan 28,,19.0,Feb 25,,20.9,Mar 27,,22.7,Apr 30,,26.7,,,
+2004,,,,Jan 29,,23.9,Feb 27,,33.0,Mar 29,,27.0,Apr 27,,11.8,,,
+2005,,,,Jan 27,,29.1,Feb 24,,35.0,Mar 30,,44.8,Apr 26,,40.2,Jun 01,,13.2
+2006,,,,Jan 31,,18.5,Feb 27,,19.1,Mar 27,,34.9,May 01,,39.2,Jun 01,,2.1
+2007,,,,Jan 30,,7.5,Mar 01,,20.9,Mar 29,,16.8,Apr 24,,10.2,,,
+2008,,,,Sep 30,,20.9,Feb 27,,33.2,Mar 27,,29.1,Apr 29,,15.8,,,
+2009,,,,Jan 29,,13.8,Feb 24,,21.6,Mar 30,,28.8,Apr 27,,19.0,,,
+2010,,,,Jan 27,,21.7,Feb 25,,26.1,Apr 07,,38.4,Apr 30,,37.4,,,
+2011,,,,Jan 26,,26.6,Feb 28,,35.5,Mar 30,,54.3,Apr 26,,53.6,Jun 02,,35.2
+2012,,,,Jan 27,,4.9,Mar 02,,9.4,Mar 26,,16.0,Apr 24,,15.1,,,
+2013,,,,Jan 29,,14.8,Feb 26,,14.2,Mar 28,,14.8,Apr 25,,0.7,,,
+2014,,,,Jan 28,,2.0,Feb 24,,11.0,Mar 31,,11.5,May 01,,2.0,,,
+2015,,,,Jan 28,,2.5,Feb 24,,0.0,Mar 30,,0.0,Apr 29,,0.0,,,
+2016,,,,Jan 25,,25.5,Feb 25,,27.0,Mar 31,,32.5,Apr 28,,16.5,,,
+2017,,,,Jan 26,,34.0,Feb 23,,52.5,Mar 29,,58.0,Apr 25,,58.0,May 30,,20.0
+2018,,,,Jan 30,,4.0,Feb 23,,2.5,Mar 29,,18.0,Apr 30,,2.5,,,
+2019,,,,Jan 29,,20.0,,,,Mar 29,,50.5,May 01,,41.5,,,
+2020,,,,Jan 28,,15.0,Feb 25,,13.5,Mar 26,,18.0,Apr 29,,10.0,,,
+2021,,,,Feb 03,,17.0,Feb 24,,21.0,Mar 26,,24.0,,,,,,

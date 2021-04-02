@@ -1,0 +1,157 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 13A07: Mount Allen No 7, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Mount Allen No 7 (13A07) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 5700 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:22:01 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1922,,,,,,,,,,,,,May 01,72,30.0,,,
+1923,,,,,,,,,,,,,May 07,98,48.6,,,
+1924,,,,,,,,,,,,,May 07,78,36.0,,,
+1925,,,,,,,,,,,,,May 07,121,59.1,,,
+1926,,,,,,,,,,,,,May 05,24,13.1,,,
+1927,,,,,,,,,,,,,May 06,127,53.4,,,
+1928,,,,,,,,,,,,,May 04,119,50.7,,,
+1929,,,,,,,,,,,,,May 05,67,25.3,,,
+1930,,,,,,,,,,,,,May 05,49,20.0,,,
+1931,,,,,,,,,,,,,May 05,70,19.8,,,
+1932,,,,,,,,,,,,,May 05,98,46.5,,,
+1933,,,,,,,,,,,,,May 05,113,52.5,,,
+1934,,,,,,,,,,,,,May 04,74,39.0,,,
+1935,,,,,,,,,,,,,May 06,88,44.7,,,
+1936,,,,,,,,,,,,,May 04,89,46.1,,,
+1937,,,,,,,,,,,,,May 04,90,41.4,,,
+1938,,,,,,,,,,,,,May 04,101,45.0,,,
+1939,,,,,,,,,,,,,May 04,79,41.0,,,
+1940,,,,,,,,,,,,,May 02,67,27.6,,,
+1941,,,,,,,,,,,,,May 05,39,16.5,,,
+1942,,,,,,,,,,,,,May 04,61,25.6,,,
+1943,,,,,,,,,,,,,May 05,88,43.0,,,
+1944,,,,,,,,,,,,,May 04,47,21.7,,,
+1945,,,,,,,,,,,,,May 03,100,41.8,,,
+1946,,,,,,,,,,,,,May 02,105,51.3,,,
+1947,,,,,,,,,,,,,May 02,100,50.0,,,
+1948,,,,,,,,,,,,,May 04,104,45.8,,,
+1949,,,,,,,,,,,,,May 04,85,39.8,,,
+1950,,,,,,,,,,,,,May 06,139,62.9,,,
+1951,,,,,,,,,,,,,May 04,112,54.2,,,
+1952,,,,,,,,,,,,,May 06,63,31.9,,,
+1953,,,,,,,,,,,,,May 05,112,50.4,,,
+1954,,,,,,,,,,,,,May 04,169,72.1,,,
+1955,,,,,,,,,,,,,May 03,108,46.3,,,
+1956,,,,,,,,,,,,,May 01,128,49.4,,,
+1957,,,,,,,,,,,,,May 01,101,48.3,,,
+1958,,,,,,,,,,,,,Apr 30,95,44.3,,,
+1959,,,,,,,,,,,,,Apr 30,118,54.6,,,
+1960,,,,,,,,,,,,,May 03,95,38.1,,,
+1961,,,,,,,,,,,,,May 02,121,59.2,,,
+1962,,,,,,,,,,,,,May 01,101,40.5,,,
+1963,,,,,,,,,,,,,Apr 30,84,34.8,,,
+1964,,,,,,,,,,,,,Apr 29,111,50.8,,,
+1965,,,,,,,,,,,,,May 03,96,45.6,,,
+1966,,,,,,,,,,,,,May 03,97,47.8,,,
+1967,,,,,,,,,,,,,May 02,150,72.9,,,
+1968,,,,,,,,,,,,,Apr 30,98,46.7,,,
+1969,,,,,,,,,,,,,May 01,78,38.0,,,
+1970,,,,,,,,,,,,,May 05,111,50.1,,,
+1971,,,,,,,,,,,,,Apr 28,124,60.0,,,
+1972,,,,,,,,,,,,,May 02,134,68.1,,,
+1973,,,,,,,,,,,,,May 01,98,43.3,,,
+1974,,,,,,,,,,,,,Apr 30,137,67.0,,,
+1975,,,,,,,,,,,,,Apr 29,122,52.1,,,
+1976,,,,,,,,,,,,,Apr 28,107,46.1,,,
+1977,,,,,,,,,,,,,Apr 27,51,21.4,,,
+1978,,,,,,,,,,,,,May 02,81,38.4,,,
+1979,,,,,,,,,,,,,May 01,92,39.6,,,
+1980,,,,,,,,,,,,,Apr 29,72,31.1,,,
+1981,,,,,,,,,,,,,Apr 28,76,31.3,,,
+1982,,,,,,,,,,,,,Apr 27,125,53.8,,,
+1983,,,,,,,,,,,,,Apr 26,92,40.1,,,
+1984,,,,,,,,,,,,,Apr 26,87,32.7,,,
+1985,,,,,,,,,,,,,Apr 24,113,42.1,,,
+1986,,,,,,,,,,,,,Apr 29,67,25.6,,,
+1987,,,,,,,,,,,,,Apr 28,68,31.4,,,
+1988,,,,,,,,,,,,,Apr 26,72,29.9,,,
+1989,,,,,,,,,,,,,Apr 25,92,37.7,,,
+1990,,,,,,,,,,,,,Apr 25,82,37.2,,,
+1991,,,,,,,,,,,,,Apr 24,119,54.7,,,
+1992,,,,,,,,,,,,,Apr 29,51,24.6,,,
+1993,,,,,,,,,,,,,Apr 30,61,28.5,,,
+1994,,,,,,,,,,,,,Apr 27,76,35.0,,,
+1995,,,,,,,,,,,,,Apr 27,76,34.9,,,
+1996,,,,,,,,,,,,,Apr 25,85,35.6,,,
+1997,,,,,,,,,,,,,Apr 25,128,57.0,,,
+1998,,,,,,,,,,,,,Apr 30,72,34.3,,,
+1999,,,,,,,,,,,,,Apr 29,137,69.0,,,
+2000,,,,,,,,,,,,,Apr 26,102,47.5,,,
+2001,,,,,,,,,,,,,Apr 25,74,27.4,,,
+2002,,,,,,,,,,,,,Apr 29,102,44.3,,,
+2003,,,,,,,Feb 27,78,24.6,,,,Apr 30,81,35.5,,,
+2004,,,,,,,Mar 02,91,31.6,,,,Apr 28,61,25.6,,,
+2005,,,,,,,Feb 28,45,15.3,,,,Apr 27,54,22.0,,,
+2006,,,,,,,,,,,,,May 02,84,36.6,,,
+2007,,,,,,,,,,Mar 29,69,29.7,Apr 26,68,33.8,,,
+2008,,,,,,,,,,,,,Apr 30,92,40.9,,,
+2009,,,,,,,,,,,,,May 04,71,25.4,,,
+2010,,,,,,,,,,,,,Apr 27,67,28.7,,,
+2011,,,,,,,,,,,,,Apr 27,137,44.3,,,
+2012,,,,,,,,,,,,,Apr 26,119,55.9,,,
+2013,,,,,,,,,,,,,Apr 29,100,41.7,,,
+2014,,,,,,,,,,,,,Apr 29,113,45.2,,,
+2015,,,,,,,,,,,,,Apr 29,33,15.5,,,
+2016,,,,,,,,,,,,,Apr 27,40,18.0,,,
+2017,,,,,,,,,,,,,Apr 27,96,40.0,,,
+2018,,,,,,,,,,,,,May 02,104,48.0,,,
+2019,,,,,,,,,,,,,May 02,77,31.6,,,
+2020,,,,,,,,,,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

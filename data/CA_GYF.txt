@@ -1,0 +1,130 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER GYF: Guyot Flat, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Guyot Flat (GYF) 
+# California  SNOW COURSE/AERIAL MARKER Site - 10650 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:15:47 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1949,,,,,,,,,,Mar 27,,12.0,,,,,,
+1950,,,,,,,,,,Mar 29,,18.8,,,,,,
+1951,,,,,,,,,,Mar 27,,11.8,,,,,,
+1952,,,,,,,,,,Apr 05,,37.7,,,,,,
+1953,,,,,,,,,,Mar 28,,14.2,,,,,,
+1954,,,,,,,,,,Mar 28,,18.0,,,,,,
+1955,,,,,,,,,,Mar 23,,15.3,,,,,,
+1956,,,,,,,,,,Mar 26,,27.9,Apr 29,,27.9,May 30,,10.2
+1957,,,,,,,,,,Mar 29,,12.6,,,,,,
+1958,,,,,,,,,,Mar 24,,25.3,,,,,,
+1959,,,,,,,,,,Mar 27,,9.7,,,,,,
+1960,,,,,,,Mar 05,,10.0,Apr 02,,10.9,,,,,,
+1961,,,,,,,,,,Mar 27,,7.8,,,,,,
+1962,,,,,,,,,,Mar 28,,35.5,,,,,,
+1963,,,,,,,Mar 06,,16.0,Mar 26,,18.4,,,,,,
+1964,,,,,,,,,,Mar 29,,6.1,,,,,,
+1965,,,,Jan 27,,17.9,Feb 26,,17.0,Mar 30,,18.0,,,,,,
+1966,,,,Jan 28,,15.3,Feb 28,,17.1,Mar 25,,15.3,,,,,,
+1967,,,,Feb 01,,29.1,Feb 26,,31.3,Mar 26,,35.8,Apr 28,,40.0,May 25,,35.2
+1968,,,,Jan 28,,9.1,,,,Mar 23,,14.0,,,,,,
+1969,,,,Feb 01,,31.3,,,,Apr 03,,50.6,May 04,,46.0,May 30,,26.0
+1970,,,,Feb 06,,12.6,Mar 06,,16.2,Mar 28,,14.7,,,,,,
+1971,,,,Feb 04,,12.7,Mar 04,,12.9,Mar 26,,13.2,,,,,,
+1972,,,,Jan 30,,12.1,Mar 05,,11.0,Mar 27,,7.6,May 01,,4.6,,,
+1973,,,,Jan 29,,19.3,Feb 22,,28.0,Apr 02,,33.7,Apr 26,,30.2,,,
+1974,,,,Jan 29,,15.7,Feb 20,,16.2,Mar 24,,22.6,Apr 23,,23.0,,,
+1975,,,,Jan 25,,5.7,Feb 20,,12.0,Mar 27,,17.6,Apr 21,,19.6,,,
+1976,,,,Jan 23,,0.0,Feb 21,,3.2,Mar 26,,5.4,Apr 23,,2.7,,,
+1977,,,,Jan 25,,2.7,Feb 22,,4.8,Mar 23,,4.8,Apr 25,,0.0,,,
+1978,,,,Jan 28,,21.3,Feb 21,,35.6,Mar 28,,41.7,Apr 26,,46.0,,,
+1979,,,,Jan 30,,7.1,Feb 25,,15.2,Mar 27,,17.5,Apr 26,,15.7,,,
+1980,,,,Jan 24,,18.7,Feb 25,,32.8,Mar 24,,35.1,Apr 29,,33.4,,,
+1981,,,,Jan 26,,3.0,Feb 23,,9.5,Apr 02,,14.8,May 01,,7.4,,,
+1982,,,,Jan 26,,15.3,Feb 26,,18.1,Mar 24,,24.3,Apr 25,,31.8,,,
+1983,,,,Jan 25,,24.9,Mar 02,,41.6,Mar 27,,49.2,Apr 25,,44.9,May 28,,36.8
+1984,,,,Jan 23,,17.6,Feb 26,,19.5,Mar 29,,17.6,Apr 26,,12.9,,,
+1985,,,,Jan 28,,15.5,Feb 25,,16.4,Mar 28,,20.8,Apr 27,,14.7,,,
+1986,,,,Jan 27,,11.8,Mar 01,,31.5,Mar 30,,38.6,Apr 29,,36.0,,,
+1987,,,,Jan 29,,2.8,Feb 26,,7.3,Mar 31,,11.5,Apr 29,,4.0,,,
+1988,,,,Jan 25,,11.6,Mar 01,,11.3,Mar 29,,8.9,Apr 27,,5.4,,,
+1989,,,,Jan 26,,8.7,Feb 23,,13.0,Mar 30,,15.7,Apr 28,,4.1,,,
+1990,,,,Jan 25,,4.6,Feb 28,,10.1,Mar 27,,7.2,Apr 27,,1.8,,,
+1991,,,,Jan 28,,1.0,Feb 24,,1.2,Mar 28,,18.9,Apr 28,,14.8,,,
+1992,,,,Jan 28,,3.6,Feb 27,,9.6,Mar 28,,11.0,Apr 29,,4.6,,,
+1993,,,,Jan 24,,21.2,Mar 01,,30.0,Mar 28,,30.2,Apr 27,,28.4,,,
+1994,,,,Jan 28,,5.1,Feb 26,,11.5,Mar 28,,13.6,Apr 27,,9.3,,,
+1995,,,,Jan 29,,20.5,Feb 25,,22.6,Mar 31,,35.3,Apr 29,,34.5,,,
+1996,,,,Jan 29,,10.4,Feb 29,,20.8,Mar 30,,24.6,Apr 29,,19.9,,,
+1997,,,,Jan 29,,30.6,Feb 23,,29.9,Mar 30,,28.1,Apr 29,,20.6,,,
+1998,,,,Jan 25,,12.8,Feb 27,,33.4,Mar 30,,34.6,Apr 27,,35.6,,,
+1999,,,,Jan 28,,7.7,Feb 24,,10.7,Mar 28,,11.0,Apr 25,,10.5,,,
+2000,,,,,,,Feb 28,,17.5,Mar 23,,19.2,Apr 29,,14.2,,,
+2001,,,,Jan 25,,3.1,Mar 02,,9.9,Mar 26,,12.7,Apr 26,,12.4,,,
+2002,,,,Jan 27,,12.1,Feb 24,,14.6,Mar 29,,14.6,Apr 28,,7.5,,,
+2003,,,,Jan 27,,13.4,Feb 25,,17.5,Mar 28,,16.2,,,,,,
+2004,,,,Jan 27,,10.9,Mar 01,,17.9,Mar 30,,13.7,Apr 29,,7.4,,,
+2005,,,,Jan 29,,26.1,Feb 28,,29.1,Mar 29,,34.7,May 01,,32.3,,,
+2006,,,,Jan 27,,17.6,Feb 25,,17.3,Mar 26,,25.0,Apr 29,,32.6,,,
+2007,,,,Jan 29,,3.2,Mar 01,,5.3,Mar 24,,5.2,Apr 29,,2.5,,,
+2008,,,,Jan 30,,16.2,Feb 28,,25.3,Mar 26,,25.2,Apr 29,,12.2,,,
+2009,,,,Jan 27,,8.4,Feb 27,,16.4,Mar 27,,17.4,Apr 30,,12.1,,,
+2010,,,,Jan 30,,15.3,Mar 02,,21.4,Mar 27,,23.4,Apr 28,,21.7,,,
+2011,,,,Jan 27,,24.1,Feb 24,,26.1,Mar 30,,36.4,Apr 27,,32.5,,,
+2012,,,,Jan 31,,6.3,Feb 28,,6.9,Mar 27,,8.1,Apr 27,,2.6,,,
+2013,,,,Jan 29,,11.0,Feb 27,,9.6,Mar 26,,9.1,Apr 30,,0.0,,,
+2014,,,,Jan 25,,3.0,Feb 27,,6.0,Mar 27,,8.0,Apr 29,,4.0,,,
+2015,,,,Jan 26,,3.0,Feb 28,,5.0,Mar 26,,2.0,Apr 30,,0.0,,,
+2016,,,,Jan 27,,10.0,Feb 24,,15.0,Mar 27,,15.0,Apr 29,,12.0,,,
+2017,,,,Feb 02,,33.5,Feb 27,,47.5,Mar 28,,44.0,Apr 30,,42.0,May 29,,25.0
+2018,,,,Jan 26,,3.0,Feb 24,,3.5,Mar 28,,11.5,Apr 24,,4.5,,,
+2019,,,,Jan 27,,15.0,Feb 23,,28.5,Mar 30,,36.0,Apr 27,,32.0,,,
+2020,,,,Jan 27,,8.5,Feb 26,,8.0,Mar 29,,11.0,Apr 30,,9.0,,,
+2021,,,,Jan 26,,1.5,Feb 25,,7.5,Mar 28,,7.5,,,,,,

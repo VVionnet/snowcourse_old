@@ -1,0 +1,98 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 06K42: Hagerman Tunnel, CO
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Hagerman Tunnel (06K42) 
+# Colorado  SNOW COURSE/AERIAL MARKER Site - 11150 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:18:27 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1981,,,,,,,Feb 25,34,9.2,Mar 26,54,17.2,Apr 26,37,13.6,May 27,32,12.2
+1982,,,,,,,Mar 07,74,26.2,Mar 26,73,27.2,Apr 25,78,32.0,May 27,56,26.6
+1983,,,,,,,,,,Mar 24,72,33.0,Apr 23,80,35.0,May 26,91,37.0
+1984,,,,,,,,,,Mar 29,85,31.6,Apr 26,84,33.6,,,
+1985,,,,,,,Mar 07,69,21.6,Mar 28,79,24.8,Apr 25,76,25.0,,,
+1986,,,,Jan 28,66,21.9,Mar 05,72,27.5,Mar 26,71,24.8,Apr 24,63,33.6,May 28,34,14.8
+1987,,,,,,,Mar 04,57,15.2,Mar 27,66,19.6,,,,,,
+1988,,,,,,,Mar 04,58,16.6,Mar 27,61,19.4,Apr 26,55,17.0,,,
+1989,,,,,,,May 01,52,15.2,Mar 28,50,16.0,Apr 25,45,18.6,,,
+1990,,,,,,,,,,Apr 04,55,17.2,Apr 22,47,15.2,May 22,42,15.8
+1991,,,,,,,,,,,,,Apr 22,69,21.8,,,
+1992,,,,,,,,,,,,,Apr 25,63,20.9,,,
+1993,,,,,,,,,,Apr 05,91,25.8,Apr 25,100,31.4,,,
+1994,,,,,,,,,,Mar 22,55,17.0,Apr 22,66,21.2,,,
+1995,,,,,,,,,,Apr 06,72,23.2,Apr 24,96,31.6,,,
+1996,,,,,,,,,,,,,Apr 25,82,30.8,,,
+1997,,,,,,,,,,Apr 02,72,25.8,Apr 24,80,30.2,,,
+1998,,,,,,,,,,Apr 05,65,18.6,Apr 29,68,21.8,,,
+1999,,,,,,,,,,Apr 08,56,18.6,Apr 25,61,20.0,,,
+2000,,,,,,,,,,Apr 05,65,22.6,Apr 26,67,26.4,,,
+2001,,,,,,,,,,,,,,,,,,
+2002,,,,,,,,,,,,,,,,,,
+2003,,,,,,,,,,,,,,,,,,
+2004,,,,,,,,,,,,,,,,,,
+2005,,,,,,,,,,,,,,,,,,
+2006,,,,Jan 30,81,23.3,Feb 14,75,25.7,Mar 21,92,31.0,Apr 26,79,31.2,,,
+2007,,,,Jan 25,41,11.1,Feb 25,52,14.6,Mar 26,58,17.2,Apr 22,58,19.0,,,
+2008,,,,Feb 05,75,20.0,Mar 10,83,25.2,Mar 24,86,28.7,Apr 22,84,30.9,,,
+2009,,,,Jan 31,62,16.8,Feb 20,65,17.4,Apr 07,76,25.5,Apr 30,65,25.0,,,
+2010,,,,,,,Feb 22,69,14.8,Mar 22,65,18.4,Apr 27,63,18.5,,,
+2011,,,,Jan 24,70,16.8,Feb 23,74,21.8,Mar 29,93,27.1,Apr 25,97,31.0,,,
+2012,,,,Feb 01,42,9.2,Mar 06,56,14.4,Mar 28,40,12.8,,,,,,
+2013,,,,,,,Feb 27,46,10.3,Apr 03,56,16.4,Apr 24,75,20.8,,,
+2014,,,,Jan 25,42,9.6,Feb 27,74,20.0,Mar 27,84,24.3,Apr 30,80,25.6,,,
+2015,,,,Jan 26,45,13.3,Feb 24,56,15.5,Apr 01,51,17.8,Apr 29,57,19.3,,,
+2016,,,,Jan 28,51,12.4,Feb 24,59,15.7,Mar 27,73,19.9,Apr 24,69,21.2,,,
+2017,,,,Jan 30,66,18.0,Feb 26,69,20.3,,,,Apr 28,69,24.4,,,
+2018,,,,Jan 29,40,10.0,Feb 26,54,13.7,Mar 26,55,15.8,Apr 25,60,21.1,,,
+2019,,,,Jan 31,62,16.8,Feb 26,70,18.2,Mar 25,97,29.9,Apr 26,74,29.3,,,
+2020,,,,,,,,,,,,,,,,,,
+2021,,,,,,,Mar 03,51,14.1,,,,,,,,,

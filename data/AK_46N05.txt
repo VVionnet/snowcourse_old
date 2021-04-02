@@ -1,0 +1,84 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 46N05: Curtis Lake, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Curtis Lake (46N05) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 2850 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:12:13 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1995,Jan 03,18,2.8,Feb 03,22,3.6,Feb 28,26,4.6,Mar 31,30,5.9,,,,,,
+1996,Jan 02,10,1.5,Jan 30,14,2.3,Mar 01,20,3.3,Mar 31,20,3.5,,,,,,
+1997,,,,,,,,,,,,,,,,,,
+1998,,,,Jan 28,18,2.6,Feb 26,19,2.9,Mar 26,18,3.1,,,,,,
+1999,Dec 29,17,2.3,Feb 01,20,2.7,Mar 01,21,3.3,Apr 02,20,3.7,,,,,,
+2000,Jan 03,22,3.3,Feb 03,23,4.2,Feb 25,28,5.2,Mar 30,27,5.4,,,,,,
+2001,Dec 30,20,2.9,Feb 01,27,4.1,Feb 28,30,5.3,Apr 02,28,5.3,,,,,,
+2002,,,,,,,,,,,,,,,,,,
+2003,Jan 07,16,2.2,Feb 04,21,3.2,Feb 27,21,3.5,Mar 27,21,4.1,,,,,,
+2004,,,,Feb 02,20,3.1,Mar 01,22,3.9,Mar 31,27,5.2,,,,,,
+2005,Jan 02,27,5.0,Jan 22,23,4.4,Mar 02,26,5.1,Mar 30,27,5.8,,,,,,
+2006,Dec 29,15,2.4,Jan 30,16,2.5,Feb 28,19,3.4,Apr 01,20,4.0,,,,,,
+2007,,,,Jan 29,21,4.6,May 01,21,4.7,Mar 29,25,5.5,,,,,,
+2008,,,,Jan 29,18,2.4,Feb 28,15,2.1,,,,,,,,,
+2009,,,,Jan 31,23,4.2,Mar 02,29,5.0,Apr 02,25,4.9,,,,,,
+2010,,,,Feb 01,19,2.5,Mar 02,19,2.7,Mar 31,14,2.8,,,,,,
+2011,,,,Feb 02,18,3.2,Mar 02,20,3.5,Apr 02,22,4.2,,,,,,
+2012,,,,,,,Feb 29,30,5.5,Apr 02,29,5.8,,,,,,
+2013,,,,Feb 02,18,2.7,Mar 01,30,5.4,Apr 01,22,3.9,,,,,,
+2014,,,,Feb 01,18,3.3,Feb 28,20,4.0,Apr 01,21,4.1,,,,,,
+2015,,,,Feb 04,13,2.4,Mar 02,22,3.4,Apr 02,17,3.6,,,,,,
+2016,,,,,,,,,,Apr 03,13,2.6,,,,,,
+2017,,,,,,,,,,Mar 31,15,3.2,,,,,,
+2018,,,,Feb 02,24,4.1,Mar 01,32,6.1,Apr 01,27,6.3,,,,,,
+2019,,,,Jan 31,16,2.5,Feb 28,23,3.9,Apr 01,16,3.7,,,,,,
+2020,,,,Jan 30,26,4.0,Feb 29,27,4.6,Apr 01,29,5.8,,,,,,
+2021,,,,Feb 02,18,3.2,Mar 03,35,5.7,,,,,,,,,

@@ -1,0 +1,139 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER WHN: Whalan, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Whalan (WHN) 
+# California  SNOW COURSE/AERIAL MARKER Site - 5400 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:17:40 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1940,,,,,,,Feb 20,,13.9,Mar 31,,6.9,,,,,,
+1941,,,,Jan 23,,23.6,Feb 25,,40.9,Apr 03,,40.5,,,,,,
+1942,,,,Feb 07,,21.0,Mar 09,,21.6,Mar 30,,21.2,,,,,,
+1943,,,,Feb 03,,21.9,Mar 04,,23.7,Apr 04,,13.0,,,,,,
+1944,,,,Jan 28,,7.0,Feb 29,,19.5,Mar 30,,16.6,,,,,,
+1945,,,,Jan 29,,8.1,Feb 26,,15.4,Mar 31,,20.9,,,,,,
+1946,,,,,,,Feb 28,,30.1,Apr 01,,27.8,,,,,,
+1947,,,,Jan 27,,5.2,,,,Apr 01,,6.7,,,,,,
+1948,,,,,,,,,,Mar 29,,10.1,,,,,,
+1949,,,,,,,,,,Apr 07,,30.0,,,,,,
+1950,,,,,,,,,,Apr 03,,18.1,,,,,,
+1951,,,,,,,,,,Apr 06,,8.2,,,,,,
+1952,,,,,,,,,,Apr 04,,39.5,,,,,,
+1953,,,,,,,,,,Apr 02,,33.4,,,,,,
+1954,,,,,,,,,,Mar 30,,28.2,,,,,,
+1955,,,,,,,,,,Apr 07,,3.5,,,,,,
+1956,,,,,,,,,,Apr 05,,36.3,,,,,,
+1957,,,,,,,,,,Apr 03,,9.1,,,,,,
+1958,,,,,,,,,,Mar 29,,39.7,,,,,,
+1959,,,,,,,,,,Apr 03,,21.1,,,,,,
+1960,,,,,,,,,,Mar 31,,16.0,,,,,,
+1961,,,,,,,,,,Mar 30,,21.8,,,,,,
+1962,,,,,,,,,,Mar 30,,36.4,,,,,,
+1963,,,,,,,,,,Apr 01,,7.2,,,,,,
+1964,,,,,,,,,,Apr 01,,10.4,,,,,,
+1965,,,,,,,,,,Mar 31,,2.5,,,,,,
+1966,,,,,,,,,,Mar 28,,30.4,,,,,,
+1967,,,,,,,,,,Mar 28,,23.3,,,,,,
+1968,,,,,,,,,,Mar 27,,17.8,,,,,,
+1969,,,,,,,,,,Mar 29,,45.7,,,,,,
+1970,,,,,,,,,,Mar 27,,9.1,,,,,,
+1971,,,,,,,,,,Mar 26,,32.3,,,,,,
+1972,,,,,,,,,,Apr 04,,4.2,,,,,,
+1973,,,,,,,,,,Mar 27,,42.6,,,,,,
+1974,,,,,,,,,,Mar 21,,27.4,,,,,,
+1975,,,,,,,,,,Mar 26,,42.4,,,,May 28,,8.6
+1976,,,,,,,,,,Mar 22,,12.4,,,,,,
+1977,,,,,,,,,,Mar 22,,8.1,,,,,,
+1978,,,,,,,,,,Mar 20,,31.2,,,,,,
+1979,,,,,,,,,,Mar 31,,25.6,,,,,,
+1980,,,,,,,,,,Mar 24,,17.7,,,,,,
+1981,,,,,,,,,,Mar 28,,10.5,,,,,,
+1982,,,,,,,,,,,,,Apr 27,,20.3,,,
+1983,,,,,,,,,,,,,,,,,,
+1984,,,,,,,,,,Mar 29,,18.0,,,,,,
+1985,,,,,,,,,,Mar 29,,21.0,,,,,,
+1986,,,,,,,,,,Mar 28,,21.9,,,,,,
+1987,,,,,,,,,,Mar 25,,16.0,,,,,,
+1988,,,,,,,,,,Mar 31,,0.7,,,,,,
+1989,,,,,,,,,,Apr 03,,11.6,,,,,,
+1990,,,,,,,,,,Mar 28,,2.6,May 01,,0.0,,,
+1991,,,,,,,,,,Apr 02,,14.1,,,,,,
+1992,,,,,,,,,,Mar 26,,32.5,,,,,,
+1993,,,,,,,,,,Apr 07,,24.6,,,,,,
+1994,,,,,,,,,,Mar 31,,6.9,,,,,,
+1995,,,,,,,,,,Mar 28,,36.1,,,,,,
+1996,,,,,,,,,,Mar 26,,13.8,,,,,,
+1997,,,,,,,,,,Mar 28,,0.0,,,,,,
+1998,,,,,,,,,,Apr 01,,53.1,,,,,,
+1999,,,,,,,,,,Mar 26,,27.8,,,,,,
+2000,,,,,,,,,,Mar 30,,25.6,,,,,,
+2001,,,,,,,,,,Mar 29,,29.8,,,,,,
+2002,,,,,,,,,,Mar 28,,24.0,,,,,,
+2003,,,,,,,,,,Mar 30,,13.5,,,,,,
+2004,,,,,,,,,,Mar 29,,21.4,,,,,,
+2005,,,,,,,,,,Apr 02,,27.0,,,,,,
+2006,,,,,,,,,,,,,,,,,,
+2007,,,,,,,,,,Apr 02,,0.0,,,,,,
+2008,,,,,,,,,,Apr 03,,28.0,,,,,,
+2009,,,,,,,,,,Apr 03,,14.9,,,,,,
+2010,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,,,,,,,,,,,,
+2013,,,,,,,,,,,,,,,,,,
+2014,,,,,,,,,,Apr 02,,1.5,,,,,,
+2015,,,,,,,,,,Mar 25,,0.0,,,,,,
+2016,,,,,,,,,,,,,,,,,,
+2017,,,,,,,,,,,,,,,,,,
+2018,,,,,,,,,,Mar 29,,3.0,,,,,,
+2019,,,,,,,,,,,,,,,,,,
+2020,,,,,,,,,,Apr 01,,3.2,,,,,,
+2021,,,,,,,,,,,,,,,,,,

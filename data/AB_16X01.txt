@@ -1,0 +1,95 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 16X01: Bow River, AB
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Bow River (16X01) 
+# Alberta  SNOW COURSE/AERIAL MARKER Site - 5183 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:10:23 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1984,,,,,,,Mar 01,24,5.6,Mar 29,22,5.6,,,,,,
+1985,,,,,,,,,,,,,,,,,,
+1986,,,,Jan 27,30,6.5,Feb 27,35,8.5,Mar 25,37,9.3,,,,,,
+1987,,,,Feb 04,31,7.8,Feb 27,28,7.9,Mar 27,32,8.6,,,,,,
+1988,,,,,,,,,,,,,,,,,,
+1989,,,,,,,,,,,,,,,,,,
+1990,,,,,,,,,,,,,,,,,,
+1991,,,,,,,,,,,,,,,,,,
+1992,,,,,,,,,,,,,,,,,,
+1993,,,,,,,,,,,,,,,,,,
+1994,,,,,,,,,,,,,,,,,,
+1995,,,,,,,,,,,,,,,,,,
+1996,,,,,,,,,,,,,,,,,,
+1997,,,,Jan 27,39,8.8,Feb 25,39,10.7,Apr 03,38,11.7,,,,,,
+1998,,,,,,,,,,,,,,,,,,
+1999,,,,Jan 27,31,7.8,Feb 24,36,9.7,Mar 29,32,10.2,May 04,46,19.3,,,
+2000,,,,Jan 28,22,3.2,Feb 28,31,7.7,Mar 27,33,7.7,Apr 27,49,16.5,,,
+2001,,,,Feb 01,14,3.0,Mar 01,20,4.0,Mar 29,20,4.1,,,,,,
+2002,,,,Jan 30,25,5.1,Feb 26,30,6.7,Mar 26,30,8.1,,,,,,
+2003,,,,Jan 30,15,3.2,Feb 26,20,3.8,Apr 01,21,5.6,,,,,,
+2004,,,,Jan 27,23,4.9,Mar 02,27,6.5,Apr 01,25,6.5,,,,,,
+2005,,,,Feb 02,24,6.1,Mar 02,26,6.4,Mar 29,29,7.4,,,,,,
+2006,,,,,,4.8,,,6.3,,,6.6,,,,,,
+2007,,,,Jan 29,31,8.3,Feb 26,34,9.3,Mar 27,33,10.4,,,,,,
+2008,,,,Jan 31,25,5.2,Feb 25,28,6.9,Mar 31,28,6.8,,,,,,
+2009,,,,,,,Feb 25,30,5.5,Apr 01,27,6.6,,,,,,
+2010,,,,Jan 29,20,4.7,Feb 24,20,4.0,Mar 29,21,5.6,,,,,,
+2011,,,,Feb 01,30,6.6,Mar 01,37,10.8,Mar 28,35,10.0,,,,,,
+2012,,,,Feb 01,50,13.6,Mar 01,30,7.5,Mar 30,40,10.6,,,,,,
+2013,,,,Feb 04,24,7.0,Feb 25,25,6.7,Mar 28,29,8.4,,,,,,
+2014,,,,Jan 30,25,5.6,Feb 26,27,6.6,Mar 31,45,11.3,,,,Jun 02,16,6.1
+2015,,,,Feb 02,22,5.1,Mar 03,23,5.9,Mar 31,14,4.1,,,,,,
+2016,,,,Feb 26,29,8.2,,,,Apr 01,26,8.1,,,,,,
+2017,,,,Jan 31,20,4.8,Mar 01,26,6.1,Mar 29,29,8.9,,,,,,
+2018,,,,Jan 30,29,6.4,Feb 28,35,8.8,Mar 27,39,10.0,,,,,,
+2019,,,,Jan 30,25,6.3,Feb 28,30,7.8,Mar 27,27,7.6,,,,,,
+2020,,,,Jan 29,30,7.8,Feb 25,35,9.1,,,,,,,,,
+2021,,,,Jan 29,28,6.8,Feb 25,34,8.7,,,,,,,,,

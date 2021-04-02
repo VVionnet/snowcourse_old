@@ -1,0 +1,113 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 22G31: Mount Ashland Switchback, OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Mount Ashland Switchback (22G31) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 6430 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:23:53 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1966,,,,Feb 01,,29.5,Feb 24,97,36.5,Mar 28,102,40.7,May 01,,41.3,,,
+1967,,,,Jan 30,88,26.0,Feb 24,77,29.2,Mar 30,106,36.0,May 01,,36.5,,,
+1968,,,,Feb 01,85,27.0,Mar 01,65,29.0,Mar 28,81,33.8,Apr 29,62,31.0,,,
+1969,,,,Jan 30,129,38.0,Feb 27,123,40.0,Mar 25,116,44.3,Apr 28,86,38.2,,,
+1970,,,,Jan 29,91,26.5,Mar 01,101,30.3,Mar 30,83,34.5,Apr 28,91,34.3,,,
+1971,,,,Feb 01,89,32.7,Feb 25,96,32.5,Mar 29,128,46.8,Apr 27,117,50.7,,,
+1972,,,,Jan 27,105,31.2,Feb 25,110,34.7,Mar 29,83,33.7,Apr 27,78,33.8,,,
+1973,,,,Jan 29,64,16.7,Feb 28,68,21.3,Mar 28,83,26.8,Apr 24,69,27.8,,,
+1974,,,,Jan 28,109,40.0,Feb 28,151,48.0,Mar 28,156,58.7,Apr 29,153,67.8,,,
+1975,,,,Jan 30,55,17.3,Feb 27,96,31.3,Mar 27,140,48.5,Apr 29,130,52.1,,,
+1976,,,,Jan 28,43,13.3,Feb 26,76,21.3,Mar 26,73,22.5,Apr 28,73,28.8,,,
+1977,,,,Jan 28,12,2.2,Feb 24,26,4.8,Mar 25,41,10.3,Apr 26,18,6.6,,,
+1978,,,,Jan 27,76,24.7,Feb 24,77,27.0,Mar 29,85,34.7,Apr 27,80,33.5,,,
+1979,,,,Jan 26,17,4.7,Feb 23,66,15.5,Mar 30,57,19.0,Apr 26,60,24.3,,,
+1980,,,,Jan 25,70,21.0,Feb 25,88,26.2,Mar 27,97,30.5,Apr 28,75,30.0,,,
+1981,,,,Jan 25,32,9.8,Feb 22,44,15.2,Mar 27,58,20.2,Apr 24,40,15.3,,,
+1982,,,,Jan 25,84,27.3,Feb 22,88,28.7,Mar 25,96,34.2,Apr 26,105,40.0,,,
+1983,,,,Jan 27,113,28.3,Feb 28,139,50.5,Mar 30,169,67.4,Apr 27,142,61.0,,,
+1984,,,,Jan 27,63,22.8,Feb 25,92,29.0,Mar 25,89,32.0,Apr 27,92,34.0,,,
+1985,,,,Jan 28,75,27.3,Feb 28,89,30.0,Mar 25,98,34.8,Apr 26,76,32.8,,,
+1986,,,,Jan 29,57,17.7,Feb 27,82,30.7,Mar 27,79,33.5,Apr 28,61,27.0,,,
+1987,,,,Jan 27,53,14.3,Feb 23,70,22.0,Mar 25,91,29.5,Apr 23,58,23.7,,,
+1988,,,,Jan 27,62,18.4,Feb 25,85,21.3,Mar 28,48,19.3,Apr 25,41,16.3,,,
+1989,,,,Jan 25,71,23.2,Feb 27,70,25.9,Mar 28,86,34.6,Apr 27,74,29.8,,,
+1990,,,,Jan 31,35,7.7,Feb 27,44,12.8,Mar 28,46,17.2,Apr 26,26,10.9,,,
+1991,,,,Jan 30,22,6.1,Feb 26,30,10.0,Mar 27,84,25.3,Apr 29,69,23.6,,,
+1992,,,,Jan 28,33,10.3,Feb 26,41,13.3,Mar 30,38,14.7,Apr 28,15,5.6,,,
+1993,,,,Jan 27,105,34.3,Feb 25,117,36.5,Mar 30,87,38.4,Apr 28,98,46.0,,,
+1994,,,,Jan 26,48,14.2,Feb 24,69,20.5,Mar 30,56,22.5,Apr 29,46,18.4,,,
+1995,,,,Jan 27,94,33.8,Feb 24,76,32.0,Mar 29,117,46.9,Apr 27,108,50.0,,,
+1996,,,,Jan 29,81,18.9,Feb 26,78,25.3,Mar 27,70,29.5,Apr 29,65,30.0,,,
+1997,,,,Jan 28,74,27.5,Feb 26,76,28.5,Mar 30,71,30.3,Apr 27,61,27.6,,,
+1998,,,,Jan 28,64,20.3,Feb 27,127,41.3,Mar 29,110,43.0,Apr 29,109,51.5,,,
+1999,,,,Jan 27,92,30.1,Feb 24,136,47.3,Mar 30,137,58.6,Apr 30,121,54.0,,,
+2000,,,,Jan 28,70,22.0,Feb 25,97,31.3,Mar 27,94,37.5,Apr 26,77,35.8,,,
+2001,,,,Jan 29,35,8.6,Feb 26,49,12.1,Mar 28,31,11.4,Apr 26,34,12.8,,,
+2002,,,,Jan 28,78,27.5,Feb 26,78,30.3,Mar 28,86,33.0,Apr 28,71,31.3,,,
+2003,,,,Jan 30,66,27.8,Feb 27,71,26.7,Mar 30,79,32.7,Apr 28,97,41.2,,,
+2004,,,,Jan 28,71,23.5,Feb 26,118,38.2,Mar 29,90,35.0,Apr 26,86,37.8,,,
+2005,,,,Jan 27,53,18.5,Feb 24,57,19.8,Mar 28,71,24.2,Apr 28,73,29.2,,,
+2006,,,,Jan 27,82,26.8,Feb 25,81,30.7,Mar 28,117,43.5,Apr 26,113,48.3,,,
+2007,,,,Jan 30,42,14.7,May 01,90,23.5,Mar 28,62,24.2,Apr 27,58,24.2,,,
+2008,,,,Jan 31,106,27.8,Feb 28,86,31.5,Mar 31,86,33.7,Apr 30,85,36.3,,,
+2009,,,,Jan 29,25,8.2,Feb 27,52,15.2,Mar 31,56,20.2,Apr 30,41,17.2,,,
+2010,,,,Feb 01,56,18.0,Mar 01,63,21.2,Mar 28,66,24.7,Apr 30,92,32.3,,,
+2011,,,,,,14.8,,,21.3,,,39.3,,,39.2,,,
+2012,,,,Jan 30,34,11.9,Feb 27,42,14.0,Mar 28,95,26.0,Apr 30,74,32.3,,,
+2013,,,,Jan 30,62,22.3,Feb 27,64,23.8,Mar 28,62,26.2,Apr 30,44,20.7,,,
+2014,,,,Feb 03,2,0.3,Mar 03,12,2.7,Mar 31,20,4.8,May 02,0,0.0,,,
+2015,Dec 29,11,2.2,Jan 30,3,1.3,Feb 27,16,5.3,Mar 30,4,1.3,Apr 30,1,0.8,,,
+2016,,,,Jan 29,72,23.8,Feb 29,62,25.3,Mar 31,74,31.0,Apr 29,50,22.9,,,
+2017,Dec 29,35,9.0,Jan 30,84,24.7,Feb 27,121,40.4,Mar 31,100,42.2,May 01,99,44.3,,,
+2018,Dec 29,4,1.0,Feb 01,12,2.3,Mar 01,30,6.7,Mar 28,36,10.0,Apr 30,23,8.0,,,
+2019,,,,Feb 01,28,10.0,Feb 28,103,29.0,Mar 29,93,32.2,Apr 30,59,27.5,,,
+2020,,,,Jan 31,37,14.4,Mar 02,37,13.5,Mar 31,43,14.8,May 01,18,8.3,,,
+2021,,,,Jan 28,34,8.5,Mar 01,42,13.3,,,,,,,,,

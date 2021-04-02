@@ -1,0 +1,93 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 29N01: Burns Lake, YK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Burns Lake (29N01) 
+# Yukon Territory  SNOW COURSE/AERIAL MARKER Site - 3650 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:26:08 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1986,,,,,,,Feb 27,33,6.8,Apr 01,42,9.5,Apr 28,39,10.0,,,
+1987,,,,,,,Feb 27,31,6.3,Mar 31,32,6.8,Apr 30,27,7.1,,,
+1988,,,,,,,Feb 25,33,7.6,Mar 29,39,9.3,Apr 28,24,8.4,,,
+1989,,,,,,,Feb 27,35,8.0,Mar 31,39,8.9,May 02,15,5.2,,,
+1990,,,,,,,Feb 28,46,10.6,Mar 28,42,11.3,Apr 26,27,9.8,,,
+1991,,,,,,,Feb 28,41,10.2,Apr 02,45,11.0,Apr 30,26,9.4,,,
+1992,,,,,,,Mar 02,39,11.0,Mar 31,41,11.1,Apr 30,34,12.1,,,
+1993,,,,,,,Feb 26,42,8.1,Mar 30,42,9.5,Apr 30,23,7.4,,,
+1994,,,,,,,Mar 02,42,10.1,Mar 30,40,10.7,Apr 29,31,10.9,,,
+1995,,,,,,,Feb 28,26,4.7,Mar 31,31,6.6,Apr 28,16,5.2,,,
+1996,,,,,,,Feb 28,30,6.6,Mar 27,41,9.4,May 01,23,9.0,,,
+1997,,,,,,,Feb 26,26,5.7,Mar 27,29,6.3,Apr 30,18,5.5,,,
+1998,,,,,,,Feb 26,32,7.0,Mar 27,33,1.9,Apr 29,22,8.3,,,
+1999,,,,,,,Mar 03,24,4.9,Mar 30,27,6.2,Apr 30,17,5.7,,,
+2000,,,,,,,Feb 25,31,7.1,Mar 29,32,7.8,Apr 27,31,9.0,,,
+2001,,,,,,,Feb 28,35,7.6,Mar 28,36,8.7,Apr 26,31,9.4,,,
+2002,,,,,,,Feb 28,32,6.3,Mar 26,33,7.4,Apr 26,33,8.3,,,
+2003,,,,,,,Feb 27,25,5.1,Mar 27,28,6.3,Apr 30,12,3.7,,,
+2004,,,,,,,Feb 26,36,8.0,Mar 31,41,9.7,Apr 28,36,11.6,,,
+2005,,,,,,,Feb 24,40,9.1,Apr 04,42,9.0,Apr 27,29,10.3,,,
+2006,,,,,,,Feb 27,31,6.2,Mar 29,35,6.6,Apr 27,28,8.2,,,
+2007,,,,,,,,,,Mar 28,36,8.7,Apr 26,24,7.3,,,
+2008,,,,,,,Mar 01,45,9.9,Mar 27,43,11.1,Apr 30,38,11.4,,,
+2009,,,,,,,Feb 25,44,9.4,Apr 02,48,12.0,Apr 29,42,12.0,,,
+2010,,,,,,,Feb 26,33,5.5,Mar 31,30,6.4,Apr 29,14,3.6,,,
+2011,,,,,,,Feb 25,41,7.2,Mar 30,39,9.1,Apr 28,33,8.6,,,
+2012,,,,,,,Feb 28,41,9.4,Mar 29,41,10.2,Apr 28,40,11.3,,,
+2013,,,,,,,Mar 02,41,10.3,Mar 27,43,10.6,Apr 29,44,11.3,,,
+2014,,,,,,,Feb 25,41,10.0,Mar 28,44,10.3,Apr 30,33,10.0,,,
+2015,,,,,,,Feb 25,36,7.6,Mar 27,40,9.4,Apr 29,28,9.2,,,
+2016,,,,,,,,,,Mar 31,33,8.2,Apr 27,23,7.9,,,
+2017,,,,,,,,,,Mar 30,35,7.8,Apr 27,29,7.8,,,
+2018,,,,,,,Feb 28,33,6.0,Mar 27,30,6.2,Apr 25,28,5.9,,,
+2019,,,,,,,Feb 27,35,7.7,Mar 27,25,6.0,May 01,24,7.7,,,
+2020,,,,,,,Feb 26,44,9.8,Mar 31,48,12.6,Apr 29,34,12.0,,,
+2021,,,,,,,Feb 24,42,9.3,,,,,,,,,

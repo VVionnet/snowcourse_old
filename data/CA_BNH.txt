@@ -1,0 +1,106 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER BNH: Bench Lake, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Bench Lake (BNH) 
+# California  SNOW COURSE/AERIAL MARKER Site - 10600 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:14:37 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1973,,,,,,,,,,Apr 03,98,34.6,,,,,,
+1974,,,,Jan 24,73,23.3,,,,Apr 03,109,37.5,,,,,,
+1975,,,,Jan 24,34,9.2,,,,Apr 01,76,23.4,,,,Jun 01,29,11.4
+1976,,,,Jan 29,13,2.8,,,,Mar 30,26,7.3,,,,,,
+1977,,,,Jan 28,16,3.8,,,,Apr 04,26,6.8,,,,,,
+1978,,,,Jan 31,81,26.6,,,,Apr 10,120,48.3,May 03,116,53.4,May 26,82,45.1
+1979,,,,Jan 29,48,13.1,,,,Apr 04,85,30.2,May 04,60,28.4,,,
+1980,,,,Jan 22,79,25.4,,,,Apr 01,108,43.1,,,,,,
+1981,,,,Feb 04,49,11.8,,,,Apr 06,63,22.0,,,,,,
+1982,,,,Jan 27,75,25.9,,,,Apr 09,114,44.4,May 04,94,39.3,,,
+1983,,,,Feb 02,98,30.2,Mar 08,129,45.0,Mar 30,136,52.5,May 12,118,54.9,Jun 03,80,43.9
+1984,,,,Jan 31,57,21.9,,,,Apr 02,71,25.8,,,,,,
+1985,,,,Jan 28,60,19.1,,,,Apr 01,76,26.2,,,,,,
+1986,,,,,,,,,,Mar 25,133,53.1,,,,,,
+1987,,,,Feb 04,22,4.2,,,,Mar 26,47,10.0,,,,,,
+1988,,,,Jan 27,51,13.6,,,,Mar 25,41,13.4,,,,,,
+1989,,,,Jan 28,38,13.6,,,,Mar 27,54,17.3,,,,,,
+1990,,,,Jan 29,26,6.2,,,,Mar 26,35,9.9,,,,,,
+1991,,,,Jan 28,8,1.7,,,,Mar 29,70,22.8,,,,,,
+1992,,,,Jan 27,24,6.0,,,,Apr 02,59,17.3,,,,,,
+1993,,,,Jan 26,86,27.8,,,,Apr 14,98,41.2,,,,,,
+1994,,,,Jan 31,35,9.5,,,,Mar 29,56,18.0,,,,,,
+1995,,,,Feb 03,72,23.3,,,,Mar 30,115,43.8,Apr 27,94,41.6,May 31,77,39.7
+1996,,,,,,,,,,Mar 26,80,31.9,,,,,,
+1997,,,,Jan 30,108,38.0,,,,Apr 01,80,35.9,May 01,57,28.7,,,
+1998,,,,Jan 27,52,15.5,,,,Apr 02,119,42.8,Apr 29,94,41.9,Jun 01,71,36.9
+1999,,,,Jan 28,49,8.7,,,,,,,,,,,,
+2000,,,,Feb 01,52,11.8,,,,Mar 29,66,25.7,,,,,,
+2001,,,,Jan 31,28,6.8,,,,Mar 28,47,18.0,,,,,,
+2002,,,,Feb 04,64,20.3,,,,Mar 30,72,31.8,,,,,,
+2003,,,,,,,,,,,,,,,,,,
+2004,,,,Jan 26,53,17.3,,,,Mar 29,56,24.0,,,,,,
+2005,,,,Feb 02,83,25.2,,,,Apr 01,94,38.6,,,,,,
+2006,,,,Jan 25,67,22.6,,,,,,,Apr 29,103,44.4,,,
+2007,,,,Jan 25,16,4.3,,,,Mar 30,27,9.9,,,,,,
+2008,,,,Jan 29,66,16.8,,,,Mar 25,63,25.2,,,,,,
+2009,,,,Jan 28,45,12.9,,,,Mar 27,67,23.6,,,,,,
+2010,,,,Feb 01,59,16.8,,,,Mar 26,70,26.6,,,,,,
+2011,,,,,,,,,,Mar 29,125,47.2,,,,,,
+2012,,,,Jan 30,26,6.8,Feb 24,25,7.0,Mar 30,31,11.0,,,,,,
+2013,,,,Jan 30,51,16.5,Feb 26,46,16.1,Mar 26,40,14.5,,,,,,
+2014,,,,Jan 28,15,4.5,Mar 07,50,14.3,Mar 28,44,13.5,,,,,,
+2015,,,,Feb 01,20,5.5,Feb 26,25,7.5,Mar 25,20,6.5,,,,,,
+2016,,,,Jan 26,56,15.0,Feb 24,59,19.5,Mar 25,58,20.5,,,,,,
+2017,,,,Jan 25,124,37.5,Mar 01,146,62.0,Mar 26,122,59.0,May 01,116,54.5,,,
+2018,,,,Jan 30,22,6.0,Feb 25,24,7.0,Mar 29,62,19.0,,,,,,
+2019,,,,Jan 25,58,17.5,,,,Mar 29,112,42.0,Apr 26,85,42.0,Jun 07,60,31.6
+2020,,,,Jan 31,38,12.5,Feb 25,40,13.0,Mar 27,48,15.5,,,,,,
+2021,,,,Jan 30,52,9.0,Feb 23,38,11.0,Mar 28,42,13.0,,,,,,

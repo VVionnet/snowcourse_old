@@ -1,0 +1,142 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 13A08: Ptarmigan No 8, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Ptarmigan No 8 (13A08) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 5800 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:21:29 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1937,,,,,,,,,,,,,May 05,67,31.1,,,
+1938,,,,,,,,,,,,,May 06,82,32.5,,,
+1939,,,,,,,,,,,,,May 05,47,23.1,,,
+1940,,,,,,,,,,,,,May 03,50,20.3,,,
+1941,,,,,,,,,,,,,May 06,19,5.7,,,
+1942,,,,,,,,,,,,,May 05,36,15.3,,,
+1943,,,,,,,,,,,,,May 06,74,33.6,,,
+1944,,,,,,,,,,,,,May 05,32,14.0,,,
+1945,,,,,,,,,,,,,May 04,78,32.1,,,
+1946,,,,,,,,,,,,,May 03,71,34.7,,,
+1947,,,,,,,,,,,,,May 03,80,40.2,,,
+1948,,,,,,,,,,,,,May 05,79,35.1,,,
+1949,,,,,,,,,,,,,May 05,72,34.1,,,
+1950,,,,,,,,,,,,,May 05,122,52.2,,,
+1951,,,,,,,,,,,,,May 05,98,46.5,,,
+1952,,,,,,,,,,,,,May 05,50,25.6,,,
+1953,,,,,,,,,,,,,May 06,100,46.4,,,
+1954,,,,,,,,,,,,,May 06,137,51.7,,,
+1955,,,,,,,,,,,,,May 04,82,34.1,,,
+1956,,,,,,,,,,,,,May 02,118,48.4,,,
+1957,,,,,,,,,,,,,May 02,81,39.1,,,
+1958,,,,,,,,,,,,,May 01,75,34.6,,,
+1959,,,,,,,,,,,,,May 01,99,46.6,,,
+1960,,,,,,,,,,,,,May 04,74,31.1,,,
+1961,,,,,,,,,,,,,May 03,95,47.6,,,
+1962,,,,,,,,,,,,,May 02,70,30.7,,,
+1963,,,,,,,,,,,,,May 01,72,27.6,,,
+1964,,,,,,,,,,,,,Apr 30,98,46.6,,,
+1965,,,,,,,,,,,,,May 04,92,46.8,,,
+1966,,,,,,,,,,,,,May 04,70,36.1,,,
+1967,,,,,,,,,,,,,May 03,133,59.8,,,
+1968,,,,,,,,,,,,,May 01,86,39.6,,,
+1969,,,,,,,,,,,,,Apr 30,60,30.0,,,
+1970,,,,,,,,,,,,,May 06,90,40.2,,,
+1971,,,,,,,,,,,,,Apr 29,104,49.7,,,
+1972,,,,,,,,,,,,,May 03,124,63.7,,,
+1973,,,,,,,,,,,,,May 02,81,36.0,,,
+1974,,,,,,,,,,,,,May 01,110,51.2,,,
+1975,,,,,,,,,,,,,Apr 30,111,46.4,,,
+1976,,,,,,,,,,,,,Apr 29,105,43.7,,,
+1977,,,,,,,,,,,,,Apr 28,41,16.2,,,
+1978,,,,,,,,,,,,,May 03,58,28.7,,,
+1979,,,,,,,,,,,,,May 02,77,33.2,,,
+1980,,,,,,,,,,,,,Apr 30,58,26.3,,,
+1981,,,,,,,,,,,,,Apr 29,57,23.7,,,
+1982,,,,,,,,,,,,,Apr 28,102,42.5,,,
+1983,,,,,,,,,,,,,Apr 27,69,27.9,,,
+1984,,,,,,,,,,,,,Apr 25,56,21.9,,,
+1985,,,,,,,,,,,,,Apr 25,87,32.6,,,
+1986,,,,,,,,,,,,,Apr 30,55,22.4,,,
+1987,,,,,,,,,,,,,Apr 29,52,25.5,,,
+1988,,,,,,,,,,,,,Apr 27,57,23.8,,,
+1989,,,,,,,,,,,,,Apr 26,73,30.6,,,
+1990,,,,,,,,,,,,,Apr 24,72,35.2,,,
+1991,,,,,,,,,,,,,Apr 25,108,47.8,,,
+1992,,,,,,,,,,,,,Apr 29,37,17.7,,,
+1993,,,,,,,,,,,,,Apr 29,47,20.3,,,
+1994,,,,,,,,,,,,,Apr 28,67,28.5,,,
+1995,,,,,,,,,,,,,Apr 28,67,29.6,,,
+1996,,,,,,,,,,,,,Apr 26,76,32.8,,,
+1997,,,,,,,,,,,,,Apr 28,105,45.8,,,
+1998,,,,,,,,,,,,,May 01,55,25.2,,,
+1999,,,,,,,,,,,,,Apr 30,102,46.1,,,
+2000,,,,,,,,,,,,,Apr 27,65,30.1,,,
+2001,,,,,,,,,,,,,Apr 26,65,24.6,,,
+2002,,,,,,,,,,,,,Apr 30,95,42.4,,,
+2003,,,,,,,Feb 26,61,19.4,,,,May 01,64,27.4,,,
+2004,,,,,,,Mar 03,69,25.1,,,,Apr 29,58,24.4,,,
+2005,,,,,,,Mar 01,37,12.6,,,,Apr 26,39,13.6,,,
+2006,,,,,,,,,,,,,May 03,64,29.8,,,
+2007,,,,,,,,,,Mar 26,67,29.4,Apr 27,60,29.5,,,
+2008,,,,,,,,,,,,,Apr 29,76,34.7,,,
+2009,,,,,,,,,,,,,May 05,74,33.7,,,
+2010,,,,,,,,,,,,,Apr 26,49,21.0,,,
+2011,,,,,,,,,,,,,Apr 28,122,45.4,,,
+2012,,,,,,,,,,,,,Apr 26,79,35.1,,,
+2013,,,,,,,,,,,,,Apr 30,82,33.9,,,
+2014,,,,,,,,,,,,,,,,,,
+2015,,,,,,,,,,,,,Apr 30,32,13.8,,,
+2016,,,,,,,,,,,,,Apr 26,46,20.5,,,
+2017,,,,,,,,,,,,,Apr 26,80,31.9,,,
+2018,,,,,,,,,,,,,May 01,86,37.9,,,
+2019,,,,,,,,,,,,,May 01,61,25.5,,,
+2020,,,,,,,,,,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,104 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 38O01: King Solomon Dome, YK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# King Solomon Dome (38O01) 
+# Yukon Territory  SNOW COURSE/AERIAL MARKER Site - 3540 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:26:35 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1975,,,,,,,Mar 06,35,8.0,Apr 15,29,6.0,May 07,20,5.3,,,
+1976,,,,,,,Mar 01,25,5.0,Apr 05,26,5.3,May 05,4,1.0,,,
+1977,,,,,,,Mar 01,31,5.9,Mar 30,31,5.6,May 03,16,4.8,,,
+1978,,,,Jan 31,17,2.2,Feb 27,18,3.0,Mar 31,19,3.3,Apr 27,4,1.0,,,
+1979,,,,,,,Feb 27,34,7.4,Mar 30,42,9.5,May 02,19,6.0,,,
+1980,,,,Feb 04,18,3.1,Mar 03,19,3.2,Apr 01,19,3.3,Apr 29,12,3.5,,,
+1981,,,,Jan 30,16,2.9,Mar 03,24,4.8,Apr 02,21,4.4,Apr 28,9,2.5,,,
+1982,,,,Feb 01,26,5.1,Mar 03,30,5.8,Apr 01,30,6.5,May 02,25,5.0,,,
+1983,,,,Jan 31,30,5.1,Feb 28,33,6.3,Mar 29,34,6.6,Apr 28,9,2.6,,,
+1984,,,,Feb 11,24,5.4,Feb 28,30,5.7,Mar 27,31,5.9,Apr 27,22,5.6,,,
+1985,,,,Jan 27,25,4.8,Feb 26,29,5.2,Mar 26,30,6.1,Apr 29,31,6.5,,,
+1986,,,,,,,Feb 28,29,5.6,Mar 26,29,5.5,Apr 28,31,6.3,,,
+1987,,,,,,,Feb 24,26,4.9,Mar 29,26,4.9,Apr 26,30,6.0,,,
+1988,,,,,,,Feb 24,32,4.8,Mar 27,36,6.6,Apr 25,22,5.4,,,
+1989,,,,,,,Mar 01,28,6.2,Mar 29,28,6.4,Apr 29,0,0.0,,,
+1990,,,,,,,Feb 27,30,5.5,Mar 28,29,5.9,Apr 30,0,0.0,,,
+1991,,,,,,,Mar 04,36,8.1,Mar 29,42,9.3,Apr 30,13,4.7,,,
+1992,,,,,,,Feb 27,31,6.2,Mar 26,31,6.5,May 01,20,5.4,,,
+1993,,,,,,,Mar 01,39,8.3,Mar 29,41,9.3,Apr 29,20,6.7,,,
+1994,,,,,,,Mar 02,26,5.7,Mar 28,32,6.1,Apr 29,0,0.0,,,
+1995,,,,,,,Feb 27,34,7.0,Mar 29,34,7.4,Apr 26,9,3.0,,,
+1996,,,,,,,Mar 01,25,4.9,Mar 26,27,5.2,Apr 26,10,2.5,,,
+1997,,,,,,,Mar 01,29,6.1,Apr 02,34,6.2,Apr 30,11,3.0,,,
+1998,,,,,,,Feb 27,25,5.4,Mar 31,24,5.1,Apr 25,0,0.0,,,
+1999,,,,,,,Feb 25,21,4.3,Mar 26,20,4.6,Apr 30,12,3.1,,,
+2000,,,,,,,Feb 25,36,9.1,Apr 02,35,8.5,Apr 30,25,7.9,,,
+2001,,,,,,,Feb 27,34,7.0,Mar 28,34,7.4,Apr 26,29,8.2,,,
+2002,,,,,,,Feb 25,26,4.2,Mar 28,30,5.4,May 01,12,3.0,,,
+2003,,,,,,,Feb 26,27,4.4,Mar 26,27,4.7,Apr 30,0,0.0,,,
+2004,,,,,,,Feb 25,31,6.7,Mar 31,35,7.2,Apr 30,22,6.3,,,
+2005,,,,,,,Feb 28,37,7.8,Mar 31,40,8.9,Apr 28,17,4.8,,,
+2006,,,,,,,Feb 23,30,6.5,Mar 28,32,7.0,Apr 25,33,7.8,,,
+2007,,,,,,,Feb 27,24,5.4,Mar 26,29,6.7,Apr 24,24,7.1,,,
+2008,,,,,,,Feb 25,26,3.9,Mar 26,29,5.2,Apr 28,21,6.4,,,
+2009,,,,,,,Feb 25,28,5.2,Mar 27,35,7.4,Apr 29,21,6.1,,,
+2010,,,,,,,Feb 24,24,4.2,Mar 31,28,5.6,Apr 26,0,0.0,,,
+2011,,,,,,,Feb 28,33,6.5,Mar 31,31,7.0,Apr 26,21,5.5,,,
+2012,,,,,,,Mar 01,35,7.0,Mar 27,37,7.8,Apr 27,18,5.2,,,
+2013,,,,,,,Feb 27,36,6.7,Mar 26,34,7.9,Apr 26,37,8.7,,,
+2014,,,,,,,Feb 28,33,6.6,Mar 28,31,7.7,Apr 29,0,0.0,,,
+2015,,,,,,,Feb 24,32,6.2,Mar 30,32,7.4,Apr 28,17,5.7,,,
+2016,,,,,,,Feb 29,28,5.6,Mar 30,30,6.0,Apr 25,0,0.0,,,
+2017,,,,,,,Feb 28,30,5.2,Mar 30,29,6.0,Apr 25,19,5.1,,,
+2018,,,,,,,Feb 28,30,5.5,Mar 27,31,6.8,Apr 30,26,6.8,,,
+2019,,,,,,,Mar 01,24,4.6,Mar 29,15,3.3,May 01,0,0.0,,,
+2020,,,,,,,Feb 27,41,7.4,Mar 27,44,8.8,Apr 27,28,9.5,,,
+2021,,,,,,,Feb 25,34,7.5,,,,,,,,,

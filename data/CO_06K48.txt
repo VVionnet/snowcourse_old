@@ -1,0 +1,73 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 06K48: Ewing Upper, CO
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Ewing Upper (06K48) 
+# Colorado  SNOW COURSE/AERIAL MARKER Site - 11270 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:18:22 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+2006,,,,Jan 27,49,13.7,Feb 13,53,14.4,Mar 29,55,17.1,Apr 21,53,19.1,,,
+2007,,,,Jan 29,36,8.9,Mar 03,52,12.2,Mar 27,47,12.4,Apr 23,52,15.1,,,
+2008,,,,Jan 24,38,10.4,Mar 06,57,16.4,Mar 28,57,18.2,Apr 21,57,19.7,,,
+2009,,,,Jan 26,41,10.0,Feb 24,47,12.0,Apr 06,54,14.9,Apr 22,49,16.4,,,
+2010,,,,Jan 26,29,5.6,Feb 21,40,8.0,Mar 23,41,10.2,Apr 27,38,11.5,,,
+2011,,,,Jan 31,42,11.1,Feb 28,54,14.8,Mar 25,53,15.3,Apr 24,68,20.8,,,
+2012,,,,Jan 26,25,4.8,Feb 24,37,7.6,Mar 24,29,8.4,Apr 22,15,4.4,,,
+2013,,,,Jan 29,23,4.1,Feb 23,31,6.0,Mar 26,42,10.1,Apr 30,42,13.1,,,
+2014,,,,Jan 28,35,8.0,Feb 24,50,13.4,Mar 25,51,15.8,Apr 29,53,16.8,,,
+2015,,,,Jan 28,35,9.6,Feb 24,42,11.0,Apr 03,39,12.6,Apr 27,45,13.4,,,
+2016,,,,Jan 29,39,9.2,Feb 28,41,11.6,Mar 29,49,13.9,Apr 25,50,15.7,,,
+2017,,,,Jan 28,43,11.1,Feb 26,45,12.8,Mar 30,43,14.4,Apr 24,38,15.8,,,
+2018,,,,Jan 28,29,6.6,Feb 28,35,8.7,Mar 28,40,10.2,Apr 27,42,13.1,,,
+2019,,,,Jan 30,42,10.2,Feb 27,49,12.6,Mar 26,69,19.3,Apr 25,57,20.0,,,
+2020,,,,,,,,,,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

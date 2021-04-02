@@ -1,0 +1,96 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 51M07: Lone Ridge, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Lone Ridge (51M07) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 1675 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:11:20 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1983,,,,Feb 02,64,22.8,Mar 08,66,25.7,Apr 07,66,26.4,May 05,69,32.0,,,
+1984,,,,Feb 02,71,23.0,Mar 04,86,33.1,Apr 03,79,33.2,May 02,75,31.4,,,
+1985,,,,Feb 13,74,25.8,Mar 05,87,29.3,Apr 02,99,38.4,Apr 30,94,40.0,,,
+1986,,,,Feb 03,70,23.7,Mar 03,71,29.4,Mar 31,66,27.5,Sep 01,64,29.5,,,
+1987,,,,Mar 01,85,31.5,Mar 03,87,35.2,Jul 01,90,41.5,Apr 27,104,47.1,,,
+1988,,,,,,,May 01,89,32.4,Apr 01,99,41.6,,,,,,
+1989,,,,,,,May 01,70,25.5,Mar 29,75,27.0,,,,,,
+1990,,,,,,,,,,,,,,,,,,
+1991,,,,,,,May 01,98,36.7,Mar 30,86,32.6,May 01,78,29.6,,,
+1992,,,,,,,May 01,90,28.8,Mar 30,89,33.8,,,,,,
+1993,,,,,,,,,,,,,,,,,,
+1994,,,,,,,May 01,85,36.7,Mar 28,115,43.7,,,,,,
+1995,,,,,,,Mar 01,78,31.0,Mar 30,90,36.9,,,,,,
+1996,,,,,,,May 01,58,13.1,Mar 27,57,14.8,,,,,,
+1997,,,,,,,May 01,75,27.0,Apr 02,75,27.8,,,,,,
+1998,,,,,,,May 01,64,19.0,Mar 30,64,20.5,,,,,,
+1999,,,,,,,Feb 25,72,23.8,Mar 29,77,27.0,,,,,,
+2000,,,,,,,Feb 28,96,36.0,Jul 01,112,44.2,,,,,,
+2001,,,,,,,Mar 01,99,37.1,Mar 31,117,44.5,,,,,,
+2002,,,,,,,Mar 05,69,23.5,Mar 27,75,25.5,,,,,,
+2003,,,,Mar 01,45,13.0,May 01,61,19.0,Mar 31,69,21.4,,,,,,
+2004,,,,,,,Feb 25,66,23.0,Mar 31,70,23.0,,,,,,
+2005,,,,,,,Feb 28,118,42.5,,,,,,,,,
+2006,,,,,,,Feb 28,74,26.5,Mar 30,85,32.3,,,,,,
+2007,,,,,,,Feb 27,49,16.2,Mar 29,43,17.5,,,,,,
+2008,,,,Jan 29,89,30.0,May 01,3,34.8,Mar 27,110,39.0,,,,,,
+2009,,,,,,,Feb 26,91,30.5,Apr 02,98,33.0,,,,,,
+2010,,,,,,,,,,Mar 31,79,27.6,,,,,,
+2011,,,,,,,Feb 28,67,23.8,Mar 29,61,27.0,,,,,,
+2012,,,,,,,Feb 29,86,27.0,Mar 28,75,29.0,,,,,,
+2013,,,,,,,,,,Apr 01,65,16.5,,,,,,
+2014,,,,,,,Feb 26,42,12.8,Apr 01,60,18.8,,,,,,
+2015,,,,,,,Feb 27,42,9.7,Mar 30,51,13.1,,,,,,
+2016,,,,,,,Mar 01,71,22.0,Mar 31,75,31.5,,,,,,
+2017,,,,,,,Mar 01,62,16.1,Mar 30,53,16.6,,,,,,
+2018,,,,,,,Mar 01,64,18.1,Mar 29,66,19.8,,,,,,
+2019,,,,,,,Feb 27,88,30.5,,,,,,,,,
+2020,,,,,,,Feb 27,79,20.1,,,,,,,,,
+2021,,,,,,,Mar 02,82,24.6,,,,,,,,,

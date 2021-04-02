@@ -1,0 +1,141 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER MDC: Medicine Lake, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Medicine Lake (MDC) 
+# California  SNOW COURSE/AERIAL MARKER Site - 6700 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:16:19 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1938,,,,,,,,,,,,,,,,May 22,,31.6
+1939,,,,,,,,,,,,,,,,,,
+1940,,,,,,,,,,Apr 05,,37.9,,,,,,
+1941,,,,,,,,,,Mar 23,,39.5,,,,,,
+1942,,,,,,,,,,Mar 29,,28.5,,,,,,
+1943,,,,,,,,,,Mar 27,,34.7,,,,,,
+1944,,,,,,,,,,Mar 31,,19.7,,,,,,
+1945,,,,,,,,,,Mar 29,,30.2,,,,,,
+1946,,,,,,,,,,Apr 02,,40.6,,,,,,
+1947,,,,,,,,,,Mar 27,,23.1,,,,,,
+1948,,,,,,,,,,Apr 01,,19.7,,,,,,
+1949,,,,,,,,,,Mar 30,,26.5,,,,,,
+1950,,,,,,,,,,Mar 31,,25.1,,,,,,
+1951,,,,,,,,,,Apr 02,,30.7,,,,,,
+1952,,,,,,,,,,Apr 01,,47.1,,,,,,
+1953,,,,,,,,,,Apr 01,,33.6,,,,,,
+1954,,,,,,,,,,Apr 02,,35.5,,,,,,
+1955,,,,,,,,,,Apr 05,,22.9,,,,,,
+1956,,,,,,,,,,Apr 02,,51.7,,,,,,
+1957,,,,,,,,,,Mar 30,,22.3,,,,,,
+1958,,,,,,,,,,Apr 04,,60.0,,,,,,
+1959,,,,,,,,,,Mar 31,,20.9,,,,,,
+1960,,,,,,,,,,Apr 04,,23.9,,,,,,
+1961,,,,,,,,,,,,,,,,,,
+1962,,,,,,,,,,Mar 27,,42.6,,,,,,
+1963,,,,,,,,,,Mar 29,,13.8,,,,,,
+1964,,,,,,,,,,Mar 30,,24.4,,,,,,
+1965,,,,,,,,,,Apr 01,,33.4,,,,,,
+1966,,,,,,,,,,Apr 01,,36.7,,,,,,
+1967,,,,,,,,,,Apr 03,,46.8,,,,,,
+1968,,,,,,,,,,Apr 01,,24.0,,,,,,
+1969,,,,,,,,,,Apr 01,,45.8,,,,,,
+1970,,,,,,,,,,Apr 01,,33.2,,,,,,
+1971,,,,,,,,,,Apr 05,,40.3,,,,,,
+1972,,,,,,,,,,Mar 31,,31.9,,,,,,
+1973,,,,,,,,,,Apr 02,,35.0,,,,,,
+1974,,,,,,,,,,Apr 03,,66.8,,,,,,
+1975,,,,,,,,,,Apr 01,,45.2,,,,,,
+1976,,,,,,,,,,Apr 01,,22.6,,,,,,
+1977,,,,,,,,,,Apr 01,,9.6,,,,,,
+1978,,,,,,,,,,Mar 30,,24.5,,,,,,
+1979,,,,,,,,,,Apr 03,,17.8,,,,,,
+1980,,,,,,,,,,Apr 01,,37.9,,,,,,
+1981,,,,,,,,,,Mar 31,,24.8,,,,,,
+1982,,,,,,,,,,Apr 09,,45.7,,,,,,
+1983,,,,,,,,,,Apr 01,,65.0,,,,,,
+1984,,,,,,,,,,Apr 02,,34.7,,,,,,
+1985,,,,,,,,,,Mar 29,,24.9,,,,,,
+1986,,,,,,,,,,Mar 31,,31.8,,,,,,
+1987,,,,,,,,,,Mar 31,,24.3,,,,,,
+1988,,,,,,,,,,Apr 01,,11.7,,,,,,
+1989,,,,,,,,,,Mar 31,,34.3,,,,,,
+1990,,,,,,,,,,Mar 30,,17.7,,,,,,
+1991,,,,,,,Mar 01,,0.0,Mar 29,,20.3,,,,,,
+1992,,,,,,,,,,Mar 31,,17.2,,,,,,
+1993,,,,,,,,,,Mar 29,,40.2,,,,,,
+1994,,,,,,,,,,Mar 31,,20.1,,,,,,
+1995,,,,Jan 26,,13.9,,,,Mar 31,,52.3,,,,,,
+1996,,,,,,,,,,Mar 30,,26.6,,,,,,
+1997,,,,,,,,,,Mar 29,,23.4,,,,,,
+1998,,,,,,,,,,Apr 01,,45.3,,,,,,
+1999,,,,,,,,,,Apr 01,,45.6,,,,,,
+2000,,,,,,,,,,Mar 31,,38.0,,,,,,
+2001,,,,,,,,,,Apr 02,,14.9,,,,,,
+2002,,,,,,,,,,Apr 02,,26.0,,,,,,
+2003,,,,,,,,,,Apr 01,,32.9,,,,,,
+2004,,,,Jan 29,,27.9,,,,Apr 01,,34.6,Apr 30,,29.3,,,
+2005,,,,,,,,,,Apr 02,,30.8,,,,,,
+2006,,,,,,,,,,Apr 02,,46.3,,,,,,
+2007,,,,,,,,,,Apr 03,,20.9,,,,,,
+2008,,,,,,,,,,Apr 01,,26.2,,,,,,
+2009,,,,,,,,,,Mar 31,,32.0,,,,,,
+2010,,,,,,,,,,Apr 01,,30.9,,,,,,
+2011,,,,,,,,,,Mar 31,,46.6,,,,,,
+2012,,,,,,,,,,Apr 03,,33.1,,,,,,
+2013,,,,,,,,,,Mar 29,,24.3,,,,,,
+2014,,,,,,,,,,Apr 02,,9.5,,,,,,
+2015,,,,,,,,,,Apr 02,,3.5,,,,,,
+2016,,,,,,,,,,Apr 01,,35.5,,,,,,
+2017,,,,,,,,,,Apr 03,,37.0,,,,,,
+2018,,,,,,,,,,Mar 30,,19.0,,,,,,
+2019,,,,,,,,,,Apr 01,,48.4,,,,,,
+2020,,,,,,,,,,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

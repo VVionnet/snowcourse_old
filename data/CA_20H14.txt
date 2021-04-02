@@ -1,0 +1,82 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20H14: Blue Lake Ranch, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Blue Lake Ranch (20H14) 
+# California  SNOW COURSE/AERIAL MARKER Site - 6830 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:14:48 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1997,,,,Jan 27,25,6.4,,,,Mar 24,18,7.4,,,,,,
+1998,,,,Jan 26,30,9.7,,,,Mar 25,26,10.4,,,,,,
+1999,,,,Jan 25,31,8.8,,,,Mar 29,33,12.2,,,,,,
+2000,,,,Jan 24,25,5.3,,,,Mar 27,27,11.0,,,,,,
+2001,,,,Jan 26,20,4.7,,,,Mar 26,9,3.0,,,,,,
+2002,,,,Jan 28,26,8.4,,,,Mar 25,35,13.5,,,,,,
+2003,,,,Jan 28,9,3.4,,,,Mar 24,14,5.7,,,,,,
+2004,,,,Jan 26,26,8.9,,,,Mar 29,8,3.7,,,,,,
+2005,,,,Jan 26,15,3.4,,,,Mar 30,18,5.7,,,,,,
+2006,,,,Jan 25,17,4.7,,,,Mar 30,32,11.0,,,,,,
+2007,,,,Jan 30,11,3.2,,,,Mar 28,8,1.2,,,,,,
+2008,,,,Jan 30,35,9.0,,,,Apr 01,27,11.3,,,,,,
+2009,,,,Feb 02,20,5.8,,,,Mar 27,25,9.7,,,,,,
+2010,,,,Feb 01,24,6.2,,,,Apr 02,24,7.5,,,,,,
+2011,,,,Feb 01,15,4.8,,,,Mar 29,42,13.1,,,,,,
+2012,,,,Jan 31,4,1.0,,,,Mar 29,7,2.2,,,,,,
+2013,Jan 30,30,8.0,Jan 30,30,8.0,,,,Mar 29,11,4.3,,,,,,
+2014,,,,Jan 29,0,0.0,,,,Mar 31,11,2.5,,,,,,
+2015,,,,Jan 28,2,0.8,,,,Mar 31,0,0.0,,,,,,
+2016,,,,Feb 01,38,11.6,,,,Mar 30,18,6.8,,,,,,
+2017,,,,Jan 31,30,8.3,,,,Mar 30,24,9.9,,,,,,
+2018,,,,Feb 01,5,1.0,,,,Mar 29,14,5.0,,,,,,
+2019,,,,Jan 30,27,7.7,,,,Apr 01,43,17.6,,,,,,
+2020,,,,Jan 29,19,4.4,,,,,,,,,,,,
+2021,,,,,,,,,,,,,,,,,,

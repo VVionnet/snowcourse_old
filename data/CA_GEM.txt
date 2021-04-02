@@ -1,0 +1,148 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER GEM: Gem Pass, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Gem Pass (GEM) 
+# California  SNOW COURSE/AERIAL MARKER Site - 10750 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:15:43 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1931,,,,,,,,,,Mar 29,,7.8,,,,,,
+1932,,,,,,,,,,Mar 29,,36.1,,,,,,
+1933,,,,,,,,,,Mar 29,,18.5,,,,,,
+1934,,,,,,,,,,Apr 01,,19.1,,,,,,
+1935,,,,,,,,,,Mar 28,,27.6,,,,,,
+1936,,,,,,,,,,Mar 28,,30.7,,,,,,
+1937,,,,,,,,,,,,,,,,,,
+1938,,,,,,,,,,,,,,,,,,
+1939,,,,,,,,,,,,,,,,,,
+1940,,,,,,,,,,,,,,,,,,
+1941,,,,,,,,,,,,,,,,,,
+1942,,,,,,,,,,,,,,,,,,
+1943,,,,,,,,,,,,,,,,,,
+1944,,,,,,,,,,,,,,,,,,
+1945,,,,,,,,,,,,,,,,,,
+1946,,,,,,,,,,,,,,,,,,
+1947,,,,,,,,,,,,,,,,,,
+1948,,,,,,,,,,,,,,,,,,
+1949,,,,,,,,,,,,,,,,,,
+1950,,,,Feb 03,,16.4,,,,Mar 29,,25.1,,,,,,
+1951,,,,Feb 02,,11.1,,,,Apr 04,,28.6,,,,,,
+1952,,,,Feb 07,,41.7,,,,,,,Apr 18,,56.7,,,
+1953,,,,Jan 27,,20.7,,,,Mar 26,,23.3,,,,,,
+1954,,,,Feb 02,,9.6,,,,Mar 28,,29.3,,,,,,
+1955,,,,Feb 01,,19.1,,,,Apr 05,,21.8,,,,,,
+1956,,,,Jan 30,,53.0,,,,Apr 02,,51.2,,,,,,
+1957,,,,Feb 05,,10.2,,,,Apr 09,,22.1,,,,,,
+1958,,,,Jan 29,,16.3,,,,Apr 09,,57.9,,,,,,
+1959,,,,Jan 30,,7.0,,,,Apr 04,,20.2,,,,,,
+1960,,,,Feb 03,,12.3,,,,Apr 03,,20.4,,,,,,
+1961,,,,Jan 30,,9.1,Feb 27,,11.7,Apr 05,,13.2,,,,,,
+1962,,,,Feb 02,,11.7,,,,Apr 02,,42.3,,,,,,
+1963,,,,,,,Feb 25,,22.7,Apr 01,,33.6,May 03,,40.2,,,
+1964,,,,Jan 23,,13.0,Feb 28,,12.3,Apr 05,,18.2,,,,,,
+1965,,,,Jan 27,,35.0,,,,Mar 30,,39.6,,,,,,
+1966,,,,Jan 30,,23.6,Mar 03,,28.1,Mar 31,,25.0,Apr 26,,22.0,,,
+1967,,,,Feb 09,,37.2,Feb 28,,38.8,Apr 06,,54.0,Apr 30,,69.5,,,
+1968,,,,Feb 02,,11.4,Feb 29,,16.5,Apr 03,,20.1,,,,,,
+1969,,,,Jan 31,,39.9,Mar 07,,60.8,Mar 27,,64.5,Apr 29,,62.2,,,
+1970,,,,Jan 29,,21.7,Mar 04,,29.0,Mar 31,,29.3,Apr 28,,29.2,,,
+1971,,,,Jan 28,,25.1,Mar 02,,24.7,Mar 31,,26.9,,,,,,
+1972,,,,Feb 03,,26.6,,,,Mar 29,,22.0,,,,,,
+1973,,,,,,,Mar 02,,33.6,Mar 30,,40.5,May 02,,37.2,,,
+1974,,,,,,,Mar 10,,37.7,Apr 03,,41.0,May 01,,43.2,,,
+1975,,,,Jan 29,,8.2,Feb 26,,21.0,Mar 28,,30.8,,,,,,
+1976,,,,,,,Mar 10,,11.9,Apr 02,,9.9,Apr 29,,12.2,,,
+1977,,,,Feb 01,,2.7,Mar 02,,6.7,Apr 05,,8.3,Apr 27,,0.0,,,
+1978,,,,Feb 01,,35.8,Mar 07,,56.4,Mar 29,,56.4,,,,,,
+1979,,,,Jan 29,,20.4,Feb 28,,31.9,Mar 30,,39.8,,,,,,
+1980,,,,Feb 01,,29.1,Feb 29,,49.3,Mar 28,,56.3,,,,,,
+1981,,,,,,,Mar 06,,18.3,Apr 03,,25.3,,,,,,
+1982,,,,,,,Mar 05,,36.0,Apr 09,,55.4,,,,,,
+1983,,,,,,,,,,Apr 01,,67.9,May 06,,71.8,,,
+1984,,,,Feb 01,,30.7,Feb 29,,38.6,Apr 02,,37.6,,,,,,
+1985,,,,Feb 01,,18.9,Feb 28,,22.4,Mar 30,,29.5,,,,,,
+1986,,,,Feb 05,,19.6,Feb 26,,48.1,Apr 03,,56.4,,,,,,
+1987,,,,Feb 03,,5.0,Feb 26,,11.8,Apr 01,,17.4,,,,,,
+1988,,,,Jan 27,,16.7,Mar 01,,18.5,Mar 31,,16.1,,,,,,
+1989,,,,Jan 31,,12.6,Feb 28,,16.4,Mar 29,,26.2,,,,,,
+1990,,,,Jan 31,,9.6,Feb 28,,17.2,Mar 29,,17.0,,,,,,
+1991,,,,Jan 31,,1.7,Feb 27,,2.0,Mar 29,,28.5,,,,,,
+1992,,,,Jan 28,,9.6,Feb 25,,20.6,Apr 02,,24.5,,,,,,
+1993,,,,Jan 27,,35.6,Mar 01,,48.3,Mar 29,,52.2,,,,,,
+1994,,,,Feb 01,,6.6,Mar 01,,16.1,Mar 29,,18.9,,,,,,
+1995,,,,Jan 30,,43.8,Feb 27,,46.2,Mar 27,,70.4,,,,,,
+1996,,,,Feb 02,,20.9,Feb 26,,34.6,Apr 02,,42.1,,,,,,
+1997,,,,Jan 27,,46.4,,,,Mar 24,,46.1,,,,,,
+1998,,,,,,,Mar 02,,44.9,Mar 30,,49.2,,,,,,
+1999,,,,Jan 28,,19.9,Feb 22,,30.1,,,,,,,,,
+2000,,,,Jan 26,,15.4,Mar 01,,34.9,Mar 27,,35.3,,,,,,
+2001,,,,Jan 30,,10.0,Feb 27,,20.8,Mar 26,,26.3,,,,,,
+2002,,,,,,,Mar 05,,27.2,Mar 26,,31.1,May 01,,10.2,,,
+2003,,,,,,,Feb 26,,24.9,Mar 25,,26.0,Apr 30,,25.8,,,
+2004,,,,,,,Mar 03,,33.4,Mar 29,,28.9,,,,,,
+2005,,,,Jan 24,,39.5,Feb 24,,46.7,Apr 05,,53.0,,,,,,
+2006,,,,,,,Mar 04,,39.4,Mar 27,,44.6,,,,,,
+2007,,,,,,,,,,Mar 30,,14.5,,,,,,
+2008,,,,,,,,,,Mar 25,,37.0,,,,,,
+2009,,,,,,,Feb 26,,26.0,Mar 25,,34.5,,,,,,
+2010,,,,Feb 02,,24.1,Feb 25,,32.0,Apr 06,,40.8,,,,,,
+2011,,,,Jan 26,,28.6,Mar 04,,45.4,Mar 30,,58.8,,,,,,
+2012,,,,Feb 02,,5.4,Mar 02,,7.9,Mar 30,,14.6,,,,,,
+2013,,,,Jan 30,,23.3,Feb 28,,23.5,Mar 28,,23.9,,,,,,
+2014,,,,Jan 28,,2.0,Feb 25,,7.0,Apr 03,,17.0,,,,,,
+2015,,,,Jan 27,,5.5,Feb 25,,10.5,Mar 31,,8.5,,,,,,
+2016,,,,Jan 28,,15.5,Feb 25,,20.0,Mar 30,,25.5,,,,,,
+2017,,,,Jan 31,,43.0,Mar 02,,66.0,Mar 29,,69.0,,,,,,
+2018,,,,Jan 30,,10.0,Mar 06,,17.0,Mar 29,,26.0,,,,,,
+2019,,,,Jan 30,,19.0,Mar 04,,45.5,Apr 03,,54.5,,,,,,
+2020,,,,Jan 29,,11.0,Feb 26,,10.0,Apr 01,,18.5,,,,,,
+2021,,,,,,,Feb 24,,15.0,,,,,,,,,

@@ -1,0 +1,112 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 2A23: Bush River, BC
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Bush River (2A23) 
+# British Columbia  SNOW COURSE/AERIAL MARKER Site - 6299 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:13:37 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1967,,,,Jan 31,106,35.5,Feb 23,115,40.1,Mar 29,127,50.6,Apr 28,123,54.0,,,
+1968,,,,Jan 28,82,29.2,Feb 27,97,37.1,Apr 01,109,39.7,Apr 24,109,43.4,,,
+1969,,,,Jan 29,73,24.8,Feb 24,84,26.6,Mar 28,87,33.2,Apr 28,79,28.9,,,
+1970,,,,Jan 29,58,16.9,Feb 23,58,17.6,Mar 24,70,21.9,Apr 27,74,27.2,,,
+1971,,,,Feb 02,92,26.0,Feb 22,88,29.6,Mar 31,102,36.9,Apr 26,86,37.4,,,
+1972,,,,Jan 25,95,28.6,Feb 23,105,35.6,Mar 27,126,52.4,Apr 25,129,54.8,,,
+1973,,,,Jan 31,83,25.8,Feb 27,86,30.5,Mar 27,94,35.9,May 01,85,38.0,,,
+1974,,,,Feb 05,106,32.4,Feb 27,112,37.5,Mar 25,109,41.9,Apr 25,100,42.6,,,
+1975,,,,Jan 28,71,23.0,Feb 25,83,27.0,Mar 28,83,31.1,Apr 28,74,31.2,,,
+1976,,,,Jan 30,87,31.0,Feb 26,106,36.3,Apr 01,110,41.8,Apr 28,99,42.9,,,
+1977,,,,Jan 29,55,16.8,Feb 28,63,18.6,Mar 27,80,24.5,Apr 24,67,28.3,,,
+1978,Dec 30,57,17.7,Jan 27,67,22.7,Feb 27,69,23.9,Mar 31,81,29.1,May 01,71,29.6,,,
+1979,Jan 04,47,12.9,Jan 29,52,14.5,Feb 28,85,24.8,Mar 28,81,27.9,Apr 27,78,33.1,,,
+1980,Jan 07,64,19.2,Jan 29,69,23.7,Feb 24,78,26.8,Mar 30,89,37.5,Apr 30,65,30.8,,,
+1981,Jan 03,63,19.0,Jan 29,63,20.9,Feb 27,82,27.6,Mar 30,80,30.0,May 04,79,35.1,,,
+1982,Jan 05,42,13.0,Feb 02,72,19.5,Feb 24,84,25.6,Mar 27,91,34.3,Apr 27,88,37.0,,,
+1983,,,,Feb 02,59,18.3,,,,Apr 06,72,27.4,Apr 26,69,29.9,,,
+1984,,,,Jan 29,69,18.7,Mar 03,68,21.7,Mar 30,73,24.9,Apr 26,66,26.2,,,
+1985,,,,Jan 30,58,20.3,Feb 26,80,24.2,Mar 26,74,27.3,Apr 25,80,30.5,,,
+1986,,,,Feb 03,73,21.9,Feb 28,89,29.6,Apr 02,101,36.3,Apr 29,94,36.6,,,
+1987,,,,Feb 03,66,21.1,Feb 23,60,21.9,Mar 30,73,28.6,Apr 27,74,30.6,,,
+1988,,,,Jan 26,56,15.4,Feb 23,71,23.7,Mar 28,81,28.2,Apr 26,69,30.2,,,
+1989,Dec 28,39,11.5,Jan 26,63,19.2,Mar 02,72,25.4,Mar 29,83,30.1,Apr 25,74,31.4,,,
+1990,Jan 02,53,16.5,Feb 04,81,26.7,Feb 26,92,35.0,Mar 25,91,38.0,Apr 28,80,36.5,,,
+1991,Jan 03,80,28.4,Jan 25,84,32.5,Feb 24,107,42.4,Mar 28,102,43.8,Apr 27,97,45.9,,,
+1992,Jan 04,58,19.9,Feb 05,87,32.4,Feb 25,87,34.6,Mar 30,77,35.0,Apr 28,67,34.6,,,
+1993,Jan 06,35,8.5,Jan 31,44,11.5,Feb 23,44,11.1,Mar 27,61,17.9,Apr 26,60,21.2,,,
+1994,Dec 28,52,17.9,Jan 28,69,24.4,Feb 24,94,30.7,Mar 29,94,39.1,Apr 27,78,36.3,,,
+1995,Dec 31,67,20.6,Feb 04,73,25.7,Feb 27,86,29.8,Mar 28,96,38.3,Apr 29,90,39.4,,,
+1996,Dec 27,69,24.5,Jan 27,89,33.2,Feb 29,98,38.0,Mar 27,95,39.9,,,,,,
+1997,Jan 05,64,16.4,Feb 03,77,22.6,Feb 24,80,25.2,Mar 27,94,36.0,May 01,88,37.2,,,
+1998,Jan 07,61,16.5,Feb 03,59,19.1,Feb 24,65,21.7,Apr 02,68,25.0,Apr 27,58,23.7,,,
+1999,Jan 01,71,21.5,,,,Mar 04,102,40.7,Mar 31,106,45.7,Apr 29,94,40.9,,,
+2000,Dec 27,70,25.0,Jan 28,76,28.2,Mar 06,94,36.7,Mar 30,94,37.2,May 02,85,38.6,,,
+2001,Jan 04,40,9.6,Feb 04,52,12.8,Feb 28,50,14.8,Apr 04,57,19.8,May 03,54,19.4,,,
+2002,Dec 27,61,20.1,Feb 02,76,26.7,Mar 01,84,30.3,Mar 27,88,34.0,Apr 28,95,39.8,,,
+2003,,,,Feb 05,57,16.7,Mar 03,58,18.0,Mar 27,87,29.5,Apr 30,85,35.4,,,
+2004,Dec 29,49,15.1,,,,Feb 25,66,22.0,Mar 28,76,27.2,Apr 26,63,26.4,,,
+2005,Jan 04,46,13.9,Feb 05,82,24.0,Feb 27,72,25.5,Apr 05,77,28.6,Apr 27,61,24.2,,,
+2006,Jan 07,51,13.3,Feb 06,72,21.1,Feb 24,66,22.3,Mar 29,70,26.6,Apr 25,62,24.3,,,
+2007,Dec 31,70,24.0,Jan 28,81,29.1,Feb 28,88,33.5,Mar 28,111,43.3,May 06,103,48.3,,,
+2008,Dec 27,61,18.7,Feb 03,68,22.8,Feb 24,75,27.1,Mar 26,78,29.5,Apr 27,81,32.2,,,
+2009,Jan 02,46,11.7,Jan 26,52,16.7,Feb 26,58,16.4,Mar 26,68,21.8,Apr 27,61,22.5,,,
+2010,Dec 26,63,20.2,Jan 26,77,28.0,Feb 28,72,28.5,Apr 04,85,32.1,Apr 25,68,29.3,,,
+2011,Jan 02,38,9.5,Feb 01,69,19.1,Feb 24,79,26.8,Apr 03,90,30.8,Apr 29,77,30.7,,,
+2012,,38,,,,,,,,,,,Apr 27,95,45.0,,,
+2013,Dec 31,58,18.9,,,,,,,Mar 26,87,33.9,Apr 25,83,36.5,,,
+2014,,,,Jan 26,54,16.5,,,,Apr 01,91,30.6,May 01,83,32.8,,,
+2015,,,,Feb 04,65,20.8,Feb 23,74,24.6,Apr 02,80,28.1,Apr 27,72,28.7,,,
+2016,Jan 03,53,19.0,,,,Feb 26,76,26.9,Mar 29,76,29.6,Apr 28,55,26.7,,,
+2017,Jan 03,56,15.7,Jan 31,64,20.7,Feb 27,80,26.6,Mar 30,101,34.4,Apr 29,101,39.1,,,
+2018,Dec 31,56,16.1,,,,Mar 06,86,28.1,,,,Apr 26,89,34.3,,,
+2019,Dec 27,57,15.5,Jan 28,73,24.4,Feb 28,76,27.5,Mar 30,75,29.3,Apr 29,79,30.8,,,
+2020,,,,Feb 03,90,26.9,Mar 01,93,32.0,Apr 02,96,34.8,May 01,87,38.5,,,
+2021,Jan 05,69,20.6,Feb 03,85,28.9,Feb 27,95,33.1,Mar 31,96,36.5,,,,,,

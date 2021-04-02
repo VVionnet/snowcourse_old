@@ -1,0 +1,109 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 14K09: Defiance Mines, Aerial Marker, NV
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Defiance Mines, Aerial Marker (14K09) 
+# Nevada  SNOW COURSE/AERIAL MARKER Site - 9302 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:22:32 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1970,,,,,,,Feb 26,31,8.9,,,,,,,,,
+1971,,,,Jan 26,39,12.9,Feb 26,55,17.1,Mar 30,42,13.9,,,,,,
+1972,,,,Jan 30,57,17.7,Feb 28,56,18.4,Mar 30,36,13.7,,,,,,
+1973,,,,Jan 29,48,13.4,Mar 01,60,16.8,Mar 29,85,24.6,,,,,,
+1974,,,,Jan 29,55,16.5,Feb 26,63,18.9,Apr 04,58,21.5,,,,,,
+1975,,,,Jan 29,49,13.2,Feb 27,54,16.2,Mar 31,60,18.0,,,,,,
+1976,,,,Feb 02,34,8.8,Feb 24,57,15.5,Mar 26,54,15.4,,,,,,
+1977,,,,Jan 27,12,2.4,Feb 25,18,3.6,Mar 30,39,9.0,,,,,,
+1978,,,,,,,,,,,,,,,,,,
+1979,,,,,,,,,,,,,,,,,,
+1980,,,,Jan 30,43,10.0,Feb 26,74,21.5,Mar 29,96,24.5,,,,,,
+1981,,,,,,,,,,,,,,,,,,
+1982,,,,,,,,,,,,,,,,,,
+1983,,,,,,,,,,,,,,,,,,
+1984,,,,,,,Feb 26,67,20.0,Mar 27,82,24.0,,,,,,
+1985,,,,,,,Feb 23,46,12.9,Apr 01,60,17.9,,,,,,
+1986,,,,,,,Feb 27,57,17.7,Mar 26,81,25.9,,,,,,
+1987,,,,,,,,,,,,,,,,,,
+1988,,,,,,,,,,Apr 01,52,16.6,,,,,,
+1989,,,,,,,Feb 21,46,12.7,Mar 30,44,13.6,,,,,,
+1990,,,,,,,Feb 27,36,8.6,Mar 27,36,10.8,,,,,,
+1991,,,,,,,Feb 27,18,4.0,Mar 27,40,8.4,,,,,,
+1992,,,,,,,Feb 26,50,13.0,Apr 01,60,17.4,,,,,,
+1993,,,,,,,Mar 01,84,20.2,Mar 31,72,24.5,,,,,,
+1994,,,,,,,Feb 25,40,9.6,Mar 30,48,13.0,,,,,,
+1995,,,,,,,Feb 26,58,18.0,Mar 31,76,23.6,,,,,,
+1996,,,,,,,,,,,,,,,,,,
+1997,,,,,,,Feb 25,60,15.0,,,,,,,,,
+1998,,,,,,,Mar 04,76,17.2,,,,,,,,,
+1999,,,,,,,Feb 26,30,7.8,,,,,,,,,
+2000,,,,,,,Feb 22,48,11.5,Apr 03,50,15.5,,,,,,
+2001,,,,,,,,,,,,,,,,,,
+2002,,,,,,,Feb 25,34,9.0,Mar 29,40,10.8,,,,,,
+2003,,,,,,,Mar 04,42,10.9,Mar 28,42,13.4,,,,,,
+2004,,,,,,,Feb 28,63,12.9,Mar 29,42,15.1,,,,,,
+2005,,,,,,,Feb 26,88,20.2,Mar 31,105,35.7,,,,,,
+2006,,,,,,,Mar 01,45,11.3,Apr 02,72,21.6,,,,,,
+2007,,,,,,,Feb 26,26,4.9,Mar 30,28,8.3,,,,,,
+2008,,,,,,,Feb 28,52,16.1,Mar 27,45,16.2,,,,,,
+2009,,,,,,,Feb 26,66,21.1,Mar 28,69,24.2,,,,,,
+2010,,,,,,,Feb 26,49,13.7,Apr 02,66,23.1,,,,,,
+2011,,,,,,,Feb 24,59,15.3,Mar 29,79,26.9,,,,,,
+2012,,,,,,,Mar 01,26,6.5,Apr 01,31,11.2,,,,,,
+2013,,,,,,,Mar 01,35,8.4,Apr 01,31,8.4,,,,,,
+2014,,,,,,,Mar 01,40,8.0,Apr 01,47,11.8,,,,,,
+2015,,,,,,,Mar 01,34,6.4,Apr 01,25,7.8,,,,,,
+2016,,,,,,,Mar 01,49,15.7,Apr 01,57,19.4,,,,,,
+2017,,,,,,,Mar 01,62,17.1,Apr 01,59,19.9,,,,,,
+2018,,,,,,,Mar 01,17,3.3,Apr 01,25,7.4,,,,,,
+2019,,,,,,,Mar 01,53,15.0,Apr 01,73,22.6,,,,,,
+2020,,,,,,,Mar 01,29,8.5,Apr 01,42,11.8,,,,,,
+2021,,,,,,,Mar 01,37,9.3,,,,,,,,,

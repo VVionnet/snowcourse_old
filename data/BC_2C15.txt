@@ -1,0 +1,110 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 2C15: Mount Assiniboine, BC
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Mount Assiniboine (2C15) 
+# British Columbia  SNOW COURSE/AERIAL MARKER Site - 7316 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:14:18 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1969,,,,Feb 06,64,17.2,Feb 27,63,17.9,Mar 25,65,17.9,May 05,66,22.8,,,
+1970,,,,Jan 29,50,12.8,Feb 24,52,15.3,Mar 25,58,17.1,Apr 28,65,19.3,,,
+1971,,,,Feb 03,75,20.0,Feb 22,70,22.5,Apr 01,94,29.5,Apr 27,81,32.3,,,
+1972,,,,Jan 26,69,19.2,Feb 24,75,21.7,Mar 28,85,30.2,Apr 25,88,34.8,,,
+1973,,,,Jan 31,54,14.0,Feb 28,54,15.7,Mar 28,69,19.6,May 02,65,22.6,,,
+1974,,,,,,,Mar 02,91,25.4,Mar 31,87,30.5,Apr 28,100,36.6,,,
+1975,,,,Jan 29,48,14.2,Feb 26,63,17.7,Apr 01,64,20.5,Apr 29,66,21.7,,,
+1976,,,,Jan 28,59,17.7,Feb 29,81,22.3,Mar 30,80,26.6,Apr 29,78,28.7,,,
+1977,,,,Feb 01,32,6.7,Mar 01,38,9.1,Mar 28,56,12.5,Apr 25,45,14.4,,,
+1978,Dec 31,41,10.7,Jan 28,49,13.8,Feb 25,53,15.3,Apr 01,62,18.5,Apr 30,61,21.6,,,
+1979,Jan 02,35,7.5,Jan 30,39,9.5,Mar 01,67,16.3,Apr 03,63,18.7,Apr 30,57,20.0,,,
+1980,Jan 04,41,11.3,Jan 28,49,13.9,Feb 25,55,16.9,Mar 31,70,22.3,Apr 28,52,22.0,,,
+1981,Jan 04,44,12.5,Jan 30,46,12.2,Feb 28,56,16.7,Apr 04,63,19.6,May 05,63,22.2,,,
+1982,Dec 30,36,9.3,Jan 30,54,14.0,Mar 04,72,19.5,Mar 28,71,22.7,Apr 26,75,26.1,,,
+1983,,,,Feb 01,49,13.6,,,,Apr 05,61,19.7,Apr 27,59,19.2,,,
+1984,,,,Jan 31,45,10.8,Feb 28,50,13.4,Mar 27,61,17.1,Apr 27,59,19.4,,,
+1985,,,,Jan 29,42,12.9,Feb 27,52,14.2,Mar 27,53,15.6,Apr 29,63,18.8,,,
+1986,,,,Feb 02,57,16.1,Mar 05,63,19.7,Mar 25,72,21.5,Apr 24,71,24.7,,,
+1987,,,,Jan 26,41,10.7,Feb 24,47,13.9,Mar 25,59,17.7,Apr 25,65,21.3,,,
+1988,,,,Feb 01,50,10.7,Feb 24,47,13.6,Mar 30,66,19.4,Apr 27,55,20.7,,,
+1989,Jan 01,39,7.7,Jan 25,48,13.1,Mar 03,54,15.8,Mar 27,64,19.8,Apr 27,61,21.2,,,
+1990,Dec 30,37,11.0,Feb 07,64,18.4,Feb 27,64,21.3,Mar 26,63,23.3,Apr 29,62,22.0,,,
+1991,Jan 02,64,22.3,Jan 26,62,23.3,Feb 25,71,26.8,Mar 29,83,32.1,Apr 26,81,34.8,,,
+1992,Jan 05,32,7.9,Feb 03,50,12.4,Feb 24,50,14.3,Mar 26,46,15.3,May 01,43,16.1,,,
+1993,Dec 31,30,6.4,Feb 01,33,8.5,Feb 24,36,8.4,Mar 29,49,11.6,Apr 27,56,15.6,,,
+1994,Jan 05,43,10.6,Jan 27,44,12.9,Feb 24,60,16.7,Mar 30,63,21.2,Apr 26,53,21.1,,,
+1995,Dec 30,49,12.4,Feb 04,50,15.0,Feb 23,60,18.4,Mar 27,69,22.2,May 02,71,25.9,,,
+1996,Dec 28,54,17.2,Jan 26,67,20.7,Feb 28,78,26.2,Mar 26,78,27.6,May 06,80,30.3,,,
+1997,Jan 04,54,12.8,Jan 27,60,16.3,Feb 25,61,19.8,Mar 30,73,24.8,May 02,70,26.9,,,
+1998,Jan 08,52,11.4,,,,Feb 26,47,12.9,Mar 31,57,17.8,Apr 26,48,18.1,,,
+1999,Jan 02,54,13.5,,,,Feb 26,80,25.2,Mar 28,83,28.8,Apr 28,75,30.6,,,
+2000,Dec 28,43,13.2,Jan 27,53,16.1,Mar 01,66,20.6,Mar 29,71,23.1,May 01,67,26.9,,,
+2001,Dec 31,21,4.4,Feb 06,28,5.5,Feb 27,35,7.3,Apr 05,45,9.9,May 06,42,13.3,,,
+2002,Dec 28,40,11.5,Jan 30,56,16.1,Feb 25,65,19.3,Mar 29,72,23.6,Apr 29,73,26.6,,,
+2003,Jan 05,35,7.2,Feb 06,39,9.3,Mar 05,46,11.9,Apr 05,63,18.1,May 01,57,19.4,,,
+2004,Jan 02,36,9.7,Feb 02,50,13.1,Feb 28,47,13.7,Mar 29,56,17.8,Apr 25,51,18.0,,,
+2005,Jan 05,35,9.3,Feb 01,43,11.9,Feb 28,47,13.5,Apr 06,61,17.5,Apr 28,50,17.2,,,
+2006,Jan 03,34,7.8,,,,Mar 01,64,17.0,Mar 30,59,18.6,Apr 26,68,23.8,,,
+2007,Dec 29,48,11.9,Feb 02,52,16.1,Mar 02,59,19.7,Mar 26,78,25.0,Apr 30,79,29.3,,,
+2008,Dec 31,39,9.8,Feb 04,50,15.0,Feb 25,52,16.5,Mar 27,58,18.4,Apr 28,60,20.1,,,
+2009,Dec 26,32,8.1,Feb 03,41,10.7,Feb 27,53,12.6,Mar 27,61,18.2,Apr 30,58,19.4,,,
+2010,Dec 29,37,11.0,Jan 27,44,13.0,Feb 23,44,14.1,Apr 01,65,18.6,Apr 26,53,19.3,,,
+2011,Jan 01,31,7.5,Jan 31,48,12.2,Feb 25,54,15.5,Apr 07,81,24.0,,,28.0,,,
+2012,,31,,,,,,,20.0,,,31.0,Apr 29,72,30.2,,,
+2013,,,,,,,,,18.0,Mar 27,68,23.3,Apr 26,68,25.2,,,
+2014,Jan 05,45,9.9,,,,,,15.0,Apr 02,71,21.3,Apr 30,70,23.9,,,
+2015,,,,Feb 04,51,14.6,,,15.0,Apr 03,59,20.2,,,19.0,,,
+2016,Jan 02,37,10.6,Feb 01,46,12.8,Feb 28,51,15.8,Mar 28,61,20.8,Apr 25,43,17.1,,,
+2017,Jan 04,43,11.3,Feb 01,46,13.2,Feb 27,62,17.2,Mar 31,89,26.5,,,28.0,,,
+2018,Jan 03,48,13.0,,,,Feb 26,65,19.9,,,,Apr 27,71,25.6,,,
+2019,Dec 28,42,9.9,Jan 29,50,13.9,Feb 27,59,17.6,Mar 29,61,18.9,Apr 28,65,20.3,,,
+2020,Dec 29,44,10.0,Jan 30,52,16.1,Feb 28,59,19.2,Apr 04,72,23.7,Apr 28,67,24.9,,,
+2021,,,,Jan 30,55,14.8,Feb 24,63,19.6,,,,,,,,,

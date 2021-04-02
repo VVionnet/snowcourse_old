@@ -1,0 +1,133 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER LSH: Little Shasta, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Little Shasta (LSH) 
+# California  SNOW COURSE/AERIAL MARKER Site - 6200 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 2, 2021 8:16:10 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1946,,,,,,,,,,Mar 29,,24.1,,,,,,
+1947,,,,,,,,,,Mar 31,,9.5,,,,,,
+1948,,,,,,,,,,Mar 29,,21.0,,,,,,
+1949,,,,,,,,,,Apr 02,,23.0,,,,,,
+1950,,,,,,,,,,Mar 31,,25.7,,,,,,
+1951,,,,,,,,,,Mar 31,,22.3,,,,,,
+1952,,,,,,,,,,Mar 29,,34.9,,,,,,
+1953,,,,,,,,,,Mar 28,,26.9,,,,,,
+1954,,,,,,,,,,Apr 02,,23.2,,,,,,
+1955,,,,,,,,,,Apr 04,,14.4,,,,,,
+1956,,,,,,,,,,Mar 29,,32.3,,,,,,
+1957,,,,,,,,,,Mar 28,,21.6,,,,,,
+1958,,,,,,,,,,Apr 03,,29.2,,,,,,
+1959,,,,,,,,,,Apr 03,,9.2,,,,,,
+1960,,,,,,,,,,Mar 25,,14.8,,,,,,
+1961,,,,,,,,,,Mar 29,,24.3,,,,,,
+1962,,,,,,,,,,Mar 29,,24.3,,,,,,
+1963,,,,,,,,,,Apr 03,,2.5,,,,,,
+1964,,,,,,,,,,Mar 31,,23.5,,,,,,
+1965,,,,,,,Mar 01,,12.3,Apr 02,,10.9,,,,,,
+1966,,,,,,,,,,Apr 05,,14.3,,,,,,
+1967,,,,,,,,,,Mar 29,,22.7,,,,,,
+1968,,,,,,,,,,Mar 28,,12.5,,,,,,
+1969,,,,,,,,,,Mar 31,,26.6,,,,,,
+1970,,,,,,,,,,Apr 02,,16.2,,,,,,
+1971,,,,,,,,,,Apr 01,,26.2,,,,,,
+1972,,,,,,,,,,Apr 01,,27.1,,,,,,
+1973,,,,,,,,,,Apr 02,,15.6,,,,,,
+1974,,,,,,,,,,Mar 28,,18.4,,,,,,
+1975,,,,,,,,,,Apr 02,,36.7,,,,,,
+1976,,,,,,,,,,Apr 01,,23.2,,,,,,
+1977,,,,,,,Feb 18,,2.6,Apr 01,,9.4,,,,,,
+1978,,,,,,,,,,Mar 30,,11.5,,,,,,
+1979,,,,,,,,,,Apr 02,,11.3,,,,,,
+1980,,,,,,,,,,Apr 01,,16.9,,,,,,
+1981,,,,,,,,,,Apr 01,,11.3,,,,,,
+1982,,,,,,,,,,Mar 31,,18.3,,,,,,
+1983,,,,,,,,,,Mar 29,,29.5,,,,,,
+1984,,,,,,,,,,Mar 29,,23.9,,,,,,
+1985,,,,,,,,,,Apr 01,,22.0,,,,,,
+1986,,,,,,,,,,Mar 31,,15.4,,,,,,
+1987,,,,,,,,,,Mar 26,,18.0,,,,,,
+1988,,,,,,,,,,Mar 31,,7.4,,,,,,
+1989,,,,,,,,,,Apr 03,,23.4,,,,,,
+1990,,,,,,,,,,Mar 30,,17.4,,,,,,
+1991,,,,,,,,,,Apr 03,,9.8,Apr 30,,15.8,,,
+1992,,,,,,,,,,Mar 31,,3.0,,,,,,
+1993,,,,Feb 01,,0.0,,,,Mar 30,,20.4,,,,,,
+1994,,,,,,,,,,Mar 30,,10.2,,,,,,
+1995,,,,,,,,,,Apr 02,,19.2,,,,,,
+1996,,,,,,,,,,Mar 30,,23.0,,,,,,
+1997,,,,,,,,,,Mar 28,,7.3,,,,,,
+1998,,,,,,,,,,Mar 30,,20.0,,,,,,
+1999,,,,Jan 27,,17.3,,,,Mar 29,,29.5,,,,,,
+2000,,,,,,,,,,Apr 03,,17.1,,,,,,
+2001,,,,,,,,,,Mar 28,,4.5,,,,,,
+2002,,,,,,,,,,Mar 28,,25.3,,,,,,
+2003,,,,,,,Feb 25,,41.7,Apr 01,,12.0,,,,,,
+2004,,,,,,,,,,Mar 31,,14.8,,,,,,
+2005,,,,,,,,,,Mar 30,,13.0,,,,,,
+2006,,,,,,,,,,Mar 28,,17.6,,,,,,
+2007,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,Mar 30,,12.0,,,,,,
+2010,,,,,,,,,,Mar 31,,10.7,,,,,,
+2011,,,,,,,,,,Mar 31,,23.7,,,,,,
+2012,,,,,,,,,,Mar 26,,15.0,,,,,,
+2013,,,,,,,,,,Mar 28,,8.9,,,,,,
+2014,,,,,,,,,,Mar 31,,2.5,,,,,,
+2015,,,,,,,,,,Mar 30,,0.0,,,,,,
+2016,,,,,,,,,,Mar 30,,23.5,,,,,,
+2017,,,,,,,,,,Mar 28,,15.5,,,,,,
+2018,,,,,,,,,,Mar 29,,13.0,,,,,,
+2019,,,,,,,,,,Mar 26,,22.0,,,,,,
+2020,,,,,,,,,,Apr 02,,14.0,,,,,,
+2021,,,,,,,,,,,,,,,,,,
