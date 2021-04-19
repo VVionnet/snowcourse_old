@@ -1,0 +1,90 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11E19: Black Moose (Disc), ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Black Moose (disc) (11E19) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 8160 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:47:46 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,Mar 01,,18.1,Feb 26,88,29.7,Mar 29,101,37.7,,,,,,
+1962,,,,Feb 05,84,31.2,May 01,,42.8,Mar 30,125,52.0,,,,,,
+1963,Dec 28,32,8.9,Mar 01,,12.9,May 01,,19.0,Mar 27,68,25.6,,,,,,
+1964,,,,Jan 29,76,22.6,May 01,,24.4,Mar 30,104,38.3,,,,,,
+1965,,,,Mar 01,,47.4,Feb 25,119,50.2,Jul 01,,48.0,,,,,,
+1966,,,,Jan 27,75,23.6,Feb 24,79,29.4,Mar 29,87,35.0,,,,,,
+1967,,,,Jan 30,95,31.2,Feb 24,94,34.2,Mar 27,107,40.0,May 06,117,44.6,,,
+1968,,,,Feb 06,76,26.2,Feb 26,85,28.6,Mar 27,87,32.4,,,,,,
+1969,,,,Jan 29,122,39.0,Mar 01,128,48.0,Mar 27,110,47.0,,,,,,
+1970,,,,Jan 29,97,27.8,Feb 24,92,33.8,Mar 28,107,39.2,,,,,,
+1971,,,,Jan 28,110,40.8,Feb 24,119,47.6,Mar 30,136,54.0,,,,,,
+1972,,,,Jan 27,113,38.8,Feb 25,133,53.2,Mar 24,112,44.6,Apr 26,116,53.6,,,
+1973,,,,Jan 26,68,22.0,Feb 26,80,30.4,Mar 26,89,36.2,Apr 25,96,38.2,,,
+1974,,,,Jan 27,103,35.7,Feb 26,117,46.0,Mar 26,143,60.5,Apr 25,133,59.8,,,
+1975,,,,Jan 27,68,20.7,Feb 25,96,33.8,Mar 31,113,44.2,Apr 29,124,52.8,,,
+1976,,,,Mar 01,,30.8,Feb 27,99,39.4,Mar 31,115,48.2,,,,,,
+1977,,,,Mar 01,,8.4,Feb 25,33,9.2,Mar 30,45,14.4,,,,,,
+1978,,,,Mar 01,,37.9,May 01,,44.2,Mar 31,90,39.8,May 01,89,44.4,,,
+1979,,,,Mar 01,,18.0,May 01,,34.2,Mar 29,97,39.6,Apr 30,80,37.2,,,
+1980,,,,Mar 01,,28.0,May 01,,23.0,Mar 27,103,37.0,,,,,,
+1981,,,,Mar 01,,18.3,Feb 27,70,21.8,Apr 01,70,25.2,,,,,,
+1982,,,,Mar 01,,33.1,Feb 26,100,40.2,Jul 01,,52.1,,,,,,
+1983,,,,Mar 01,,31.1,Feb 24,106,40.4,Mar 31,113,45.2,,,,,,
+1984,,,,Mar 01,,24.3,Feb 28,82,23.8,Mar 28,93,29.0,,,,,,
+1985,Jan 01,,21.7,Mar 01,,26.1,May 01,,33.7,Jul 01,,35.7,,,,,,
+1986,,,,,,,May 01,,38.3,Mar 25,102,42.0,,,,,,
+1987,,,,,,,May 01,,22.3,Mar 30,64,22.4,,,,,,
+1988,,,,,,,May 01,,26.6,Jul 01,,31.3,,,,,,
+1989,Jan 01,,23.8,,,,May 01,,40.5,Jul 01,,55.0,,,,,,
+1990,,,,,,,May 01,,31.2,Jul 01,,33.0,,,,,,
+1991,,,,,,,May 01,,23.3,Jul 01,,34.2,,,,,,
+1992,,,,,,,May 01,,31.3,Jul 01,,34.0,,,,,,
+1993,,,,,,,,,,,,,,,,,,

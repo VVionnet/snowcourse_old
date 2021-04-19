@@ -1,0 +1,92 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 16G06: Antelope Ridge (Disc), ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Antelope Ridge (disc) (16G06) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 6180 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:52:39 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1959,,,,Jan 26,5,1.2,Mar 02,13,3.9,Mar 26,8,3.2,,,,,,
+1960,,,,Jan 30,13,3.2,Feb 29,22,5.2,Mar 30,8,3.0,,,,,,
+1961,,,,Jan 30,6,1.6,Feb 24,6,1.7,Mar 28,8,2.4,,,,,,
+1962,,,,Feb 01,5,1.1,Feb 26,8,1.2,Mar 28,15,6.5,,,,,,
+1963,,,,Feb 02,0,0.0,Feb 28,0,0.0,Apr 02,0,0.0,,,,,,
+1964,,,,Jan 29,30,9.7,Feb 26,27,8.5,Mar 25,35,10.9,,,,,,
+1965,,,,Jan 26,19,3.8,Feb 26,10,4.1,Mar 26,8,2.9,Apr 30,0,0.0,,,
+1966,Dec 28,0,0.0,Mar 01,,0.6,Feb 24,16,3.7,Apr 01,0,0.0,Apr 29,0,0.0,,,
+1967,,,,Jan 28,22,5.9,Feb 27,26,7.5,Mar 28,16,4.9,,,,,,
+1968,,,,Jan 29,12,2.8,Feb 26,0,0.0,Mar 27,0,0.0,,,,,,
+1969,,,,Jan 28,43,12.4,Feb 26,48,17.4,Mar 26,41,16.3,,,,,,
+1970,,,,Feb 03,22,6.6,Mar 03,18,6.3,Apr 01,16,6.2,,,,,,
+1971,,,,Feb 01,19,5.0,Feb 26,22,7.5,Mar 29,21,7.7,,,,,,
+1972,,,,Jan 26,43,13.4,Feb 28,40,14.3,Mar 29,25,9.5,,,,,,
+1973,,,,Jan 30,18,3.7,Feb 28,17,4.4,Mar 28,18,6.7,May 01,0,0.0,,,
+1974,Dec 26,18,3.7,Mar 01,,6.0,Feb 28,33,10.2,Mar 29,22,7.0,,,,,,
+1975,,,,Mar 01,,10.7,May 01,,13.4,Mar 26,37,13.0,,,,,,
+1976,,,,Mar 01,,5.9,Mar 03,23,5.6,Mar 26,18,6.8,,,,,,
+1977,,,,Mar 01,,1.5,Feb 26,2,0.2,Apr 02,4,1.2,,,,,,
+1978,,,,Mar 01,,3.9,Mar 03,26,9.2,Mar 29,8,4.3,,,,,,
+1979,,,,Mar 01,,3.2,Mar 03,30,8.9,Mar 31,8,3.4,,,,,,
+1980,,,,Mar 01,,4.0,Feb 26,17,6.0,Mar 26,10,4.4,,,,,,
+1981,Jan 01,0,0.0,,,,Feb 28,0,0.0,Mar 28,0,0.0,,,,,,
+1982,Dec 30,20,4.3,,,,Feb 27,26,10.8,Mar 30,23,10.4,,,,,,
+1983,Dec 28,18,4.2,,,,Feb 24,28,9.0,Mar 26,22,7.5,,,,,,
+1984,Jan 01,32,9.1,,,,Feb 26,38,11.4,Apr 03,33,13.4,,,,,,
+1985,Dec 31,19,5.4,Mar 01,,5.6,Mar 02,31,8.8,Mar 31,32,11.6,,,,,,
+1986,Dec 29,16,4.6,Mar 01,,7.5,Feb 24,26,11.3,Mar 30,0,0.0,,,,,,
+1987,Dec 29,2,0.6,Mar 01,,3.5,Feb 28,14,4.4,Mar 26,0,0.0,,,,,,
+1988,Jan 01,,1.0,Mar 01,,3.0,Feb 28,9,3.3,Mar 26,0,0.0,,,,,,
+1989,Dec 31,24,6.3,Mar 01,,10.9,Feb 26,29,9.9,Mar 30,16,6.6,,,,,,
+1990,Dec 30,4,1.2,Mar 01,,6.6,Feb 25,20,5.8,,,,,,,,,
+1991,Jan 01,,1.9,Mar 01,,3.3,Feb 26,6,2.0,Apr 01,0,0.0,,,,,,
+1992,,,,Mar 01,,2.6,Feb 26,0,0.0,Mar 28,0,0.0,,,,,,
+1993,,,,,,,,,,,,,,,,,,

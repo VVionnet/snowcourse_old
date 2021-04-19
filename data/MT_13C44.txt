@@ -1,0 +1,110 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 13C44: Barker Lakes, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Barker Lakes (13C44) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 8250 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:49:08 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,,,,,,,Jul 01,,12.8,,,,,,
+1962,,,,,,,,,,Jul 01,,17.5,,,,,,
+1963,,,,,,,,,,Jul 01,,15.7,,,,,,
+1964,,,,,,,,,,Jul 01,,16.4,,,,,,
+1965,,,,,,,,,,Jul 01,,22.0,,,,,,
+1966,,,,,,,,,,Jul 01,,11.3,,,,,,
+1967,,,,,,,,,,Jul 01,,17.3,,,,,,
+1968,,,,,,,,,,Jul 01,,18.5,,,,,,
+1969,,,,,,,,,,Jul 01,,18.1,,,,,,
+1970,,,,,,,,,,Jul 01,,15.7,,,,,,
+1971,,,,,,,,,,Jul 01,,19.3,,,,,,
+1972,,,,,,,,,,Jul 01,,21.0,,,,,,
+1973,,,,,,,,,,Jul 01,,12.0,,,,,,
+1974,,,,,,,,,,Jul 01,,15.7,,,,,,
+1975,,,,,,,,,,Jul 01,,15.7,,,,,,
+1976,,,,,,,,,,Jul 01,,23.0,,,,,,
+1977,,,,,,,,,,Jul 01,,11.1,,,,,,
+1978,,,,,,,,,,Jul 01,,18.2,,,,,,
+1979,,,,Feb 02,36,8.9,,,,Apr 04,51,14.8,,,,,,
+1980,Jan 08,23,4.5,,,,,,,Mar 26,45,11.8,,,,,,
+1981,,,,,,,,,,Apr 07,49,13.6,,,,,,
+1982,Dec 31,27,6.3,,,,,,,Mar 26,56,15.9,,,,,,
+1983,Dec 30,40,10.6,,,,,,,Mar 25,54,16.4,,,,,,
+1984,,,,,,,,,,Apr 04,46,13.0,,,,,,
+1985,Jan 04,31,8.1,,,,,,,Apr 03,53,15.2,,,,,,
+1986,Dec 31,19,5.2,,,,,,,Mar 28,45,14.7,,,,,,
+1987,Dec 31,20,5.4,,,,,,,Apr 02,38,11.1,,,,,,
+1988,Dec 31,20,3.7,,,,,,,Mar 30,47,12.8,,,,,,
+1989,Dec 28,20,4.3,,,,,,,Apr 03,52,14.2,,,,,,
+1990,,,,,,,,,,Apr 04,38,12.1,,,,,,
+1991,,,,,,,,,,,,,,,,,,
+1992,,,,,,,,,,Jul 01,37,10.6,,,,,,
+1993,,,,,,,,,,Mar 30,47,11.6,,,,,,
+1994,,,,,,,,,,Apr 04,46,10.4,,,,,,
+1995,,,,,,,,,,Mar 29,54,14.2,,,,,,
+1996,,,,,,,,,,Mar 27,51,14.8,,,,,,
+1997,,,,,,,,,,,,,,,,,,
+1998,,,,,,,,,,Mar 31,43,12.0,,,,,,
+1999,,,,,,,,,,,,,,,,,,
+2000,,,,,,,,,,Apr 07,34,9.7,,,,,,
+2001,,,,,,,,,,,,,,,,,,
+2002,,,,,,,,,,,,,,,,,,
+2003,,,,,,,,,,,,,,,,,,
+2004,,,,,,,,,,,,,,,,,,
+2005,,,,,,,,,,Apr 07,35,8.7,,,,,,
+2006,,,,,,,,,,Apr 03,55,15.5,,,,,,
+2007,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,Apr 04,46,14.4,,,,,,
+2009,,,,,,,,,,,,,,,,,,
+2010,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,,,,,,,,,,,,
+2013,,,,,,,,,,,,,,,,,,

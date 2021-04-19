@@ -51,7 +51,7 @@
 # Alberta  SNOW COURSE/AERIAL MARKER Site - 6299 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:10:33 AM GMT-08:00
+# As of: Apr 19, 2021 10:35:31 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -90,4 +90,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,,,,Feb 02,51,14.3,Mar 01,51,15.6,Mar 28,56,15.2,May 01,47,16.4,,,
 2019,,,,Jan 29,48,14.3,Feb 26,51,15.9,Mar 28,49,16.1,May 01,57,19.1,,,
 2020,,,,Jan 30,43,11.7,Feb 27,48,14.6,,,,Apr 30,52,20.0,,,
-2021,,,,Jan 28,45,13.5,Feb 25,57,16.9,,,,,,,,,
+2021,,,,Jan 28,45,13.5,Feb 25,57,16.9,Mar 30,63,20.4,,,,,,

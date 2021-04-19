@@ -1,0 +1,112 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20H07: Eagle Peak, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Eagle Peak (20H07) 
+# California  SNOW COURSE/AERIAL MARKER Site - 7200 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:09:35 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1930,,,,,,,,,,Apr 03,24,10.9,,,,,,
+1931,,,,,,,,,,Apr 01,12,4.6,,,,,,
+1932,,,,,,,,,,Mar 30,43,17.7,,,,,,
+1933,,,,,,,,,,Mar 30,37,14.3,,,,,,
+1934,,,,,,,,,,Apr 02,8,2.9,,,,,,
+1935,,,,,,,,,,Apr 10,66,22.8,,,,,,
+1936,,,,,,,,,,Apr 09,50,22.0,,,,,,
+1937,,,,,,,,,,Mar 29,46,17.3,,,,,,
+1938,,,,,,,,,,Mar 21,74,25.0,,,,,,
+1939,,,,,,,,,,Mar 30,25,9.8,,,,,,
+1940,,,,,,,,,,Apr 04,37,15.2,,,,,,
+1941,,,,,,,,,,Mar 26,34,13.4,,,,,,
+1942,,,,,,,,,,Mar 29,38,14.4,,,,,,
+1943,,,,,,,,,,Mar 24,56,23.6,,,,,,
+1944,,,,,,,,,,Mar 27,35,13.3,,,,,,
+1945,,,,,,,,,,Mar 30,63,23.1,,,,,,
+1946,,,,,,,,,,Apr 05,52,21.5,,,,,,
+1947,,,,,,,,,,Apr 02,24,7.7,,,,,,
+1948,,,,,,,,,,Mar 29,42,14.0,,,,,,
+1949,,,,,,,,,,Mar 29,54,18.9,,,,,,
+1950,,,,,,,,,,Mar 31,43,17.8,,,,,,
+1951,,,,,,,,,,Apr 02,35,13.7,,,,,,
+1952,,,,,,,,,,Mar 31,77,32.1,,,,,,
+1953,,,,,,,,,,Mar 31,38,15.3,,,,,,
+1954,,,,,,,,,,Apr 05,42,15.6,,,,,,
+1955,,,,,,,,,,Apr 01,36,12.4,,,,,,
+1956,,,,,,,,,,Apr 04,48,21.7,,,,,,
+1957,,,,,,,,,,Apr 03,47,18.4,,,,,,
+1958,,,,,,,,,,Apr 04,66,22.0,,,,,,
+1959,,,,,,,,,,Apr 01,23,9.1,,,,,,
+1960,,,,,,,,,,Apr 04,26,12.1,,,,,,
+1961,,,,,,,,,,Mar 28,48,13.1,,,,,,
+1962,,,,,,,,,,Apr 02,44,17.2,,,,,,
+1963,,,,,,,,,,Mar 27,8,3.2,,,,,,
+1964,,,,,,,,,,Mar 30,42,13.4,,,,,,
+1965,,,,,,,,,,Mar 31,38,14.8,,,,,,
+1966,,,,,,,,,,Mar 31,27,8.9,,,,,,
+1967,,,,,,,,,,Mar 31,58,15.6,,,,,,
+1968,,,,,,,,,,Apr 04,26,8.1,,,,,,
+1969,,,,,,,,,,Apr 02,47,20.1,,,,,,
+1970,,,,,,,,,,Apr 01,34,14.0,,,,,,
+1971,,,,,,,,,,Apr 02,46,16.4,,,,,,
+1972,,,,,,,,,,Apr 03,47,21.1,,,,,,
+1973,,,,,,,,,,Apr 02,61,16.2,,,,,,
+1974,,,,,,,,,,Mar 27,48,20.0,,,,,,
+1975,,,,,,,,,,Apr 02,67,24.4,,,,,,
+1976,,,,,,,,,,Mar 23,44,15.0,,,,,,
+1977,,,,,,,,,,Mar 25,22,7.0,,,,,,
+1978,,,,,,,,,,Mar 29,25,10.2,,,,,,
+1979,,,,,,,,,,Mar 30,40,14.8,,,,,,
+1980,,,,,,,,,,Mar 26,58,22.3,,,,,,
+1981,,,,,,,,,,Mar 30,37,11.6,,,,,,
+1982,,,,,,,,,,Apr 01,62,21.2,,,,,,
+1983,,,,,,,,,,Mar 30,77,28.6,,,,,,
+1984,,,,,,,,,,,,,,,,,,

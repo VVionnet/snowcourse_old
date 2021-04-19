@@ -1,0 +1,77 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10J30: Brown Duck, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Brown Duck (10J30) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 10600 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:42:26 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1971,,,,,,,,,,Mar 30,64,20.8,,,,,,
+1972,Dec 21,37,9.2,,,,,,,Mar 31,68,24.8,,,,May 24,45,20.3
+1973,,,,,,,,,,,,,Apr 25,73,22.8,,,
+1974,,,,,,,,,,Mar 28,52,15.7,,,,,,
+1975,,,,,,,,,,,,,Apr 30,71,25.9,May 29,59,23.7
+1976,Jan 02,30,7.0,Jan 27,37,8.9,Feb 26,54,13.7,Mar 31,53,15.8,Apr 29,52,17.9,May 26,25,9.6
+1977,Dec 28,5,0.5,Jan 26,12,2.2,Feb 28,24,4.1,Apr 05,29,7.0,Apr 25,16,4.6,Jun 01,8,2.9
+1978,,,,Jan 25,49,13.8,,,,Mar 28,66,21.4,Apr 28,68,23.6,May 31,40,18.9
+1979,Jan 02,28,6.8,,,,Feb 27,69,18.9,Apr 01,73,22.0,Apr 24,63,21.5,Jun 01,24,12.0
+1980,Dec 26,23,5.0,Feb 01,69,16.5,Feb 26,82,23.6,Mar 26,85,22.5,Apr 25,70,27.7,,,
+1981,Dec 31,27,6.0,Feb 03,45,7.9,Feb 25,41,9.8,Mar 31,67,14.6,Apr 26,51,14.6,May 29,30,12.4
+1982,,,,Jan 28,70,18.5,Feb 25,65,20.7,Mar 28,85,26.3,Apr 27,84,31.3,May 25,58,22.5
+1983,Dec 30,50,14.3,Jan 30,58,16.1,Feb 24,65,18.8,Mar 29,86,26.2,Apr 29,90,30.8,May 28,67,26.9
+1984,Jan 06,52,15.8,Feb 02,52,16.8,Feb 29,60,19.5,Apr 02,76,22.4,Apr 28,74,24.6,May 28,25,10.6
+1985,Dec 30,52,12.5,Jan 27,52,14.5,Feb 25,61,16.4,Mar 28,78,20.4,Apr 26,64,21.9,May 29,25,11.1
+1986,Dec 27,44,13.5,Mar 01,,15.5,Feb 23,102,28.4,Mar 27,87,27.9,Apr 28,95,34.9,Nov 01,,21.5
+1987,Dec 29,32,8.6,Mar 01,,11.3,Feb 28,63,13.8,Mar 25,73,17.5,Apr 24,55,19.0,Nov 01,,12.9
+1988,Dec 28,34,7.6,Mar 01,,10.3,Feb 24,48,12.5,Apr 01,51,14.0,Apr 27,45,12.5,Nov 01,,0.9
+1989,Dec 30,38,6.4,Mar 01,,8.4,Feb 22,50,13.2,Mar 24,54,15.9,Apr 27,43,15.4,Nov 01,,1.9
+1990,,,,,,,,,,,,,,,,,,

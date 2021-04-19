@@ -1,0 +1,95 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 15C09: Crater Meadows (Disc), ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Crater Meadows (disc) (15C09) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 5960 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:48:03 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,Jan 01,,17.0,Mar 01,,28.3,May 01,,36.5,Jul 01,,44.7,Sep 01,,54.7,Nov 01,,34.3
+1962,Jan 01,,21.0,Mar 01,,36.7,May 01,,41.4,Jul 01,,50.3,Sep 01,,46.5,Nov 01,,32.5
+1963,Jan 01,,12.2,Mar 01,,17.4,Feb 28,69,22.7,Apr 02,87,38.0,Apr 28,82,36.7,Nov 01,,16.7
+1964,Dec 26,52,14.5,Jan 31,93,30.1,Feb 26,98,37.5,Mar 31,121,52.2,Apr 28,125,57.8,May 29,74,48.4
+1965,Jan 05,83,20.3,Feb 02,120,42.1,Feb 23,122,47.8,Mar 30,131,54.8,May 08,98,54.8,May 27,63,39.8
+1966,Jan 06,60,12.2,Jan 30,72,21.9,Mar 03,91,29.8,Mar 28,97,40.8,Apr 28,79,37.8,May 27,31,17.7
+1967,Jan 01,,17.1,Jan 30,114,36.9,Feb 26,117,51.4,Apr 01,125,51.2,Apr 25,115,50.6,May 28,81,48.6
+1968,Jan 01,,19.6,Mar 01,,21.8,Feb 27,84,36.6,Mar 31,94,42.6,Apr 28,102,48.5,Nov 01,,22.3
+1969,Jan 03,90,25.7,Feb 03,117,37.8,Mar 02,114,42.3,Mar 27,108,44.2,Apr 27,85,44.2,May 28,26,18.6
+1970,Jan 05,51,13.3,Jan 30,93,26.6,Feb 26,95,33.8,Apr 06,119,45.4,May 03,126,48.0,May 31,68,47.6
+1971,Jan 01,,22.7,Jan 29,126,45.9,Mar 02,115,49.6,Apr 01,127,55.8,Apr 26,124,58.4,May 28,59,42.8
+1972,Dec 27,94,30.6,Feb 02,139,48.0,Mar 07,165,65.6,Mar 31,160,71.7,Apr 28,163,73.9,May 31,83,56.4
+1973,Dec 27,56,18.3,Jan 29,68,23.2,Feb 26,76,29.7,Mar 29,84,34.3,Apr 26,66,36.0,May 30,5,3.2
+1974,Jan 02,78,25.9,Mar 01,,52.1,Mar 01,136,52.7,Mar 27,131,55.6,Apr 29,139,63.7,Nov 01,,53.6
+1975,Jan 02,58,15.6,Jan 30,113,32.7,Feb 25,122,42.5,Mar 27,144,52.3,May 01,131,56.5,May 30,95,52.7
+1976,Jan 02,74,23.9,Jan 29,100,35.8,Mar 08,120,44.1,Apr 05,128,51.1,Apr 29,113,52.7,Jun 07,27,19.1
+1977,Dec 29,35,8.0,Jan 27,47,11.7,Mar 05,65,18.3,Apr 04,92,28.7,Apr 27,48,24.1,Nov 01,,0.0
+1978,Dec 28,73,24.4,Jan 30,100,32.3,Feb 28,104,37.5,Mar 27,94,43.2,May 02,80,43.9,Jun 01,60,33.3
+1979,Jan 03,62,17.2,Jan 29,80,23.3,Mar 01,108,36.9,Apr 01,114,42.5,Apr 27,105,45.7,May 30,40,24.8
+1980,Dec 27,55,15.8,Jan 29,76,24.3,Feb 29,85,30.5,Mar 28,107,38.9,May 01,68,32.4,Nov 01,,20.2
+1981,Dec 31,29,13.4,Jan 28,40,11.7,Feb 27,57,19.8,Mar 31,69,24.6,Apr 30,58,24.8,May 29,15,9.0
+1982,Jan 06,81,20.1,Feb 04,112,35.4,Feb 26,115,43.9,Apr 02,127,50.6,Apr 29,125,55.6,Jun 01,69,42.5
+1983,Jan 01,,19.4,Jan 28,74,24.5,Mar 01,97,34.2,Mar 29,98,37.6,Apr 28,91,40.1,May 31,44,29.7
+1984,Jan 09,55,20.5,Jan 30,68,25.5,Feb 28,87,29.1,Mar 30,110,39.4,Apr 27,101,45.3,May 30,79,43.3
+1985,Jan 03,97,28.3,Jan 31,91,29.2,Feb 26,101,35.8,Apr 02,114,44.1,Apr 30,79,41.9,May 31,33,19.2
+1986,Dec 23,37,11.4,Mar 01,70,21.4,Feb 27,80,29.2,Mar 27,83,35.4,Apr 30,75,33.8,Nov 01,34,17.1
+1987,Dec 31,48,12.9,Jan 28,67,19.2,Feb 26,75,24.8,Mar 30,85,31.6,Apr 30,43,24.4,May 29,0,0.0
+1988,Dec 28,33,8.2,Jan 29,58,17.2,Feb 25,83,27.2,Mar 31,100,37.7,Apr 26,66,31.1,May 26,21,15.5
+1989,Dec 27,57,16.1,Jan 26,96,29.1,Mar 03,108,34.9,Mar 30,123,43.0,Apr 26,87,41.3,May 26,56,30.6
+1990,Jan 01,,10.7,Mar 01,,25.1,Feb 23,103,35.0,Apr 02,92,40.8,Apr 30,75,31.8,Jun 02,39,22.1
+1991,Jan 01,,25.4,Mar 01,,32.6,Feb 25,96,36.6,Mar 27,113,44.2,Apr 30,99,44.2,Nov 01,,24.6
+1992,Jan 01,,21.2,Mar 01,,28.0,May 01,,32.6,Jul 01,,32.4,Sep 01,,34.3,Nov 01,,0.0
+1993,Jan 01,,19.7,Mar 01,,25.6,May 01,,28.1,Jul 01,,32.2,Sep 01,,42.5,Nov 01,,15.1
+1994,Jan 01,,10.6,Mar 01,,19.9,May 01,,27.0,Jul 01,,28.6,Sep 01,,26.0,Nov 01,,0.0
+1995,Jan 01,,22.1,Mar 01,,28.9,May 01,,30.2,Jul 01,,36.4,Sep 01,,39.7,Nov 01,,15.7
+1996,Jan 01,,13.7,Mar 01,,29.3,May 01,,38.3,Jul 01,,43.0,Sep 01,,48.4,Nov 01,,36.9
+1997,Jan 01,,34.6,Mar 01,,48.6,May 01,,57.8,,,,,,,,,
+1998,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,91 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 15F14: Graham Guard Station (Disc), ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Graham Guard Station (disc) (15F14) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 5690 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:48:16 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,Jan 01,,3.0,Mar 01,,4.1,May 01,,8.2,Jul 01,,11.1,Sep 01,,2.2,Nov 01,,0.0
+1962,Jan 01,,13.1,Mar 01,,13.1,May 01,,15.4,Jul 01,,18.4,Sep 01,,2.3,Nov 01,,0.0
+1963,Jan 01,,0.0,Mar 01,,3.1,May 01,,0.3,Jul 01,,0.8,Sep 01,,2.2,Nov 01,,0.0
+1964,Jan 01,,3.3,Mar 01,,13.7,May 01,,14.0,Jul 01,,19.7,Sep 01,,8.8,Nov 01,,0.0
+1965,Jan 01,,15.7,Mar 01,,22.7,May 01,,24.7,Jul 01,,26.0,Sep 01,,12.5,Nov 01,,0.0
+1966,Jan 01,,4.1,Mar 01,,9.2,May 01,,13.6,Jul 01,,11.5,Sep 01,,3.0,Nov 01,,0.0
+1967,Jan 01,,3.3,Mar 01,,8.9,May 01,,13.7,Jul 01,,11.4,Sep 01,,7.4,Nov 01,,0.0
+1968,Jan 01,,3.5,Mar 01,,5.6,May 01,,8.8,Jul 01,,6.9,Sep 01,,2.2,Nov 01,,0.0
+1969,Jan 01,,9.6,Mar 01,,16.5,May 01,,22.9,Jul 01,,17.0,Sep 01,,2.2,Nov 01,,0.0
+1970,Jan 01,,3.0,Mar 01,,13.8,May 01,,16.8,Jul 01,,17.1,Sep 01,,11.1,Nov 01,,0.0
+1971,Jan 01,,10.9,Mar 01,,17.1,May 01,,20.9,Jul 01,,21.1,Sep 01,,8.4,Nov 01,,0.0
+1972,Jan 01,,15.2,Mar 01,,24.1,May 01,,26.5,Jul 01,,27.0,Sep 01,,16.8,Nov 01,,0.0
+1973,Jan 01,,4.5,Mar 01,,6.9,May 01,,10.2,Jul 01,,8.7,Sep 01,,2.2,Nov 01,,0.0
+1974,Jan 01,,10.3,Mar 01,,15.9,May 01,,21.5,Jul 01,,22.8,Sep 01,,9.7,Nov 01,,0.0
+1975,Dec 31,31,5.9,Feb 05,48,12.0,Mar 03,56,18.4,Mar 29,68,23.0,Sep 01,,16.0,Nov 01,,0.0
+1976,Jan 01,,6.7,Jan 29,44,11.6,Feb 27,58,16.8,Mar 30,61,20.7,Apr 29,23,10.6,Nov 01,,0.0
+1977,Dec 29,5,0.7,Feb 01,9,1.7,Mar 02,9,2.6,Mar 29,17,4.1,Apr 28,0,0.0,Nov 01,,0.0
+1978,Dec 27,40,12.1,Jan 30,54,16.9,Feb 28,60,21.1,Mar 31,39,18.1,May 01,18,8.5,Nov 01,,0.0
+1979,Dec 28,19,4.0,Jan 29,29,6.3,Mar 02,45,12.0,Apr 03,31,11.0,May 01,0,0.0,Nov 01,,0.0
+1980,Dec 27,23,5.0,Jan 29,37,10.9,Feb 27,40,13.5,Mar 28,47,16.6,Apr 29,10,4.7,Nov 01,,0.0
+1981,Dec 31,18,4.9,Jan 29,26,5.4,Feb 25,26,7.9,Apr 02,20,7.1,Apr 30,0,0.0,Nov 01,,0.0
+1982,Jan 01,,9.5,Jan 27,55,14.7,Feb 25,50,17.9,Apr 02,57,19.8,Apr 28,38,16.3,Jun 01,0,0.0
+1983,Dec 28,38,10.7,Jan 31,42,13.1,Feb 28,54,17.2,Apr 01,50,18.3,Apr 26,33,14.1,May 31,0,0.0
+1984,Jan 01,,10.3,Jan 26,46,13.1,Feb 27,54,14.5,Mar 30,44,15.7,May 04,21,8.8,May 29,0,0.0
+1985,Dec 28,39,8.9,Jan 30,36,10.7,Feb 25,49,13.6,Mar 31,44,14.5,Apr 29,4,1.6,May 30,0,0.0
+1986,Dec 27,19,4.3,Feb 04,35,9.7,Feb 26,53,18.1,Apr 01,32,13.5,May 01,0,0.0,,,
+1987,Dec 29,13,3.1,Jan 29,26,5.7,Feb 28,30,7.9,Mar 31,21,7.9,Apr 29,0,0.0,Jun 01,0,0.0
+1988,Jan 01,17,3.2,Jan 27,30,7.9,Feb 26,34,9.9,Mar 31,26,10.7,Apr 27,0,0.0,Nov 01,,0.0
+1989,Dec 28,26,5.5,Jan 27,42,11.1,Feb 27,36,11.1,Mar 30,38,14.3,May 01,0,0.0,May 31,0,0.0
+1990,Dec 29,6,1.2,Jan 31,36,7.4,Feb 28,30,9.2,Mar 29,19,8.0,Apr 30,0,0.0,Nov 01,,0.0
+1991,Jan 01,,5.3,Mar 01,,7.4,Feb 27,23,8.1,Mar 27,34,11.7,Apr 30,9,3.1,May 31,0,0.0
+1992,Jan 01,,6.1,Mar 01,,6.0,May 01,,6.2,Jul 01,,0.0,Sep 01,,0.0,Nov 01,,0.0
+1993,Jan 01,,7.3,Mar 01,,10.5,May 01,,12.8,Jul 01,,11.2,Sep 01,,4.4,,,
+1994,,,,,,,,,,,,,,,,,,

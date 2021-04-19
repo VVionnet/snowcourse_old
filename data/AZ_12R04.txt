@@ -1,0 +1,93 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 12R04: Gaddes Canyon (Disc.), AZ
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Gaddes Canyon (disc.) (12R04) 
+# Arizona  SNOW COURSE/AERIAL MARKER Site - 7600 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:55:48 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1954,,,,Feb 01,13,3.6,Mar 04,1,0.1,Apr 01,11,4.1,,,,,,
+1955,,,,Jan 31,19,2.9,Mar 02,17,5.2,,,,,,,,,
+1956,,,,Jan 30,8,2.6,Feb 29,9,3.1,Mar 31,1,0.1,,,,,,
+1957,,,,Jan 31,23,4.3,Feb 28,6,2.6,Apr 01,0,0.0,,,,,,
+1958,,,,Jan 31,2,0.3,Feb 28,5,1.9,Mar 31,10,4.4,,,,,,
+1959,,,,Jan 30,2,0.6,Feb 27,15,5.2,Mar 31,1,0.1,,,,,,
+1960,,,,Jan 29,24,7.4,Feb 29,37,9.4,Mar 31,6,2.6,,,,,,
+1961,,,,Jan 31,8,2.2,Feb 28,3,0.8,Mar 31,12,2.4,,,,,,
+1962,,,,Jan 31,29,7.8,Feb 28,38,10.6,Mar 30,30,9.9,,,,,,
+1963,,,,Jan 31,5,1.7,Feb 28,9,2.3,Mar 29,3,0.9,,,,,,
+1964,,,,Jan 31,3,0.7,Feb 28,4,0.6,Mar 31,4,1.2,,,,,,
+1965,,,,Jan 29,13,4.4,Feb 26,22,6.7,Mar 31,24,7.5,,,,,,
+1966,,,,Jan 31,23,6.2,Mar 01,31,8.2,Mar 31,10,3.2,,,,,,
+1967,,,,Jan 30,5,1.1,Feb 28,0,0.0,Mar 31,1,0.2,,,,,,
+1968,,,,Jan 31,41,14.5,Feb 29,31,12.7,Apr 01,17,8.5,,,,,,
+1969,,,,Jan 31,8,2.8,Feb 28,29,8.2,Mar 31,26,10.0,,,,,,
+1970,,,,Jan 30,1,0.0,Feb 27,0,0.0,Mar 31,15,3.6,,,,,,
+1971,,,,Jan 31,7,3.0,Feb 28,14,3.4,Mar 31,0,0.0,,,,,,
+1972,,,,Jan 30,1,0.3,Feb 29,0,0.0,Mar 31,0,0.0,,,,,,
+1973,,,,Jan 30,22,6.3,Feb 27,38,11.4,Mar 30,72,20.8,,,,,,
+1974,,,,Jan 30,19,5.5,Feb 27,18,5.5,Mar 29,3,1.2,,,,,,
+1975,,,,Jan 31,10,2.5,Feb 27,14,3.8,Mar 28,20,5.8,,,,,,
+1976,,,,Jan 30,13,3.9,Feb 28,21,7.2,Mar 28,14,5.3,,,,,,
+1977,,,,Jan 28,11,2.7,Feb 27,12,2.6,Mar 28,8,1.7,,,,,,
+1978,,,,Jan 31,17,4.3,Feb 27,27,7.1,Mar 30,13,5.8,,,,,,
+1979,,,,Jan 30,34,6.8,Feb 27,34,10.1,Mar 27,45,12.0,,,,,,
+1980,Jan 02,8,2.0,Jan 31,26,8.0,Feb 28,31,12.7,Mar 29,36,13.7,,,,,,
+1981,Dec 31,0,0.0,Jan 31,1,0.2,Feb 26,5,0.9,Mar 30,17,4.7,,,,,,
+1982,Dec 29,7,1.4,Jan 28,28,8.4,Feb 25,38,12.8,Mar 30,28,11.4,,,,,,
+1983,Dec 30,21,5.7,Jan 28,23,6.9,Feb 27,36,12.3,Mar 30,46,16.3,,,,,,
+1984,Dec 28,5,1.1,Jan 31,2,0.4,Feb 28,0,0.0,Mar 30,0,0.0,,,,,,
+1985,Dec 31,21,6.9,Jan 31,35,9.2,Feb 28,36,10.4,Mar 28,28,10.4,,,,,,
+1986,Jan 02,10,3.6,Jan 30,7,1.6,Feb 27,8,2.3,Mar 31,16,2.3,,,,,,
+1987,Dec 30,5,1.2,Jan 28,16,3.5,Feb 26,35,7.3,Mar 31,28,7.9,,,,,,
+1988,Dec 29,14,2.3,Jan 28,20,4.3,Feb 29,16,5.3,Mar 30,2,0.8,,,,,,
+1989,Dec 28,11,1.8,Jan 30,16,3.2,Feb 27,10,2.8,Mar 30,2,0.7,,,,,,

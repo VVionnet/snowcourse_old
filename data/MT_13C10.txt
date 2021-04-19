@@ -1,0 +1,121 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 13C10: Gold Creek Lake, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Gold Creek Lake (13C10) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 7200 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:58:30 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1949,,,,,,,,,,Mar 24,58,16.5,,,,,,
+1950,,,,,,,Feb 28,50,14.3,Apr 04,68,20.4,May 08,86,29.0,,,
+1951,,,,,,,Mar 02,51,15.8,Apr 03,54,21.2,May 05,48,19.6,,,
+1952,,,,,,,,,,,,,,,,,,
+1953,,,,,,,,,,,,,,,,,,
+1954,,,,,,,,,,,,,,,,,,
+1955,,,,,,,Feb 28,36,9.4,Mar 30,47,13.6,,,,,,
+1956,,,,,,,Feb 25,54,16.2,Mar 23,54,18.5,,,,,,
+1957,,,,,,,Feb 23,41,10.6,Mar 26,50,14.6,,,,,,
+1958,,,,,,,Feb 22,39,11.0,Mar 24,44,13.4,,,,,,
+1959,,,,,,,Feb 26,50,15.3,Mar 27,52,17.8,,,,,,
+1960,,,,,,,Feb 26,40,9.6,Mar 25,38,11.2,,,,,,
+1961,,,,,,,Feb 27,34,9.0,Mar 24,39,11.5,,,,,,
+1962,,,,,,,Feb 23,47,13.0,Mar 26,53,16.6,,,,,,
+1963,,,,,,,Feb 25,38,12.3,Mar 25,42,13.9,,,,,,
+1964,,,,,,,Feb 25,48,14.4,Mar 31,54,18.1,,,,,,
+1965,,,,,,,Feb 23,58,18.4,Mar 30,62,22.3,,,,,,
+1966,,,,,,,Feb 24,31,8.6,Mar 29,37,12.4,,,,,,
+1967,,,,,,,Mar 03,49,14.3,Mar 31,59,18.8,,,,,,
+1968,,,,,,,Mar 01,44,14.2,Mar 29,58,17.8,,,,,,
+1969,,,,,,,Feb 28,50,17.0,Mar 28,57,19.8,,,,,,
+1970,,,,,,,Feb 27,36,11.1,Apr 03,68,17.6,,,,,,
+1971,,,,,,,Feb 26,53,16.2,Mar 30,56,19.4,,,,,,
+1972,,,,,,,Mar 02,66,22.0,Mar 30,76,25.9,,,,,,
+1973,,,,,,,Feb 27,34,10.6,Mar 28,51,13.9,,,,,,
+1974,,,,,,,Feb 27,47,15.2,Mar 27,52,18.2,,,,,,
+1975,,,,,,,Feb 26,42,12.4,Mar 26,59,16.2,,,,,,
+1976,,,,,,,Mar 04,64,20.0,Mar 29,76,23.4,,,,,,
+1977,,,,,,,Feb 24,20,4.0,Mar 28,36,8.4,,,,,,
+1978,,,,,,,Feb 24,44,13.8,Mar 27,43,15.8,,,,,,
+1979,,,,,,,Feb 26,49,13.7,Mar 27,57,17.4,,,,,,
+1980,,,,,,,Feb 26,33,9.4,Mar 26,42,11.8,,,,,,
+1981,,,,,,,Feb 25,28,8.0,Apr 02,47,12.4,,,,,,
+1982,,,,,,,Feb 24,48,14.1,Mar 29,65,19.4,,,,,,
+1983,,,,,,,Feb 22,38,10.9,Mar 28,51,14.4,,,,,,
+1984,,,,,,,Feb 27,45,9.8,Mar 26,56,15.5,,,,,,
+1985,,,,,,,Feb 20,39,9.2,Mar 26,48,12.8,,,,,,
+1986,,,,,,,Feb 20,48,9.6,Mar 25,43,13.6,,,,,,
+1987,,,,,,,Feb 24,32,8.4,Mar 24,42,9.6,,,,,,
+1988,,,,,,,Feb 29,34,10.2,Mar 29,44,13.2,,,,,,
+1989,,,,,,,Feb 27,43,10.6,Mar 29,48,15.2,,,,,,
+1990,,,,,,,Feb 27,31,8.6,Mar 28,40,11.2,,,,,,
+1991,,,,,,,May 01,33,9.8,Apr 03,39,12.4,,,,,,
+1992,,,,,,,May 01,31,9.6,Mar 26,33,10.6,,,,,,
+1993,,,,,,,,,,Mar 26,37,10.8,,,,,,
+1994,,,,,,,,,,Mar 26,36,9.6,,,,,,
+1995,,,,,,,,,,Apr 01,46,13.6,,,,,,
+1996,,,,,,,,,,Mar 30,54,16.0,,,,,,
+1997,,,,,,,,,,Apr 01,63,20.4,,,,,,
+1998,,,,,,,,,,Mar 28,36,11.6,,,,,,
+1999,,,,,,,,,,Mar 29,43,17.4,,,,,,
+2000,,,,,,,,,,Mar 25,33,10.0,,,,,,
+2001,,,,,,,,,,Mar 24,35,9.6,,,,,,
+2002,,,,,,,,,,Mar 24,40,10.6,,,,,,
+2003,,,,,,,,,,Mar 31,47,16.2,,,,,,
+2004,,,,,,,,,,Mar 25,40,13.3,,,,,,
+2005,,,,,,,,,,Mar 28,36,8.3,,,,,,
+2006,,,,,,,,,,Mar 26,63,19.8,,,,,,
+2007,,,,,,,,,,Mar 25,47,16.9,,,,,,
+2008,,,,,,,,,,Mar 29,63,21.9,,,,,,
+2009,,,,,,,,,,Mar 28,71,21.1,,,,,,
+2010,,,,,,,,,,Mar 28,55,16.2,,,,,,
+2011,,,,,,,,,,Mar 25,66,20.1,,,,,,
+2012,,,,,,,,,,Mar 24,72,22.4,,,,,,

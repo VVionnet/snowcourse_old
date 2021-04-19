@@ -1,0 +1,92 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 22G10: Seven Lakes 1 (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Seven Lakes 1 (disc) (22G10) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 6800 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:07:02 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1936,Jan 04,89,24.8,,,,,,,Mar 30,181,80.8,,,,,,
+1937,,,,,,,,,,Apr 08,157,61.1,,,,,,
+1938,,,,Jan 26,66,21.8,,,,Apr 01,187,72.0,,,,,,
+1939,,,,,,,Feb 22,116,45.2,Mar 26,125,57.5,,,,,,
+1940,,,,Jan 28,52,16.5,,,,Apr 03,100,40.4,,,,,,
+1941,,,,Jan 29,102,34.5,,,,Mar 29,95,40.7,,,,,,
+1942,,,,Jan 29,65,22.3,,,,Mar 31,94,37.3,,,,,,
+1943,,,,,,,Mar 01,119,46.7,Mar 30,179,76.6,,,,,,
+1944,,,,Jan 27,62,20.6,,,,Mar 29,88,36.4,,,,,,
+1945,,,,Jan 29,48,17.5,,,,Apr 02,129,51.8,,,,,,
+1946,,,,Feb 11,132,48.0,,,,Mar 31,145,60.2,,,,,,
+1947,,,,Jan 30,70,21.1,Feb 26,83,26.0,Mar 29,100,33.1,,,,,,
+1948,,,,Jan 30,42,15.2,,,,Mar 30,109,37.2,,,,,,
+1949,,,,,,,Mar 11,169,76.0,Mar 31,182,77.6,,,,,,
+1950,,,,,,,Mar 01,126,54.8,Mar 29,175,74.5,,,,,,
+1951,,,,,,,Feb 25,155,52.9,Mar 30,172,67.3,,,,,,
+1952,,,,,,,,,,,,,,,,,,
+1953,,,,Feb 02,104,44.3,Mar 05,125,57.8,Apr 02,156,70.2,,,,,,
+1954,,,,Feb 05,138,51.0,Feb 26,138,59.9,Apr 04,153,66.2,,,,,,
+1955,,,,Jan 31,86,29.8,Feb 28,103,35.6,Apr 07,118,53.0,,,,,,
+1956,,,,Jan 29,127,50.9,Feb 29,171,65.2,Apr 03,150,70.4,,,,,,
+1957,,,,Feb 07,83,29.2,Mar 02,98,40.6,Apr 10,140,65.9,,,,,,
+1958,,,,,,,,,,Mar 23,168,80.4,,,,,,
+1959,,,,,,,Feb 25,82,31.2,Mar 25,87,34.2,,,,,,
+1960,,,,Jan 26,63,19.8,Feb 24,86,35.0,Mar 23,98,46.4,,,,,,
+1961,,,,Jan 26,63,24.8,Feb 22,93,36.0,Mar 28,152,56.2,,,,,,
+1962,,,,Jan 25,106,42.0,Feb 23,119,45.5,Mar 28,159,66.6,,,,,,
+1963,,,,Jan 28,38,13.3,Feb 19,45,18.8,Mar 28,76,25.8,,,,,,
+1964,,,,Jan 28,121,32.2,Feb 25,122,46.2,Mar 31,149,61.3,,,,,,
+1965,,,,Jan 27,139,59.0,Feb 24,138,64.5,Mar 30,144,66.8,,,,,,
+1966,,,,Jan 28,99,37.3,Mar 01,132,47.2,Mar 30,142,60.1,,,,,,
+1967,,,,Jan 31,111,40.0,Feb 27,115,46.9,Mar 31,158,59.6,,,,,,
+1968,,,,Jan 31,67,21.4,Feb 28,56,26.5,Mar 28,73,30.9,,,,,,
+1969,,,,Jan 29,160,49.7,Feb 26,163,58.8,Mar 26,156,68.8,,,,,,
+1970,,,,,,,,,,,,,,,,,,

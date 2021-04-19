@@ -1,0 +1,73 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10G19: South Thomas Fork, WY
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# South Thomas Fork (10G19) 
+# Wyoming  SNOW COURSE/AERIAL MARKER Site - 7840 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:42:58 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1970,,,,Feb 18,46,13.2,,,,Apr 03,47,15.4,,,,,,
+1971,,,,Feb 02,51,17.0,Mar 02,60,20.4,Apr 01,69,24.8,,,,,,
+1972,,,,Feb 11,60,19.2,Mar 15,64,23.8,Mar 31,62,25.0,,,,,,
+1973,,,,Jan 30,34,9.0,Feb 27,39,10.8,Mar 31,50,14.6,Apr 30,39,12.2,,,
+1974,,,,Jan 30,44,12.6,Feb 27,44,13.8,Mar 29,47,16.0,Apr 29,38,14.6,,,
+1975,,,,Jan 30,41,10.6,Feb 25,49,14.6,Mar 25,60,18.0,May 01,54,20.4,,,
+1976,,,,Jan 30,35,9.8,Feb 25,46,13.4,Mar 26,57,18.0,Apr 28,49,17.8,,,
+1977,,,,Jan 31,13,2.8,Feb 25,16,3.0,Mar 31,24,5.2,Apr 28,0,0.0,,,
+1978,,,,Jan 31,51,17.2,Feb 28,62,21.0,Apr 04,51,22.2,Apr 27,,19.0,,,
+1979,,,,Jan 29,41,10.8,Feb 26,52,14.6,Mar 30,49,16.6,Apr 30,34,12.6,,,
+1980,,,,Jan 30,42,11.4,Feb 28,46,13.4,Apr 02,54,16.6,May 01,30,11.8,,,
+1981,,,,Jan 30,23,4.0,Feb 27,23,5.6,Mar 31,33,7.2,Apr 30,5,1.0,,,
+1982,,,,Jan 29,52,14.2,Feb 26,53,17.6,Mar 26,62,22.0,Apr 30,53,21.4,,,
+1983,,,,Feb 01,34,9.1,,,,Mar 30,43,12.4,Apr 28,45,14.8,,,
+1984,,,,Jan 30,40,12.4,Feb 27,46,14.2,Mar 29,48,15.2,Apr 26,47,16.8,,,
+1985,,,,Jan 29,33,7.8,Mar 01,,10.3,Mar 29,45,11.8,Apr 29,,6.9,,,

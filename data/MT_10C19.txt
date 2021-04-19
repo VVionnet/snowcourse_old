@@ -1,0 +1,77 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10C19: Dry Creek, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Dry Creek (10C19) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 7420 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:34:00 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1994,Jan 01,,9.0,Mar 01,,13.5,May 01,,14.7,Jul 01,,16.9,Sep 01,,15.3,Nov 01,,0.0
+1995,Jan 01,,7.2,Mar 01,,9.6,May 01,,10.2,Jul 01,,13.7,Sep 01,,17.7,Nov 01,,7.1
+1996,Jan 01,,6.1,Mar 01,,9.2,May 01,,11.4,Jul 01,,15.6,Sep 01,,17.3,Nov 01,,9.7
+1997,Jan 01,,11.4,Mar 01,,14.1,May 01,,16.6,Jul 01,,18.9,Sep 01,,20.2,Nov 01,,6.8
+1998,Jan 01,,5.1,Mar 01,,8.8,May 01,,9.8,Jul 01,,12.8,Sep 01,,12.1,Nov 01,,0.0
+1999,Jan 01,,7.8,Mar 01,,11.7,May 01,,14.1,Jul 01,,14.2,Sep 01,,13.9,Nov 01,,4.5
+2000,Jan 01,,7.0,Mar 01,,8.6,May 01,,10.1,Jul 01,,13.4,Sep 01,,11.7,Nov 01,,0.0
+2001,Jan 01,,5.3,Mar 01,,7.1,May 01,,8.8,Jul 01,,11.9,Sep 01,,11.8,Nov 01,,0.0
+2002,,,,,,,,,,Apr 03,47,13.1,,,,,,
+2003,,,,,,,,,,Jul 01,,15.0,,,,,,
+2004,,,,,,,,,,Jul 01,,14.9,,,,,,
+2005,,,,,,,,,,Apr 05,50,13.9,,,,,,
+2006,,,,,,,,,,Apr 04,52,17.7,,,,,,
+2007,,,,,,,,,,Apr 03,48,15.6,,,,,,
+2008,,,,,,,,,,Apr 01,58,15.2,,,,,,
+2009,,,,,,,,,,Mar 31,67,17.1,,,,,,
+2010,,,,,,,,,,Mar 31,58,16.8,,,,,,
+2011,,,,,,,,,,Mar 31,59,19.9,,,,,,
+2012,,,,,,,,,,Apr 04,46,16.8,,,,,,
+2013,,,,,,,,,,Apr 03,41,13.7,,,,,,

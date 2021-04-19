@@ -1,0 +1,93 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 48S01: Chandalar Lake, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Chandalar Lake (48S01) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 3300 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:46:09 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1964,,,,,,,May 01,22,4.0,Jul 01,21,4.0,,,,,,
+1965,,,,,,,Mar 10,17,2.4,Jul 01,19,2.9,,,,,,
+1966,,,,,,,May 01,19,3.1,Apr 08,22,3.7,May 07,18,3.7,,,
+1967,,,,,,,Mar 06,21,2.7,Apr 07,23,3.5,,,,,,
+1968,,,,,,,Mar 05,30,5.6,Apr 03,29,6.1,,,,,,
+1969,,,,,,,Mar 03,17,2.4,Apr 01,18,2.7,,,,,,
+1970,,,,,,,Mar 03,13,1.6,Apr 03,16,2.5,,,,,,
+1971,,,,,,,Mar 05,24,4.0,Apr 02,30,6.0,,,,,,
+1972,,,,,,,Mar 01,18,2.8,Apr 05,22,3.7,,,,,,
+1973,,,,,,,Feb 27,25,4.7,Mar 27,26,4.7,,,,,,
+1974,,,,,,,Feb 25,18,2.7,Mar 27,18,3.0,,,,,,
+1975,,,,,,,Feb 25,18,2.7,Mar 27,19,3.2,,,,,,
+1976,,,,,,,Feb 24,18,2.9,Mar 27,19,3.4,,,,,,
+1977,,,,,,,Feb 24,26,4.3,Mar 29,27,5.1,,,,,,
+1978,,,,,,,Feb 27,20,3.2,Mar 28,23,4.0,,,,,,
+1979,,,,,,,Feb 26,16,2.5,Mar 27,19,2.9,,,,,,
+1980,,,,,,,Feb 25,18,3.1,Mar 27,22,4.3,,,,,,
+1981,,,,,,,Mar 02,29,5.4,Mar 31,27,5.4,,,,,,
+1982,,,,,,,Feb 26,17,3.1,Mar 26,24,3.7,,,,,,
+1983,,,,,,,Feb 24,13,2.1,Mar 28,16,2.6,,,,,,
+1984,,,,,,,Mar 03,24,3.4,Mar 27,24,3.9,,,,,,
+1985,,,,,,,Feb 27,21,3.1,Mar 27,22,3.7,,,,,,
+1986,,,,,,,Mar 06,17,2.7,Apr 02,21,3.4,,,,,,
+1987,,,,,,,Mar 08,26,5.3,Apr 01,26,5.5,,,,,,
+1988,,,,,,,May 01,20,3.2,Mar 29,23,4.0,,,,,,
+1989,,,,,,,May 01,15,2.6,Mar 29,15,2.6,Apr 19,9,2.5,,,
+1990,,,,,,,,,,,,,,,,,,
+1991,,,,,,,Feb 27,20,3.7,Jul 01,24,4.7,,,,,,
+1992,,,,,,,May 01,14,1.4,Jul 01,15,2.4,,,,,,
+1993,,,,,,,Mar 09,39,8.2,Jul 01,45,10.1,,,,,,
+1994,,,,,,,May 01,26,5.7,Jul 01,32,6.3,,,,,,
+1995,,,,,,,Mar 01,17,2.5,Apr 01,18,2.9,,,,,,
+1996,,,,,,,,,,,,,,,,,,
+1997,,,,,,,,,,Mar 27,21,3.6,,,,,,
+1998,,,,,,,,,,Mar 31,20,3.6,,,,,,
+1999,,,,,,,,,,,,,,,,,,

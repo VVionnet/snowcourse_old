@@ -1,0 +1,73 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 06J36: Elkhorn, CO
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Elkhorn (06J36) 
+# Colorado  SNOW COURSE/AERIAL MARKER Site - 8475 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:40:12 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1976,,,,Jan 29,58,17.1,Feb 27,63,21.0,Mar 31,71,25.2,Apr 28,64,27.3,,,
+1977,,,,Jan 25,28,5.5,Mar 01,51,10.0,Apr 01,49,13.2,,,,,,
+1978,,,,Feb 01,80,23.8,Feb 24,80,29.8,Mar 28,92,37.9,Apr 26,74,41.3,,,
+1979,,,,Jan 31,,21.0,,,,,,,Apr 26,72,31.0,,,
+1980,,,,,,,Feb 26,80,23.1,Mar 25,84,28.5,Apr 29,62,27.2,,,
+1981,,,,Jan 27,35,6.2,Feb 24,42,10.9,,,,Apr 28,19,6.1,,,
+1982,,,,,,,Mar 03,76,25.8,Apr 01,84,31.7,Apr 30,73,34.6,,,
+1983,,,,Jan 24,49,14.0,Feb 22,58,18.1,Mar 28,77,23.3,Apr 21,71,26.1,,,
+1984,,,,Jan 26,65,19.6,Feb 24,63,21.1,Mar 26,80,26.2,Apr 24,71,30.6,,,
+1985,,,,Jan 30,59,16.2,Feb 27,58,19.1,Mar 28,75,23.2,Apr 29,58,28.6,,,
+1986,,,,,,,,,,,,,,,,,,
+1987,,,,,,,,,,,,,,,,,,
+1988,,,,,,,,,,,,,,,,,,
+1989,,,,Jan 30,46,14.1,Feb 24,73,20.3,Mar 30,79,24.6,,,,,,
+1990,,,,Jan 30,47,11.9,Feb 26,56,17.6,Mar 28,65,21.6,,,,,,
+1991,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,100 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10ABS1: Francis River, YK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Francis River (10ABS1) 
+# Yukon Territory  SNOW COURSE/AERIAL MARKER Site - 730 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:40:50 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1975,,,,,,,,,,Mar 31,28,6.4,Apr 21,15,4.7,,,
+1976,,,,,,,Mar 02,37,8.7,Apr 05,35,9.1,May 03,15,9.1,,,
+1977,,,,Feb 01,26,5.3,Mar 02,26,6.3,Apr 01,28,7.4,May 02,6,1.9,,,
+1978,,,,Feb 01,15,2.6,Mar 01,17,2.8,Mar 31,18,3.0,Apr 28,4,1.5,,,
+1979,,,,Feb 01,26,4.2,Feb 28,31,4.9,Mar 30,33,7.2,May 02,12,6.8,,,
+1980,,,,Jan 31,20,3.8,Feb 28,20,4.3,Apr 03,22,4.7,May 01,7,1.5,,,
+1981,,,,Feb 01,21,3.6,Mar 04,28,5.0,Apr 02,24,4.5,May 05,10,1.9,,,
+1982,,,,Feb 02,17,2.2,Mar 02,19,2.9,Apr 02,21,3.8,May 03,7,1.8,,,
+1983,,,,Feb 02,20,2.0,Mar 01,23,2.8,Mar 30,24,4.4,May 02,0,0.0,,,
+1984,,,,Feb 03,19,2.0,Feb 28,21,2.6,Mar 30,19,3.5,Apr 27,5,1.0,,,
+1985,,,,,,,,,,,,,,,,,,
+1986,,,,,,,,,,,,,,,,,,
+1987,,,,,,,,,,,,,,,,,,
+1988,,,,,,,,,,,,,,,,,,
+1989,,,,,,,,,,,,,,,,,,
+1990,,,,,,,,,,,,,,,,,,
+1991,,,,,,,,,,,,,,,,,,
+1992,,,,,,,,,,,,,,,,,,
+1993,,,,,,,,,,,,,,,,,,
+1994,,,,,,,,,,,,,,,,,,
+1995,,,,,,,,,,,,,,,,,,
+1996,,,,,,,,,,,,,,,,,,
+1997,,,,,,,,,,,,,,,,,,
+1998,,,,,,,,,,,,,,,,,,
+1999,,,,,,,,,,,,,,,,,,
+2000,,,,,,,,,,,,,,,,,,
+2001,,,,,,,,,,,,,,,,,,
+2002,,,,,,,,,,,,,,,,,,
+2003,,,,,,,,,,,,,,,,,,
+2004,,,,,,,,,,,,,,,,,,
+2005,,,,,,,,,,,,,,,,,,
+2006,,,,,,,,,,,,,,,,,,
+2007,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,
+2010,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,,,,Mar 28,31,8.6,Apr 27,13,3.8,,,
+2013,,,,,,,Feb 26,31,6.9,Mar 26,31,7.0,Apr 26,33,8.0,,,
+2014,,,,,,,Feb 27,34,8.5,Mar 26,33,8.5,Apr 28,19,6.9,,,
+2015,,,,,,,Feb 25,23,3.8,Mar 26,22,4.4,Apr 27,0,0.0,,,
+2016,,,,,,,Feb 24,25,4.1,Mar 30,21,4.5,Apr 27,2,0.6,,,
+2017,,,,,,,Feb 23,17,2.8,Mar 28,23,4.2,Apr 26,7,1.7,,,

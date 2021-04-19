@@ -1,0 +1,72 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21C32: Ohanapecosh (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Ohanapecosh (disc) (21C32) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 2200 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:47:02 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1963,Dec 31,5,2.1,Jan 29,6,2.2,Feb 26,0,0.0,Apr 03,7,2.5,,,,,,
+1964,Jan 02,0,0.0,Feb 01,48,16.6,Feb 25,43,12.0,Mar 25,55,20.4,Apr 27,28,10.6,,,
+1965,,,,Jan 30,84,20.8,Feb 25,56,23.6,Apr 01,41,20.4,May 01,4,2.2,,,
+1966,,,,Jan 31,44,16.0,Mar 01,70,22.0,Mar 29,54,22.7,May 02,7,3.1,,,
+1967,Jan 04,10,3.3,Jan 27,36,10.8,Feb 28,37,14.4,Mar 30,35,13.6,,,,,,
+1968,,,,Feb 06,23,7.2,Feb 26,12,5.1,Mar 30,0,0.0,,,,,,
+1969,Jan 03,39,9.6,Jan 28,58,17.3,Feb 28,59,21.6,Apr 02,42,18.6,,,,,,
+1970,Dec 30,9,2.4,Jan 30,31,8.1,Feb 27,26,10.5,Mar 31,6,2.4,,,,,,
+1971,Dec 29,40,7.9,Feb 03,70,27.5,Feb 24,63,28.0,Mar 30,78,36.0,,,,,,
+1972,Dec 28,42,11.0,Jan 28,76,23.9,Feb 25,69,28.6,Mar 27,62,27.9,,,,,,
+1973,Dec 29,1,0.1,Jan 29,9,3.3,Feb 27,5,3.0,Mar 28,0,0.0,,,,,,
+1974,Dec 28,39,10.0,Feb 02,40,13.9,Feb 27,54,18.9,Apr 08,47,20.5,,,,,,
+1975,Dec 31,25,6.8,Jan 28,43,15.2,Feb 24,50,18.8,Mar 27,52,22.6,,,,,,
+1976,Dec 30,7,2.1,Jan 28,29,9.9,Feb 25,59,17.8,Mar 29,63,26.9,,,,,,
+1977,,,,,,,,,,,,,,,,,,

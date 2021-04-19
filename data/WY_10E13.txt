@@ -51,7 +51,7 @@
 # Wyoming  SNOW COURSE/AERIAL MARKER Site - 7040 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:25:27 AM GMT-08:00
+# As of: Apr 19, 2021 11:12:22 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -146,4 +146,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,Jan 02,34,9.5,Jan 31,55,16.4,Feb 28,68,21.0,Mar 29,70,25.2,Apr 30,44,18.8,,,
 2019,,,,Jan 30,47,12.8,Mar 01,,20.7,Mar 28,70,25.2,Apr 29,34,15.6,,,
 2020,Jan 07,44,9.2,Jan 28,55,15.8,Feb 26,59,19.7,Apr 01,83,24.6,Apr 27,54,22.9,,,
-2021,Jan 05,48,10.4,Jan 26,42,11.1,Mar 02,64,18.9,,,,,,,,,
+2021,Jan 05,48,10.4,Jan 26,42,11.1,Mar 02,64,18.9,Apr 01,,21.0,,,,,,

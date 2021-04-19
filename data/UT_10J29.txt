@@ -1,0 +1,74 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10J29: Lightning Lake, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Lightning Lake (10J29) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 10500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:41:19 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1974,,,,,,,,,,,,,Apr 29,90,30.6,,,
+1975,,,,,,,,,,,,,May 01,100,28.0,,,
+1976,,,,,,,Feb 27,72,20.2,,,,Apr 29,76,28.9,Jun 03,12,6.0
+1977,,,,,,,Feb 28,24,4.1,,,,May 02,12,4.8,Jun 07,6,3.0
+1978,,,,Jan 27,60,16.8,,,,,,,May 01,75,24.8,May 25,70,33.6
+1979,,,,Feb 10,71,18.5,Mar 03,78,21.1,,,,Apr 27,68,23.1,May 25,36,18.0
+1980,,,,,,,,,,Apr 04,90,34.2,May 05,72,32.4,Jun 05,36,18.0
+1981,,,,Jan 27,36,6.5,,,,,,,Apr 30,54,15.0,May 28,45,19.3
+1982,,,,Feb 12,72,24.1,,,,Apr 10,102,31.6,May 12,96,40.3,Jun 02,69,34.5
+1983,,,,,,,,,,Apr 07,96,28.8,,,,Jun 10,72,36.0
+1984,,,,,,,,,,Apr 06,96,27.8,,,,May 31,54,22.7
+1985,,,,,,,,,,,,,,,,,,
+1986,Jan 01,,15.3,Mar 01,,19.5,Feb 27,84,23.5,Apr 04,108,33.5,May 05,90,33.3,,,
+1987,,,,Mar 01,,9.4,Mar 04,69,15.2,Apr 02,81,20.2,Apr 29,60,21.0,Nov 01,,12.1
+1988,,,,Mar 01,,13.1,Feb 24,54,13.5,Apr 06,54,16.7,May 03,48,13.4,Nov 01,,4.6
+1989,,,,,,,Feb 28,60,16.2,Mar 31,60,17.4,,,,,,
+1990,,,,,,,,,,,,,,,,,,

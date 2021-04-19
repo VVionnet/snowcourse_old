@@ -1,0 +1,77 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21A17: Komo Dulshan (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Komo Dulshan (disc) (21A17) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 800 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:52:26 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1960,,,,,,,Feb 28,3,1.2,Apr 03,0,0.0,Apr 29,0,0.0,,,
+1961,,,,Jan 27,0,0.0,Feb 28,6,1.7,Mar 27,0,0.0,Apr 26,0,0.0,,,
+1962,,,,Jan 31,22,7.2,Feb 27,9,3.6,Mar 31,8,3.1,May 01,0,0.0,,,
+1963,,,,Feb 02,7,1.4,Mar 02,0,0.0,Apr 01,0,0.0,Apr 28,0,0.0,,,
+1964,,,,Feb 03,16,6.5,Feb 27,15,7.0,Mar 29,18,8.2,May 01,0,0.0,Jun 03,0,0.0
+1965,,,,,,,,,,Mar 30,21,9.8,May 01,0,0.0,,,
+1966,,,,,,,,,,Mar 31,28,12.7,Apr 29,0,0.0,,,
+1967,,,,,,,,,,Mar 29,7,2.6,Apr 26,0,0.0,,,
+1968,,,,,,,,,,Mar 31,0,0.0,May 01,0,0.0,,,
+1969,,,,,,,,,,Mar 29,36,15.8,May 03,0,0.0,,,
+1970,,,,,,,,,,Apr 02,0,0.0,May 02,0,0.0,,,
+1971,,,,,,,,,,Apr 04,41,16.8,Apr 28,14,6.8,,,
+1972,,,,,,,,,,Mar 29,38,15.8,Apr 28,7,3.8,,,
+1973,,,,,,,,,,Mar 30,0,0.0,Apr 28,0,0.0,,,
+1974,,,,,,,,,,Apr 10,0,0.0,May 03,0,0.0,,,
+1975,,,,,,,,,,Mar 30,24,10.3,Apr 29,0,0.0,,,
+1976,,,,,,,,,,Apr 02,23,10.1,Apr 28,0,0.0,,,
+1977,,,,,,,,,,Mar 28,0,0.0,Apr 26,0,0.0,,,
+1978,,,,,,,,,,Mar 30,0,0.0,Apr 26,0,0.0,,,
+1979,,,,,,,,,,,,,,,,,,

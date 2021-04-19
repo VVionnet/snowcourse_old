@@ -1,0 +1,80 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11J45: East Shingle Lake, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# East Shingle Lake (11J45) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 9800 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:41:18 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1974,,,,,,,,,,Mar 26,75,27.8,Apr 29,99,37.6,,,
+1975,,,,,,,,,,,,,May 01,109,40.3,May 29,92,41.0
+1976,,,,,,,Feb 27,75,21.8,,,,Apr 29,84,32.8,Jun 03,6,3.0
+1977,,,,Feb 08,27,4.6,Feb 28,41,7.4,Mar 30,48,13.0,May 02,6,2.4,Jun 07,0,0.0
+1978,,,,Jan 27,72,23.8,,,,Apr 04,99,36.6,May 01,84,35.3,May 25,72,38.9
+1979,,,,Feb 10,69,19.3,,,,,,,Apr 27,75,27.8,May 25,24,12.0
+1980,,,,,,,,,,Apr 04,108,41.0,May 05,68,30.6,,,
+1981,,,,,,,,,,,,,Apr 30,36,13.0,May 28,39,17.6
+1982,,,,,,,,,,Apr 10,123,45.5,May 05,90,40.5,Jun 02,51,25.5
+1983,,,,,,,,,,Apr 07,111,35.5,,,,Jun 10,75,37.5
+1984,,,,,,,,,,Apr 06,93,35.3,May 07,99,38.6,May 31,30,16.8
+1985,,,,,,,,,,Apr 01,87,26.1,,,,,,
+1986,,,,,,,,,,,,,May 05,111,45.5,,,
+1987,,,,,,,Mar 04,51,14.3,Apr 02,75,18.8,Apr 29,36,12.2,,,
+1988,,,,,,,Feb 24,51,14.8,Apr 06,60,19.2,May 03,51,15.8,,,
+1989,,,,,,,Feb 28,68,17.7,Mar 31,78,25.7,,,,,,
+1990,,,,,,,Feb 28,66,19.1,Mar 30,72,23.8,May 01,70,27.3,,,
+1991,,,,,,,Feb 26,57,14.8,Apr 03,90,28.8,Apr 30,92,31.3,,,
+1992,,,,,,,Mar 02,48,11.5,Mar 31,56,15.1,Apr 27,32,11.8,,,
+1993,,,,,,,Mar 03,102,27.5,Apr 01,100,37.0,Apr 29,97,42.7,,,
+1994,,,,,,,,,,Mar 29,74,22.9,May 02,63,21.4,,,
+1995,,,,,,,Feb 25,72,25.2,Mar 29,96,34.6,Apr 30,96,35.5,,,
+1996,,,,,,,,,,,,,,,,,,

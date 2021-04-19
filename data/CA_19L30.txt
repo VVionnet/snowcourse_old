@@ -1,0 +1,83 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 19L30: Center Mountain Aerial, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Center Mountain Aerial (19L30) 
+# California  SNOW COURSE/AERIAL MARKER Site - 9400 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:47:29 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,,,,Feb 20,52,16.6,,,,,,,,,
+1962,,,,Feb 05,46,13.3,Mar 07,145,43.8,Mar 20,116,42.9,,,,,,
+1963,,,,Feb 04,26,6.5,Feb 28,72,28.8,Apr 02,93,27.9,,,,,,
+1964,,,,Jan 27,45,11.7,Feb 27,52,16.6,,,,,,,,,
+1965,,,,Feb 01,108,37.8,Mar 03,116,46.4,Apr 04,120,45.6,,,,,,
+1966,,,,Jan 26,72,24.8,Mar 04,94,30.0,Mar 28,72,31.0,,,,,,
+1967,,,,Feb 01,129,37.4,Mar 01,104,40.6,Apr 12,162,60.5,,,,,,
+1968,,,,Feb 01,78,23.4,Mar 01,67,22.1,Mar 28,75,28.5,,,,,,
+1969,,,,Jan 29,162,45.5,Feb 27,216,79.9,Mar 28,192,82.5,,,,,,
+1970,,,,,,,,,,Mar 30,116,52.5,,,,,,
+1971,,,,Jan 29,86,34.4,Feb 26,83,32.0,Apr 03,90,36.0,,,,,,
+1972,,,,Jan 29,84,24.4,Feb 26,106,40.0,Mar 31,55,25.5,,,,,,
+1973,,,,Jan 28,97,32.0,Feb 25,89,32.0,Mar 25,99,39.6,,,,,,
+1974,,,,Jan 28,87,34.8,,,,,,,,,,,,
+1975,,,,Jan 29,45,14.9,Feb 23,93,29.0,Mar 30,134,42.0,,,,,,
+1976,,,,,,,Feb 27,47,15.0,Mar 25,51,17.9,,,,,,
+1977,,,,Jan 23,27,8.1,,,,,,,,,,,,
+1978,,,,Jan 24,106,33.9,Feb 24,132,50.0,Mar 28,130,56.0,,,,,,
+1979,,,,Jan 26,74,22.4,Feb 27,123,38.7,Mar 29,124,44.6,,,,,,
+1980,,,,Jan 30,104,37.4,Feb 26,150,52.0,Mar 26,155,62.0,,,,,,
+1981,,,,,,,Feb 27,55,16.0,Mar 30,87,26.5,,,,,,
+1982,,,,Jan 29,114,37.3,Feb 23,138,52.4,,,,Apr 27,174,85.3,,,
+1983,Jan 01,103,28.8,,,,,,,Apr 01,200,81.1,,,,,,
+1984,,,,Jan 25,95,33.0,,,,,,,,,,,,
+1985,Jan 01,68,21.0,,,,,,,,,,,,,,,
+1986,,,,,,,,,,,,,,,,,,

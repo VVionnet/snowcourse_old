@@ -1,0 +1,72 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21D41: Lower Pinnacle, OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Lower Pinnacle (21D41) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 3280 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:34:43 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1990,,,,Feb 02,41,10.2,Mar 07,33,16.0,,,,,,,,,
+1991,Jan 07,8,1.2,Feb 05,7,2.2,,,,Apr 02,0,0.0,,,,,,
+1992,,,,Feb 03,0,0.0,Mar 03,0,0.0,Apr 03,0,0.0,,,,,,
+1993,Jan 03,51,12.2,Feb 04,42,16.1,Mar 02,52,18.2,Apr 09,19,8.3,May 07,0,0.0,,,
+1994,Jan 06,15,3.9,Feb 01,10,3.6,Mar 01,30,9.4,Apr 04,8,3.3,May 02,0,0.0,,,
+1995,Jan 04,14,4.7,Feb 02,9,3.4,Mar 02,0,0.0,Apr 03,0,0.0,May 01,0,0.0,,,
+1996,Jan 02,6,2.3,Feb 01,47,11.8,Mar 06,16,5.4,Apr 04,0,0.0,,,,,,
+1997,Jan 08,41,16.4,Feb 04,36,15.8,Mar 05,54,20.0,Apr 04,36,16.8,May 02,0,0.0,,,
+1998,,,,Feb 01,27,10.0,Mar 02,36,12.8,Apr 01,20,8.2,May 01,0,0.0,,,
+1999,Jan 06,0,0.0,Feb 03,14,4.0,Mar 03,36,10.1,Mar 31,41,12.6,,,,,,
+2000,,,,Feb 03,38,11.5,Mar 03,50,17.7,Apr 03,37,15.3,,,,,,
+2001,,,,Feb 01,26,5.3,,,,,,,May 03,0,0.0,,,
+2002,Dec 31,28,8.5,,,,,,,,,,,,,,,
+2003,,,,,,,Mar 03,6,1.9,,,,,,,,,
+2004,,,,,,,,,,,,,,,,,,

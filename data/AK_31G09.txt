@@ -1,0 +1,82 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 31G09: Lake Grace Pass, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Lake Grace Pass (31G09) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 1900 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:33:35 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1994,Jan 07,18,6.0,,,,,,,Mar 29,24,8.4,,,,,,
+1995,Dec 28,136,42.8,,,,,,,,,,May 03,118,54.0,,,
+1996,,,,,,,,,,Apr 03,66,26.0,,,,,,
+1997,,,,,,,,,,Apr 03,82,32.3,,,,,,
+1998,Dec 31,48,22.4,,,,,,,,,,,,,,,
+1999,,,,,,,,,,,,,,,,,,
+2000,,,,,,,,,,,,,May 03,171,88.1,,,
+2001,,,,,,,,,,,,,Sep 01,140,63.2,,,
+2002,,,,Jan 17,88,34.0,,,,Apr 03,164,61.0,,,,,,
+2003,Jan 08,30,8.7,,,,,,,Apr 02,72,27.3,Sep 01,0,0.0,,,
+2004,Jan 01,77,25.3,,,,,,,Apr 06,118,51.7,,,,,,
+2005,Jan 03,38,11.8,,,,,,,Apr 03,90,26.7,,,,,,
+2006,Jan 03,2,0.6,,,,,,,Mar 29,82,29.3,,,,,,
+2007,Jan 11,127,44.6,,,,,,,Apr 02,252,95.8,,,,,,
+2008,,,,Jan 31,125,45.3,,,,Apr 02,194,84.8,,,,,,
+2009,Jan 07,89,23.0,,,,,,,Apr 09,152,57.5,,,,,,
+2010,,,,,,,,,,Apr 12,102,45.7,,,,,,
+2011,Jan 07,68,19.0,,,,,,,,,,Apr 28,115,51.6,,,
+2012,,,,,,,,,,,,,May 01,177,89.6,,,
+2013,,,,,,,,,,Mar 22,169,64.2,,,,,,
+2014,,,,,,,,,,,,,,,,,,
+2015,,,,,,,,,,,,,,,,,,
+2016,,,,,,,,,,,,,,,,,,
+2017,,,,,,,,,,,,,,,,,,
+2018,,,,,,,,,,,,,,,,,,

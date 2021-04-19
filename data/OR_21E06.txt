@@ -1,0 +1,104 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21E06: Hogg Pass (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Hogg Pass (disc) (21E06) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 4760 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:03:41 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1938,,,,Jan 30,52,15.7,,,,Apr 15,121,45.8,,,,,,
+1939,,,,Jan 29,72,20.4,,,,Mar 26,111,44.4,,,,,,
+1940,,,,Jan 28,35,9.5,,,,Mar 28,47,20.4,,,,,,
+1941,Dec 29,25,7.7,Jan 29,51,17.2,Mar 02,54,21.4,Mar 27,43,18.6,,,,,,
+1942,,,,Jan 29,48,15.4,Mar 01,83,28.4,Mar 29,78,32.6,,,,,,
+1943,Jan 01,107,32.1,Feb 01,141,48.0,Feb 28,132,52.7,Mar 31,150,53.8,May 01,106,54.5,,,
+1944,Jan 04,28,6.9,Jan 31,38,12.4,Mar 01,60,20.2,Mar 29,61,22.9,,,,,,
+1945,Jan 01,26,7.0,Feb 04,32,9.0,Mar 01,52,16.8,Apr 01,87,31.2,,,,,,
+1946,Jan 01,63,24.6,Jan 31,112,42.0,Feb 28,128,52.4,Mar 27,141,59.4,May 01,118,61.1,,,
+1947,Dec 30,44,15.3,Feb 03,88,29.1,Feb 28,68,30.3,Mar 26,87,35.8,,,,,,
+1948,Dec 31,40,12.0,Jan 29,55,21.3,Feb 27,97,34.9,Mar 31,112,45.8,,,,,,
+1949,Dec 28,95,34.4,Feb 02,117,43.4,Feb 28,158,70.9,Mar 30,162,73.4,May 03,124,65.3,,,
+1950,Jan 07,83,21.5,Jan 31,132,42.1,Mar 01,108,50.4,Apr 02,132,58.9,Apr 30,114,58.7,,,
+1951,Dec 31,43,14.4,Feb 02,102,37.4,Mar 02,113,44.3,Apr 01,125,55.4,Apr 30,87,47.6,,,
+1952,Jan 06,83,21.6,Feb 03,139,49.1,Mar 01,137,56.1,Mar 29,139,61.3,May 03,106,55.8,,,
+1953,Jan 01,61,20.0,Jan 31,81,31.8,Feb 28,102,38.5,Mar 28,124,49.8,May 09,109,48.7,,,
+1954,Jan 02,41,13.8,Jan 30,116,39.4,Feb 27,111,43.0,Mar 27,115,50.3,May 01,87,43.4,,,
+1955,Jan 01,61,15.9,Feb 01,68,22.1,Mar 02,114,34.2,Mar 29,124,49.6,Apr 30,140,62.5,,,
+1956,Dec 30,78,25.6,Feb 01,106,37.4,Mar 01,168,58.4,Apr 02,167,73.5,May 01,115,58.6,May 31,52,27.3
+1957,Jan 02,31,10.6,Jan 31,63,20.2,Feb 28,69,27.5,Mar 27,90,38.1,May 01,64,32.3,,,
+1958,Dec 23,82,19.4,Jan 28,91,34.7,Feb 25,96,40.5,Mar 27,102,46.1,Apr 28,100,48.5,,,
+1959,Dec 23,2,0.6,Jan 27,29,7.5,Feb 25,68,20.4,Mar 27,73,26.8,Apr 28,51,22.4,,,
+1960,Dec 28,14,2.7,Jan 26,38,9.2,Feb 25,60,19.6,Mar 28,77,29.3,Apr 26,89,37.6,,,
+1961,Dec 27,37,11.6,Jan 26,35,12.3,Feb 24,55,19.5,Mar 28,107,38.9,Apr 26,80,36.5,,,
+1962,Dec 22,76,25.0,Jan 29,70,27.8,Feb 26,90,33.4,Mar 28,129,48.0,Apr 27,88,41.2,,,
+1963,Dec 27,12,4.1,Jan 29,27,7.0,Feb 25,18,7.5,Mar 27,33,11.5,Apr 26,58,22.6,,,
+1964,Dec 24,24,6.7,Jan 27,105,32.5,Feb 27,96,35.0,Mar 30,125,49.1,Apr 29,110,50.7,,,
+1965,Dec 30,90,25.4,Jan 28,111,39.9,Feb 25,99,42.3,Mar 31,97,43.4,Apr 30,65,32.1,,,
+1966,Dec 30,73,14.1,Jan 28,98,34.7,Feb 25,111,43.8,Mar 30,124,54.4,Apr 29,93,43.5,May 31,33,17.2
+1967,Dec 30,42,12.5,Jan 31,83,27.4,Mar 01,90,33.3,Mar 31,112,41.6,May 01,106,44.1,Jun 01,54,25.7
+1968,Jan 02,35,11.3,Feb 01,73,21.8,Mar 01,46,18.9,Apr 01,50,21.1,May 01,44,20.2,Jun 03,0,0.0
+1969,Jan 02,71,20.5,Feb 03,138,42.7,Feb 28,122,46.7,Apr 01,112,49.7,May 01,103,49.1,Jun 02,34,18.5
+1970,Dec 30,48,13.5,Jan 30,70,24.8,Feb 27,70,28.4,Mar 30,76,32.0,Apr 30,95,37.4,Jun 01,26,13.2
+1971,Dec 30,86,22.7,Jan 29,101,39.8,Feb 26,127,45.5,Mar 31,153,61.9,Apr 30,135,65.8,Jun 01,81,42.0
+1972,Dec 29,93,28.0,Jan 31,133,51.1,Mar 01,138,62.8,Mar 30,134,63.3,Apr 28,140,67.5,May 31,78,42.4
+1973,Jan 02,27,5.5,Jan 31,42,10.6,Mar 01,40,13.0,Mar 30,49,17.8,Apr 30,30,12.1,Jun 01,0,0.0
+1974,Dec 27,73,28.5,Jan 30,102,40.0,Feb 28,157,55.7,Mar 28,152,65.3,Apr 30,143,71.6,May 30,106,56.7
+1975,Dec 30,49,14.9,Jan 30,64,25.7,Feb 27,93,39.9,Mar 31,137,49.9,Apr 28,126,55.4,May 30,76,38.3
+1976,Dec 29,32,12.4,Jan 29,72,25.5,Mar 02,132,43.0,Mar 30,142,54.1,Apr 29,116,53.2,May 27,63,27.0
+1977,Dec 29,8,1.6,Jan 27,12,3.3,Feb 24,20,3.6,Mar 31,58,18.8,Apr 29,25,11.4,May 27,19,7.3
+1978,Dec 28,26,6.5,Jan 30,43,14.4,Feb 27,56,19.8,Mar 30,43,18.4,Apr 28,41,16.9,,,
+1979,Dec 28,29,7.9,Jan 29,46,12.4,Feb 28,98,27.5,Mar 27,65,28.4,Apr 27,72,33.7,May 31,10,5.0
+1980,Dec 28,22,5.4,Jan 29,38,12.1,Feb 26,42,14.2,Mar 26,69,22.3,May 01,46,19.8,May 30,4,2.0
+1981,Dec 31,10,3.3,Jan 28,25,4.8,Feb 26,28,7.4,Mar 27,28,9.6,Apr 27,32,12.5,May 29,0,0.0
+1982,Dec 29,80,23.0,Jan 26,113,36.8,Feb 23,102,38.5,Mar 30,108,42.9,Apr 30,109,51.1,,,
+1983,,,,,,,,,,,,,Apr 27,86,39.5,,,
+1984,,,,,,,,,,,,,,,,,,

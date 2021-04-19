@@ -1,0 +1,80 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 18D11: Camp Carson (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Camp Carson (disc) (18D11) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 5970 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:03:37 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1938,,,,,,,,,,Mar 29,34,10.2,,,,,,
+1939,Jan 05,20,3.7,,,,,,,Mar 28,31,10.6,,,,,,
+1940,Dec 30,0,0.0,,,,,,,Apr 01,0,0.0,,,,,,
+1941,Dec 30,15,3.5,Feb 10,19,4.8,,,,Mar 27,17,5.9,,,,,,
+1942,,,,Feb 06,21,4.8,,,,Mar 29,28,9.6,,,,,,
+1943,,,,,,,,,,Mar 26,42,18.6,,,,,,
+1944,,,,Feb 02,18,3.5,,,,Mar 29,22,5.5,,,,,,
+1945,,,,,,,,,,,,,,,,,,
+1946,,,,Jan 30,34,8.0,,,,Mar 28,32,10.3,,,,,,
+1947,,,,Feb 01,32,7.4,,,,Mar 30,17,5.8,,,,,,
+1948,,,,Jan 31,25,7.1,,,,Mar 29,43,13.6,,,,,,
+1949,,,,Jan 30,40,11.3,Feb 27,52,17.0,Mar 30,46,17.2,,,,,,
+1950,,,,Jan 29,36,9.6,,,,Mar 28,41,14.1,,,,,,
+1951,,,,Jan 28,25,6.3,,,,Mar 30,35,10.6,,,,,,
+1952,,,,Feb 03,38,10.2,,,,,,,,,,,,
+1953,,,,Jan 31,18,5.9,,,,Mar 30,32,11.1,,,,,,
+1954,,,,Jan 30,35,9.5,,,,Mar 28,31,11.0,,,,,,
+1955,,,,,,,,,,Apr 02,38,11.6,,,,,,
+1956,,,,Feb 09,33,9.6,Mar 05,52,15.5,Mar 31,40,14.0,,,,,,
+1957,,,,Jan 31,26,6.4,,,,Mar 20,31,10.4,,,,,,
+1958,,,,Jan 22,32,6.9,,,,Mar 28,28,9.0,,,,,,
+1959,,,,Jan 27,7,2.1,,,,Mar 24,19,5.5,,,,,,
+1960,,,,,,,,,,,,,,,,,,

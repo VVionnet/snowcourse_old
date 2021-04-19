@@ -1,0 +1,134 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER DHC: Dead Horse Canyon, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Dead Horse Canyon (DHC) 
+# California  SNOW COURSE/AERIAL MARKER Site - 4500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:00:30 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1945,,,,Feb 01,,9.7,Mar 01,,8.3,Mar 29,,11.9,,,,,,
+1946,Jan 02,,11.4,Jan 29,,14.0,Feb 27,,18.8,Apr 01,,15.7,,,,,,
+1947,,,,,,,,,,Apr 01,,0.0,,,,,,
+1948,,,,,,,,,,Apr 14,,13.9,,,,,,
+1949,,,,,,,,,,Apr 03,,16.5,,,,,,
+1950,,,,,,,,,,Apr 02,,13.4,,,,,,
+1951,,,,,,,,,,Apr 02,,11.7,,,,,,
+1952,,,,,,,,,,Mar 30,,40.8,,,,,,
+1953,,,,,,,,,,Mar 29,,18.2,,,,,,
+1954,,,,,,,,,,Mar 28,,18.6,,,,,,
+1955,,,,,,,,,,Mar 28,,7.0,,,,,,
+1956,,,,,,,,,,Apr 02,,24.0,,,,,,
+1957,,,,,,,,,,Mar 29,,0.0,,,,,,
+1958,,,,,,,,,,Mar 27,,14.5,,,,,,
+1959,,,,,,,,,,Apr 01,,8.2,,,,,,
+1960,,,,,,,,,,Mar 30,,2.2,,,,,,
+1961,,,,,,,,,,Mar 29,,7.3,,,,,,
+1962,,,,,,,,,,Mar 30,,20.7,,,,,,
+1963,,,,,,,,,,Apr 01,,8.3,,,,,,
+1964,,,,,,,,,,Mar 30,,10.1,,,,,,
+1965,,,,,,,,,,Mar 31,,2.5,,,,,,
+1966,,,,,,,,,,Mar 30,,22.2,,,,,,
+1967,,,,,,,,,,Mar 29,,19.1,,,,,,
+1968,,,,,,,,,,Mar 27,,14.3,,,,,,
+1969,,,,,,,,,,Apr 04,,28.4,,,,,,
+1970,,,,,,,,,,Apr 02,,0.0,,,,,,
+1971,,,,,,,,,,Mar 29,,32.5,,,,,,
+1972,,,,,,,,,,Mar 29,,0.0,,,,,,
+1973,,,,,,,,,,Mar 28,,17.0,,,,,,
+1974,,,,,,,,,,Apr 02,,17.4,,,,,,
+1975,,,,,,,,,,Mar 26,,26.3,,,,,,
+1976,,,,,,,,,,Mar 25,,1.0,,,,,,
+1977,,,,,,,,,,Mar 22,,0.0,,,,,,
+1978,,,,,,,,,,Mar 29,,1.2,,,,,,
+1979,,,,,,,,,,Mar 22,,12.0,,,,,,
+1980,,,,,,,,,,Mar 25,,6.3,,,,,,
+1981,,,,,,,,,,Mar 28,,0.0,,,,,,
+1982,,,,,,,,,,Mar 23,,6.0,,,,,,
+1983,,,,,,,,,,Mar 28,,27.9,,,,,,
+1984,,,,,,,,,,Apr 02,,4.2,,,,,,
+1985,,,,,,,,,,Apr 04,,3.3,,,,,,
+1986,,,,,,,,,,Mar 25,,0.0,,,,,,
+1987,,,,,,,,,,Mar 30,,4.0,,,,,,
+1988,,,,,,,,,,Mar 29,,0.0,,,,,,
+1989,,,,,,,,,,Mar 30,,5.1,,,,,,
+1990,,,,,,,,,,,,,,,,,,
+1991,,,,,,,,,,Mar 29,,6.9,,,,,,
+1992,,,,,,,,,,Mar 31,,0.0,,,,,,
+1993,,,,,,,,,,Mar 31,,13.6,,,,,,
+1994,,,,,,,,,,Mar 31,,1.2,,,,,,
+1995,,,,,,,,,,Mar 28,,21.6,,,,,,
+1996,,,,,,,,,,Mar 27,,7.6,,,,,,
+1997,,,,,,,,,,Mar 26,,0.0,,,,,,
+1998,,,,,,,,,,Mar 31,,22.3,,,,,,
+1999,,,,,,,,,,Apr 02,,21.5,,,,,,
+2000,,,,,,,,,,Mar 31,,15.6,,,,,,
+2001,,,,,,,,,,Mar 30,,10.5,,,,,,
+2002,,,,,,,,,,Apr 04,,13.6,,,,,,
+2003,,,,,,,,,,Mar 25,,3.3,,,,,,
+2004,,,,,,,,,,Apr 01,,14.0,,,,,,
+2005,,,,,,,,,,Mar 28,,11.9,,,,,,
+2006,,,,,,,,,,Mar 30,,30.7,,,,,,
+2007,,,,,,,,,,Apr 02,,3.1,,,,,,
+2008,,,,,,,,,,Apr 02,,26.5,,,,,,
+2009,,,,,,,,,,Mar 26,,18.6,,,,,,
+2010,,,,,,,,,,Mar 24,,20.7,,,,,,
+2011,,,,,,,,,,Mar 29,,30.0,,,,,,
+2012,,,,,,,,,,Apr 02,,13.0,,,,,,
+2013,,,,,,,,,,Mar 28,,8.0,,,,,,
+2014,,,,,,,,,,Apr 01,,1.5,,,,,,
+2015,,,,,,,,,,Mar 30,,0.0,,,,,,
+2016,,,,,,,,,,,,,,,,,,
+2017,,,,,,,,,,Mar 30,,21.0,,,,,,
+2018,,,,,,,,,,Mar 26,,6.0,,,,,,
+2019,,,,,,,,,,Mar 27,,28.0,,,,,,
+2020,,,,,,,,,,Apr 03,,0.0,,,,,,
+2021,,,,,,,Mar 30,,11.0,,,,,,,,,

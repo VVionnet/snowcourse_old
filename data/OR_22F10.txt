@@ -1,0 +1,91 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 22F10: Golden Curry Creek (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Golden Curry Creek (disc) (22F10) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 3140 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:57:43 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1950,Jan 07,47,18.0,Feb 01,62,19.7,Feb 28,34,15.5,Mar 31,38,18.0,,,,,,
+1951,Jan 03,6,0.8,Feb 01,20,7.0,Mar 01,19,2.3,Apr 02,20,7.7,,,,,,
+1952,Jan 02,28,7.8,Feb 03,37,14.7,Feb 28,47,17.8,Mar 31,50,20.6,,,,,,
+1953,Dec 30,15,5.7,Jan 30,6,2.0,Feb 27,10,2.7,Mar 31,16,5.4,,,,,,
+1954,,,,Feb 01,20,8.0,Mar 01,0,0.0,Apr 01,0,0.0,,,,,,
+1955,Jan 03,11,1.4,Feb 01,25,6.0,Mar 01,30,7.2,Apr 01,25,7.5,,,,,,
+1956,Jan 03,9,1.6,Feb 01,11,2.4,Mar 01,47,14.4,Mar 30,24,10.4,,,,,,
+1957,Jan 02,0,0.0,Jan 31,18,4.4,Feb 28,0,0.0,Apr 01,0,0.0,,,,,,
+1958,Dec 27,14,2.2,Jan 27,0,0.0,Feb 27,6,1.0,Mar 28,0,0.0,,,,,,
+1959,Dec 24,0,0.0,Jan 26,0,0.0,Feb 26,10,4.1,Mar 26,0,0.0,,,,,,
+1960,Dec 28,2,0.5,Jan 26,9,2.6,Feb 26,10,2.5,Apr 01,0,0.0,,,,,,
+1961,Dec 29,0,0.0,Jan 30,0,0.0,Mar 01,5,2.5,Mar 30,17,5.2,,,,,,
+1962,Dec 29,0,0.0,Jan 31,5,1.4,Feb 27,6,0.7,Mar 30,13,4.8,,,,,,
+1963,Jan 02,0,0.0,Jan 31,0,0.0,Feb 28,0,0.0,Apr 03,3,1.0,Apr 30,3,1.4,,,
+1964,Dec 31,0,0.0,Jan 30,26,9.0,Feb 28,30,11.8,Mar 31,41,17.4,Apr 30,26,11.8,,,
+1965,,,,Feb 01,13,6.0,Mar 01,12,5.2,Apr 01,0,0.0,Apr 30,0,0.0,,,
+1966,Dec 29,32,6.0,Feb 01,36,13.2,Mar 01,46,16.8,,,,Apr 29,0,0.0,,,
+1967,Jan 03,0,0.0,Jan 31,0,0.0,Mar 02,7,2.2,Mar 31,16,3.0,Apr 28,8,2.1,,,
+1968,Jan 02,9,2.5,Jan 31,23,4.1,Feb 29,0,0.0,Apr 01,0,0.0,Apr 30,0,0.0,,,
+1969,Jan 02,10,3.6,,,,Feb 27,42,15.0,Apr 01,25,10.6,Apr 30,0,0.0,,,
+1970,Dec 31,12,2.4,Jan 30,0,0.0,Mar 02,10,1.0,Apr 01,0,0.0,May 01,0,0.0,,,
+1971,Dec 31,22,5.8,Feb 01,18,6.0,,,,Apr 01,18,5.9,Apr 29,8,3.6,,,
+1972,Dec 29,33,9.2,Jan 31,32,9.8,Feb 29,26,9.6,Mar 30,0,0.0,Apr 28,0,0.0,,,
+1973,Dec 29,1,0.1,Jan 30,5,0.9,Feb 27,0,0.0,Mar 29,0,0.1,Apr 27,0,0.0,,,
+1974,Dec 28,0,0.0,Jan 30,0,0.1,Feb 27,20,7.2,Mar 28,0,0.1,Apr 29,0,0.0,,,
+1975,Dec 27,4,0.5,Jan 29,4,0.4,Feb 27,0,0.1,Mar 31,16,5.2,Apr 28,0,0.1,,,
+1976,Dec 29,0,0.0,Jan 30,0,0.1,Feb 27,3,0.4,Mar 30,24,5.8,Apr 26,0,0.0,,,
+1977,Dec 28,0,0.0,Jan 29,0,0.0,Feb 25,8,1.5,Mar 31,2,0.7,Apr 28,0,0.0,,,
+1978,Dec 29,0,0.0,Jan 30,0,0.0,Feb 27,0,0.0,Mar 28,0,0.0,,0,,,,
+1979,Dec 27,0,0.1,Jan 29,5,0.9,Feb 26,13,3.5,Mar 27,0,0.0,Apr 27,0,0.0,,,
+1980,Dec 26,0,0.0,Jan 30,0,0.1,Feb 27,0,0.0,Mar 27,4,1.0,Apr 29,0,0.0,,,
+1981,Dec 30,0,0.0,Jan 30,0,0.1,Feb 26,0,0.0,Mar 31,0,0.1,May 01,0,0.0,,,
+1982,Dec 30,4,1.0,Jan 28,18,5.3,Feb 25,3,0.6,Mar 31,11,1.6,Apr 30,0,0.0,,,
+1983,,,,,,,,,,,,,,,,,,

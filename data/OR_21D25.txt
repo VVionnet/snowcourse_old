@@ -1,0 +1,73 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21D25: Cooper Spur (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Cooper Spur (disc) (21D25) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 3490 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:50:56 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,Dec 30,13,3.6,Feb 01,0,0.0,,,,,,,,,,,,
+1962,Dec 29,19,7.4,Jan 30,13,6.4,Mar 06,36,10.8,,,,,,,,,
+1963,Dec 31,0,0.0,Jan 31,20,2.8,Mar 01,0,0.0,Apr 01,19,3.7,,,,,,
+1964,Dec 31,13,4.2,Jan 31,27,11.0,Feb 27,27,12.0,Apr 01,42,17.1,,,,,,
+1965,Dec 31,29,8.8,Feb 02,35,15.5,,,,,,,,,,,,
+1966,Jan 04,61,11.6,Feb 01,38,15.6,Feb 28,40,17.5,Apr 01,45,19.8,,,,,,
+1967,Jan 03,22,5.6,Feb 01,20,6.8,Feb 28,20,7.9,Mar 31,48,12.6,,,,,,
+1968,Dec 29,0,0.0,Feb 01,30,6.5,Mar 01,0,0.0,Apr 01,0,0.0,May 02,0,0.0,,,
+1969,Jan 06,38,12.4,Feb 04,79,29.3,Mar 05,72,25.8,Apr 01,58,25.7,May 05,0,0.0,,,
+1970,Jan 02,20,5.5,Feb 02,38,11.8,Mar 02,45,12.6,Mar 30,30,12.7,Apr 30,0,0.0,,,
+1971,Jan 02,41,12.3,Feb 01,30,11.2,Mar 01,50,14.3,Mar 31,62,23.0,Apr 30,35,15.7,,,
+1972,Jan 03,32,9.9,Jan 31,42,13.5,Mar 03,37,13.7,Mar 30,15,5.8,May 02,0,0.0,,,
+1973,Dec 29,2,0.2,Jan 30,18,4.2,Mar 02,16,5.5,Mar 30,12,4.7,,,,,,
+1974,Jan 03,48,12.7,Feb 01,40,14.5,Mar 04,65,20.2,Apr 03,55,21.2,May 03,25,9.7,,,
+1975,Dec 30,13,2.5,Jan 25,22,6.7,Mar 01,40,18.8,Mar 29,54,19.2,,,,,,
+1976,,,,,,,,,,,,,,,,,,

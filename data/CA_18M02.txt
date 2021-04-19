@@ -1,0 +1,78 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 18M02: Campito Mountain, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Campito Mountain (18M02) 
+# California  SNOW COURSE/AERIAL MARKER Site - 10200 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:52:37 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1959,,,,Jan 30,0,0.0,Mar 03,15,3.8,Apr 01,8,2.9,,,,,,
+1960,,,,Jan 27,1,0.1,Mar 04,2,1.2,Apr 01,0,0.0,,,,,,
+1961,,,,Jan 25,14,4.3,Feb 27,14,5.2,Mar 24,12,4.0,,,,,,
+1962,,,,Feb 01,9,2.5,Mar 01,30,9.5,Apr 02,26,11.1,,,,,,
+1963,,,,Feb 06,17,5.2,,,,Mar 27,17,5.4,,,,,,
+1964,,,,Feb 01,2,0.3,Mar 01,0,0.0,Apr 01,0,0.0,,,,,,
+1965,,,,Jan 28,6,1.8,Feb 28,5,1.1,Mar 28,5,1.1,,,,,,
+1966,,,,,,,Feb 28,12,2.7,Mar 31,0,0.0,,,,,,
+1967,,,,Feb 02,35,11.6,Feb 28,31,10.7,Mar 29,30,11.9,,,,,,
+1968,,,,Jan 31,7,2.4,Feb 29,7,1.7,Mar 31,0,0.0,,,,,,
+1969,,,,Jan 30,37,9.7,Mar 01,54,17.8,Mar 26,52,19.8,,,,,,
+1970,,,,,,,Feb 25,13,2.3,Apr 06,0,0.0,,,,,,
+1971,,,,Feb 02,0,0.0,Mar 02,8,2.6,Mar 30,0,0.0,,,,,,
+1972,,,,,,,,,,Mar 31,0,0.0,,,,,,
+1973,,,,,,,Feb 26,27,7.2,Mar 28,38,7.1,,,,,,
+1974,,,,Jan 28,12,1.9,Feb 21,10,2.8,Mar 27,21,5.0,,,,,,
+1975,,,,Jan 25,0,0.0,Feb 28,0,0.0,Mar 27,7,1.8,,,,,,
+1976,,,,,,,Feb 25,12,3.5,Mar 23,9,1.8,,,,,,
+1977,,,,Jan 27,6,0.9,Feb 25,5,1.0,Apr 02,7,1.8,,,,,,
+1978,,,,,,,,,,Mar 29,38,10.0,,,,,,
+1979,,,,,,,,,,,,,,,,,,

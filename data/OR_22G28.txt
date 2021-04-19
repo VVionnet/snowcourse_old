@@ -51,7 +51,7 @@
 # Oregon  SNOW COURSE/AERIAL MARKER Site - 5120 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:23:48 AM GMT-08:00
+# As of: Apr 19, 2021 10:52:16 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -116,4 +116,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,Jan 02,6,2.2,Feb 01,4,1.0,Mar 01,26,5.0,Apr 02,6,2.9,May 01,0,0.0,,,
 2019,Jan 02,12,3.3,Feb 01,14,5.0,Mar 04,45,13.1,Apr 01,30,12.1,May 01,0,0.0,,,
 2020,Dec 30,11,2.1,Jan 30,23,9.6,Feb 27,20,8.7,Mar 30,13,5.6,Apr 29,0,0.0,,,
-2021,Dec 30,23,5.8,Feb 01,28,9.2,Feb 25,38,14.1,,,,,,,,,
+2021,Dec 30,23,5.8,Feb 01,28,9.2,Feb 25,38,14.1,Apr 01,39,17.0,,,,,,

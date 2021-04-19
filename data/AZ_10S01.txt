@@ -1,0 +1,99 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10S01: Workman Creek (Disc.), AZ
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Workman Creek (disc.) (10S01) 
+# Arizona  SNOW COURSE/AERIAL MARKER Site - 6900 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:56:22 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1952,,,,Feb 01,0,0.0,Feb 29,0,0.0,Apr 03,12,5.9,,,,,,
+1953,,,,Jan 28,15,6.0,Feb 25,9,2.2,Apr 01,0,0.0,,,,,,
+1954,,,,Feb 03,10,4.6,Mar 03,0,0.0,Mar 31,3,1.2,,,,,,
+1955,,,,Jan 31,16,4.4,Feb 28,8,3.1,,,,,,,,,
+1956,,,,Jan 31,9,2.4,Feb 28,12,3.4,Mar 27,0,0.0,,,,,,
+1957,,,,Jan 31,18,3.0,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1958,,,,Jan 27,1,0.2,Mar 03,5,0.9,Mar 31,0,0.0,,,,,,
+1959,,,,Feb 02,1,0.4,Mar 02,5,1.9,Apr 01,0,0.0,,,,,,
+1960,,,,Jan 28,26,9.3,Feb 23,28,10.4,,,,,,,,,
+1961,,,,Jan 27,8,2.1,Feb 24,1,0.1,Mar 31,3,1.4,,,,,,
+1962,,,,Jan 30,43,13.8,Feb 27,46,12.6,Mar 30,33,14.6,,,,,,
+1963,,,,Jan 30,12,3.7,Feb 27,7,2.5,Mar 28,0,0.0,,,,,,
+1964,,,,Jan 29,12,3.5,Feb 26,10,3.1,Mar 27,12,4.1,,,,,,
+1965,,,,Jan 28,8,2.8,Feb 25,12,4.3,Mar 31,0,0.0,,,,,,
+1966,,,,Jan 26,23,7.3,Feb 24,26,8.7,Mar 31,0,0.0,,,,,,
+1967,,,,Jan 31,6,1.7,Feb 28,1,0.2,Mar 31,4,0.8,,,,,,
+1968,,,,Jan 31,45,17.9,Feb 28,33,16.6,Mar 27,26,13.3,,,,,,
+1969,,,,Jan 31,15,5.3,Feb 28,23,7.7,Mar 27,18,7.3,,,,,,
+1970,,,,Jan 27,5,1.1,Feb 25,0,0.0,Mar 30,0,0.0,,,,,,
+1971,,,,Jan 26,11,4.0,Feb 23,9,2.4,Mar 28,0,0.0,,,,,,
+1972,,,,Jan 26,3,0.9,Feb 28,0,0.0,Mar 28,0,0.0,,,,,,
+1973,,,,Jan 30,22,6.8,Feb 28,36,14.3,Mar 27,49,19.2,,,,,,
+1974,,,,Jan 30,25,8.3,Feb 27,17,6.9,Mar 29,0,0.0,,,,,,
+1975,,,,Jan 31,12,2.5,Feb 25,17,5.2,Mar 26,15,2.8,,,,,,
+1976,,,,Jan 28,16,5.4,Feb 23,16,6.6,Mar 29,0,0.0,,,,,,
+1977,,,,Feb 01,12,4.2,Feb 28,4,1.7,Mar 28,5,0.7,,,,,,
+1978,,,,Feb 01,12,4.3,Mar 01,14,5.0,Mar 31,0,0.0,,,,,,
+1979,,,,Jan 23,23,7.1,Feb 28,30,10.8,Mar 30,31,12.6,,,,,,
+1980,,,,Feb 04,13,4.3,Feb 26,17,6.4,Mar 25,12,4.6,,,,,,
+1981,Jan 06,0,0.0,Jan 26,0,0.0,Feb 24,0,0.0,Mar 31,0,0.0,,,,,,
+1982,,,,Jan 28,18,5.2,Mar 03,14,4.8,Mar 31,5,2.8,,,,,,
+1983,Jan 06,15,5.5,Feb 02,20,7.4,Mar 01,20,7.4,Mar 30,37,13.7,,,,,,
+1984,Jan 05,7,1.6,Jan 31,5,1.9,Feb 29,1,0.1,Mar 30,0,0.0,,,,,,
+1985,Dec 29,18,5.3,Jan 31,35,9.3,Feb 28,25,8.7,Apr 03,0,0.0,,,,,,
+1986,Jan 02,6,2.4,Jan 29,3,1.3,Feb 28,0,0.0,Apr 08,0,0.0,,,,,,
+1987,Dec 30,4,1.4,Feb 03,17,4.9,Feb 28,32,7.0,Apr 01,,1.0,,,,,,
+1988,Jan 01,,4.0,Jan 26,40,11.6,May 01,,3.5,Jul 01,,0.0,,,,,,
+1989,Dec 27,13,3.2,Jan 30,24,6.1,Feb 26,13,5.0,Mar 30,0,0.0,,,,,,
+1990,Dec 28,0,0.0,Mar 01,,0.5,May 01,,4.5,Jul 01,,0.0,,,,,,
+1991,Dec 31,13,3.2,Mar 01,,3.0,May 01,,7.0,Jul 01,,7.5,,,,,,
+1992,Jan 01,,4.0,Mar 01,,6.0,May 01,,4.0,Jul 01,,0.0,,,,,,
+1993,Jan 01,,2.0,Mar 01,,3.5,May 01,,6.7,Jul 01,,0.0,,,,,,

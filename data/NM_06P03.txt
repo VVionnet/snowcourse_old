@@ -1,0 +1,89 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 06P03: Sandoval, NM
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Sandoval (06P03) 
+# New Mexico  SNOW COURSE/AERIAL MARKER Site - 9100 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:52:15 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1960,,,,Jan 27,24,5.6,Feb 25,30,8.4,,,,,,,,,
+1961,,,,Jan 27,20,2.8,Feb 23,14,3.7,Mar 29,20,5.1,,,,,,
+1962,,,,Jan 30,25,6.3,Mar 01,23,6.4,Mar 30,21,6.8,,,,,,
+1963,,,,Jan 28,15,3.7,Feb 26,16,4.2,Mar 26,14,4.7,,,,,,
+1964,,,,Jan 30,5,0.9,Feb 25,16,3.2,Mar 26,14,3.4,,,,,,
+1965,,,,Jan 29,20,4.8,Feb 23,30,6.5,Mar 29,27,7.7,,,,,,
+1966,,,,Jan 26,21,4.4,Feb 24,29,6.7,Mar 29,15,4.0,,,,,,
+1967,,,,Jan 27,6,1.0,Feb 28,5,0.9,Mar 30,0,0.0,,,,,,
+1968,,,,Jan 29,20,5.0,Feb 27,21,6.4,Mar 28,25,8.0,,,,,,
+1969,,,,Jan 30,16,3.0,Feb 27,20,4.7,Mar 27,22,6.3,,,,,,
+1970,,,,Jan 29,6,1.2,Feb 25,6,1.4,Mar 31,20,3.9,,,,,,
+1971,,,,,,,,,,,,,,,,,,
+1972,Dec 28,19,5.2,Jan 28,16,5.9,Feb 29,13,5.1,Mar 30,0,0.0,,,,,,
+1973,,,,Jan 26,20,4.4,Feb 23,26,6.2,Mar 30,59,14.6,Apr 27,31,10.9,,,
+1974,,,,Jan 31,14,3.5,Feb 27,15,4.4,Mar 27,10,3.6,,,,,,
+1975,Dec 30,11,2.0,Jan 31,19,3.9,Feb 28,28,7.2,Mar 28,29,8.6,Apr 28,23,8.3,,,
+1976,Dec 30,7,1.2,Jan 29,6,1.0,Feb 27,11,2.7,Mar 31,8,2.1,,,,,,
+1977,Dec 30,5,1.0,Feb 01,13,2.6,Feb 28,14,3.6,Mar 29,13,3.8,,,,,,
+1978,,,,Jan 27,11,1.9,Feb 27,15,3.9,Mar 30,12,4.3,,,,,,
+1979,,,,Jan 25,32,8.2,Feb 23,35,9.7,Mar 27,36,11.7,,,,,,
+1980,,,,Jan 30,26,5.6,Feb 28,28,7.5,Mar 27,30,8.2,,,,,,
+1981,,,,Jan 28,8,1.8,Feb 25,4,1.1,Mar 30,17,5.0,,,,,,
+1982,,,,Jan 27,11,2.2,Feb 25,22,5.5,Mar 31,21,6.6,,,,,,
+1983,,,,Jan 27,22,5.3,Feb 24,29,7.8,Mar 31,33,9.9,,,,,,
+1984,,,,Jan 25,20,4.2,Feb 29,18,4.6,Mar 30,21,4.6,,,,,,
+1985,,,,Jan 31,31,8.0,Feb 28,34,9.6,Mar 28,32,10.1,,,,,,
+1986,,,,Jan 30,8,1.6,Feb 28,11,2.7,Mar 27,7,2.2,,,,,,
+1987,,,,Jan 29,28,6.5,Feb 26,56,11.7,Mar 31,42,12.2,,,,,,
+1988,,,,Jan 27,25,5.6,Feb 24,23,6.0,Mar 30,13,4.0,,,,,,
+1989,,,,Jan 30,24,3.1,Feb 27,23,5.0,Mar 30,7,2.0,,,,,,
+1990,,,,Jan 30,11,2.2,Feb 28,18,3.6,Mar 28,5,1.4,,,,,,
+1991,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,77 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 13B25: Bisson Creek, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Bisson Creek (13B25) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 4925 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:34:55 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1989,Dec 28,21,3.5,Jan 30,30,8.4,Feb 27,44,10.9,Mar 29,41,13.3,Apr 25,22,8.7,May 31,0,0.0
+1990,Dec 27,20,4.6,Jan 29,24,6.0,Feb 26,26,7.4,Mar 28,33,10.9,Apr 25,2,0.7,May 30,0,0.0
+1991,Dec 26,18,1.3,Jan 28,24,5.8,Feb 26,16,5.9,Apr 02,23,8.6,Apr 30,10,3.7,May 30,0,0.0
+1992,Dec 31,13,2.8,Jan 29,21,5.3,Feb 27,21,6.5,Mar 27,13,4.8,Apr 30,0,0.0,May 29,0,0.0
+1993,Dec 29,27,5.1,Jan 27,29,7.7,Feb 26,37,10.0,Mar 31,22,8.9,Apr 28,14,6.0,May 27,0,0.0
+1994,Dec 27,16,3.4,Jan 31,21,5.7,Feb 25,30,7.6,Mar 30,21,7.2,May 02,0,0.0,May 31,0,0.0
+1995,Dec 28,21,5.0,Jan 30,24,6.9,Feb 27,20,7.1,Mar 31,23,7.6,Apr 27,16,5.4,May 31,0,0.0
+1996,Dec 27,5,1.2,,,,Feb 26,28,9.0,Mar 27,29,9.4,Apr 29,17,5.8,May 30,0,0.0
+1997,,,,,,,Feb 25,55,18.0,Mar 26,53,20.1,Apr 29,39,16.5,Jun 01,0,0.0
+1998,,,,,,,Feb 22,22,6.1,Mar 27,27,9.6,Apr 28,14,5.3,May 27,0,0.0
+1999,,,,Jan 27,29,6.1,Feb 24,31,8.1,Mar 30,25,8.9,Apr 27,13,4.8,May 27,0,0.0
+2000,,,,Jan 26,27,6.3,Feb 28,35,9.0,Mar 28,36,11.3,Apr 26,12,4.8,May 31,0,0.0
+2001,,,,,,,Feb 28,34,8.8,Mar 27,29,9.1,May 01,20,7.4,May 30,0,0.0
+2002,,,,,,,Feb 26,26,6.1,Mar 29,34,9.9,Apr 29,17,5.9,May 31,0,0.0
+2003,,,,,,,Feb 26,21,5.2,Mar 26,25,8.1,Apr 29,12,3.6,,,
+2004,,,,,,,Feb 26,32,10.1,Mar 31,25,9.6,Apr 28,9,2.6,,,
+2005,,,,,,,Feb 25,11,2.9,,,,,,,,,
+2006,,,,,,,Feb 24,32,8.6,,,,,,,,,
+2007,,,,,,,,,,Mar 29,20,7.0,,,,,,
+2008,,,,,,,Feb 27,29,7.4,,,,,,,,,

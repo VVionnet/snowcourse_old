@@ -1,0 +1,68 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 06J24: Fish Creek, CO
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Fish Creek (06J24) 
+# Colorado  SNOW COURSE/AERIAL MARKER Site - 10100 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:45:38 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1965,,,,Feb 01,119,37.5,Mar 01,111,40.4,Mar 29,130,51.5,Apr 30,115,50.0,,,
+1966,Jan 05,53,17.1,Feb 02,74,21.6,Mar 01,81,26.8,Mar 30,78,30.9,Apr 28,70,31.1,,,
+1967,Dec 29,35,8.3,Feb 01,84,24.1,Feb 27,108,34.1,Apr 02,99,39.4,Apr 27,102,42.3,,,
+1968,,,,Jan 30,71,23.4,Feb 27,103,34.0,Apr 05,101,41.6,Apr 30,111,48.5,,,
+1969,Jan 03,66,18.9,Jan 29,104,28.9,Feb 28,105,36.0,Mar 26,118,40.8,Apr 22,89,42.5,,,
+1970,Dec 30,68,19.4,Jan 27,94,29.9,Feb 25,112,40.0,Mar 26,126,45.8,May 01,140,56.8,,,
+1971,Dec 30,81,20.8,Jan 28,91,31.0,Feb 24,115,38.9,Mar 30,128,48.2,Apr 28,119,54.0,,,
+1972,Dec 28,64,18.3,Feb 01,83,27.8,Mar 06,111,36.2,Mar 28,108,41.9,Apr 25,98,45.9,,,
+1973,,,,Jan 29,70,22.7,Feb 26,84,28.3,Mar 27,97,34.1,Apr 27,107,42.6,,,
+1974,,,,,,,Feb 25,111,38.3,Mar 26,121,46.6,Apr 25,131,56.7,,,
+1975,Dec 30,67,16.7,Jan 29,92,27.8,Feb 26,105,36.2,Mar 26,135,44.9,Apr 28,121,50.8,,,

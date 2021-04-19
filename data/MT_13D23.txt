@@ -1,0 +1,104 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 13D23: Palisade Creek, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Palisade Creek (13D23) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 8250 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:50:28 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,,,,,,,Jul 01,,23.5,,,,,,
+1962,,,,,,,,,,Jul 01,,29.0,,,,,,
+1963,,,,,,,,,,Jul 01,,21.0,,,,,,
+1964,,,,,,,,,,Jul 01,,30.0,,,,,,
+1965,,,,,,,,,,Jul 01,,40.0,,,,,,
+1966,,,,,,,,,,Jul 01,,19.0,,,,,,
+1967,,,,,,,,,,Apr 01,92,34.0,May 01,97,40.0,,,
+1968,,,,,,,,,,Apr 01,85,31.5,May 01,86,36.5,,,
+1969,,,,,,,,,,Mar 26,83,34.6,May 01,67,32.7,,,
+1970,,,,,,,,,,Apr 03,94,32.9,May 01,110,38.6,,,
+1971,,,,,,,,,,Apr 02,104,43.0,Apr 27,100,44.0,,,
+1972,,,,,,,,,,Mar 31,112,46.6,Apr 26,114,49.6,,,
+1973,,,,,,,Mar 02,58,19.2,Mar 30,65,22.3,May 02,63,25.0,,,
+1974,,,,,,,,,,Apr 02,115,44.1,Apr 30,94,43.5,,,
+1975,,,,,,,,,,Mar 28,84,30.0,Apr 29,107,36.8,,,
+1976,,,,,,,,,,Apr 01,91,35.4,Apr 28,96,39.0,,,
+1977,,,,,,,,,,Apr 01,54,14.3,Apr 27,30,11.6,,,
+1978,,,,,,,,,,Mar 31,76,35.2,Apr 26,77,39.5,,,
+1979,,,,,,,,,,Mar 30,80,27.6,Apr 25,86,32.8,,,
+1980,,,,,,,Feb 27,64,21.6,Mar 29,75,26.6,May 01,51,23.8,,,
+1981,,,,,,,,,,Apr 01,76,21.8,Apr 29,59,23.4,,,
+1982,,,,,,,,,,Apr 01,105,39.2,Apr 28,95,42.4,,,
+1983,,,,,,,,,,Apr 01,83,30.0,Apr 28,73,31.2,,,
+1984,,,,,,,,,,Mar 27,82,24.4,Apr 25,82,28.8,,,
+1985,,,,,,,,,,Mar 28,77,27.3,Apr 29,56,26.8,,,
+1986,,,,,,,,,,Mar 26,82,30.1,Apr 28,74,32.4,,,
+1987,,,,,,,,,,Mar 31,60,20.6,Apr 30,28,11.2,,,
+1988,,,,,,,,,,Mar 25,68,23.9,Apr 27,59,26.8,,,
+1989,,,,,,,,,,Mar 30,85,29.4,Apr 27,67,28.8,,,
+1990,,,,,,,,,,Mar 28,73,28.4,Apr 25,52,24.5,,,
+1991,,,,,,,,,,Mar 28,73,25.0,Sep 01,,29.4,,,
+1992,,,,,,,,,,Mar 31,57,22.6,,,,,,
+1993,,,,,,,,,,Mar 31,65,22.2,,,,,,
+1994,,,,,,,,,,Mar 30,54,18.4,,,,,,
+1995,,,,,,,,,,Mar 31,81,30.0,,,,,,
+1996,,,,,,,,,,Mar 29,98,41.1,,,,,,
+1997,,,,,,,,,,Apr 02,102,42.3,,,,,,
+1998,,,,,,,,,,Mar 26,74,26.4,,,,,,
+1999,,,,,,,,,,Mar 29,86,37.1,,,,,,
+2000,,,,,,,,,,Apr 03,70,28.7,,,,,,
+2001,,,,,,,,,,Mar 29,59,19.7,,,,,,
+2002,,,,,,,,,,Mar 28,85,30.4,,,,,,
+2003,,,,,,,,,,Jul 01,,31.7,,,,,,
+2004,,,,,,,,,,Mar 31,59,25.9,,,,,,
+2005,,,,,,,,,,Mar 31,48,12.8,,,,,,
+2006,,,,,,,,,,Mar 30,86,34.4,,,,,,
+2007,,,,,,,,,,Mar 29,68,25.4,,,,,,

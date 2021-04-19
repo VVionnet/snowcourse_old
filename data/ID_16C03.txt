@@ -1,0 +1,94 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 16C03: East Twin (Disc), ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# East Twin (disc) (16C03) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 4130 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:54:18 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1957,Dec 28,5,2.0,Feb 01,31,7.2,Mar 02,22,8.4,Mar 30,21,8.8,Apr 27,0,0.0,,,
+1958,Jan 04,26,8.3,Feb 01,44,13.0,Mar 01,34,13.7,Mar 29,27,12.3,May 03,0,0.0,,,
+1959,Jan 03,12,3.3,Jan 31,22,7.0,Feb 28,32,8.7,Mar 28,28,10.3,Apr 25,0,0.0,,,
+1960,Jan 02,10,2.3,Jan 30,18,4.5,Feb 27,31,9.3,Mar 26,15,5.7,Apr 30,0,0.0,,,
+1961,Dec 31,21,5.3,Feb 01,23,6.4,Feb 25,19,7.1,Apr 01,11,4.8,Apr 29,0,0.0,,,
+1962,Dec 30,31,9.9,Feb 03,29,10.5,Mar 03,38,12.3,Mar 31,44,17.1,Apr 29,0,0.0,,,
+1963,Dec 29,0,0.0,Jan 28,7,1.2,Feb 28,0,0.0,Mar 30,2,0.6,Apr 27,0,0.0,,,
+1964,Dec 30,17,4.7,Jan 31,49,15.7,Feb 28,49,19.5,Mar 28,64,26.8,May 02,28,14.6,,,
+1965,Dec 31,27,6.7,Jan 31,35,12.3,Feb 27,41,16.5,Mar 27,32,11.3,May 01,0,0.0,,,
+1966,Dec 31,18,3.6,Jan 30,42,13.2,Feb 26,44,15.7,Apr 02,30,13.0,Apr 30,0,0.0,,,
+1967,Dec 29,9,1.4,Jan 27,25,8.1,Feb 25,24,8.3,Mar 29,31,9.2,May 01,0,0.0,,,
+1968,Dec 30,7,2.0,Jan 30,17,5.0,Mar 02,0,0.0,Mar 30,0,0.0,Apr 28,0,0.0,,,
+1969,Dec 26,25,6.3,Feb 01,63,18.0,Mar 01,56,20.8,Apr 04,27,12.4,May 01,2,0.5,,,
+1970,Jan 02,13,2.8,Jan 30,30,8.8,Feb 26,30,11.0,Mar 30,17,7.5,Apr 29,13,6.0,,,
+1971,Dec 29,15,2.6,Jan 28,24,7.5,Mar 02,15,4.9,Apr 01,18,6.8,May 01,0,0.0,,,
+1972,Dec 30,44,12.0,Jan 27,55,17.8,Feb 29,51,19.2,Mar 31,14,6.8,Apr 27,0,0.0,,,
+1973,Jan 01,,1.0,Jan 30,7,1.8,Feb 27,0,0.0,Mar 30,0,0.0,Apr 27,0,0.0,,,
+1974,,,,,,,Feb 28,54,17.0,Mar 28,32,13.4,,,,,,
+1975,,,,,,,Feb 24,46,14.9,Mar 28,50,18.6,,,,,,
+1976,,,,,,,Feb 27,47,14.2,Mar 30,48,17.2,,,,,,
+1977,,,,,,,Feb 25,2,0.4,Apr 03,10,3.2,,,,,,
+1978,,,,,,,Feb 28,16,5.0,Mar 28,0,0.0,,,,,,
+1979,,,,,,,Feb 27,47,14.5,Mar 29,29,11.4,,,,,,
+1980,,,,,,,Feb 29,10,4.0,Mar 26,14,4.2,,,,,,
+1981,,,,,,,Feb 27,0,0.0,Apr 01,4,0.6,,,,,,
+1982,,,,,,,Feb 25,29,11.8,Mar 29,27,11.4,,,,,,
+1983,,,,,,,Feb 24,19,6.7,Mar 30,0,0.0,,,,,,
+1984,,,,,,,Feb 27,31,7.2,Mar 27,18,5.7,,,,,,
+1985,,,,Jan 31,38,12.9,Feb 27,50,15.8,Mar 29,50,17.4,,,,,,
+1986,,,,,,,Mar 01,31,12.0,Mar 31,6,2.7,,,,,,
+1987,,,,,,,Feb 27,24,7.3,Mar 31,4,1.4,,,,,,
+1988,,,,,,,Feb 29,16,5.7,Mar 31,16,3.7,,,,,,
+1989,,,,,,,Mar 01,46,15.7,Mar 31,36,15.6,,,,,,
+1990,,,,,,,Mar 02,24,8.1,Mar 30,16,6.4,,,,,,
+1991,,,,,,,,,,,,,,,,,,
+1992,,,,,,,Feb 27,4,1.7,,,,,,,,,
+1993,,,,,,,,,,,,,,,,,,

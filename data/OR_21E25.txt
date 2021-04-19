@@ -1,0 +1,90 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21E25: Lionshead AM, OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Lionshead Am (21E25) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 5400 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:41:13 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1974,Jan 04,33,11.3,Feb 02,30,11.4,May 01,,14.2,,,,Apr 29,36,16.2,,,
+1975,Dec 28,24,5.0,Jan 30,21,6.5,Mar 03,35,11.6,Mar 29,72,21.6,May 06,42,15.5,May 29,0,0.0
+1976,Dec 12,8,2.4,Jan 28,27,8.6,Mar 01,54,14.6,,,,Apr 30,35,12.2,,,
+1977,Jan 01,,1.2,Jan 31,0,0.0,Mar 02,14,2.8,Mar 30,27,6.2,May 02,0,0.0,,,
+1978,Jan 01,,1.2,Mar 01,,2.3,Feb 28,42,15.5,Apr 09,11,3.8,Apr 29,0,0.0,,,
+1979,Jan 01,,5.4,Jan 30,21,6.0,Mar 01,45,13.5,Apr 05,21,8.4,May 02,9,3.6,,,
+1980,Dec 28,6,1.6,Jan 29,36,11.2,Feb 29,30,6.8,Apr 02,45,14.8,May 02,8,3.2,,,
+1981,Dec 29,0,0.0,Feb 02,12,1.7,Feb 26,12,3.7,Apr 02,15,2.2,Apr 28,0,0.0,,,
+1982,Jan 01,,13.5,Jan 28,69,20.7,Feb 26,60,23.4,Apr 08,65,27.3,Apr 29,45,19.8,,,
+1983,Jan 01,,5.9,Mar 01,,4.4,Feb 28,55,20.9,Mar 31,72,28.1,Apr 28,48,21.6,,,
+1984,Jan 01,,10.2,Feb 01,24,7.2,Mar 01,36,11.2,,,,Apr 27,,16.2,,,
+1985,Jan 04,56,16.8,Mar 01,,13.6,Feb 26,60,21.0,Apr 03,47,16.4,Apr 30,17,6.6,,,
+1986,Jan 03,42,14.3,Feb 04,43,15.9,Feb 24,65,25.4,Mar 28,30,11.4,Apr 29,15,6.3,,,
+1987,Jan 06,39,8.6,Feb 03,61,19.6,Feb 24,61,20.1,Mar 24,45,16.2,Apr 28,0,0.0,,,
+1988,,,,Jan 26,16,5.1,Feb 25,30,9.9,Mar 30,42,13.9,Apr 27,0,0.0,,,
+1989,Jan 04,36,9.0,Jan 26,54,17.3,May 01,58,19.7,Mar 30,53,20.7,Apr 27,21,9.2,,,
+1990,Dec 26,0,0.0,Feb 04,44,13.2,Feb 27,48,15.8,Mar 28,40,16.0,Apr 30,0,0.0,,,
+1991,,38,,Jan 29,20,7.0,,,,Mar 27,18,5.6,Apr 29,28,12.3,,,
+1992,Jan 01,20,6.0,Jan 30,22,7.0,Mar 04,9,3.0,Apr 03,0,0.0,,,,,,
+1993,,,,Jan 25,68,22.4,Mar 02,72,25.2,Apr 01,34,15.3,Apr 29,44,23.3,,,
+1994,Dec 29,24,7.7,,,,Mar 01,48,19.2,Mar 28,42,14.7,,,,,,
+1995,Dec 21,33,10.6,Feb 02,36,12.6,Feb 23,38,17.1,Mar 30,36,15.1,,,,,,
+1996,Jan 02,12,3.0,Feb 02,86,19.8,Mar 01,63,14.5,Apr 03,39,11.3,,,,,,
+1997,,,,Mar 01,34,13.6,May 01,,17.2,,,,,,,,,
+1998,Mar 30,12,3.0,Feb 04,24,7.9,Mar 06,82,25.4,Mar 30,58,23.2,,,,,,
+1999,,,,,,,,,,,,,,,,,,
+2000,,,,,,,,,,,,,,,,,,
+2001,Jan 03,64,17.3,Jan 31,46,12.0,Feb 28,51,16.3,,,,,,,,,
+2002,,,,Feb 01,96,28.0,Feb 27,96,36.5,Apr 02,92,37.5,,,,,,
+2003,Jan 05,45,15.3,Jan 28,27,8.9,Feb 25,19,6.3,Mar 28,43,15.0,May 01,16,6.7,,,
+2004,Jan 21,61,17.1,Feb 04,97,31.0,Feb 29,93,31.6,Mar 31,69,29.0,,,,,,
+2005,,,,,,,,,,,,,,,,,,
+2006,Dec 29,58,16.8,,,,Mar 01,97,35.6,,,,May 01,36,15.1,,,

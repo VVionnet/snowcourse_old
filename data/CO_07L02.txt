@@ -1,0 +1,84 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 07L02: Blue Mesa, CO
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Blue Mesa (07L02) 
+# Colorado  SNOW COURSE/AERIAL MARKER Site - 8700 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:54:11 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1957,,,,,,,,,,Apr 01,40,13.5,May 01,27,10.3,,,
+1958,,,,,,,,,,,,,,,,,,
+1959,,,,,,,Feb 25,31,6.0,,,,May 01,1,0.4,,,
+1960,,,,,,,Feb 25,29,5.5,Mar 28,29,8.7,Apr 29,1,0.4,,,
+1961,,,,,,,Feb 25,29,5.5,Mar 28,29,8.7,Apr 28,0,0.0,,,
+1962,,,,,,,Feb 21,42,10.3,Mar 29,38,10.2,Apr 27,4,1.0,,,
+1963,,,,,,,Feb 26,20,4.9,Mar 29,20,5.5,Apr 29,0,0.0,,,
+1964,,,,,,,Feb 26,25,5.0,Mar 30,35,8.5,Apr 28,13,3.8,,,
+1965,,,,,,,Feb 26,33,7.6,Mar 29,38,9.7,Apr 29,11,3.2,,,
+1966,,,,,,,Feb 25,30,6.5,Mar 30,22,4.9,Apr 26,0,0.0,,,
+1967,,,,,,,Feb 27,22,5.8,Mar 30,9,1.2,Apr 27,0,0.0,,,
+1968,,,,,,,Feb 28,37,9.6,Mar 29,27,7.3,Apr 30,17,6.5,,,
+1969,,,,,,,Feb 27,34,9.6,Mar 28,34,10.6,Apr 29,0,0.0,,,
+1970,,,,,,,Feb 24,30,7.6,Mar 31,43,10.6,Apr 30,25,8.1,,,
+1971,,,,,,,Feb 25,23,5.5,Mar 30,17,5.1,Apr 29,0,0.0,,,
+1972,,,,,,,Feb 29,26,7.0,Mar 30,13,3.2,Apr 28,0,0.0,,,
+1973,,,,,,,Feb 28,32,7.3,Mar 29,33,7.6,Apr 27,22,6.6,,,
+1974,,,,,,,Feb 27,38,9.5,Mar 28,25,8.6,Apr 29,9,3.3,,,
+1975,,,,,,,Feb 28,35,9.4,Mar 31,44,11.7,Apr 29,30,9.7,,,
+1976,,,,,,,Feb 27,32,7.8,Mar 30,28,8.1,Apr 29,0,0.0,,,
+1977,,,,,,,Feb 28,19,3.3,Mar 31,14,3.9,Apr 29,0,0.0,,,
+1978,,,,,,,Feb 27,34,10.0,Mar 30,34,11.2,Apr 27,6,3.0,,,
+1979,,,,,,,Feb 28,39,10.8,Mar 29,37,11.0,Apr 27,15,5.2,,,
+1980,,,,,,,Feb 28,36,8.6,Mar 28,38,10.8,Apr 28,20,6.4,,,
+1981,,,,,,,Feb 27,17,3.4,Mar 31,23,5.6,Apr 27,0,0.0,,,
+1982,,,,,,,Feb 26,26,6.7,Mar 29,29,8.5,Apr 30,4,1.6,,,
+1983,,,,,,,Feb 24,22,5.2,Mar 30,34,9.1,Apr 28,23,7.4,,,

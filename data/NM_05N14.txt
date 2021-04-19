@@ -51,7 +51,7 @@
 # New Mexico  SNOW COURSE/AERIAL MARKER Site - 11250 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:22:24 AM GMT-08:00
+# As of: Apr 19, 2021 10:41:10 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -102,4 +102,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,Dec 27,5,0.6,Jan 25,14,1.6,Feb 23,35,5.9,Mar 28,31,8.3,Apr 25,10,3.7,,,
 2019,Dec 27,37,7.4,,,,Feb 26,74,18.4,Mar 27,88,27.4,Apr 24,76,28.2,,,
 2020,Dec 31,48,11.8,Jan 29,58,16.7,Feb 26,71,18.2,,,,,,,,,
-2021,Dec 31,42,8.1,Jan 27,58,12.9,Feb 23,62,15.9,,,,,,,,,
+2021,Dec 31,42,8.1,Jan 27,58,12.9,Feb 23,62,15.9,Mar 31,75,24.0,,,,,,

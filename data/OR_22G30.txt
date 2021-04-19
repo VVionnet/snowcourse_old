@@ -1,0 +1,74 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 22G30: Caliban (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Caliban (disc) (22G30) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 6500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:45:02 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1966,,,,,,,Feb 28,94,37.5,Mar 28,99,35.6,,,,,,
+1967,,,,Jan 30,84,27.5,Feb 24,79,29.0,Mar 30,112,39.0,,,,,,
+1968,,,,Feb 01,81,27.0,Mar 01,63,27.7,Mar 28,78,31.7,Apr 29,62,29.7,,,
+1969,,,,Feb 03,115,35.3,Feb 27,120,46.0,Mar 25,117,46.2,Apr 28,92,42.0,,,
+1970,,,,Jan 29,86,29.8,Mar 01,92,33.3,Mar 30,80,34.3,Apr 28,89,36.2,,,
+1971,,,,Feb 01,76,29.5,Feb 25,83,28.8,Mar 29,118,41.7,Apr 27,112,48.8,,,
+1972,,,,Jan 27,110,33.5,Feb 25,107,41.2,Mar 29,84,37.2,Apr 27,87,40.5,,,
+1973,,,,Jan 29,55,17.8,Feb 28,66,20.8,Mar 28,80,26.7,Apr 24,69,28.5,,,
+1974,,,,Jan 29,109,41.5,Feb 27,131,49.3,Mar 28,140,55.0,Apr 29,152,70.0,,,
+1975,,,,Jan 30,58,15.7,Feb 26,99,32.2,Mar 27,134,47.2,Apr 29,130,55.3,,,
+1976,,,,Jan 28,43,12.3,Feb 26,75,20.0,Mar 26,75,22.7,Apr 28,74,30.5,,,
+1977,,,,Jan 28,13,3.3,Feb 24,26,4.2,Mar 25,42,11.0,Apr 26,18,7.0,,,
+1978,,,,Jan 27,77,25.2,Feb 24,86,32.7,Mar 29,89,37.7,Apr 27,84,37.0,,,
+1979,,,,Jan 26,17,3.7,Feb 22,55,12.8,Mar 29,47,15.7,Apr 26,56,22.8,,,
+1980,,,,Jan 25,61,20.8,Feb 25,82,29.0,Mar 27,85,30.0,Apr 26,80,33.8,,,
+1981,,,,Jan 26,26,8.5,Feb 23,38,14.0,Mar 27,50,16.3,Apr 24,33,14.2,,,
+1982,,,,,,,,,,,,,,,,,,

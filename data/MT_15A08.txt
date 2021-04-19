@@ -1,0 +1,100 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 15A08: Banfield Mountain, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Banfield Mountain (15A08) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 5600 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:43:18 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1969,Jan 08,59,16.5,Feb 04,84,26.7,Feb 28,76,28.1,Mar 27,73,28.5,May 01,46,24.1,Jun 04,0,0.0
+1970,,,,,,,Mar 03,67,21.0,Mar 31,59,23.3,Apr 30,61,26.7,May 27,14,7.4
+1971,,,,Jan 20,65,21.7,Feb 25,74,26.9,Mar 30,90,33.1,Apr 29,63,29.3,May 27,16,8.5
+1972,,,,Feb 02,79,27.9,Mar 02,93,34.0,Mar 30,76,35.6,May 04,69,35.4,Jun 02,13,6.9
+1973,Jan 10,38,10.2,,,,Mar 01,49,16.7,Mar 29,49,19.0,May 03,30,14.4,May 31,0,0.0
+1974,Jan 09,47,15.1,,,,Feb 26,86,31.0,Mar 27,88,36.2,May 02,74,37.2,May 30,49,24.9
+1975,,,,,,,Feb 28,73,25.6,Mar 28,82,30.0,May 03,66,32.1,May 30,35,20.5
+1976,,,,Jan 29,46,15.8,Feb 28,86,22.6,Apr 01,80,27.4,Apr 29,59,26.3,May 24,11,5.3
+1977,,,,Jan 27,18,3.6,Feb 24,22,5.2,Apr 01,41,12.6,Apr 27,14,5.6,Jun 01,0,0.0
+1978,,,,Jan 25,54,17.2,Feb 24,50,18.7,Mar 31,38,18.6,Apr 27,34,18.6,May 30,8,4.4
+1979,,,,,,,Mar 08,53,18.0,Mar 29,55,19.5,Apr 26,49,20.0,May 31,0,0.0
+1980,Dec 26,30,6.9,Jan 28,44,13.4,Feb 25,46,16.2,Mar 25,59,16.6,Apr 27,32,14.4,Jun 05,0,0.0
+1981,Jan 02,27,9.8,Feb 03,32,10.6,Feb 24,42,14.3,Apr 02,43,15.0,Apr 27,33,13.5,May 29,0,0.0
+1982,Jan 06,40,9.8,Jan 25,53,15.4,Feb 26,64,24.2,Mar 25,77,28.4,Apr 26,75,31.8,Jun 01,31,16.3
+1983,Dec 27,44,10.0,Jan 28,50,16.7,Feb 25,55,20.3,Mar 28,59,24.0,Apr 28,53,23.8,May 25,21,12.0
+1984,Dec 28,25,5.2,Jan 26,29,6.8,Feb 27,34,9.0,Mar 30,35,11.4,Apr 25,24,8.3,May 29,0,0.0
+1985,Jan 09,47,14.7,Jan 30,43,14.4,Feb 26,58,19.7,Mar 25,60,22.1,May 01,36,17.5,Jun 01,0,0.0
+1986,Jan 01,,4.7,Jan 27,38,9.8,Mar 04,44,13.6,Mar 27,42,16.0,Apr 26,29,12.3,May 28,0,0.0
+1987,Jan 01,34,9.9,Feb 05,43,12.2,Mar 07,49,12.3,Apr 03,49,23.0,May 04,18,9.0,May 30,0,0.0
+1988,Dec 27,19,4.2,Jan 26,31,5.2,Feb 23,39,10.8,Mar 27,54,15.2,Apr 24,29,11.2,,,
+1989,Dec 28,24,5.8,Jan 31,41,12.8,Feb 24,47,14.4,Mar 25,56,19.6,Apr 26,42,16.6,,,
+1990,Dec 29,19,4.2,Feb 01,54,16.3,Feb 23,65,21.8,Mar 26,61,24.5,Apr 25,34,17.5,,,
+1991,Jan 01,,14.8,Mar 01,,19.9,May 01,,20.6,Mar 29,70,24.4,Sep 01,,25.8,,,
+1992,Jan 01,,7.9,Mar 01,,13.2,May 01,,15.3,Mar 30,33,14.0,,,,,,
+1993,,,,,,,,,,Mar 29,40,14.6,,,,,,
+1994,,,,,,,,,,Mar 29,40,14.8,,,,,,
+1995,,,,,,,,,,Mar 27,49,17.6,,,,,,
+1996,,,,,,,,,,Mar 30,57,20.5,,,,,,
+1997,,,,,,,,,,,,,,,,,,
+1998,,,,,,,,,,Mar 31,35,14.6,,,,,,
+1999,,,,,,,,,,Mar 29,84,33.2,,,,,,
+2000,,,,,,,,,,Mar 29,48,16.5,,,,,,
+2001,,,,,,,,,,Mar 27,28,9.3,,,,,,
+2002,,,,,,,,,,,,,,,,,,
+2003,,,,,,,,,,Mar 27,51,15.4,,,,,,
+2004,,,,,,,,,,Mar 25,36,13.9,,,,,,
+2005,,,,,,,,,,Mar 28,30,7.7,,,,,,
+2006,,,,,,,,,,Mar 28,49,16.5,Apr 25,35,15.6,,,
+2007,,,,,,,,,,Mar 26,36,14.7,,,,,,
+2008,,,,,,,,,,Mar 26,61,21.5,,,,,,
+2009,,,,,,,,,,Mar 27,56,19.4,,,,,,
+2010,,,,,,,,,,Mar 29,29,8.5,,,,,,
+2011,,,,,,,,,,Mar 28,64,20.5,,,,,,

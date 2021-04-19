@@ -51,7 +51,7 @@
 # Arizona  SNOW COURSE/AERIAL MARKER Site - 11200 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:13:28 AM GMT-08:00
+# As of: Apr 19, 2021 10:45:25 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -111,4 +111,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,Dec 26,1,0.2,Jan 30,11,2.4,Feb 28,33,4.6,Mar 30,23,6.6,,,,,,
 2019,,,,Jan 31,32,10.2,Feb 27,66,16.8,Mar 29,75,23.4,,,,,,
 2020,Dec 27,52,15.2,Jan 28,49,14.8,Feb 28,50,16.4,,,,,,,,,
-2021,,,,Jan 30,43,7.2,Feb 28,30,7.6,Mar 29,9,3.0,,,,,,
+2021,,,,Jan 30,43,7.2,Feb 28,30,7.6,Mar 28,58,12.8,,,,,,

@@ -51,7 +51,7 @@
 # Washington  SNOW COURSE/AERIAL MARKER Site - 3333 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:24:48 AM GMT-08:00
+# As of: Apr 19, 2021 10:37:50 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -94,4 +94,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,,,,Jan 26,20,4.8,Feb 22,24,5.3,Mar 26,14,4.2,,,,,,
 2019,,,,,,,Mar 01,24,6.0,,,,,,,,,
 2020,,,,Jan 27,26,7.0,Feb 24,26,7.6,,,,,,,,,
-2021,,,,Jan 25,15,4.2,Feb 22,22,5.4,Mar 29,0,0.1,,,,,,
+2021,,,,Jan 25,15,4.2,Feb 22,22,5.4,Mar 29,0,0.0,,,,,,

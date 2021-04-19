@@ -1,0 +1,74 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21C30: Willame Creek (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Willame Creek (disc) (21C30) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 3250 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:51:38 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,Jan 30,35,14.8,Mar 02,82,25.9,Mar 30,75,32.1,,,,,,
+1962,,,,Feb 01,55,21.1,Feb 28,62,21.0,Mar 31,84,30.9,,,,,,
+1963,,,,Jan 28,25,7.7,Feb 25,19,7.4,Mar 29,41,10.6,,,,,,
+1964,,,,Jan 29,80,24.9,Feb 26,87,29.9,Mar 25,115,43.7,,,,,,
+1965,,,,Feb 03,76,28.5,Feb 27,97,35.9,Apr 02,90,38.7,,,,,,
+1966,,,,Jan 26,70,24.6,Feb 23,78,31.3,Mar 28,103,42.2,,,,,,
+1967,Jan 05,41,9.6,Jan 31,60,22.7,Feb 28,81,30.9,Apr 01,97,38.0,,,,,,
+1968,Jan 02,21,6.3,Feb 06,41,12.6,Feb 27,28,10.3,Mar 30,23,7.9,,,,,,
+1969,Jan 02,57,14.8,Feb 03,98,27.4,Feb 26,82,31.3,Mar 27,75,32.6,,,,,,
+1970,Dec 31,21,5.7,Jan 30,50,12.7,Feb 24,48,18.0,Mar 28,35,14.4,,,,,,
+1971,Jan 01,73,17.2,Jan 27,111,38.4,Mar 01,107,42.4,Apr 01,116,54.6,,,,,,
+1972,Dec 27,78,22.0,Jan 27,132,41.8,Mar 05,122,50.0,Mar 27,103,45.0,,,,,,
+1973,Dec 29,15,4.0,Jan 29,31,9.4,Feb 27,28,10.6,Mar 30,36,13.8,,,,,,
+1974,Dec 31,75,22.6,Feb 02,106,34.4,Feb 26,118,43.6,Apr 08,120,55.6,,,,,,
+1975,Dec 31,42,11.6,Jan 27,68,22.9,Feb 24,79,28.7,Mar 27,96,36.0,,,,,,
+1976,,,,Jan 28,50,18.2,Feb 25,100,29.0,Mar 26,120,41.5,,,,,,
+1977,,,,,,,,,,,,,,,,,,

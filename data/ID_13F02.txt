@@ -51,7 +51,7 @@
 # Idaho  SNOW COURSE/AERIAL MARKER Site - 7619 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:19:36 AM GMT-08:00
+# As of: Apr 19, 2021 11:06:34 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -140,4 +140,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,Dec 29,10,2.0,Feb 01,13,3.8,Mar 05,24,5.7,Apr 03,22,7.8,,,,,,
 2019,Jan 02,6,1.0,Jan 31,13,2.2,Mar 05,42,11.4,Apr 01,39,13.5,,,,,,
 2020,Jan 06,10,1.2,Jan 27,13,2.4,Feb 28,15,3.1,Mar 30,23,5.5,,,,,,
-2021,,,,Feb 01,18,3.5,Mar 02,18,3.5,,,,,,,,,
+2021,,,,Feb 01,18,3.5,Mar 02,18,3.5,Mar 31,16,3.4,,,,,,

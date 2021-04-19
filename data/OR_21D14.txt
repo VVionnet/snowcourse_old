@@ -1,0 +1,93 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21D14: Peavine Ridge (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Peavine Ridge (disc) (21D14) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 3500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:05:24 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1937,,,,,,,,,,Mar 26,55,25.2,May 03,39,19.8,Jun 02,0,0.0
+1938,Jan 03,11,3.8,Feb 01,21,6.5,Mar 01,37,13.0,Apr 02,62,23.7,May 03,33,14.6,Jun 01,0,0.0
+1939,Jan 03,18,5.0,Feb 01,35,9.6,Mar 01,58,19.2,Apr 01,55,23.3,May 01,25,11.0,Jun 01,0,0.0
+1940,Jan 01,0,0.0,Feb 01,12,3.2,Mar 05,20,7.6,Apr 02,8,2.9,May 02,0,0.0,,,
+1941,Jan 01,7,1.4,Feb 01,15,4.5,Mar 04,13,4.3,Apr 02,0,0.0,,,,,,
+1942,Jan 05,11,1.7,Feb 04,20,6.2,Mar 04,28,8.9,Apr 02,25,9.3,,,,,,
+1943,Jan 06,54,14.8,Feb 04,79,25.5,Mar 02,75,28.2,Apr 01,79,35.5,,,,,,
+1944,Jan 01,4,1.0,Feb 03,13,3.7,Mar 01,28,7.3,Apr 03,25,9.8,,,,,,
+1945,Jan 03,7,0.8,Feb 02,15,2.7,Mar 05,26,6.8,Apr 02,32,10.4,,,,,,
+1946,Jan 02,26,9.8,Feb 05,58,16.1,Feb 28,56,19.5,Apr 01,64,24.8,,,,,,
+1947,Jan 03,11,2.5,Feb 05,31,9.3,Mar 03,23,8.5,Apr 01,20,8.7,,,,,,
+1948,Jan 06,21,5.4,Feb 03,23,6.4,Mar 02,38,13.0,Apr 01,52,19.1,,,,,,
+1949,Jan 05,67,19.4,Feb 01,66,19.1,Mar 04,88,37.9,Mar 31,86,38.7,May 04,55,28.4,,,
+1950,Jan 05,38,10.2,Feb 09,87,29.9,Mar 02,68,31.6,Apr 02,82,36.2,May 03,66,31.9,Jun 02,19,11.0
+1951,Dec 30,16,4.3,Feb 03,55,18.0,Mar 02,55,19.8,Apr 03,62,26.9,May 01,42,18.9,,,
+1952,Jan 03,48,14.0,Feb 03,60,19.5,Mar 02,67,25.2,Mar 31,67,27.8,May 02,38,18.0,,,
+1953,Jan 03,27,7.8,Jan 31,27,9.8,Feb 28,44,14.4,Mar 29,52,19.5,May 02,39,17.2,,,
+1954,Jan 01,17,5.4,Jan 30,65,19.8,Feb 27,62,22.7,Apr 04,56,24.8,May 01,38,17.8,,,
+1955,Jan 02,27,6.2,Jan 30,31,9.4,Feb 27,49,13.3,Apr 03,74,26.1,Apr 30,74,31.4,,,
+1956,Jan 03,38,10.6,Jan 27,51,14.1,Feb 27,91,24.7,Apr 02,83,34.1,Apr 30,55,25.1,,,
+1957,Dec 31,0,0.0,Jan 25,24,5.0,Mar 04,23,8.9,Apr 01,35,14.0,May 06,0,0.1,,,
+1958,Dec 30,32,9.4,Jan 31,49,12.7,Feb 28,37,12.6,Mar 31,31,13.6,Apr 30,15,6.9,,,
+1959,Dec 28,0,0.1,Jan 30,16,4.0,Feb 27,30,8.8,Mar 30,35,12.6,May 01,0,0.1,,,
+1960,Jan 02,11,2.0,Jan 29,24,7.8,Feb 29,35,12.4,Apr 01,46,19.0,Apr 29,36,16.0,,,
+1961,Dec 30,9,3.5,Jan 27,9,3.7,Feb 27,27,6.1,Mar 31,32,13.0,Apr 29,19,8.5,,,
+1962,Dec 29,24,8.9,Jan 29,23,9.0,,,,Mar 30,47,18.0,,,,,,
+1963,,,,Feb 01,7,2.1,,,,Mar 29,17,2.7,Apr 29,9,4.2,,,
+1964,Dec 29,5,1.9,Jan 31,51,16.3,Feb 28,54,19.1,Mar 30,71,27.5,May 01,56,25.0,May 29,21,10.3
+1965,,,,,,,,,,Apr 02,42,17.0,Apr 30,16,7.1,,,
+1966,Dec 28,19,3.2,Jan 31,50,19.0,Mar 01,70,25.5,Mar 31,71,29.2,Apr 29,47,22.5,,,
+1967,Jan 01,,4.3,Mar 01,,9.2,May 01,,11.8,Jul 01,,16.1,Sep 01,,12.3,,,
+1968,,,,Jan 31,29,9.5,Feb 29,22,7.6,,,,,,,,,
+1969,,,,,,,Feb 28,80,30.0,,,,Apr 25,54,25.1,May 22,7,3.6
+1970,Dec 30,19,4.3,Jan 29,26,6.6,Feb 26,27,9.6,Mar 31,22,8.6,Apr 29,25,8.2,,,
+1971,,,,Feb 01,44,17.1,,,,Apr 01,74,3.1,,,,,,
+1972,,,,,,,,,,,,,,,,,,

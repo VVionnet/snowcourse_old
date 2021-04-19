@@ -1,0 +1,88 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 09D10: Star Lake E, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Star Lake E (09D10) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 9650 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:50:45 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,,,,,,,Jul 01,,32.1,Sep 01,,39.3,,,
+1962,,,,,,,,,,Jul 01,,48.4,Sep 01,,45.7,,,
+1963,,,,,,,,,,Jul 01,,34.6,Sep 01,,43.4,,,
+1964,,,,,,,,,,Jul 01,,43.4,Sep 01,,51.9,,,
+1965,,,,,,,,,,Jul 01,,60.8,Sep 01,,66.2,,,
+1966,,,,,,,,,,Jul 01,,36.6,Sep 01,,40.2,,,
+1967,,,,,,,,,,Jul 01,,58.8,Sep 01,,63.2,,,
+1968,,,,,,,,,,Jul 01,,37.6,Sep 01,,45.4,,,
+1969,,,,,,,,,,Jul 01,,44.4,Sep 01,,44.6,,,
+1970,,,,Feb 08,109,34.0,,,,Jul 01,,45.8,May 03,118,50.5,,,
+1971,,,,,,,,,,Apr 05,157,69.0,Apr 30,155,73.0,,,
+1972,,,,,,,,,,Mar 31,159,70.0,Apr 28,168,80.5,,,
+1973,,,,,,,,,,Apr 04,91,32.0,Apr 29,106,38.0,May 30,77,36.8
+1974,,,,,,,,,,Apr 05,161,64.5,Apr 30,144,66.0,May 29,134,73.3
+1975,,,,,,,,,,Apr 11,129,44.0,May 01,134,49.5,May 30,116,58.2
+1976,,,,,,,,,,Apr 01,123,50.5,May 01,129,54.0,Jun 01,82,44.5
+1977,,,,,,,,,,Apr 05,84,27.0,May 06,43,27.0,May 21,57,28.5
+1978,,,,,,,,,,Apr 03,105,46.0,May 04,111,50.0,May 30,109,56.9
+1979,,,,,,,,,,Apr 05,115,39.0,May 03,111,46.5,May 29,84,40.0
+1980,,,,,,,,,,Apr 08,111,40.0,May 01,79,33.0,May 29,14,7.6
+1981,,,,,,,Mar 10,79,23.0,Apr 08,89,26.0,Apr 30,77,31.0,,,
+1982,,,,,,,,,,Apr 08,129,48.0,May 01,127,53.5,,,
+1983,,,,,,,,,,Mar 30,101,36.5,Apr 30,94,41.5,,,
+1984,,,,,,,,,,Mar 26,78,29.5,Apr 28,99,37.5,,,
+1985,,,,,,,,,,Apr 02,105,40.0,May 01,77,33.0,,,
+1986,,,,,,,,,,Mar 24,108,44.5,Apr 29,104,44.0,,,
+1987,,,,,,,,,,Mar 29,72,25.0,Apr 28,52,21.5,May 31,0,0.0
+1988,,,,,,,,,,Apr 01,90,30.5,Apr 29,86,35.5,Jun 02,5,2.4
+1989,,,,,,,,,,Mar 30,130,44.2,Apr 30,103,46.5,Jun 02,15,7.4
+1990,,,,,,,,,,Apr 01,97,35.9,Apr 30,93,40.9,Jun 01,2,0.8
+1991,,,,,,,,,,,,,,,,,,

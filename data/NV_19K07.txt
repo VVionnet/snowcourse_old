@@ -1,0 +1,86 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 19K07: Mount Rose Ski Area, NV
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Mount Rose Ski Area (19K07) 
+# Nevada  SNOW COURSE/AERIAL MARKER Site - 8850 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:42:52 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1970,Dec 31,53,17.0,Jan 28,114,38.2,Feb 27,136,42.1,Mar 26,103,43.9,Apr 29,107,48.2,,,
+1971,Jan 01,100,35.4,Jan 28,100,41.7,Feb 26,97,41.6,Mar 31,123,49.8,Apr 30,109,52.4,,,
+1972,Dec 29,81,19.7,Jan 28,92,25.0,Mar 01,84,32.2,Mar 29,68,30.3,Apr 26,79,35.9,,,
+1973,Dec 27,53,17.8,Jan 29,99,30.7,Feb 26,102,46.0,Mar 26,108,43.7,Apr 26,90,41.9,,,
+1974,Dec 27,73,25.2,Jan 26,87,34.6,Mar 01,118,42.4,Mar 31,130,51.2,Apr 30,119,55.0,,,
+1975,Dec 31,50,12.9,,,,Feb 28,104,37.3,Mar 26,146,51.2,May 01,129,53.3,,,
+1976,Jan 01,28,8.4,Jan 26,33,10.1,Feb 23,49,14.4,Mar 26,61,22.3,Apr 27,44,17.7,,,
+1977,Dec 28,5,1.0,Jan 30,23,6.7,Feb 24,50,10.0,Apr 02,44,15.5,Apr 26,14,5.9,,,
+1978,Dec 28,77,21.2,Jan 26,112,39.2,Feb 28,128,53.7,Mar 27,125,56.7,Apr 25,116,59.0,,,
+1979,Dec 26,33,8.0,Jan 25,62,18.2,Feb 26,106,31.8,Mar 30,109,38.3,Apr 25,91,37.8,,,
+1980,Dec 26,69,14.8,Jan 31,97,37.2,Feb 27,146,52.8,Mar 26,132,58.1,Apr 29,113,54.9,,,
+1981,Dec 31,23,7.9,Feb 02,71,18.1,Feb 25,67,21.6,Mar 31,78,28.8,Apr 30,42,19.3,,,
+1982,Dec 29,82,33.3,Jan 27,129,50.4,Mar 01,140,58.7,Apr 08,201,77.9,Apr 30,162,76.4,,,
+1983,Jan 01,111,33.4,Jan 26,124,42.2,Mar 04,178,61.3,Mar 31,201,75.6,May 01,194,83.6,,,
+1984,Dec 29,110,37.1,Jan 27,99,39.7,Mar 02,117,46.9,Apr 02,113,49.1,May 01,110,54.1,,,
+1985,Dec 27,54,19.3,Jan 29,63,21.2,Feb 26,76,28.4,Mar 25,84,31.5,Apr 29,61,27.2,,,
+1986,Jan 08,56,18.3,Jan 27,63,22.8,Feb 25,170,62.0,Mar 26,160,67.9,Apr 30,140,62.5,,,
+1987,Jan 01,,2.4,Feb 02,32,8.8,Mar 02,54,17.1,Mar 30,61,21.9,,,,,,
+1988,Jan 01,,11.1,Feb 03,60,19.7,Feb 25,49,18.0,Mar 30,42,16.8,Sep 01,,13.9,,,
+1989,Jan 01,,22.5,Feb 01,67,23.8,Mar 04,89,34.0,Mar 31,102,41.7,Sep 01,,35.5,,,
+1990,,,,Feb 02,54,14.2,Feb 26,68,21.2,Mar 30,54,21.2,,,,,,
+1991,,,,,,,,,,Mar 29,82,25.2,,,,,,
+1992,,,,,,,,,,Mar 31,61,21.4,,,,,,
+1993,,,,,,,,,,,,,,,,,,
+1994,,,,,,,,,,Mar 31,53,21.0,,,,,,
+1995,,,,,,,,,,Mar 29,183,76.2,,,,,,
+1996,,,,,,,,,,Apr 02,133,57.5,,,,,,
+1997,,,,,,,,,,Apr 01,121,58.6,,,,,,
+1998,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,86 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20B29: Mission Ridge, WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Mission Ridge (20B29) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 5000 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:36:09 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1985,,,,Feb 01,34,10.0,Mar 01,42,12.5,Mar 29,47,13.7,,,,,,
+1986,,,,Jan 31,45,12.6,Mar 01,45,15.6,Mar 28,41,14.7,,,,,,
+1987,,,,Feb 02,42,10.3,Feb 25,41,11.1,Mar 28,36,13.2,,,,,,
+1988,,,,Jan 26,39,11.4,Feb 24,41,9.6,Mar 28,36,12.2,,,,,,
+1989,,,,Jan 26,34,10.1,Mar 02,54,14.4,Mar 31,51,17.9,,,,,,
+1990,,,,Jan 30,36,7.3,Feb 27,35,11.2,Apr 01,29,11.0,,,,,,
+1991,,,,Jan 29,26,7.5,Feb 28,20,7.3,Mar 26,47,12.1,,,,,,
+1992,,,,Feb 01,29,8.7,Mar 02,38,11.6,Mar 27,28,11.1,,,,,,
+1993,,,,Jan 28,39,12.3,Feb 23,51,14.1,Mar 26,41,15.5,,,,,,
+1994,,,,Jan 26,32,10.1,Feb 25,53,13.8,Mar 31,39,13.9,,,,,,
+1995,,,,Jan 29,54,16.6,Feb 27,53,19.0,Mar 31,56,20.1,,,,,,
+1996,,,,,,,Feb 26,52,14.9,Mar 30,43,15.6,,,,,,
+1997,,,,Jan 31,55,17.6,Feb 24,57,20.1,Mar 29,58,22.3,,,,,,
+1998,,,,Jan 27,44,12.6,Feb 25,62,19.4,Mar 27,48,18.7,,,,,,
+1999,,,,Jan 27,53,16.4,Feb 26,71,23.2,Mar 29,71,28.1,,,,,,
+2000,,,,Jan 31,34,9.9,Feb 28,48,14.8,Mar 27,49,18.7,,,,,,
+2001,,,,Jan 31,27,7.6,,,,Mar 28,36,10.9,,,,,,
+2002,,,,Jan 30,41,13.3,Feb 28,42,15.7,Mar 27,50,17.4,,,,,,
+2003,,,,Jan 31,40,13.0,Feb 28,45,14.7,Mar 31,41,16.2,,,,,,
+2004,,,,Jan 30,38,10.9,Feb 26,59,16.1,Mar 29,45,15.0,,,,,,
+2005,,,,,,,Feb 25,13,3.5,Mar 30,22,4.7,,,,,,
+2006,,,,Jan 27,47,14.0,Feb 24,57,19.1,Mar 27,61,22.4,,,,,,
+2007,Dec 28,46,7.7,Feb 01,46,17.0,Mar 01,60,18.7,Mar 26,38,15.7,May 03,13,5.8,,,
+2008,,,,,,,Feb 28,50,16.3,Mar 28,52,18.7,May 05,42,15.5,,,
+2009,,,,,,7.8,,,8.7,,,13.8,,,,,,
+2010,,,,,37,10.7,,46,13.8,,44,15.2,,,,,,
+2011,,,,Jan 28,28,8.3,Feb 25,41,11.5,Apr 04,58,19.2,,,,,,
+2012,,,,,,,Feb 27,44,12.0,Mar 26,52,15.6,,,,,,
+2013,,,,,,,Feb 27,36,13.0,Mar 26,40,14.2,,,,,,

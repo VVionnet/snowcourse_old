@@ -1,0 +1,91 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 08P03: Rice Park, NM
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Rice Park (08P03) 
+# New Mexico  SNOW COURSE/AERIAL MARKER Site - 8460 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:37:43 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1982,,,,Mar 01,,4.5,May 01,,6.8,Jul 01,,2.5,,,,,,
+1983,,,,Mar 01,,5.4,Feb 22,27,7.2,Jul 01,,7.8,,,,,,
+1984,,,,Jan 26,21,4.8,Feb 22,17,5.5,Jul 01,,1.7,,,,,,
+1985,,,,Jan 30,32,4.5,Feb 26,25,7.6,Mar 27,10,3.7,,,,,,
+1986,,,,Jan 28,5,1.1,Feb 25,5,1.9,Mar 25,2,0.6,,,,,,
+1987,,,,Jan 29,19,4.8,May 01,,6.4,Mar 19,19,6.6,,,,,,
+1988,,,,Jan 28,23,5.6,Feb 22,21,6.1,Mar 31,0,0.0,,,,,,
+1989,,,,Jan 30,23,5.4,Feb 27,15,5.0,Mar 29,0,0.0,,,,,,
+1990,,,,Jan 29,7,1.6,Feb 26,7,2.1,Mar 26,0,0.0,,,,,,
+1991,,,,Jan 29,26,5.5,Feb 28,18,5.6,Mar 28,25,7.4,,,,,,
+1992,,,,Jan 28,20,4.7,Feb 27,21,5.4,Mar 26,8,2.2,,,,,,
+1993,,,,Jan 27,27,6.8,Feb 24,34,9.2,Mar 29,15,4.0,,,,,,
+1994,,,,Jan 28,6,0.6,Feb 25,15,3.8,Mar 28,1,0.2,,,,,,
+1995,,,,Jan 30,20,6.2,Feb 27,13,4.5,Mar 29,2,0.8,,,,,,
+1996,,,,Jan 30,7,1.5,Feb 28,7,1.0,Mar 27,0,0.0,,,,,,
+1997,,,,Jan 30,20,4.5,Feb 27,16,4.8,Mar 27,2,0.8,,,,,,
+1998,,,,Jan 26,18,4.1,Feb 23,24,6.0,Mar 30,20,4.5,,,,,,
+1999,,,,Jan 25,2,0.6,Feb 25,0,0.0,Mar 29,0,0.0,,,,,,
+2000,,,,Jan 27,3,0.4,Feb 25,2,0.2,Mar 29,0,0.0,,,,,,
+2001,,,,Jan 29,19,3.1,Feb 28,16,4.6,Mar 26,5,1.6,,,,,,
+2002,,,,Jan 30,16,2.8,Feb 27,6,1.8,Mar 27,0,0.0,,,,,,
+2003,,,,Jan 30,6,1.8,Feb 28,20,3.7,,,,,,,,,
+2004,,,,Jan 30,12,2.5,Feb 23,12,2.8,Mar 26,0,0.0,,,,,,
+2005,,,,Jan 31,9,2.2,Feb 28,12,3.8,Mar 31,9,2.8,,,,,,
+2006,,,,Jan 30,4,0.7,Feb 23,0,0.0,Mar 30,1,0.3,,,,,,
+2007,,,,,,,Feb 26,12,3.7,Apr 03,0,0.0,,,,,,
+2008,,,,Jan 29,21,4.0,Feb 26,26,7.0,Mar 26,3,1.4,,,,,,
+2009,,,,Jan 28,15,5.2,Feb 24,12,5.0,Mar 27,4,0.4,,,,,,
+2010,,,,Feb 02,30,7.5,Feb 25,35,8.8,Mar 24,21,7.7,,,,,,
+2011,,,,Jan 27,10,2.5,Feb 24,10,2.8,Mar 30,0,0.0,,,,,,
+2012,,,,Jan 27,15,3.6,Feb 29,16,3.8,Mar 29,0,0.0,,,,,,
+2013,,,,Feb 01,9,2.4,Feb 22,13,3.1,Mar 26,0,0.0,,,,,,
+2014,,,,Jan 28,0,0.0,Feb 25,0,0.0,Mar 27,0,0.0,,,,,,
+2015,,,,Jan 29,9,1.9,Feb 26,4,1.4,Mar 25,0,0.0,,,,,,

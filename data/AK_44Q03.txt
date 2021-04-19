@@ -1,0 +1,100 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 44Q03: Circle City, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Circle City (44Q03) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 600 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:45:21 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1965,,,,,,,Mar 09,21,3.3,Jul 01,21,3.8,,,,,,
+1966,,,,,,,Mar 10,21,2.7,Apr 07,19,3.0,,,,,,
+1967,,,,,,,Mar 08,28,4.4,Apr 09,25,5.2,,,,,,
+1968,,,,,,,Mar 04,24,4.7,Apr 02,24,4.5,,,,,,
+1969,,,,,,,Mar 05,15,2.1,Apr 03,19,2.9,,,,,,
+1970,,,,,,,Mar 05,16,2.3,Apr 03,14,2.7,,,,,,
+1971,,,,,,,Mar 06,38,6.5,Apr 03,36,7.1,,,,,,
+1972,,,,,,,Mar 02,26,5.1,Apr 05,27,5.5,,,,,,
+1973,,,,,,,Feb 28,20,3.3,Mar 28,24,4.6,,,,,,
+1974,,,,,,,Feb 26,20,2.5,Mar 27,19,2.8,,,,,,
+1975,,,,,,,Feb 26,31,6.5,Mar 27,32,6.4,,,,,,
+1976,,,,,,,Feb 26,18,2.7,Mar 29,22,4.0,,,,,,
+1977,,,,,,,Feb 27,30,3.6,Mar 30,29,5.1,,,,,,
+1978,,,,,,,Feb 28,22,3.3,Mar 29,23,4.1,,,,,,
+1979,,,,,,,Feb 27,26,4.4,Mar 27,35,5.9,,,,,,
+1980,,,,,,,Feb 26,21,3.4,Mar 27,21,3.7,,,,,,
+1981,,,,,,,May 01,17,2.8,Mar 31,20,3.3,,,,,,
+1982,,,,,,,Feb 25,26,4.1,Mar 26,26,4.4,,,,,,
+1983,,,,,,,Feb 23,25,3.6,Mar 27,25,4.2,,,,,,
+1984,,,,,,,Mar 02,25,3.2,Mar 26,25,3.8,,,,,,
+1985,,,,,,,Feb 26,28,4.0,Mar 25,28,5.0,,,,,,
+1986,,,,,,,Mar 05,22,2.3,Apr 02,20,3.0,,,,,,
+1987,,,,,,,May 01,20,2.7,Jul 01,20,3.2,,,,,,
+1988,,,,,,,Feb 29,26,3.9,Mar 29,28,4.7,,,,,,
+1989,,,,,,,May 01,21,3.5,Apr 01,21,3.5,Apr 01,21,3.5,,,
+1990,,,,,,,Mar 03,35,5.9,Mar 31,31,6.6,,,,,,
+1991,,,,,,,Feb 28,29,5.0,Apr 01,32,6.1,,,,,,
+1992,,,,,,,Feb 27,30,4.3,Mar 28,29,4.7,,,,,,
+1993,,,,,,,Feb 27,26,3.6,Mar 31,24,4.2,,,,,,
+1994,,,,,,,Feb 26,21,3.4,Mar 30,25,4.3,,,,,,
+1995,,,,,,,Mar 01,28,5.0,Mar 30,30,5.1,,,,,,
+1996,,,,,,,Mar 02,22,3.1,Mar 25,24,3.6,,,,,,
+1997,,,,,,,Feb 26,25,3.9,Mar 31,27,4.5,,,,,,
+1998,,,,,,,Feb 28,22,2.9,Mar 29,21,3.2,,,,,,
+1999,,,,,,,Feb 27,16,2.5,Mar 31,20,3.0,,,,,,
+2000,,,,,,,Mar 01,29,5.3,Mar 31,32,5.9,,,,,,
+2001,,,,,,,Feb 28,23,3.4,Mar 29,29,4.4,,,,,,
+2002,,,,,,,Mar 01,17,2.3,Mar 29,17,2.3,,,,,,
+2003,,,,,,,Feb 26,28,4.2,Mar 31,28,4.9,,,,,,
+2004,,,,,,,Mar 01,24,3.2,Mar 31,25,3.7,,,,,,
+2005,,,,,,,Feb 28,30,5.3,Apr 04,30,6.0,,,,,,
+2006,,,,,,,Feb 28,27,4.8,Mar 31,29,5.5,,,,,,
+2007,,,,,,,Feb 27,15,3.0,Mar 29,16,3.2,,,,,,

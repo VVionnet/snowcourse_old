@@ -1,0 +1,92 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 09J11: Ashley-Twin Lakes, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Ashley-twin Lakes (09J11) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 10500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:47:21 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1962,,,,,,,Mar 05,79,20.5,Apr 06,81,28.5,Apr 30,52,21.0,,,
+1963,,,,Feb 04,21,3.8,Feb 28,11,2.4,Mar 25,21,5.2,Apr 23,42,11.6,,,
+1964,,,,Feb 04,27,5.4,Feb 26,24,5.2,Mar 30,50,12.0,,,,,,
+1965,,,,Feb 03,48,13.5,Feb 25,50,14.5,,,,,,,,,
+1966,,,,,,,,,,Mar 14,58,15.4,,,,,,
+1967,,,,,,,Feb 28,46,12.9,,,,,,,,,
+1968,,,,,,,,,,,,,,,,,,
+1969,,,,,,,,,,,,,,,,,,
+1970,,,,,,,,,,Apr 01,62,16.1,May 01,72,20.9,,,
+1971,,,,,,,,,,Mar 29,50,16.5,Apr 28,62,19.2,,,
+1972,,,,,,,,,,Mar 31,53,17.5,Apr 27,67,21.4,May 26,24,9.1
+1973,,,,,,,,,,Apr 04,100,25.0,Apr 26,77,20.8,,,
+1974,,,,,,,,,,,,,Apr 29,45,14.4,,,
+1975,,,,,,,,,,,,,May 01,65,22.1,,,
+1976,,,,,,,Feb 27,49,12.7,,,,Apr 29,61,19.5,Jun 03,4,2.0
+1977,,,,Feb 08,12,2.2,Feb 28,15,2.7,Mar 30,18,3.8,May 02,3,1.2,Jun 07,0,0.0
+1978,,,,Jan 27,24,4.3,,,,Apr 12,45,15.8,May 01,56,20.2,May 25,36,14.0
+1979,,,,Feb 10,41,9.8,Mar 03,69,15.9,,,,Apr 27,51,15.3,May 25,24,12.0
+1980,,,,,,,,,,Apr 04,84,25.2,May 05,58,26.1,Jun 05,51,25.5
+1981,,,,Jan 27,24,5.5,Mar 05,44,11.9,,,,Apr 30,29,11.6,May 28,6,3.0
+1982,,,,,,,,,,Apr 10,72,21.6,May 05,60,21.0,Jun 02,24,12.0
+1983,,,,,,,Mar 03,69,17.9,Apr 07,79,22.1,,,,Jun 10,54,27.0
+1984,,,,,,,,,,Apr 06,60,16.2,May 07,67,20.1,May 31,0,0.0
+1985,,,,,,,,,,Apr 01,62,16.7,,,,,,
+1986,,,,,,,Feb 27,62,14.9,Apr 04,90,27.0,May 05,62,22.3,,,
+1987,,,,,,,Mar 04,48,10.1,Apr 02,63,13.9,Apr 29,41,11.1,,,
+1988,,,,,,,Feb 24,27,6.2,Apr 06,37,8.5,May 03,28,6.2,,0,
+1989,,,,,,,Feb 28,41,9.8,Mar 31,45,13.0,,,,Nov 01,,0.0
+1990,,,,,,,Feb 28,43,8.6,Mar 29,51,15.3,May 01,41,12.3,,,
+1991,,,,,,,Feb 26,33,6.6,Apr 03,50,12.5,Apr 30,80,21.6,,,
+1992,,,,,,,Mar 02,36,7.9,Mar 31,41,9.4,Apr 27,24,7.0,,,
+1993,,,,,,,Mar 03,65,16.9,Apr 01,63,21.4,Apr 29,60,21.0,,,
+1994,,,,,,,Feb 26,45,9.9,Mar 30,52,14.0,May 02,45,12.2,,,
+1995,,,,,,,Feb 25,62,17.4,Mar 29,81,24.3,Apr 30,85,28.0,,,
+1996,,,,,,,,,,,,,,,,,,

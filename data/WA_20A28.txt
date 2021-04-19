@@ -1,0 +1,82 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20A28: Paysayten Am (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Paysayten Am (disc) (20A28) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 4300 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:53:21 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1959,,,,Jan 29,40,12.4,Mar 02,38,13.7,Apr 04,39,14.0,,,,,,
+1960,,,,Jan 30,18,5.0,Feb 29,28,7.8,Apr 03,9,2.7,,,,,,
+1961,,,,Feb 02,36,10.8,Mar 03,42,13.0,Mar 29,38,14.4,,,,,,
+1962,,,,Feb 01,15,3.8,Mar 12,20,6.4,Mar 31,19,6.1,,,,,,
+1963,,,,,,,Feb 25,28,9.8,Mar 31,42,14.7,,,,,,
+1964,,,,Jan 28,60,15.0,Feb 27,55,16.5,Mar 27,60,23.4,,,,,,
+1965,,,,Feb 02,60,15.6,Feb 26,48,14.9,Mar 30,42,15.1,,,,,,
+1966,,,,,,,Feb 26,46,17.0,Mar 28,42,15.5,,,,,,
+1967,,,,Jan 30,54,17.8,Feb 26,65,22.1,Mar 30,60,21.0,,,,,,
+1968,,,,Jan 28,24,7.7,Feb 26,35,11.9,Mar 30,39,15.6,,,,,,
+1969,,,,Feb 01,60,19.2,Mar 03,52,18.7,Apr 03,39,16.4,,,,,,
+1970,,,,,,,Feb 26,48,16.3,Mar 30,42,14.7,,,,,,
+1971,,,,Feb 01,56,17.3,Mar 01,58,23.2,Apr 03,63,25.3,,,,,,
+1972,,,,,,,,,,Mar 30,66,27.7,,,,,,
+1973,,,,Jan 30,30,9.0,Feb 27,31,9.9,Mar 30,30,10.5,,,,,,
+1974,,,,Feb 04,68,20.4,Mar 03,66,22.4,Apr 02,55,20.4,,,,,,
+1975,,,,Jan 30,50,15.0,Feb 26,63,20.8,Mar 31,64,23.7,,,,,,
+1976,,,,Jan 30,47,15.5,Mar 01,65,20.2,Apr 01,60,18.0,,,,,,
+1977,,,,Feb 01,12,3.6,Mar 01,23,6.9,Mar 29,38,10.6,,,,,,
+1978,,,,Feb 03,32,12.5,Mar 01,54,16.2,Mar 30,24,8.2,,,,,,
+1979,,,,Jan 28,28,4.5,Feb 28,51,12.8,,,,,,,,,
+1980,,,,Jan 29,42,10.5,Feb 29,44,13.2,Mar 31,54,16.7,,,,,,
+1981,,,,Jan 30,40,12.0,Mar 02,30,9.0,Apr 02,63,16.4,,,,,,
+1982,,,,Feb 01,84,21.8,Feb 27,55,16.5,,,,,,,,,
+1983,,,,,,,,,,,,,,,,,,

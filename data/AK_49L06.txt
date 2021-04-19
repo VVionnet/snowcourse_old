@@ -1,0 +1,79 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 49L06: Fox Creek, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Fox Creek (49L06) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 1500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:39:03 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1979,Dec 27,31,4.5,Jan 31,32,7.5,Feb 25,33,8.4,Mar 29,42,11.4,,,,,,
+1980,Dec 30,32,5.8,Feb 03,49,12.2,Feb 27,57,16.2,Mar 29,54,17.1,,,,,,
+1981,Dec 30,13,1.7,Jan 29,20,4.7,Feb 26,26,6.7,Mar 30,29,9.6,Apr 30,15,4.0,,,
+1982,,,,Jan 28,28,7.0,Mar 02,24,7.6,Mar 29,26,8.4,May 04,20,6.6,,,
+1983,,,,Feb 01,30,7.7,Feb 27,34,9.0,Mar 26,31,9.0,,,,,,
+1984,,,,Mar 01,24,5.7,Feb 28,32,7.7,Apr 03,24,7.9,,,,,,
+1985,,,,,,,,,,Apr 01,36,8.4,,,,,,
+1986,,,,,,,,,,Apr 01,32,7.6,,,,,,
+1987,,,,,,,Feb 15,31,8.1,Apr 01,32,9.2,,,,,,
+1988,,,,,,,,,,,,,May 03,36,13.7,,,
+1989,,,,Feb 19,30,7.8,,,,,,,,,,,,
+1990,,,,,,,,,,,,,,,,,,
+1991,,,,,,,,,,Mar 30,34,8.0,,,,,,
+1992,,,,,,,Feb 27,45,12.0,Mar 28,47,13.3,,,,,,
+1993,,,,,,,Mar 01,39,10.6,Mar 28,39,10.8,,,,,,
+1994,,,,Mar 01,17,5.1,May 01,22,6.5,Jul 01,21,7.0,Sep 01,0,0.0,,,
+1995,,,,,,,Mar 01,37,9.2,Mar 31,40,9.8,,,,,,
+1996,,,,,,,,,,,,,,,,,,
+1997,,,,,,,,,,Mar 30,34,9.2,,,,,,
+1998,,,,,,,,,,Mar 31,31,9.2,,,,,,
+1999,,,,,,,,,,Mar 28,34,8.0,,,,,,
+2000,,,,,,,May 01,41,8.5,Apr 03,44,10.0,,,,,,

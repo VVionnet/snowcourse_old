@@ -51,7 +51,7 @@
 # Colorado  SNOW COURSE/AERIAL MARKER Site - 9720 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:19:16 AM GMT-08:00
+# As of: Apr 19, 2021 10:44:34 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -109,4 +109,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,,,,Jan 26,8,1.1,Feb 27,8,1.6,Mar 26,2,0.5,Apr 27,0,0.0,,,
 2019,,,,Jan 25,17,3.0,Feb 28,25,5.3,Mar 26,30,7.8,Apr 30,8,1.4,,,
 2020,,,,Jan 29,20,4.4,Feb 27,27,5.8,,,,,,,,,
-2021,,,,Jan 27,17,2.2,Feb 26,17,3.8,,,,,,,,,
+2021,,,,Jan 27,17,2.2,Feb 26,17,3.8,,24,5.0,,,,,,

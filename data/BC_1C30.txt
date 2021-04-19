@@ -1,0 +1,77 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 1C30: Spahomin, BC
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Spahomin (1C30) 
+# British Columbia  SNOW COURSE/AERIAL MARKER Site - 4757 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:39:09 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1979,,,,,,,,,,Mar 31,17,5.1,,,,,,
+1980,,,,Jan 28,11,2.4,Feb 27,11,2.4,Mar 27,12,3.3,May 01,0,0.0,,,
+1981,,,,Jan 30,4,0.4,Mar 02,7,1.3,Apr 01,5,1.3,Apr 27,0,0.0,,,
+1982,,,,Jan 29,21,3.7,Mar 02,17,4.3,Apr 02,20,5.1,Apr 30,6,1.6,,,
+1983,,,,Feb 01,13,2.6,Mar 01,15,3.0,Mar 30,11,3.1,May 03,0,0.0,,,
+1984,,,,Jan 28,6,1.3,Mar 01,7,1.6,Mar 30,5,1.3,Apr 29,0,0.0,,,
+1985,,,,Jan 29,15,4.2,Feb 26,19,5.0,Mar 29,22,5.8,Apr 25,0,0.0,,,
+1986,,,,Jan 31,10,2.0,Feb 27,11,2.3,Mar 27,3,1.1,May 01,0,0.0,,,
+1987,,,,Jan 27,9,2.0,Feb 26,9,2.4,Mar 27,4,1.0,Apr 28,0,0.0,,,
+1988,,,,Jan 29,9,1.9,Feb 26,9,1.8,Mar 30,5,1.4,Apr 27,0,0.0,,,
+1989,,,,Feb 06,10,2.2,Feb 27,16,3.3,Mar 28,16,4.2,Apr 28,0,0.0,,,
+1990,,,,Feb 02,9,1.3,Feb 28,9,2.2,Mar 29,3,1.1,May 01,0,0.0,,,
+1991,,,,Jan 30,22,5.6,Feb 27,14,5.0,Mar 28,17,5.4,May 01,0,0.0,,,
+1992,,,,Feb 03,6,1.6,Feb 28,6,1.4,Mar 27,2,0.4,Apr 28,0,0.0,,,
+1993,,,,Feb 01,19,4.0,Feb 26,19,4.1,Mar 30,10,3.1,Apr 29,0,0.0,,,
+1994,,,,Feb 07,6,1.7,Feb 25,16,2.9,Mar 30,3,1.0,Apr 29,0,0.0,,,
+1995,,,,Feb 08,16,3.5,Feb 24,12,3.5,Mar 29,9,3.0,Apr 28,0,0.0,,,
+1996,,,,Feb 01,15,2.9,Feb 29,12,3.1,Apr 01,6,1.6,,,,,,
+1997,,,,Jan 31,22,5.8,Feb 28,22,6.3,Mar 27,20,5.8,May 02,1,0.4,,,
+1998,,,,Feb 02,11,2.7,Feb 27,13,3.1,Mar 27,8,2.4,Apr 30,0,0.0,,,

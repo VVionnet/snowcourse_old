@@ -1,0 +1,103 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21G10: Beatty Pp&l (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Beatty Pp&l (disc) (21G10) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 4300 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:11:26 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1927,Dec 31,0,0.0,Jan 31,7,2.8,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1928,,,,,,,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1929,Dec 31,4,0.9,Jan 31,7,1.5,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1930,Dec 31,0,0.0,Jan 31,6,1.7,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1931,Dec 31,0,0.0,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1932,Dec 31,2,0.6,Jan 31,6,1.1,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,4,0.4,,,
+1933,Dec 31,3,0.6,Jan 31,18,2.2,Feb 28,11,2.6,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1934,Dec 31,0,0.0,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1935,Dec 31,2,0.2,Jan 31,2,0.4,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1936,Dec 31,1,0.1,Jan 31,2,0.6,Feb 28,0,0.0,Mar 31,3,0.2,Apr 30,0,0.0,,,
+1937,Dec 31,4,0.8,Jan 31,11,1.5,Feb 28,4,1.5,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1938,Dec 31,0,0.0,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1939,Dec 31,0,0.0,Jan 31,6,1.2,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1940,Dec 31,0,0.0,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1941,Dec 31,0,0.0,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1942,Dec 31,6,0.6,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1943,Dec 31,0,0.0,Jan 31,9,2.1,Feb 28,3,0.2,Mar 31,0,0.0,,,,,,
+1944,Dec 31,0,0.0,Jan 31,0,0.0,Feb 28,4,0.5,Mar 31,0,0.0,,,,,,
+1945,Dec 31,1,0.1,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1946,Dec 31,0,0.0,Jan 31,3,0.3,Feb 28,2,0.3,Mar 31,0,0.0,,,,,,
+1947,Dec 31,0,0.0,Jan 31,6,0.1,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1948,Dec 31,0,0.0,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1949,Dec 31,1,0.1,Jan 31,6,1.2,Feb 28,0,0.0,,,,,,,,,
+1950,Dec 31,6,1.2,Jan 31,3,0.4,Feb 28,0,0.0,,,,,,,,,
+1951,Dec 31,0,0.0,Jan 31,0,0.0,Feb 28,2,0.5,Mar 31,0,0.0,,,,,,
+1952,Dec 31,4,0.4,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1953,,,,,,,,,,,,,,,,,,
+1954,Dec 31,0,0.0,Jan 31,5,1.0,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1955,Dec 31,2,0.2,Jan 31,3,0.6,Feb 28,2,0.1,Mar 31,0,0.0,,,,,,
+1956,Dec 31,1,0.1,Jan 31,4,0.6,Feb 28,4,0.8,Mar 31,0,0.0,,,,,,
+1957,Dec 31,0,0.0,Jan 31,4,0.8,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1958,Dec 31,3,0.5,Jan 31,1,0.2,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1959,Dec 31,0,0.0,Jan 31,2,0.2,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1960,Dec 31,2,0.1,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1961,Dec 31,0,0.0,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1962,Dec 29,0,0.0,Jan 31,7,1.0,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1963,Dec 31,0,0.0,Jan 31,3,0.5,Feb 28,0,0.0,Mar 30,0,0.0,,,,,,
+1964,Dec 31,0,0.0,Jan 31,8,2.0,Feb 26,3,0.9,Mar 31,0,0.0,,,,,,
+1965,Dec 31,6,0.5,Jan 31,5,1.0,Mar 01,0,0.0,Mar 30,0,0.0,,,,,,
+1966,,,,,,,,,,,,,,,,,,
+1967,Dec 30,0,0.0,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1968,Dec 28,7,2.2,Jan 31,0,0.0,Mar 01,0,0.0,,,,,,,,,
+1969,Dec 31,5,1.5,Jan 31,8,1.8,Feb 27,6,1.8,Mar 31,0,0.0,,,,,,
+1970,Dec 31,3,0.4,Jan 30,0,0.0,Feb 27,0,0.0,,,,,,,,,
+1971,Jan 05,6,1.0,Jan 31,0,0.0,,,,,,,,,,,,
+1972,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,105 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 33J01: Long Lake, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Long Lake (33J01) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 850 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:45:23 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1965,,,,,,,Mar 03,110,36.6,Apr 01,91,34.0,Apr 30,85,41.6,,,
+1966,,,,,,,Mar 02,114,38.2,Mar 31,119,47.4,Apr 30,103,47.8,,,
+1967,,,,,,,Mar 01,168,56.4,Mar 30,150,53.8,May 01,129,58.6,,,
+1968,,,,,,,Feb 28,63,21.6,Mar 29,87,27.3,Apr 29,93,39.8,,,
+1969,,,,,,,Feb 28,104,35.6,Apr 01,109,44.8,May 01,83,36.8,,,
+1970,,,,,,,Mar 02,76,30.0,Apr 01,91,37.6,May 03,96,40.6,,,
+1971,,,,,,,Feb 25,123,38.8,Apr 05,135,52.0,Apr 28,128,55.0,,,
+1972,,,,,,,Mar 01,128,46.8,Mar 31,141,55.7,May 03,136,60.4,,,
+1973,,,,,,,Mar 06,150,45.4,Mar 30,144,58.5,Apr 30,123,58.0,,,
+1974,,,,,,,Feb 25,142,45.1,Apr 01,116,49.1,Apr 30,104,48.8,,,
+1975,,,,,,,Feb 28,146,48.5,Apr 02,156,56.7,Apr 30,141,61.8,,,
+1976,,,,,,,,,,,,,,,,,,
+1977,,,,,,,,,,,,,,,,,,
+1978,,,,,,,,,,,,,,,,,,
+1979,,,,,,,,,,,,,,,,,,
+1980,,,,,,,,,,,,,,,,,,
+1981,,,,,,,,,,,,,,,,,,
+1982,,,,,,,,,,,,,,,,,,
+1983,,,,,,,,,,,,,,,,,,
+1984,,,,,,,,,,,,,,,,,,
+1985,,,,,,,,,,,,,,,,,,
+1986,,,,,,,,,,,,,,,,,,
+1987,,,,,,,,,,,,,,,,,,
+1988,,,,,,,,,,,,,,,,,,
+1989,,,,,,,,,,,,,,,,,,
+1990,,,,,,,,,,,,,,,,,,
+1991,,,,,,,,,,,,,,,,,,
+1992,,,,,,,,,,,,,,,,,,
+1993,,,,,,,,,,,,,,,,,,
+1994,,,,,,,,,,,,,,,,,,
+1995,,,,,,,,,,,,,,,,,,
+1996,,,,,,,,,,,,,,,,,,
+1997,,,,,,,,,,,,,,,,,,
+1998,,,,,,,,,,,,,,,,,,
+1999,,,,,,,,,,,,,,,,,,
+2000,,,,,,,,,,,,,May 02,99,47.8,,,
+2001,,,,Mar 01,45,13.6,May 01,53,15.9,Jul 01,74,22.8,May 04,56,23.6,,,
+2002,,,,Mar 01,98,27.8,May 01,124,42.7,Apr 01,120,43.3,Apr 30,103,45.6,,,
+2003,,,,,,,,,,Apr 01,76,25.8,,,,,,
+2004,,,,,,,,,,,,,,,,,,
+2005,,,,,,,,,,,,,,,,,,
+2006,,,,,,,,,,,,,,,,,,
+2007,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,
+2010,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,,,,,,,May 08,100,49.0,,,

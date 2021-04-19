@@ -1,0 +1,82 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 12L12: Merchant Valley, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Merchant Valley (12L12) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 8750 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:45:06 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1966,,,,Jan 27,28,6.4,Feb 23,36,9.5,Mar 28,20,7.9,Apr 25,0,0.0,,,
+1967,,,,Jan 26,28,5.2,Feb 23,22,5.6,Mar 27,7,2.3,Apr 24,4,1.3,,,
+1968,,,,Jan 30,29,7.0,Feb 26,39,10.8,Mar 26,40,13.0,Apr 25,29,10.5,May 27,0,0.0
+1969,,,,Jan 27,46,11.3,Feb 25,58,15.2,Mar 25,55,21.8,Apr 25,24,11.5,May 25,0,0.0
+1970,,,,Jan 28,28,7.2,Feb 24,31,8.0,Mar 26,36,11.0,Apr 27,25,7.8,May 30,0,0.0
+1971,Dec 29,38,10.5,Jan 27,32,10.0,Feb 22,45,11.5,Mar 24,42,12.4,Apr 27,15,4.2,May 30,0,0.0
+1972,Dec 27,35,9.4,Jan 25,33,9.3,Feb 22,31,9.8,Mar 30,0,0.0,Apr 24,0,0.0,May 29,0,0.0
+1973,Dec 21,27,6.4,Jan 26,35,8.5,Feb 23,44,11.1,Mar 27,47,13.3,Apr 24,38,13.6,May 30,0,0.0
+1974,Dec 21,16,3.3,Jan 29,47,11.5,Feb 25,43,13.0,Mar 26,17,6.5,Apr 25,8,3.2,May 28,0,0.0
+1975,Dec 20,16,3.4,Jan 28,30,5.7,Feb 24,34,8.6,Mar 24,46,11.9,Apr 23,45,15.1,Jun 02,0,0.0
+1976,Dec 31,17,3.2,Jan 30,20,4.3,Feb 27,31,7.9,Mar 31,34,10.4,Apr 30,10,3.4,May 28,0,0.0
+1977,Dec 30,7,1.4,Jan 25,18,3.5,Feb 28,18,3.8,Mar 29,20,5.7,Apr 25,0,0.0,Jun 02,0,0.0
+1978,Dec 31,18,3.6,Jan 27,38,9.2,Feb 24,45,13.4,Mar 27,55,22.6,Apr 28,29,13.2,May 23,0,0.0
+1979,Dec 26,29,7.0,Jan 29,46,11.2,Feb 26,62,20.0,Mar 26,51,17.4,Apr 30,37,15.8,May 29,0,0.0
+1980,Dec 27,19,3.5,Jan 31,41,9.8,Feb 26,58,17.9,Mar 25,68,20.0,Apr 30,35,14.1,May 27,17,7.0
+1981,Dec 27,13,2.3,Jan 26,17,2.8,Feb 24,16,4.1,Mar 25,24,7.2,Apr 24,0,0.0,May 28,0,0.0
+1982,,,,Jan 26,34,8.9,Feb 23,37,10.6,Mar 26,42,15.2,Apr 26,19,7.3,May 25,0,0.0
+1983,Dec 31,39,9.8,Jan 31,47,12.6,Feb 25,53,14.9,Mar 30,61,21.7,Apr 27,51,20.7,May 26,38,17.5
+1984,Jan 03,46,13.9,Jan 27,44,14.1,Feb 24,49,16.3,Mar 25,53,18.2,Apr 28,45,18.0,May 25,0,0.0
+1985,Jan 03,31,7.9,Jan 31,40,8.8,Feb 22,43,11.4,Mar 26,40,11.6,Apr 24,28,10.3,May 28,0,0.0
+1986,Dec 31,38,9.6,Mar 01,,10.5,Feb 22,47,13.3,Mar 24,49,16.2,Apr 23,38,15.7,Jun 01,0,0.0
+1987,Dec 26,6,1.0,Mar 01,,1.9,Feb 22,24,6.4,Mar 26,32,8.1,Apr 23,8,2.7,Nov 01,0,0.0
+1988,Jan 01,34,4.4,Mar 01,,8.9,Feb 22,35,9.2,Mar 26,33,9.8,Apr 26,22,6.9,Nov 01,,0.7
+1989,Dec 27,32,5.5,Mar 01,,7.5,Feb 23,37,9.3,Mar 27,30,9.8,Apr 27,5,0.7,Nov 01,,0.0
+1990,,,,,,,,,,,,,,,,,,

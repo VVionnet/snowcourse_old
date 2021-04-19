@@ -1,0 +1,95 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20H09: Mt Bidwell, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Mt Bidwell (20H09) 
+# California  SNOW COURSE/AERIAL MARKER Site - 7200 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:42:44 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1970,,,,,,,,,,Mar 31,55,25.0,,,,,,
+1971,,,,,,,,,,Mar 30,85,34.3,,,,,,
+1972,,,,,,,,,,Mar 28,76,34.2,,,,,,
+1973,,,,,,,,,,Mar 28,71,25.8,,,,,,
+1974,,,,,,,Feb 28,59,19.6,Mar 27,64,25.6,,,,,,
+1975,,,,,,,,,,Mar 26,93,32.3,,,,,,
+1976,,,,,,,Mar 03,81,23.0,Mar 25,61,23.6,,,,,,
+1977,,,,,,,Feb 24,14,3.4,Mar 23,21,6.9,,,,,,
+1978,,,,,,,Feb 24,63,23.3,Mar 28,59,25.8,Apr 27,71,31.3,,,
+1979,,,,,,,Feb 22,62,18.6,Mar 28,58,21.7,,,,,,
+1980,,,,,,,Feb 27,81,29.9,Mar 28,87,37.7,,,,,,
+1981,,,,,,,Feb 23,36,13.4,Mar 27,60,19.8,,,,,,
+1982,,,,,,,Feb 24,53,20.7,Mar 24,64,26.6,,,,,,
+1983,,,,,,,Feb 24,72,28.7,Mar 24,97,37.6,,,,,,
+1984,,,,,,,,,,Mar 29,85,34.2,,,,,,
+1985,,,,,,,,,,Mar 28,77,28.6,,,,,,
+1986,,,,,,,,,,Mar 28,64,29.9,,,,,,
+1987,,,,,,,,,,Mar 30,54,20.9,,,,,,
+1988,,,,Jan 28,42,13.9,,,,Mar 30,36,16.1,,,,,,
+1989,,,,Jan 30,60,22.0,,,,Mar 30,76,31.9,,,,,,
+1990,,,,Jan 30,31,9.9,,,,Mar 29,37,14.3,,,,,,
+1991,,,,Jan 31,19,5.9,,,,Mar 28,55,17.1,,,,,,
+1992,,,,Jan 29,21,6.4,,,,Mar 31,28,10.1,,,,,,
+1993,,,,Jan 28,70,23.3,,,,Mar 30,74,33.4,,,,,,
+1994,,,,Jan 31,24,7.4,,,,Mar 30,35,12.8,,,,,,
+1995,,,,Jan 30,68,24.9,,,,Mar 30,74,31.0,,,,,,
+1996,,,,Jan 30,72,20.9,,,,Mar 28,71,27.0,,,,,,
+1997,,,,Jan 29,71,25.3,,,,Mar 28,64,25.6,,,,,,
+1998,,,,Jan 30,61,21.2,,,,Mar 30,83,34.4,,,,,,
+1999,,,,Jan 28,64,20.8,,,,Mar 31,93,32.8,,,,,,
+2000,,,,Jan 27,60,16.4,,,,Mar 29,66,26.3,,,,,,
+2001,,,,Jan 30,32,10.2,,,,Mar 27,34,13.1,,,,,,
+2002,,,,,,,,,,,,,,,,,,
+2003,,,,,,,,,,,,,,,,,,
+2004,,,,,,,,,,,,,,,,,,
+2005,,,,,,,,,,,,,,,,,,
+2006,Jan 01,,19.6,Feb 01,,27.6,Mar 01,,35.2,Apr 01,,49.6,May 01,,57.3,Jun 01,,24.5
+2007,,,,,,,,,,,,,,,,,,

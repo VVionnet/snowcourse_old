@@ -1,0 +1,85 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 07E31: Five Springs Falls, WY
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Five Springs Falls (07E31) 
+# Wyoming  SNOW COURSE/AERIAL MARKER Site - 7620 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:55:01 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1956,,,,Jan 31,20,4.6,Feb 29,20,4.4,Mar 04,21,6.8,May 03,13,4.6,,,
+1957,,,,Jan 30,14,2.6,Feb 28,15,3.2,Apr 01,19,4.4,May 01,18,5.6,,,
+1958,,,,Feb 03,13,2.4,Mar 03,20,4.6,Mar 31,21,5.6,Apr 30,26,7.2,,,
+1959,,,,Jan 30,33,8.5,Feb 27,38,10.8,Mar 31,20,6.5,Apr 30,33,12.0,,,
+1960,,,,Jan 29,14,3.2,Mar 01,25,5.4,Apr 01,20,5.4,Apr 29,9,2.9,,,
+1961,,,,Jan 31,13,3.2,Mar 01,16,3.8,Mar 30,19,5.4,Apr 28,26,7.8,,,
+1962,,,,Jan 31,19,4.2,Feb 27,23,5.2,Mar 30,23,6.0,Apr 30,8,2.0,,,
+1963,,,,Feb 05,32,7.8,Feb 26,31,9.2,Mar 28,27,8.0,Apr 29,32,11.0,,,
+1964,,,,Jan 31,18,4.0,Feb 28,35,8.2,Mar 31,33,10.0,May 01,33,11.0,,,
+1965,,,,Feb 01,39,9.6,Feb 26,35,10.6,Mar 31,39,12.0,Apr 30,29,9.0,,,
+1966,,,,Jan 28,10,2.0,Feb 28,14,3.4,Apr 01,10,2.6,May 02,5,2.0,,,
+1967,,,,Feb 02,18,4.7,Mar 01,27,8.2,Mar 31,30,9.6,May 01,35,11.0,,,
+1968,,,,Feb 01,26,7.0,Feb 28,33,8.8,Apr 01,26,8.2,May 02,20,6.8,,,
+1969,,,,Jan 31,22,5.8,Feb 28,23,6.2,Mar 28,26,7.0,Apr 30,13,3.6,,,
+1970,,,,Jan 30,28,8.2,Feb 27,32,10.0,Mar 30,42,12.8,Apr 30,53,15.2,,,
+1971,,,,Feb 01,21,5.1,Feb 26,39,9.8,Mar 31,37,10.8,Apr 30,27,9.0,,,
+1972,,,,Jan 28,24,5.8,Feb 29,26,6.8,Mar 30,34,8.0,Apr 28,19,6.4,,,
+1973,,,,Jan 30,15,3.2,Feb 28,15,3.8,Mar 30,25,4.8,Apr 30,34,9.8,,,
+1974,,,,Jan 31,12,3.4,Feb 27,12,3.4,Mar 29,16,5.0,Apr 30,8,2.6,,,
+1975,,,,Jan 30,25,5.6,Feb 27,26,6.6,Mar 28,34,8.2,Apr 30,51,10.8,,,
+1976,,,,Jan 30,22,5.8,Feb 26,22,6.0,Mar 31,29,8.0,Apr 29,21,6.0,,,
+1977,,,,Jan 28,28,7.1,Feb 28,31,8.3,Mar 31,42,11.4,Apr 28,28,10.8,,,
+1978,,,,Jan 31,33,7.6,Feb 28,42,10.5,Mar 31,27,8.7,Apr 28,22,8.9,,,
+1979,,,,Jan 30,21,2.2,Feb 28,26,5.9,Mar 30,24,5.7,Apr 30,12,2.9,,,
+1980,,,,Jan 31,13,2.5,Feb 28,15,3.1,Mar 28,23,5.2,Apr 30,2,0.5,,,
+1981,,,,Jan 30,8,0.9,Mar 02,9,2.2,Mar 30,10,2.6,Apr 30,0,0.0,,,
+1982,,,,Jan 29,17,3.7,Feb 26,19,4.0,Mar 31,26,6.0,Apr 30,18,4.4,,,
+1983,,,,Jan 31,17,3.4,Feb 28,17,3.5,Mar 31,18,4.6,Apr 29,9,1.7,,,

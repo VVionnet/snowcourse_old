@@ -1,0 +1,78 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21C22: Blue Lake Am (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Blue Lake Am (disc) (21C22) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 4800 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:53:09 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1959,Jan 04,30,10.0,Jan 30,120,48.7,Mar 04,162,58.3,Apr 02,181,76.4,May 06,157,81.6,,,
+1960,Dec 28,48,13.4,,,,Feb 27,108,40.6,Apr 03,150,61.5,May 05,159,76.3,,,
+1961,Dec 29,88,26.4,,,,Mar 07,204,77.5,Apr 01,204,100.0,,,,,,
+1962,Dec 31,95,36.1,Jan 29,99,39.6,Feb 27,136,61.2,Mar 30,190,78.0,Apr 30,159,69.9,,,
+1963,Jan 04,66,24.4,Feb 05,56,26.4,Mar 04,66,26.2,Apr 02,138,44.1,May 08,145,65.2,,,
+1964,Jan 11,118,34.2,Feb 02,192,69.1,Feb 26,187,71.1,Mar 28,235,84.5,Apr 28,214,92.0,,,
+1965,,,,Feb 02,157,62.8,Mar 01,177,74.3,Mar 30,163,78.1,May 02,136,70.7,,,
+1966,Jan 07,164,41.0,Jan 28,155,57.3,Mar 02,182,67.4,,,,,,,,,
+1967,Jan 01,104,36.4,Jan 30,168,64.0,Mar 03,197,73.0,Apr 01,235,89.3,May 04,235,106.0,,,
+1968,Dec 30,64,24.3,Feb 05,136,53.0,Feb 26,114,50.2,Mar 30,152,62.3,Apr 29,146,61.3,,,
+1969,Jan 02,147,44.1,Feb 06,214,67.5,Feb 24,220,88.0,Mar 27,204,89.8,Apr 26,196,98.0,,,
+1970,Dec 28,96,25.0,Jan 29,152,53.2,Feb 24,175,76.6,Mar 27,164,78.7,Apr 28,205,86.4,,,
+1971,Jan 02,180,57.6,Jan 27,236,85.0,Mar 01,238,90.4,Apr 01,300,130.0,Apr 29,282,141.0,,,
+1972,Dec 27,170,51.0,Jan 27,250,92.5,Mar 07,264,118.8,Mar 28,260,130.0,Apr 26,288,144.0,,,
+1973,Jan 03,88,25.5,Jan 29,108,34.6,Feb 24,104,38.5,Mar 28,132,50.2,Apr 26,114,53.5,,,
+1974,Dec 31,167,55.1,Feb 03,216,77.8,Feb 24,254,96.5,Mar 29,300,132.0,Apr 29,292,146.0,,,
+1975,Dec 27,90,27.9,Jan 27,138,51.1,Feb 24,194,75.7,Mar 27,248,99.2,Apr 28,244,104.9,,,
+1976,Dec 31,82,28.7,Jan 26,140,53.2,Mar 01,242,75.0,Mar 29,266,95.8,Apr 26,237,106.5,,,
+1977,Dec 27,20,8.0,Jan 26,22,7.7,Feb 23,42,10.5,Mar 29,130,41.6,Apr 25,85,39.1,,,
+1978,Dec 27,94,32.0,Jan 27,136,49.0,Feb 27,164,60.7,Mar 27,158,69.5,Apr 25,180,82.2,,,
+1979,,,,,,,,,,,,,,,,,,

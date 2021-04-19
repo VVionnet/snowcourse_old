@@ -1,0 +1,105 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 13A26: Pike Creek, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Pike Creek (13A26) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 5930 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:50:31 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,,,,,,,Jul 01,,25.1,,,,,,
+1962,,,,,,,,,,Jul 01,,28.7,,,,,,
+1963,,,,,,,,,,Jul 01,,15.8,,,,,,
+1964,,,,,,,,,,Jul 01,,24.9,,,,,,
+1965,,,,,,,,,,Jul 01,,41.3,,,,,,
+1966,,,,,,,,,,Jul 01,,29.3,,,,,,
+1967,,,,,,,,,,Jul 01,,37.6,,,,,,
+1968,,,,,,,,,,Jul 01,,20.6,,,,,,
+1969,,,,,,,,,,Jul 01,,26.7,,,,,,
+1970,,,,,,,,,,Jul 01,,31.8,,,,,,
+1971,,,,,,,,,,Jul 01,,46.1,,,,,,
+1972,,,,,,,,,,Jul 01,,46.6,,,,,,
+1973,,,,,,,,,,Jul 01,,18.0,,,,,,
+1974,,,,,,,,,,Jul 01,,29.2,,,,,,
+1975,,,,,,,,,,Jul 01,,31.3,,,,,,
+1976,,,,,,,,,,Jul 01,,27.6,,,,,,
+1977,,,,Jan 23,28,7.7,,,,Apr 08,42,15.2,,,,,,
+1978,,,,,,,,,,Mar 26,63,28.0,,,,,,
+1979,,,,,,,,,,Mar 21,67,27.6,,,,,,
+1980,,,,,,,,,,Mar 23,70,22.4,,,,,,
+1981,,,,,,,Feb 22,49,16.0,Jul 01,,17.5,,,,,,
+1982,Dec 28,35,8.8,,,,,,,Mar 21,94,33.9,,,,,,
+1983,Dec 30,45,11.0,,,,,,,Mar 29,58,22.2,,,,May 26,22,11.6
+1984,Dec 27,32,6.6,,,,,,,Mar 26,49,15.6,,,,May 30,9,3.6
+1985,Dec 26,64,16.8,,,,,,,Mar 21,73,26.6,Apr 30,62,28.0,May 28,0,0.0
+1986,Dec 23,29,8.2,,,,,,,Mar 24,49,19.0,,,,May 27,0,0.0
+1987,Dec 29,35,12.4,,,,,,,Mar 25,60,23.2,,,,May 26,0,0.0
+1988,Dec 28,22,5.0,,,,,,,Mar 31,60,19.0,,,,May 31,0,0.0
+1989,Dec 27,29,7.6,,,,,,,Mar 28,68,23.2,,,,Jun 01,28,13.1
+1990,,,,,,,,,,Mar 30,75,28.2,,,,,,
+1991,,,,,,,,,,Apr 04,76,30.1,,,,,,
+1992,,,,,,,,,,Mar 30,43,17.5,,,,,,
+1993,,,,,,,,,,Apr 01,49,18.7,,,,,,
+1994,,,,,,,,,,Mar 31,54,20.8,,,,,,
+1995,,,,,,,,,,Mar 27,50,17.9,,,,,,
+1996,,,,,,,,,,Mar 26,72,25.0,,,,,,
+1997,,,,,,,,,,Mar 25,97,38.2,,,,,,
+1998,,,,,,,,,,Mar 31,44,15.8,,,,,,
+1999,,,,,,,,,,Mar 29,77,29.3,,,,,,
+2000,,,,,,,,,,Mar 30,60,21.5,,,,,,
+2001,,,,,,,,,,Mar 28,42,12.5,,,,,,
+2002,,,,,,,,,,Mar 28,86,29.7,,,,,,
+2003,,,,,,,,,,Mar 25,60,19.6,,,,,,
+2004,,,,,,,,,,Apr 01,49,19.0,,,,,,
+2005,,,,,,,,,,Mar 29,46,12.9,,,,,,
+2006,,,,,,,,,,Mar 29,66,25.4,,,,,,
+2007,,,,,,,,,,Mar 28,45,19.7,,,,,,
+2008,,,,,,,Mar 07,74,27.8,,,,,,,,,

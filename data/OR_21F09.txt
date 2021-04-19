@@ -1,0 +1,83 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21F09: Crescent Lake (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Crescent Lake (disc) (21F09) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 4760 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:07:59 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1935,,,,Feb 10,31,12.5,,,,Apr 01,42,16.8,,,,,,
+1936,,,,,,,,,,Mar 31,26,9.4,,,,,,
+1937,,,,Feb 06,51,11.0,,,,Mar 29,22,9.5,,,,,,
+1938,,,,Jan 31,13,3.1,,,,Mar 25,48,16.8,,,,,,
+1939,,,,Feb 01,25,6.5,,,,Mar 27,21,12.9,,,,,,
+1940,,,,Jan 29,17,4.2,,,,Mar 31,0,0.0,,,,,,
+1941,,,,Jan 28,29,7.8,,,,Mar 26,0,0.0,,,,,,
+1942,,,,Jan 29,12,5.0,,,,Apr 07,0,0.0,,,,,,
+1943,,,,Feb 03,64,19.0,,,,Mar 30,0,0.0,,,,,,
+1944,,,,Jan 30,12,3.2,,,,Mar 30,0,0.0,,,,,,
+1945,,,,Feb 01,6,1.9,Mar 02,0,0.0,Apr 03,0,0.0,,,,,,
+1946,,,,Feb 08,64,19.2,,,,Mar 26,41,19.5,,,,,,
+1947,,,,Feb 04,13,4.2,,,,Mar 27,0,0.0,,,,,,
+1948,,,,Jan 28,11,4.9,Mar 01,18,8.2,Mar 25,26,12.0,,,,,,
+1949,,,,Jan 31,46,15.0,Mar 01,50,17.5,Mar 28,42,18.0,,,,,,
+1950,Jan 06,22,5.4,,,,,,,Mar 30,43,20.5,May 02,28,13.0,,,
+1951,,,,Feb 01,45,14.0,,,,Mar 27,59,24.8,May 01,0,0.0,,,
+1952,,,,,,,Feb 26,65,24.2,Mar 21,68,25.7,May 01,0,0.0,,,
+1953,,,,Jan 29,36,13.6,Feb 23,42,15.7,Mar 23,40,14.5,Apr 29,0,0.0,,,
+1954,,,,Feb 01,46,15.0,Feb 28,43,17.7,Apr 05,28,13.3,May 01,0,0.0,,,
+1955,,,,Jan 31,32,10.0,Feb 23,30,11.0,Mar 29,34,13.2,Apr 26,23,9.2,,,
+1956,,,,Feb 04,42,14.6,Mar 03,68,23.7,Mar 22,56,22.8,May 01,0,0.0,,,
+1957,,,,Jan 31,20,5.1,Feb 28,14,6.0,Mar 27,15,6.7,Apr 30,0,0.0,,,
+1958,,,,Feb 03,42,15.1,Feb 25,43,17.6,Mar 27,37,17.7,Apr 28,0,0.0,,,
+1959,,,,Jan 20,8,2.4,,,,Mar 19,9,3.8,Apr 23,0,0.0,,,
+1960,,,,,,,,,,,,,,,,,,

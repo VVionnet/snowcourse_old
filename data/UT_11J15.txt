@@ -1,0 +1,126 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11J15: Parleys Canyon Summit, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Parleys Canyon Summit (11J15) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 7500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:08:20 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1934,,,,,,,,,,Mar 28,16,5.5,,,,,,
+1935,,,,,,,,,,Mar 28,45,15.9,,,,,,
+1936,,,,Jan 29,59,14.9,Feb 26,90,25.2,Mar 28,66,26.3,,,,,,
+1937,,,,,,,Feb 26,61,18.8,Mar 27,61,20.4,,,,,,
+1938,,,,Jan 31,34,8.3,Feb 27,39,10.6,Mar 30,57,18.6,,,,,,
+1939,,,,,,,,,,Mar 30,42,15.9,,,,,,
+1940,,,,,,,,,,Mar 27,41,14.8,,,,,,
+1941,,,,,,,,,,Mar 29,46,17.3,,,,,,
+1942,,,,,,,,,,Mar 25,59,19.6,,,,,,
+1943,,,,,,,,,,Mar 27,58,22.3,,,,,,
+1944,,,,,,,,,,Mar 30,52,16.4,,,,,,
+1945,,,,,,,,,,Mar 29,48,14.9,,,,,,
+1946,,,,,,,,,,Mar 29,48,18.2,,,,,,
+1947,,,,,,,,,,Mar 29,39,15.3,,,,,,
+1948,,,,,,,,,,Apr 02,64,20.6,,,,,,
+1949,,,,,,,,,,Mar 28,73,25.5,,,,,,
+1950,,,,,,,,,,Mar 31,63,22.6,,,,,,
+1951,,,,,,,Feb 28,54,16.9,Mar 30,52,18.7,Apr 28,7,3.0,,,
+1952,,,,,,,Feb 26,70,25.4,Mar 26,90,32.3,Apr 28,43,23.1,,,
+1953,,,,Jan 30,42,12.5,Feb 27,46,15.3,Mar 31,50,19.1,May 04,34,16.6,,,
+1954,Jan 06,23,5.9,Feb 03,32,9.5,Mar 04,36,10.7,Mar 30,51,13.9,Apr 30,0,0.0,,,
+1955,Dec 30,20,4.4,Jan 31,37,9.9,Feb 28,52,14.6,Mar 31,50,16.7,Apr 29,30,12.6,,,
+1956,Dec 30,24,8.1,Feb 01,43,13.0,Feb 27,59,17.1,Mar 30,39,15.7,May 01,7,3.1,,,
+1957,Dec 28,30,8.5,Jan 30,50,12.6,Feb 27,54,15.4,Apr 01,62,20.9,Apr 29,44,18.3,,,
+1958,Jan 02,38,10.1,Jan 31,55,13.6,Feb 28,71,19.3,Apr 01,65,23.0,May 02,45,20.1,,,
+1959,Dec 29,15,2.9,Jan 29,37,8.2,Feb 27,46,13.3,Mar 27,41,14.1,Apr 29,14,5.6,,,
+1960,Dec 29,14,2.1,Jan 28,24,5.1,Feb 25,52,12.4,Mar 24,43,15.7,Apr 27,12,4.9,,,
+1961,Dec 29,23,6.0,Jan 28,21,5.7,Feb 27,37,9.3,Mar 29,43,14.9,Apr 28,16,5.9,,,
+1962,Dec 28,33,8.7,Jan 27,44,12.1,Feb 24,58,15.0,Mar 31,54,20.1,Apr 28,13,5.0,,,
+1963,Dec 28,12,2.1,Jan 28,22,4.6,Feb 27,32,9.1,Mar 30,34,11.2,Apr 27,39,14.1,,,
+1964,Dec 28,16,3.2,Feb 01,37,10.2,Feb 29,40,11.8,Mar 28,68,18.6,May 02,58,19.1,,,
+1965,Dec 29,49,13.3,Jan 30,64,21.4,Feb 27,61,23.8,Mar 27,65,25.3,May 01,32,15.4,May 29,0,0.0
+1966,Dec 30,32,5.6,Jan 29,33,8.4,Feb 26,44,12.2,Mar 26,38,13.2,Apr 28,0,0.0,Jun 02,0,0.0
+1967,Dec 30,22,4.9,Jan 28,44,10.9,Feb 25,48,14.6,Mar 28,42,15.2,Apr 28,40,15.7,May 31,0,0.0
+1968,Dec 29,29,7.5,Jan 30,36,11.0,Feb 28,50,16.4,Mar 28,56,19.7,Apr 25,50,21.1,,,
+1969,Jan 02,43,11.3,Jan 31,58,17.2,Feb 28,70,21.3,Mar 31,49,19.6,Apr 30,22,10.3,,,
+1970,Dec 30,35,8.4,Jan 30,54,14.2,Feb 27,50,16.3,Mar 31,56,18.6,Apr 29,57,19.0,May 27,0,0.0
+1971,Dec 31,48,13.3,Jan 28,44,15.7,Feb 25,53,17.8,Mar 30,56,21.9,Apr 29,26,11.8,May 27,0,0.0
+1972,Dec 29,46,12.6,Jan 28,63,17.6,Feb 28,61,20.2,Mar 30,45,17.9,Apr 27,37,15.5,May 31,0,0.0
+1973,Dec 30,46,9.0,Jan 30,44,12.3,Feb 27,51,14.9,Mar 29,62,19.2,Apr 27,44,17.4,May 29,0,0.0
+1974,Dec 27,38,7.7,Jan 30,57,16.6,Feb 27,60,19.8,Mar 29,50,18.9,Apr 30,42,18.9,May 29,0,0.0
+1975,Dec 30,38,10.1,Jan 29,52,15.5,Feb 28,60,20.0,Mar 28,79,24.9,Apr 29,72,26.9,May 29,23,10.3
+1976,Dec 29,32,9.2,Jan 29,44,12.2,Feb 26,54,16.4,Mar 29,69,20.1,Apr 29,35,14.1,May 28,0,0.0
+1977,Dec 27,4,0.4,Jan 27,14,2.8,Feb 25,38,6.8,Mar 31,53,13.7,Apr 29,0,0.0,May 31,0,0.0
+1978,Dec 28,29,8.1,Jan 30,50,14.4,Feb 27,58,18.4,Mar 30,53,22.2,Apr 28,44,20.8,May 31,0,0.0
+1979,Dec 28,33,7.6,Jan 29,45,11.9,Feb 27,64,17.5,Mar 29,53,17.8,Apr 30,28,11.6,May 31,0,0.0
+1980,Dec 27,21,4.7,Feb 01,45,11.6,Feb 28,62,17.1,Mar 27,78,23.5,Apr 29,32,13.1,May 30,0,0.0
+1981,Dec 30,13,3.4,Jan 29,24,4.9,Feb 26,36,7.6,Mar 26,44,12.0,Apr 30,1,0.4,Jun 01,0,0.0
+1982,Jan 04,46,10.7,Jan 29,55,14.6,Feb 25,54,17.8,Mar 30,73,23.9,Apr 29,45,17.8,May 27,0,0.0
+1983,Dec 28,40,8.7,Jan 28,46,10.8,Feb 25,54,15.3,Mar 29,74,21.4,Apr 27,62,23.2,May 31,16,6.7
+1984,Dec 29,70,18.0,Jan 27,62,20.4,Feb 29,66,23.1,Mar 28,73,26.5,Apr 26,65,26.6,May 30,0,0.0
+1985,Dec 28,43,12.6,Jan 30,50,13.0,Feb 27,55,16.8,Mar 27,66,20.7,Apr 29,26,10.7,May 31,0,0.0
+1986,Dec 30,33,9.3,Jan 29,39,11.4,Feb 26,53,17.7,Mar 26,55,20.4,Apr 30,48,20.3,May 29,1,0.2
+1987,Dec 29,17,4.4,Jan 27,33,8.3,Mar 02,43,12.2,Mar 30,52,15.6,Apr 28,5,1.6,Nov 01,0,0.0
+1988,Dec 29,24,4.9,Jan 26,34,9.1,Feb 25,40,11.8,Mar 31,46,13.8,Apr 28,11,3.7,,,
+1989,Jan 04,43,11.6,Jan 31,46,14.4,Feb 27,54,17.4,Mar 27,51,19.4,Apr 26,15,4.7,May 30,0,0.0
+1990,Jan 02,28,5.8,Jan 29,36,8.2,Feb 26,43,12.0,Mar 26,41,13.3,Apr 30,3,0.7,Nov 01,,0.0
+1991,Dec 27,30,7.1,Jan 30,41,10.7,Feb 27,43,12.4,Mar 27,52,16.1,Apr 29,64,16.4,,,
+1992,Jan 02,26,6.4,Jan 28,29,7.6,Feb 27,44,10.8,Apr 01,30,9.4,Apr 28,1,0.1,,,
+1993,Dec 31,47,10.7,Jan 28,54,17.2,Mar 01,65,20.4,Mar 31,49,19.7,Apr 29,38,16.1,,,
+1994,Dec 30,20,4.4,Feb 01,34,8.3,Feb 28,51,14.0,Mar 31,45,15.9,Apr 29,24,8.9,,,
+1995,Jan 03,34,10.6,Feb 01,47,15.3,Mar 02,52,17.0,Mar 28,58,20.4,May 03,45,17.6,May 30,1,0.2
+1996,Dec 28,16,4.4,Jan 31,71,16.3,Feb 28,74,20.9,Mar 27,68,23.7,May 01,46,19.8,,,
+1997,Jan 02,42,12.7,Jan 29,66,18.4,Feb 26,65,20.7,Apr 02,62,20.9,Apr 29,40,17.2,,,
+1998,Dec 30,26,6.5,Feb 03,45,11.7,Mar 02,67,18.5,Mar 31,60,21.1,Apr 30,35,16.2,,,
+1999,Dec 30,19,5.0,Feb 02,50,11.9,Feb 25,53,15.1,Mar 31,41,14.3,Apr 27,39,15.4,,,
+2000,Dec 30,19,4.4,Feb 02,36,9.4,Mar 01,52,14.2,Mar 28,50,18.6,May 01,3,1.2,,,
+2001,Dec 27,30,7.5,Jan 30,36,8.8,Feb 28,40,11.3,Mar 29,40,12.5,May 01,16,6.8,,,
+2002,Dec 28,36,11.4,Jan 31,44,12.7,Feb 28,47,15.2,Mar 28,58,19.3,May 01,23,9.7,,,

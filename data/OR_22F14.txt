@@ -1,0 +1,107 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 22F14: Summit Lake (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Summit Lake (disc) (22F14) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 5600 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:11:11 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1928,,,,,,,,,,Apr 13,86,31.8,,,,,,
+1929,,,,,,,,,,Apr 17,99,36.8,,,,,,
+1930,,,,,,,,,,Apr 02,38,16.3,,,,,,
+1931,,,,Jan 27,46,14.4,,,,Apr 11,65,28.2,,,,,,
+1932,,,,,,,,,,Mar 30,109,54.3,,,,,,
+1933,,,,,,,,,,,,,,,,,,
+1934,,,,,,,,,,,,,,,,,,
+1935,,,,,,,,,,,,,,,,,,
+1936,,,,,,,,,,,,,,,,,,
+1937,,,,,,,,,,,,,,,,,,
+1938,,,,,,,,,,,,,,,,,,
+1939,,,,,,,,,,,,,,,,,,
+1940,,,,,,,,,,,,,,,,,,
+1941,,,,,,,,,,,,,,,,,,
+1942,,,,,,,,,,,,,,,,,,
+1943,,,,,,,,,,,,,,,,,,
+1944,,,,,,,,,,,,,,,,,,
+1945,,,,,,,,,,,,,,,,,,
+1946,,,,,,,,,,,,,,,,,,
+1947,,,,,,,,,,,,,,,,,,
+1948,,,,,,,,,,,,,,,,,,
+1949,,,,,,,,,,Mar 30,137,52.7,Apr 27,89,45.0,,,
+1950,,,,,,,,,,Mar 30,128,54.0,May 03,118,52.3,,,
+1951,,,,Jan 30,96,32.6,Mar 03,109,37.1,Mar 27,116,49.0,May 01,97,43.8,,,
+1952,,,,Jan 30,131,47.4,Mar 01,143,54.6,Mar 23,166,64.6,May 02,116,62.0,,,
+1953,,,,Jan 30,89,28.3,Feb 24,115,39.5,Mar 24,135,50.0,Apr 30,113,51.4,,,
+1954,,,,Jan 31,117,38.7,Feb 27,115,46.0,Apr 07,128,53.0,May 04,89,48.4,,,
+1955,,,,Jan 29,61,20.8,Feb 23,65,24.9,Mar 29,98,38.4,Apr 26,131,50.2,,,
+1956,,,,Feb 03,94,35.9,Mar 01,162,64.1,Mar 23,136,63.2,Apr 30,103,55.2,,,
+1957,,,,Feb 01,77,22.2,Mar 01,71,27.5,Mar 29,96,37.0,May 01,75,35.1,,,
+1958,,,,Feb 04,110,37.5,,,,Mar 28,112,46.0,Apr 29,110,50.3,,,
+1959,,,,Jan 21,25,7.7,Mar 01,61,20.1,Mar 20,61,21.8,Apr 24,47,20.3,,,
+1960,,,,Jan 26,56,15.8,Feb 25,70,25.2,Mar 25,85,36.4,Apr 27,97,44.4,,,
+1961,,,,Jan 20,46,15.4,Feb 20,66,23.1,Mar 24,98,38.2,Apr 24,91,39.1,,,
+1962,,,,Jan 25,84,30.1,Feb 19,95,33.4,Mar 26,123,45.2,Apr 24,85,39.0,,,
+1963,,,,Jan 23,25,9.1,Feb 22,35,13.2,Mar 22,46,16.4,Apr 25,79,27.4,,,
+1964,,,,Jan 30,105,31.8,Feb 25,102,36.7,Mar 26,130,48.2,Apr 27,102,46.5,,,
+1965,,,,Jan 30,93,42.1,Feb 23,97,40.9,Mar 25,90,41.5,Apr 27,73,39.6,,,
+1966,,,,Jan 27,94,31.3,Feb 25,102,36.3,Mar 30,110,45.6,Apr 27,84,39.4,,,
+1967,,,,Jan 25,92,26.0,Feb 27,97,34.7,Mar 30,125,42.7,Apr 27,130,50.2,,,
+1968,,,,Jan 26,52,16.6,Feb 27,51,21.2,Mar 27,66,24.4,Apr 25,58,26.3,,,
+1969,,,,,,,Feb 25,113,41.6,Mar 24,117,48.2,Apr 28,94,46.6,,,
+1970,,,,Jan 28,86,28.9,Feb 26,76,29.2,Mar 26,80,32.7,Apr 30,102,39.9,,,
+1971,,,,Jan 27,103,38.2,Feb 24,112,43.7,Mar 29,156,60.4,Apr 30,141,64.6,,,
+1972,,,,Jan 25,129,43.8,Feb 29,128,53.8,Mar 28,130,57.2,Apr 27,127,60.5,,,
+1973,,,,Jan 30,56,16.6,Feb 28,56,20.1,Mar 28,73,26.0,Apr 27,55,24.5,,,
+1974,,,,Jan 29,96,42.4,Feb 26,141,52.0,Mar 27,134,59.7,Apr 29,144,72.5,,,
+1975,,,,Jan 28,83,29.2,Feb 25,120,42.3,Mar 26,159,52.4,Apr 29,142,61.1,,,
+1976,,,,Jan 27,91,32.0,Feb 26,,41.8,Mar 29,146,50.2,,,,,,
+1977,,,,,,,,,,,,,,,,,,

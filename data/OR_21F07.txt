@@ -1,0 +1,83 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21F07: Charlton Lake (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Charlton Lake (disc) (21F07) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 5750 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:05:10 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1937,,,,,,,,,,Mar 29,80,30.7,,,,,,
+1938,,,,Jan 28,32,9.0,,,,Apr 01,103,34.5,,,,,,
+1939,,,,Jan 30,54,11.3,,,,Apr 03,68,29.6,,,,,,
+1940,,,,Feb 03,20,5.1,,,,Mar 26,35,13.9,,,,,,
+1941,,,,Jan 31,37,10.8,,,,Mar 30,34,13.0,,,,,,
+1942,,,,,,,,,,Apr 01,55,19.5,,,,,,
+1943,,,,,,,,,,Mar 31,104,40.7,,,,,,
+1944,,,,Feb 02,28,6.6,,,,Mar 29,42,12.9,,,,,,
+1945,,,,,,,,,,Apr 02,62,18.3,,,,,,
+1946,,,,,,,,,,Mar 26,116,45.8,,,,,,
+1947,,,,Feb 14,65,22.8,,,,Apr 01,76,28.3,,,,,,
+1948,,,,,,,,,,,,,,,,,,
+1949,,,,,,,,,,,,,May 02,81,35.0,,,
+1950,,,,,,,,,,,,,,,,,,
+1951,,,,,,,,,,,,,,,,,,
+1952,,,,Feb 01,104,36.2,,,,Mar 28,115,49.2,,,,,,
+1953,,,,,,,,,,Apr 02,90,34.7,,,,,,
+1954,,,,Feb 13,77,26.3,,,,Mar 30,95,33.3,,,,,,
+1955,,,,Jan 27,52,16.4,,,,Mar 27,88,31.4,,,,,,
+1956,,,,Feb 01,79,27.7,,,,Mar 26,122,46.2,,,,,,
+1957,,,,Jan 29,33,10.3,,,,Mar 21,75,24.1,,,,,,
+1958,,,,Jan 29,74,24.4,,,,Mar 25,90,33.3,,,,,,
+1959,,,,Jan 27,21,6.4,,,,Mar 24,53,16.6,,,,,,
+1960,,,,Jan 21,31,6.4,,,,Mar 22,65,26.0,,,,,,
+1961,,,,Jan 24,34,11.8,,,,Mar 21,72,25.7,,,,,,
+1962,,,,,,,,,,,,,,,,,,

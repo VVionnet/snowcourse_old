@@ -1,0 +1,91 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 07E36: Cloud Peak, WY
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Cloud Peak (07E36) 
+# Wyoming  SNOW COURSE/AERIAL MARKER Site - 9860 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:52:29 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1960,,,,Feb 02,20,5.0,Feb 28,34,7.5,Apr 05,57,17.0,,,,,,
+1961,,,,Jan 25,18,4.0,Feb 27,39,10.0,Mar 29,48,12.0,,,,,,
+1962,,,,Jan 31,42,11.0,Feb 27,51,13.5,Mar 30,62,19.0,,,,,,
+1963,,,,Feb 02,18,3.5,Mar 04,39,9.0,Mar 30,33,10.0,Apr 29,75,21.5,,,
+1964,,,,Jan 27,18,4.0,Feb 25,39,9.5,Mar 20,42,10.5,,,,,,
+1965,,,,Jan 30,46,10.5,Feb 25,48,14.0,Mar 27,51,15.0,,,,,,
+1966,,,,Jan 27,12,2.0,Feb 26,15,2.5,Mar 28,21,5.2,,,,,,
+1967,,,,Jan 31,33,8.0,Feb 27,42,12.5,Mar 27,42,12.5,,,,,,
+1968,,,,Feb 01,27,6.0,Feb 29,42,11.0,Mar 28,39,11.5,,,,,,
+1969,,,,Jan 28,24,5.0,Feb 27,39,9.5,Mar 31,39,10.0,,,,,,
+1970,,,,Jan 30,27,5.0,Mar 02,30,8.0,Mar 27,47,12.0,,,,,,
+1971,,,,Jan 28,33,7.5,Feb 27,42,9.5,Mar 30,57,16.0,,,,,,
+1972,,,,Jan 30,45,13.0,Mar 01,51,15.5,Apr 01,57,18.0,,,,,,
+1973,,,,Feb 02,18,3.5,Feb 26,18,3.5,Apr 04,57,12.5,,,,,,
+1974,,,,Feb 02,27,5.4,Mar 03,42,9.1,Apr 05,51,13.0,,,,,,
+1975,,,,Feb 02,42,8.5,Feb 26,45,11.0,Apr 02,51,12.5,,,,,,
+1976,,,,Jan 28,33,12.2,Feb 29,45,12.2,Mar 30,51,14.8,,,,,,
+1977,,,,Jan 31,21,3.8,Mar 01,33,6.9,Apr 02,66,13.2,,,,,,
+1978,,,,Feb 02,25,6.0,Feb 23,37,8.9,Mar 29,36,10.4,,,,,,
+1979,,,,Feb 01,23,5.5,Mar 01,27,6.8,Mar 27,33,9.2,,,,,,
+1980,,,,Feb 01,35,8.0,Mar 01,,8.9,Apr 04,60,12.5,May 03,33,10.8,,,
+1981,,,,Feb 03,20,4.0,Feb 23,26,6.0,Mar 25,34,7.8,,,,,,
+1982,,,,Jan 27,23,5.3,Feb 27,25,6.0,Mar 31,48,12.0,,,,,,
+1983,,,,Jan 26,37,9.6,Feb 28,34,9.2,Mar 29,54,11.9,,,,,,
+1984,,,,Jan 30,36,7.7,Feb 29,,8.4,Mar 28,57,13.2,,,,,,
+1985,,,,Jan 30,34,7.5,Feb 27,34,7.0,Mar 29,42,10.0,Apr 25,36,10.0,,,
+1986,,,,Jan 29,42,10.5,Feb 27,54,14.0,Mar 28,63,17.0,Apr 28,66,24.5,,,
+1987,,,,Jan 30,33,7.9,Feb 28,45,10.4,Mar 26,45,11.2,Apr 25,26,7.8,,,
+1988,,,,Jan 28,27,5.5,Feb 24,41,9.4,Mar 29,42,13.0,Apr 28,42,13.9,,,
+1989,,,,Jan 28,18,4.5,Feb 24,21,4.4,Mar 31,35,8.8,Apr 30,42,10.9,,,
+1990,,,,Jan 31,30,7.8,Feb 28,33,9.6,Mar 30,47,13.2,May 01,55,17.3,,,
+1991,,,,Jan 29,33,6.9,Feb 27,42,10.1,Mar 30,52,14.4,Apr 30,57,18.2,,,
+1992,,,,Jan 29,22,5.4,Feb 28,20,4.8,Mar 30,41,10.5,Apr 28,37,10.7,,,
+1993,,,,Jan 30,22,4.8,,,,Apr 01,29,7.8,,,,,,

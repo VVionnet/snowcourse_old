@@ -1,0 +1,70 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 37L02: Dezadeash (Alder Cr.), YK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Dezadeash (alder Cr.) (37L02) 
+# Yukon Territory  SNOW COURSE/AERIAL MARKER Site - 725 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:38:59 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1980,,,,Feb 04,30,5.9,,,,Mar 28,30,5.1,May 03,0,0.0,,,
+1981,,,,,,,Mar 02,19,3.5,Mar 30,18,3.9,May 01,14,2.8,,,
+1982,,,,Feb 15,15,2.0,Mar 03,24,4.7,Mar 30,23,4.3,,,,,,
+1983,,,,Feb 03,24,2.8,Mar 03,26,4.0,Mar 30,24,4.3,Apr 27,7,2.2,,,
+1984,,,,Jan 31,23,3.3,Feb 28,24,4.6,Mar 28,19,5.2,Apr 28,0,0.0,,,
+1985,,,,Jan 29,26,5.1,Feb 27,34,8.1,Apr 02,30,7.8,Apr 29,27,7.9,,,
+1986,,,,,,,Mar 05,30,5.3,Apr 01,30,6.5,Apr 29,26,6.9,,,
+1987,,,,,,,Mar 03,24,5.6,Apr 01,22,5.8,Apr 29,9,3.4,,,
+1988,,,,,,,Mar 01,34,8.0,Mar 30,33,7.2,Apr 29,18,4.2,,,
+1989,,,,,,,Mar 01,35,8.6,Mar 29,39,9.8,Apr 29,0,0.0,,,
+1990,,,,,,,Mar 03,26,4.0,Apr 01,22,5.6,Apr 30,0,0.0,,,
+1991,,,,,,,Feb 28,27,6.3,,,,,,,,,
+1992,,,,,,,,,,,,,,,,,,

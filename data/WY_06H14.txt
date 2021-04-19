@@ -1,0 +1,95 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 06H14: Rock Creek, WY
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Rock Creek (06H14) 
+# Wyoming  SNOW COURSE/AERIAL MARKER Site - 9980 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:53:31 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1959,,,,,,,May 01,,24.3,Apr 01,70,34.5,,,,,,
+1960,,,,Jan 30,42,10.0,Feb 29,58,16.5,Apr 05,71,23.5,,,,,,
+1961,,,,Jan 31,37,11.0,Feb 27,40,12.0,Mar 30,71,21.0,,,,,,
+1962,,,,Feb 01,74,23.0,May 01,,25.8,Apr 01,97,35.5,,,,,,
+1963,,,,Feb 01,22,4.3,Mar 04,66,18.5,Mar 27,64,22.2,Apr 30,79,27.3,,,
+1964,,,,Jan 29,44,11.0,Mar 03,74,21.1,Mar 25,81,24.4,Apr 29,93,33.6,,,
+1965,,,,Jan 28,59,15.3,Feb 25,63,20.1,Mar 26,75,25.4,May 02,70,28.7,,,
+1966,,,,Feb 01,51,12.9,Mar 01,65,19.6,Mar 31,65,22.7,Apr 27,60,22.8,,,
+1967,,,,Jan 27,58,15.3,Feb 27,80,23.7,Mar 31,77,28.0,Apr 30,71,28.0,,,
+1968,,,,Feb 01,66,19.6,Feb 27,73,22.3,Mar 29,75,27.6,Apr 28,97,35.6,,,
+1969,,,,Jan 28,55,12.1,Feb 27,75,20.5,Apr 02,73,26.2,May 01,60,24.1,,,
+1970,,,,Mar 01,,18.6,Feb 25,79,25.2,Apr 01,106,37.5,Apr 28,99,38.2,,,
+1971,,,,Feb 02,70,25.8,Mar 01,88,31.5,Apr 02,117,42.4,Apr 28,95,38.9,,,
+1972,,,,Jan 28,61,17.4,Feb 28,75,23.0,Mar 28,74,26.0,May 02,78,30.2,,,
+1973,,,,Jan 30,56,16.1,Feb 27,62,19.4,Mar 27,80,27.1,Apr 26,104,34.2,,,
+1974,,,,Jan 31,68,21.4,Feb 26,75,25.4,Mar 29,88,32.8,Apr 26,100,40.7,,,
+1975,,,,Jan 28,69,17.8,Feb 25,66,22.5,Mar 26,90,29.5,Apr 25,76,30.6,,,
+1976,,,,Jan 27,63,19.0,Feb 24,73,24.4,Mar 26,96,30.9,Apr 30,84,35.2,,,
+1977,,,,Jan 25,42,11.4,Feb 23,57,12.3,Mar 29,72,22.4,Apr 27,58,23.4,,,
+1978,,,,Jan 31,72,21.3,Feb 23,77,23.8,Mar 27,90,36.4,Apr 25,82,36.6,,,
+1979,,,,Jan 29,,17.5,Feb 26,76,30.7,Mar 27,90,28.4,Apr 26,85,33.1,,,
+1980,,,,Feb 06,78,22.3,Feb 26,85,28.2,Mar 27,,28.3,Apr 28,79,34.8,,,
+1981,,,,Jan 30,36,7.6,Feb 27,45,11.0,Mar 27,55,15.4,Apr 24,49,16.6,,,
+1982,,,,Mar 01,,18.7,Mar 02,84,27.4,Apr 05,105,36.0,Apr 30,94,39.5,,,
+1983,,,,Jan 29,63,20.2,Feb 27,66,24.0,Mar 31,103,35.0,Apr 30,101,38.6,,,
+1984,,,,Jan 28,64,23.1,Feb 25,68,25.4,Mar 24,77,28.8,Apr 28,104,38.6,,,
+1985,,,,Jan 27,58,20.6,Feb 24,67,19.4,Mar 30,72,24.5,Apr 28,75,29.6,Jun 01,,18.8
+1986,,,,Jan 28,82,23.2,Feb 24,90,32.8,Mar 30,81,30.8,Apr 26,96,36.6,,,
+1987,,,,Jan 30,53,12.6,Feb 26,59,17.4,Mar 28,72,18.8,Apr 30,51,19.2,,,
+1988,,,,Jan 30,60,15.6,Feb 26,67,19.4,Mar 26,96,25.8,Apr 30,72,19.8,,,
+1989,,,,Jan 30,48,14.6,Mar 01,71,20.2,Mar 31,82,27.4,Apr 29,58,25.2,,,
+1990,,,,Jan 27,44,8.7,Feb 24,59,18.0,Mar 31,62,20.4,Apr 28,62,22.2,,,
+1991,,,,Jan 31,51,13.0,Feb 28,61,16.0,Mar 26,68,20.4,Apr 30,83,26.6,,,
+1992,,,,Feb 01,40,15.3,Feb 29,34,10.8,Mar 28,60,19.0,May 01,45,18.6,,,
+1993,,,,Feb 01,43,12.1,Mar 02,59,17.0,Apr 02,76,23.4,Apr 29,81,28.9,,,
+1994,Jan 31,64,16.7,Jan 31,64,16.7,Feb 27,68,19.5,Mar 28,72,22.1,Apr 27,68,29.9,,,
+1995,,,,Jan 30,53,12.8,Feb 28,58,16.2,Mar 30,71,22.3,Apr 27,78,24.7,,,
+1996,,,,,,,Feb 28,78,24.2,Mar 26,87,29.9,Apr 29,99,33.2,,,

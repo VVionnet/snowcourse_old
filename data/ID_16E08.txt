@@ -1,0 +1,82 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 16E08: Sturgill Ridge (Disc), ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Sturgill Ridge (disc) (16E08) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 6680 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:43:48 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1968,,,,,,,,,,Mar 22,61,24.1,,,,,,
+1969,,,,,,,Feb 27,92,32.8,Mar 25,86,34.7,,,,,,
+1970,,,,Jan 30,89,23.5,Feb 24,81,31.8,Mar 25,90,35.2,,,,,,
+1971,,,,,,,Feb 22,95,36.5,Mar 30,120,49.8,,,,,,
+1972,,,,,,,Feb 24,90,35.1,Mar 28,91,40.3,,,,,,
+1973,,,,Jan 29,62,20.7,Feb 27,67,24.9,Mar 30,67,27.6,,,,,,
+1974,,,,,,,Feb 27,104,37.8,Apr 01,115,47.1,,,,,,
+1975,,,,,,,Feb 26,86,26.9,Mar 28,115,39.4,,,,,,
+1976,,,,,,,Feb 27,69,19.8,Apr 02,76,28.1,,,,,,
+1977,,,,,,,Feb 27,18,5.2,Apr 03,36,10.7,,,,,,
+1978,,,,Jan 28,68,23.8,Feb 26,83,29.3,Apr 01,62,29.2,,,,,,
+1979,,,,,,,Feb 25,83,25.2,Mar 28,61,25.7,,,,,,
+1980,,,,,,,Feb 28,64,23.8,Mar 27,78,31.2,,,,,,
+1981,,,,,,,,,,Mar 29,55,21.4,,,,,,
+1982,,,,,,,Feb 25,84,30.6,Mar 27,89,34.4,,,,,,
+1983,,,,,,,,,,Mar 28,110,44.4,,,,,,
+1984,,,,,,,,,,Mar 31,93,35.4,,,,,,
+1985,,,,,,,Feb 24,74,26.0,Mar 31,81,31.1,,,,,,
+1986,,,,,,,Mar 02,65,23.4,Apr 01,58,26.6,,,,,,
+1987,,,,,,,Mar 01,55,16.4,Mar 31,42,16.0,,,,,,
+1988,,,,,,,Feb 27,45,16.3,Jul 01,42,16.6,,,,,,
+1989,,,,,,,Mar 01,82,27.8,Apr 01,95,35.4,,,,,,
+1990,,,,,,,Mar 01,50,16.0,Apr 01,48,18.2,,,,,,
+1991,,,,,,,May 01,,12.4,Jul 01,,17.4,,,,,,
+1992,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,100 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 22G20: Siskiyou Summit (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Siskiyou Summit (disc) (22G20) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 4630 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:08:47 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1932,Jan 07,21,6.8,,,,,,,,,,,,,,,
+1933,,,,,,,,,,,,,,,,,,
+1934,,,,,,,,,,,,,,,,,,
+1935,,,,,,,Mar 09,9,2.8,Mar 30,0,0.1,,,,,,
+1936,Jan 12,20,6.5,,,,,,,Apr 03,7,1.9,,,,,,
+1937,,,,Jan 28,42,8.6,Feb 26,39,14.5,Mar 28,30,11.5,,,,,,
+1938,,,,Jan 30,9,2.2,Feb 26,35,11.3,Mar 27,43,15.5,,,,,,
+1939,Jan 09,11,1.4,Feb 04,23,4.5,Feb 27,22,6.6,Mar 31,2,1.0,,,,,,
+1940,,,,Jan 28,0,0.1,Feb 25,11,3.0,Mar 31,0,0.0,,,,,,
+1941,Dec 29,7,1.8,Feb 01,13,4.4,Mar 01,0,0.1,Apr 01,0,0.0,,,,,,
+1942,Jan 03,17,4.3,Jan 31,7,4.6,Feb 28,23,6.3,Apr 01,0,0.0,,,,,,
+1943,Jan 03,16,4.2,Jan 31,45,11.8,Feb 28,23,8.6,Mar 28,3,1.0,,,,,,
+1944,Jan 07,21,4.2,Jan 30,14,3.8,Feb 27,15,5.0,Apr 02,1,0.3,,,,,,
+1945,Dec 29,7,0.8,Jan 28,5,1.2,Feb 25,1,0.4,Mar 29,8,2.7,,,,,,
+1946,Dec 29,9,3.7,Jan 27,17,5.1,Feb 24,21,8.2,Mar 30,8,3.2,,,,,,
+1947,Dec 28,2,1.2,Jan 29,8,1.9,Feb 27,0,0.0,Mar 30,5,1.1,,,,,,
+1948,Dec 28,2,0.3,Jan 31,2,0.6,Feb 28,5,1.6,Mar 27,14,4.4,,,,,,
+1949,Jan 07,29,8.4,Feb 01,28,8.4,Feb 26,36,12.4,Apr 03,13,5.8,,,,,,
+1950,Jan 05,11,2.0,Jan 31,41,10.4,Feb 25,22,9.8,Mar 31,14,5.7,,,,,,
+1951,Jan 04,0,0.1,Feb 05,29,8.8,Feb 26,11,3.7,Mar 29,2,0.8,,,,,,
+1952,Jan 03,30,7.9,Feb 02,44,14.9,Mar 07,49,22.0,Mar 29,38,17.7,,,,,,
+1953,Jan 07,46,14.3,Feb 01,25,11.3,,,,,,,,,,,,
+1954,Jan 02,2,0.6,Feb 01,45,16.7,,,,,,,,,,,,
+1955,Jan 01,5,1.1,Feb 01,14,4.4,Feb 27,15,3.1,Apr 02,0,0.0,,,,,,
+1956,Jan 02,11,2.5,Jan 29,20,5.6,Mar 03,43,14.1,Apr 01,20,8.9,,,,,,
+1957,Dec 30,0,0.0,Feb 03,23,5.4,Mar 03,0,0.0,Apr 01,0,0.0,,,,,,
+1958,Dec 22,18,2.8,Jan 25,23,6.6,Feb 27,8,2.0,Mar 30,6,1.2,,,,,,
+1959,Dec 28,8,1.2,Jan 25,0,0.0,Feb 26,14,6.6,Mar 30,0,0.0,,,,,,
+1960,Dec 31,0,0.0,Jan 30,13,5.2,Feb 26,20,7.4,Mar 30,4,1.0,,,,,,
+1961,Dec 31,0,0.0,Jan 29,0,0.0,Feb 26,3,0.6,Mar 30,0,0.0,,,,,,
+1962,Dec 29,11,3.2,Jan 27,12,3.0,Feb 25,8,2.4,Mar 30,7,2.6,,,,,,
+1963,Dec 28,0,0.0,Jan 31,5,2.2,Feb 27,0,0.0,Mar 30,0,0.0,,,,,,
+1964,Dec 31,0,0.0,Jan 26,38,9.6,Feb 28,22,7.4,Mar 28,21,7.6,,,,,,
+1965,Dec 27,8,0.8,Jan 30,14,6.8,Feb 28,8,3.2,Mar 28,0,0.1,,,,,,
+1966,,,,Jan 28,34,13.4,Feb 27,36,15.2,Mar 29,12,6.4,,,,,,
+1967,Jan 01,6,1.6,Jan 28,32,9.5,Feb 27,15,6.4,Apr 01,9,2.9,,,,,,
+1968,Dec 30,21,7.2,Jan 28,21,8.0,Feb 28,4,1.2,Apr 01,0,0.0,,,,,,
+1969,Dec 30,37,8.8,Jan 28,65,18.2,Feb 28,58,21.0,Mar 28,40,17.2,Apr 28,0,0.0,,,
+1970,Dec 30,11,2.2,Jan 28,9,1.6,Feb 26,0,0.1,Mar 30,0,0.0,Apr 29,0,0.0,,,
+1971,Dec 30,44,11.4,Jan 29,29,11.4,Feb 26,26,9.0,Mar 29,29,12.0,Apr 29,0,0.0,,,
+1972,Dec 27,27,6.4,Jan 31,22,6.3,Feb 24,24,5.2,Mar 31,0,0.0,Apr 28,0,0.0,,,
+1973,Dec 29,0,0.1,Jan 30,10,1.4,Feb 23,0,0.1,Mar 29,0,0.0,Apr 27,0,0.0,,,
+1974,,,,,,,,,,,,,,,,,,

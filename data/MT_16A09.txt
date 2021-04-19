@@ -1,0 +1,96 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 16A09: Keeler Creek, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Keeler Creek (16A09) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 3300 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:43:22 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1969,,,,,,,Mar 01,59,22.4,Mar 26,45,21.4,Apr 30,0,0.0,,,
+1970,,,,,,,Mar 05,49,16.3,Apr 02,29,11.4,Apr 28,3,1.4,,,
+1971,,,,,,,Feb 24,37,14.9,Apr 01,47,20.3,Apr 27,4,2.0,,,
+1972,,,,,,,Mar 01,54,20.6,Mar 29,25,11.7,May 03,0,0.0,,,
+1973,,,,,,,Feb 28,9,4.0,Mar 28,0,0.0,May 02,0,0.0,,,
+1974,,,,,,,,,,Jul 01,,20.0,,,,,,
+1975,,,,,,,,,,Mar 26,54,20.3,May 01,17,8.9,,,
+1976,,,,,,,,,,Apr 06,35,15.3,,,,,,
+1977,,,,,,,,,,Mar 30,10,3.6,Apr 27,0,0.0,,,
+1978,,,,,,,Feb 22,31,11.4,Mar 29,15,5.9,Apr 26,0,0.0,,,
+1979,,,,,,,Mar 09,37,13.1,Apr 03,27,10.0,Apr 24,0,0.0,,,
+1980,,,,,,,Feb 26,21,7.1,Mar 25,24,8.4,Apr 27,0,0.0,,,
+1981,,,,,,,Feb 24,4,1.9,Apr 02,0,0.0,Apr 27,0,0.0,,,
+1982,,,,,,,Feb 26,39,14.7,Mar 25,32,13.3,Apr 26,10,4.9,,,
+1983,,,,,,,Feb 25,30,11.3,Mar 28,17,6.6,Apr 28,0,0.0,,,
+1984,,,,,,,Feb 27,23,5.8,Mar 30,0,0.0,Apr 25,0,0.0,,,
+1985,,,,,,,Feb 26,54,18.6,Mar 25,45,19.0,May 01,0,0.0,,,
+1986,,,,,,,Mar 04,35,11.8,Mar 27,22,8.3,Apr 26,0,0.0,,,
+1987,,,,,,,Mar 07,29,9.9,Apr 01,21,8.6,May 04,0,0.0,,,
+1988,,,,,,,Feb 23,29,9.4,Mar 25,29,9.8,Apr 24,0,0.0,,,
+1989,,,,,,,Feb 24,44,13.6,Mar 26,40,14.6,Apr 25,5,1.9,,,
+1990,,,,,,,Feb 24,58,19.6,Mar 26,43,18.6,Apr 25,4,1.6,,,
+1991,,,,,,,May 01,,13.6,Mar 29,31,10.7,Sep 01,,0.0,,,
+1992,,,,,,,,,,Mar 30,0,0.0,,,,,,
+1993,,,,,,,,,,Mar 30,28,9.8,,,,,,
+1994,,,,,,,,,,Mar 29,24,9.4,,,,,,
+1995,,,,,,,,,,Mar 28,26,9.6,,,,,,
+1996,,,,,,,,,,Mar 28,23,8.0,,,,,,
+1997,,,,,,,,,,Mar 26,74,30.4,,,,,,
+1998,,,,,,,,,,Mar 31,27,9.6,,,,,,
+1999,,,,,,,,,,Apr 01,68,25.0,,,,,,
+2000,,,,,,,,,,Mar 28,40,17.4,,,,,,
+2001,,,,,,,,,,Mar 28,25,9.0,,,,,,
+2002,,,,,,,,,,Mar 27,58,21.2,,,,,,
+2003,,,,,,,,,,Mar 25,29,9.9,,,,,,
+2004,,,,,,,,,,Mar 30,35,11.8,,,,,,
+2005,,,,,,,,,,Mar 28,13,3.8,,,,,,
+2006,,,,,,,,,,Mar 29,48,19.0,,,,,,
+2007,,,,,,,,,,Mar 26,37,14.9,,,,,,

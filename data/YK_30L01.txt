@@ -1,0 +1,99 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 30L01: Pine Lake Airstrip, YK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Pine Lake Airstrip (30L01) 
+# Yukon Territory  SNOW COURSE/AERIAL MARKER Site - 995 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:40:34 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1976,,,,,,,Mar 01,41,10.0,Apr 05,42,11.3,Apr 30,35,10.5,,,
+1977,,,,Feb 01,32,5.4,Mar 01,32,7.5,Apr 01,40,9.3,Apr 28,21,4.9,,,
+1978,,,,Feb 01,21,3.3,Mar 01,22,4.1,Apr 04,25,4.8,May 01,12,3.5,,,
+1979,,,,,,,Mar 01,38,8.9,Apr 02,43,10.4,May 01,25,8.0,,,
+1980,,,,Feb 01,33,6.7,Feb 29,32,6.8,Apr 01,37,9.0,May 01,26,6.8,,,
+1981,,,,Feb 05,27,6.4,Feb 27,34,7.3,Apr 01,31,7.3,May 01,28,6.1,,,
+1982,,,,Feb 02,26,4.2,Mar 02,26,4.8,Apr 02,28,5.4,May 04,25,5.2,,,
+1983,,,,Feb 01,24,4.6,Mar 01,27,5.9,Mar 31,28,5.7,May 02,13,3.9,,,
+1984,,,,Feb 01,31,5.8,Feb 29,31,7.4,Apr 02,30,8.3,Apr 30,26,8.3,,,
+1985,,,,Jan 31,32,7.1,Feb 28,43,10.3,Apr 01,39,10.6,Apr 29,35,11.1,,,
+1986,,,,Jan 31,32,7.1,Feb 28,43,10.3,Apr 01,39,10.6,Apr 29,35,11.1,,,
+1987,,,,,,,,,,,,,,,,,,
+1988,,,,,,,,,,,,,,,,,,
+1989,,,,,,,,,,,,,,,,,,
+1990,,,,,,,,,,,,,,,,,,
+1991,,,,,,,,,,,,,,,,,,
+1992,,,,,,,,,,,,,,,,,,
+1993,,,,,,,,,,,,,,,,,,
+1994,,,,,,,,,,,,,,,,,,
+1995,,,,,,,,,,,,,,,,,,
+1996,,,,,,,,,,,,,,,,,,
+1997,,,,,,,,,,,,,,,,,,
+1998,,,,,,,,,,,,,,,,,,
+1999,,,,,,,,,,,,,,,,,,
+2000,,,,,,,,,,,,,,,,,,
+2001,,,,,,,,,,,,,,,,,,
+2002,,,,,,,,,,,,,,,,,,
+2003,,,,,,,,,,,,,,,,,,
+2004,,,,,,,,,,,,,,,,,,
+2005,,,,,,,,,,,,,,,,,,
+2006,,,,,,,,,,,,,,,,,,
+2007,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,
+2010,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,Feb 28,34,8.2,Mar 30,39,9.4,Apr 26,31,10.2,,,
+2013,,,,,,,Feb 27,37,9.4,Mar 27,38,9.2,Apr 30,46,11.7,,,
+2014,,,,,,,Feb 26,41,11.5,Mar 26,45,12.5,Apr 29,38,13.1,,,
+2015,,,,,,,Feb 24,29,7.2,Mar 30,32,8.9,Apr 29,24,7.7,,,
+2016,,,,,,,,,,Mar 31,25,7.7,Apr 26,13,4.1,,,
+2017,,,,,,,Feb 28,17,3.1,Mar 29,22,3.7,Apr 25,15,3.7,,,

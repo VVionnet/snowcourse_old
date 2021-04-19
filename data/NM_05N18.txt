@@ -1,0 +1,70 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 05N18: Gallegos Peak, NM
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Gallegos Peak (05N18) 
+# New Mexico  SNOW COURSE/AERIAL MARKER Site - 9800 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:39:36 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1978,,,,Jan 25,29,5.3,Feb 28,30,7.5,Mar 29,32,9.8,,,,,,
+1979,,,,Jan 29,46,7.5,Feb 23,52,14.6,Mar 30,43,14.8,,,,,,
+1980,,,,Jan 31,34,7.4,Feb 29,38,10.4,Mar 31,47,13.9,Apr 28,29,9.4,,,
+1981,,,,Jan 30,3,0.5,Feb 23,5,1.4,Mar 27,9,3.2,Apr 28,0,0.0,,,
+1982,Dec 28,11,1.4,Jan 29,25,6.5,Feb 26,34,10.1,Mar 26,29,9.9,Apr 28,8,3.2,,,
+1983,Dec 30,25,4.6,Jan 28,30,6.8,Feb 25,34,9.4,Mar 31,50,15.4,,,,,,
+1984,Dec 28,51,10.8,Jan 30,37,12.5,Feb 29,41,13.3,Mar 29,52,16.4,,,,,,
+1985,Dec 27,24,6.5,Jan 31,46,9.6,Feb 27,38,11.4,Mar 27,40,14.9,May 01,17,6.6,,,
+1986,Dec 30,14,3.2,Jan 27,14,3.8,Feb 24,21,5.7,Mar 26,18,6.3,,,,,,
+1987,Dec 31,18,4.1,Jan 30,23,5.6,Feb 24,36,8.9,Mar 26,36,10.0,,,,,,
+1988,Dec 28,17,2.8,Jan 28,28,6.8,Feb 26,26,7.0,Mar 31,16,5.5,,,,,,
+1989,Dec 28,21,4.2,Feb 01,27,6.4,Feb 27,38,11.1,Mar 28,24,9.1,,,,,,
+1990,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,75 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 58O04: Innoko Inn, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Innoko Inn (58O04) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 200 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:33:03 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1996,,,,,,,May 01,22,4.1,Mar 29,20,4.5,,,,,,
+1997,,,,,,,Feb 21,24,3.5,Mar 28,24,4.0,Apr 29,0,0.0,,,
+1998,,,,,,,Feb 23,16,3.0,Jul 01,10,3.4,Apr 29,0,0.0,,,
+1999,,,,,,,Mar 02,21,3.8,Apr 12,26,5.6,,,,,,
+2000,,,,,,,Feb 28,29,6.2,Mar 29,31,7.2,,,,,,
+2001,,,,,,,Mar 07,22,3.0,Mar 29,24,4.0,,,,,,
+2002,,,,Feb 06,22,3.0,Mar 06,26,4.5,Mar 29,23,4.8,,,,,,
+2003,,,,,,,,,,,,,Apr 29,0,0.0,,,
+2004,,,,,,,Mar 01,22,3.0,Apr 01,24,4.4,,,,,,
+2005,,,,Feb 01,25,5.2,Mar 07,31,7.6,Mar 31,30,7.3,,,,,,
+2006,,,,Feb 08,16,2.4,,,,Apr 06,22,4.8,,,,,,
+2007,,,,,,,,,,Apr 04,17,4.0,Apr 30,0,0.0,,,
+2008,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,
+2010,,,,,,,,,,Mar 30,20,3.8,,,,,,
+2011,,,,Feb 02,21,3.8,Mar 01,23,4.7,Mar 30,22,5.0,,,,,,
+2012,,,,,,,,,,,,,,,,,,
+2013,,,,Feb 01,18,2.8,Feb 28,21,4.5,Mar 31,22,5.0,Apr 30,17,4.9,,,

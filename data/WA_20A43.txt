@@ -1,0 +1,71 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20A43: Thompson Ridge, WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Thompson Ridge (20A43) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 4650 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:32:32 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+2002,,,,Jan 30,28,7.2,Feb 27,32,9.8,,,,,,,,,
+2003,,,,Jan 29,32,8.9,,,,,,,,,,,,
+2004,,,,Jan 31,29,7.4,Feb 25,34,8.2,,,,,,,,,
+2005,,,,Jan 26,16,4.9,,,,Mar 30,16,4.9,,,,,,
+2006,,,,Feb 02,53,12.4,Feb 24,48,13.9,,,,,,,,,
+2007,,,,Jan 31,38,12.5,Feb 23,40,13.5,,,,,,,,,
+2008,Dec 26,28,6.4,Jan 29,36,9.1,Feb 28,37,11.7,,,,,,,,,
+2009,,,,,,5.5,,,5.9,,,7.8,,,,,,
+2010,,,,,37,8.6,,36,10.7,,33,9.9,,,,,,
+2011,,,,Jan 27,26,7.3,Feb 28,46,10.5,Mar 30,52,16.1,,,,,,
+2012,,,,Jan 27,45,8.4,Feb 27,41,11.2,Mar 29,49,14.6,,,,,,
+2013,,,,Jan 31,33,10.3,Feb 25,35,10.9,Mar 25,30,11.0,,,,,,
+2014,,,,,,,Feb 28,43,10.1,Mar 28,37,12.6,,,,,,
+2015,,,,Jan 28,30,7.7,,,,Mar 25,22,7.5,,,,,,

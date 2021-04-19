@@ -1,0 +1,72 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21F13: Paulina Lake (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Paulina Lake (disc) (21F13) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 6330 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:55:28 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1955,,,,Feb 01,32,9.6,Feb 28,36,11.6,Mar 31,39,14.1,Apr 30,47,18.6,,,
+1956,,,,Feb 02,60,18.7,Feb 29,85,28.2,Mar 22,72,28.6,May 02,44,21.5,,,
+1957,,,,Jan 25,41,10.4,Feb 27,44,15.5,Mar 27,57,21.5,Apr 29,38,16.2,,,
+1958,,,,Jan 23,45,14.5,Feb 21,59,22.3,Mar 20,58,24.1,Apr 25,54,24.7,,,
+1959,,,,Jan 19,11,4.5,Mar 02,28,9.3,Mar 18,27,9.6,Apr 22,7,3.6,,,
+1960,,,,Jan 25,26,6.2,Feb 23,32,9.1,Mar 28,36,12.3,Apr 25,33,14.7,,,
+1961,,,,Jan 18,32,10.7,Feb 23,42,14.4,Mar 27,69,22.8,Apr 26,46,18.5,,,
+1962,,,,Jan 23,50,17.4,Feb 23,56,19.3,Mar 22,70,22.9,Apr 23,31,14.1,,,
+1963,,,,Jan 21,14,5.4,Feb 18,27,8.5,Mar 18,27,10.0,Apr 24,41,15.3,,,
+1964,,,,Jan 22,56,13.7,Feb 18,50,16.5,Mar 23,57,18.8,Apr 29,39,18.1,,,
+1965,,,,Jan 20,67,24.2,Mar 02,72,28.5,,,,Apr 26,45,21.8,,,
+1966,,,,Jan 24,51,14.0,Feb 22,48,16.5,Mar 27,51,18.8,Apr 26,22,10.5,,,
+1967,,,,Jan 27,55,14.8,Feb 23,53,18.0,Mar 28,58,20.7,Apr 26,67,23.6,,,
+1968,,,,Jan 29,19,4.2,Feb 29,20,7.5,Mar 25,24,9.0,Apr 26,12,5.4,,,
+1969,,,,,,,,,,,,,,,,,,

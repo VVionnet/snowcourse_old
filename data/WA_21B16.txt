@@ -1,0 +1,86 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21B16: Mt. Lindsay (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Mt. Lindsay (disc) (21B16) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 2500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:56:03 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1954,,,,,,,Mar 02,56,20.1,Apr 02,60,23.6,,,,,,
+1955,,,,,,,Mar 02,57,15.3,Apr 02,71,24.8,,,,,,
+1956,,,,,,,,,,Mar 30,100,43.4,,,,,,
+1957,,,,,,,Feb 27,43,15.3,Mar 29,47,20.2,,,,,,
+1958,,,,,,,Feb 25,0,0.0,Mar 28,0,0.0,,,,,,
+1959,,,,,,,Mar 02,17,6.2,Mar 29,28,8.1,,,,,,
+1960,,,,,,,Feb 28,24,8.2,Mar 31,39,13.0,,,,,,
+1961,,,,,,,Mar 01,23,5.8,Mar 31,21,8.4,,,,,,
+1962,,,,,,,Feb 28,20,5.1,Mar 29,40,12.9,,,,,,
+1963,,,,,,,Feb 26,0,0.0,Apr 04,17,4.4,,,,,,
+1964,,,,,,,Feb 26,59,20.5,Mar 30,76,28.0,,,,,,
+1965,,,,,,,Mar 01,57,23.8,Mar 30,56,21.5,,,,,,
+1966,,,,,,,Mar 03,75,22.8,Mar 29,69,28.3,,,,,,
+1967,,,,,,,Feb 27,30,10.1,Mar 27,50,16.3,,,,,,
+1968,,,,,,,Feb 27,10,4.2,Mar 27,0,0.0,,,,,,
+1969,,,,,,,Feb 24,79,29.2,Mar 31,68,29.2,,,,,,
+1970,,,,,,,Feb 26,23,8.4,Mar 27,21,8.2,,,,,,
+1971,,,,,,,Feb 27,68,22.0,Mar 30,92,36.6,,,,,,
+1972,,,,,,,Feb 25,69,26.4,Mar 28,52,24.1,,,,,,
+1973,,,,,,,Feb 26,16,6.8,Mar 29,15,5.7,,,,,,
+1974,,,,,,,Feb 28,65,22.6,Mar 29,56,24.4,,,,,,
+1975,,,,,,,Feb 28,46,17.7,Mar 31,62,23.3,,,,,,
+1976,,,,,,,Mar 01,48,10.8,Mar 30,49,16.8,,,,,,
+1977,,,,Jan 27,0,0.0,Mar 01,5,0.6,Mar 29,22,6.6,,,,,,
+1978,,,,,,,Feb 24,0,0.0,Mar 27,0,0.0,,,,,,
+1979,,,,,,,Feb 28,49,15.0,Mar 30,34,11.9,,,,,,
+1980,,,,,,,Feb 25,24,7.9,Mar 27,34,11.4,,,,,,
+1981,,,,,,,Feb 24,0,0.0,Mar 27,0,0.0,,,,,,
+1982,,,,,,,,,,,,,,,,,,

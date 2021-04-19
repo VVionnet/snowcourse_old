@@ -1,0 +1,85 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 23G12: King Mountain 5, OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# King Mountain 5 (23G12) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 2380 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:44:40 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1967,,,,Jan 27,0,0.0,Feb 24,0,0.0,,,,,,,,,
+1968,Dec 27,0,0.0,Jan 25,0,0.0,Feb 27,0,0.0,Mar 25,0,0.0,Apr 24,0,0.0,,,
+1969,Dec 24,0,0.0,,,,Feb 21,0,0.0,Mar 28,0,0.0,Apr 28,0,0.0,,,
+1970,Dec 30,0,0.0,Jan 28,0,0.0,Feb 25,0,0.0,Mar 26,0,0.0,Apr 29,0,0.0,,,
+1971,Dec 30,0,0.0,Jan 28,0,0.0,Feb 22,0,0.0,Mar 29,0,0.0,Apr 27,0,0.0,,,
+1972,Dec 28,0,0.0,Jan 26,3,0.3,Feb 26,0,0.0,Mar 29,0,0.0,Apr 28,0,0.0,,,
+1973,,,,,,,,,,,,,,,,,,
+1974,,,,,,,,,,,,,,,,,,
+1975,,,,,,,,,,,,,,,,,,
+1976,Dec 29,0,0.0,Jan 27,0,0.0,Feb 26,0,0.0,Mar 29,0,0.0,Apr 28,0,0.0,,,
+1977,Dec 28,0,0.0,Jan 27,0,0.0,Feb 25,0,0.0,Mar 29,0,0.0,Apr 26,0,0.0,,,
+1978,Dec 29,0,0.0,Jan 26,0,0.0,Feb 24,0,0.0,Mar 27,0,0.0,Apr 28,0,0.0,,,
+1979,Dec 28,0,0.0,Jan 30,3,0.4,Feb 26,0,0.0,Mar 27,0,0.0,Apr 26,0,0.0,,,
+1980,Dec 26,0,0.0,Jan 28,0,0.0,Feb 27,0,0.0,Mar 27,0,0.0,Apr 28,0,0.0,,,
+1981,Dec 29,0,0.0,Jan 27,0,0.0,Feb 26,0,0.0,Mar 30,0,0.0,Apr 27,0,0.0,,,
+1982,Dec 29,0,0.0,Jan 26,0,0.0,Feb 24,0,0.0,Mar 29,0,0.0,Apr 27,0,0.0,,,
+1983,Dec 28,0,0.0,Jan 26,0,0.0,Feb 28,0,0.0,Mar 29,0,0.0,Apr 28,0,0.0,,,
+1984,Dec 28,0,0.0,Jan 29,0,0.0,Feb 27,0,0.0,Mar 29,0,0.0,Apr 25,0,0.0,,,
+1985,Dec 27,0,0.0,Jan 29,2,0.2,Feb 26,0,0.0,Apr 02,0,0.0,Apr 29,0,0.0,,,
+1986,Dec 26,0,0.0,Jan 29,0,0.0,Feb 25,0,0.0,Mar 27,0,0.0,Apr 29,0,0.0,,,
+1987,Dec 30,0,0.0,Jan 27,0,0.0,Feb 26,0,0.0,Mar 27,0,0.0,Apr 27,0,0.0,,,
+1988,Dec 30,3,0.4,Jan 27,0,0.0,Feb 25,0,0.0,Mar 29,0,0.0,Apr 28,0,0.0,,,
+1989,Jan 03,1,0.3,Jan 26,0,0.0,Feb 23,0,0.0,Mar 29,0,0.0,Apr 26,0,0.0,,,
+1990,,,,,,,May 01,,0.0,Jul 01,,0.0,Sep 01,,0.0,,,
+1991,,,,,,,,,,,,,,,,,,
+1992,,,,Mar 01,,0.0,,,,,,,,,,,,
+1993,,,,,,,,,,Jul 01,,0.0,,,,,,
+1994,,,,,,,,,,,,,,,,,,

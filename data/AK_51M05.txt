@@ -1,0 +1,93 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 51M05: Chuitna Plateau, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Chuitna Plateau (51M05) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 1540 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:37:15 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1982,,,,Jan 25,24,7.6,Mar 01,22,7.5,Mar 26,51,15.3,May 04,44,15.0,,,
+1983,,,,Feb 02,60,20.4,Mar 08,57,21.6,Apr 07,57,22.3,May 05,57,25.1,,,
+1984,,,,Feb 02,61,23.7,Mar 04,70,26.4,Apr 03,63,27.2,May 02,57,24.4,,,
+1985,,,,Feb 13,64,23.0,Mar 05,70,24.2,Apr 02,82,32.0,Apr 30,74,30.7,,,
+1986,,,,Feb 03,64,23.5,Mar 03,66,26.0,Mar 31,62,25.7,Sep 01,65,27.2,,,
+1987,,,,Mar 01,69,26.5,Mar 03,71,28.4,Jul 01,77,31.6,Apr 27,79,34.4,,,
+1988,,,,Mar 01,53,18.1,May 01,76,24.2,Apr 01,84,33.6,Sep 01,97,38.7,,,
+1989,,,,Mar 01,62,22.2,May 01,62,22.8,Mar 29,68,23.8,Sep 01,58,26.6,,,
+1990,,,,Mar 01,70,28.8,May 01,82,32.6,Jul 01,103,40.8,Apr 26,103,42.2,,,
+1991,,,,Mar 01,100,22.1,May 01,68,25.8,Mar 30,79,30.8,,,,,,
+1992,,,,,,,May 01,73,26.5,Mar 30,81,30.8,,,,,,
+1993,,,,,,,,,,,,,,,,,,
+1994,,,,,,,May 01,80,31.8,Mar 28,102,38.8,,,,,,
+1995,,,,,,,Mar 01,62,23.3,Mar 30,72,28.1,,,,,,
+1996,,,,,,,May 01,42,8.7,Mar 27,41,10.2,,,,,,
+1997,,,,,,,May 01,57,20.6,Apr 02,57,21.1,,,,,,
+1998,,,,,,,May 01,54,16.3,Mar 30,54,17.3,,,,,,
+1999,,,,,,,Feb 25,64,20.8,Mar 29,66,23.1,,,,,,
+2000,,,,,,,Feb 28,88,32.6,Jul 01,102,40.2,,,,,,
+2001,,,,,,,Mar 01,103,38.6,Mar 31,110,41.8,,,,,,
+2002,,,,,,,Mar 05,75,26.5,Mar 27,77,27.7,,,,,,
+2003,,,,Feb 01,50,16.8,May 01,66,22.8,Mar 31,76,24.3,,,,,,
+2004,,,,,,,Feb 25,60,20.8,Mar 31,64,20.5,,,,,,
+2005,,,,,,,Feb 28,111,40.0,Mar 29,108,41.5,,,,,,
+2006,,,,,,,Feb 28,76,28.0,Mar 30,76,30.4,,,,,,
+2007,,,,,,,Feb 27,55,18.2,Mar 29,48,19.5,,,,,,
+2008,,,,Jan 29,89,29.0,Mar 01,,33.8,Mar 27,108,38.0,,,,,,
+2009,,,,,,,Feb 26,84,27.9,Apr 02,89,29.8,,,,,,
+2010,,,,,,,,,,Mar 31,49,16.5,,,,,,
+2011,,,,,,,Feb 28,51,17.8,Mar 29,45,18.0,,,,,,
+2012,,,,,,,Feb 29,64,20.0,Mar 28,64,21.5,,,,,,
+2013,,,,,,,Feb 27,57,13.7,Apr 01,57,22.8,,,,,,
+2014,,,,,,,Feb 26,33,9.5,Apr 01,42,13.1,,,,,,
+2015,,,,,,,Feb 27,49,10.6,Mar 30,33,12.9,,,,,,
+2016,,,,,,,Mar 01,68,20.9,Mar 31,70,27.3,,,,,,
+2017,,,,,,,Mar 01,52,13.2,Mar 30,46,13.5,,,,,,

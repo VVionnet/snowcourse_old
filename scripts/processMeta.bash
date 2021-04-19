@@ -39,6 +39,8 @@ for file in ${dirMeta}/tables/*.html; do
  # loop through the lines in the file
  while IFS= read -r line; do
 
+  echo $line
+
   # strip out the extraneous information
   chek=`echo "${line}" | cut -d ">" -f 1`
   echo "$chek" | grep -q "SNOW" && trim="$line" || trim=`echo "$line" | cut -d ">" -f 2`

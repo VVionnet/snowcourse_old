@@ -1,0 +1,78 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21A13: Sulphur Creek (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Sulphur Creek (disc) (21A13) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 1600 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:53:26 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1959,,,,Jan 31,6,2.4,Mar 03,13,6.3,Mar 28,13,5.3,Apr 27,0,0.0,,,
+1960,,,,Jan 31,10,3.0,Feb 28,14,5.3,Mar 29,17,6.4,Apr 29,0,0.0,,,
+1961,,,,Jan 27,0,0.0,Feb 24,10,3.6,Mar 27,15,5.8,Apr 26,0,0.0,,,
+1962,,,,Jan 31,28,9.5,Feb 27,18,6.9,Mar 31,28,10.4,May 01,0,0.0,,,
+1963,,,,Feb 02,8,2.3,Mar 02,0,0.0,Apr 01,4,1.0,Apr 28,0,0.0,,,
+1964,,,,Feb 03,32,12.0,Feb 27,35,14.0,Mar 29,56,23.1,May 02,33,14.1,Jun 03,0,0.0
+1965,,,,,,,,,,Mar 30,39,18.6,May 01,0,0.0,,,
+1966,,,,,,,,,,Mar 31,52,21.6,Apr 29,22,10.0,May 30,0,0.0
+1967,,,,,,,,,,Mar 29,40,15.1,Apr 27,20,8.7,,,
+1968,,,,,,,,,,Mar 31,13,5.9,May 01,0,0.0,,,
+1969,,,,,,,,,,Mar 29,52,23.4,May 02,23,10.1,,,
+1970,,,,,,,,,,Apr 02,0,0.0,May 02,0,0.0,,,
+1971,,,,,,,,,,Apr 03,75,32.6,Apr 28,56,27.3,,,
+1972,,,,,,,,,,Mar 30,55,22.7,May 01,42,19.9,,,
+1973,,,,,,,,,,Mar 30,4,2.2,Apr 28,0,0.0,,,
+1974,,,,,,,,,,Apr 10,41,18.0,May 02,16,7.0,,,
+1975,,,,,,,,,,Mar 30,47,19.4,Apr 30,32,14.1,,,
+1976,,,,,,,,,,Apr 02,66,28.1,Apr 28,44,20.9,,,
+1977,,,,,,,,,,Mar 28,12,4.7,Apr 26,0,0.0,,,
+1978,,,,,,,,,,Mar 30,0,0.0,Apr 26,0,0.0,,,
+1979,,,,,,,,,,,,,,,,,,

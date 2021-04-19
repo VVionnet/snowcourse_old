@@ -1,0 +1,68 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 06J39: Kremmling Reservoir, CO
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Kremmling Reservoir (06J39) 
+# Colorado  SNOW COURSE/AERIAL MARKER Site - 10240 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:32:35 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+2001,,,,,,,Mar 01,43,10.9,Apr 01,46,12.6,Apr 27,42,13.1,,,
+2002,,,,Jan 31,30,5.6,Feb 26,37,8.6,Mar 27,40,11.4,,,,,,
+2003,,,,Jan 28,34,8.9,Feb 24,53,12.4,Mar 26,51,12.6,Apr 30,44,14.6,,,
+2004,,,,Jan 26,32,8.0,Feb 23,37,9.0,Mar 30,35,11.0,,,,,,
+2005,,,,Jan 26,40,11.2,Feb 22,48,12.5,Mar 29,50,16.1,,,,,,
+2006,,,,,,,Mar 06,50,15.2,Mar 27,60,19.2,,,,,,
+2007,,,,Jan 29,34,8.2,Feb 26,42,10.0,Mar 30,43,12.6,Apr 23,40,13.0,,,
+2008,,,,Jan 28,48,11.6,Feb 28,55,16.3,Apr 02,59,19.4,Apr 29,0,0.0,,,
+2009,,,,Jan 27,50,13.8,Feb 26,52,16.2,Mar 26,56,16.8,,,,,,
+2010,,,,Jan 26,31,6.1,Feb 25,46,10.6,Mar 30,47,12.7,,,,,,
+2011,,,,Jan 26,53,15.4,Feb 24,60,17.1,Mar 25,70,23.8,Apr 28,0,0.0,,,

@@ -1,0 +1,70 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21E02: Breitenbush (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Breitenbush (disc) (21E02) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 2320 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:01:44 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1941,Dec 31,3,0.4,Jan 31,0,0.0,Feb 28,0,0.0,Mar 28,0,0.0,,,,,,
+1942,Dec 31,0,0.0,Jan 31,6,3.0,Feb 28,8,2.8,Apr 01,0,0.0,,,,,,
+1943,Dec 31,19,9.1,Jan 31,37,14.6,,,,,,,,,,,,
+1944,Dec 31,0,0.0,Jan 31,2,0.2,Feb 29,2,0.2,Mar 31,0,0.0,,,,,,
+1945,,,,Feb 01,3,0.7,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1946,Dec 31,0,0.0,Jan 31,16,4.3,Feb 28,16,5.0,Apr 01,12,3.9,,,,,,
+1947,,,,,,,Feb 22,12,4.4,,,,,,,,,
+1948,Dec 30,1,0.3,Jan 31,7,1.6,Feb 28,9,3.3,Mar 27,13,4.6,Apr 28,0,0.0,,,
+1949,,,,,,,Feb 28,49,17.3,Mar 29,35,13.6,Apr 30,12,5.7,,,
+1950,,,,,,,,,,,,,May 01,18,7.2,,,
+1951,Jan 01,0,0.0,Feb 01,16,5.4,Feb 27,14,4.3,Mar 31,25,8.9,May 01,0,0.0,,,
+1952,Jan 04,22,3.8,Feb 01,27,9.7,Feb 28,29,10.2,Mar 30,25,9.7,,,,,,
+1953,,,,,,,,,,,,,,,,,,

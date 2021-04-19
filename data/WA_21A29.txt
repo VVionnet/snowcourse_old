@@ -1,0 +1,74 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21A29: Granite Creek (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Granite Creek (disc) (21A29) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 3500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:42:30 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1971,,,,Jan 28,70,21.2,Mar 01,48,18.2,Apr 01,74,29.4,Apr 26,58,27.4,,,
+1972,,,,Jan 27,77,22.5,Mar 04,92,32.4,Mar 27,78,31.4,Apr 26,65,28.6,,,
+1973,,,,Jan 27,38,10.4,Feb 24,34,11.6,Mar 28,32,11.4,Apr 27,11,4.6,,,
+1974,,,,Feb 06,81,21.0,Mar 03,77,24.8,Apr 12,60,24.6,Apr 27,48,20.8,,,
+1975,,,,Jan 28,54,16.4,Feb 24,67,21.0,Mar 27,65,22.2,Apr 27,45,19.0,,,
+1976,,,,Jan 29,57,19.2,Feb 23,78,22.0,Mar 26,85,27.4,Apr 26,59,24.6,,,
+1977,,,,Jan 26,15,3.1,Feb 24,18,4.7,Mar 27,39,9.8,Apr 25,6,2.4,,,
+1978,,,,Jan 28,47,13.5,Feb 25,42,14.9,Mar 27,35,13.8,Apr 25,12,5.1,,,
+1979,,,,Jan 29,38,9.4,Feb 27,60,15.2,Mar 30,41,13.8,Apr 28,24,9.6,,,
+1980,,,,,,,Feb 27,41,13.0,Mar 28,43,14.3,Apr 29,9,2.9,,,
+1981,,,,Jan 29,16,3.9,Feb 26,25,7.5,Mar 28,17,6.4,Apr 29,4,1.7,,,
+1982,,,,Jan 27,69,13.9,,,,,,,,,,,,
+1983,,,,,,,,,,,,,,,,,,
+1984,,,,Jan 30,27,8.2,Feb 28,37,10.2,Mar 29,26,9.2,Apr 26,16,5.4,,,
+1985,,,,Jan 29,42,12.6,Feb 27,53,16.4,Mar 31,59,17.6,Apr 30,30,11.4,,,
+1986,,,,Jan 30,40,12.0,Feb 28,43,12.6,Mar 28,32,11.2,Apr 30,9,3.6,,,
+1987,,,,,,,,,,,,,,,,,,

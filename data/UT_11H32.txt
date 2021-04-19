@@ -1,0 +1,108 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11H32: Lost Creek Reservoir, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Lost Creek Reservoir (11H32) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 6083 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:46:58 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1963,,,,,,,Feb 20,0,0.0,Mar 25,0,0.0,Apr 26,0,0.0,May 28,0,0.0
+1964,,,,,,,Feb 24,0,0.0,Mar 24,20,5.2,Apr 27,0,0.0,,,
+1965,,,,,,,Feb 19,18,6.1,Apr 01,0,0.1,Apr 29,0,0.0,,,
+1966,,,,,,,Feb 23,23,5.2,Mar 24,8,3.2,Apr 26,0,0.0,,,
+1967,,,,,,,Mar 01,16,4.8,Mar 30,2,0.1,Apr 24,0,0.0,,,
+1968,,,,,,,Feb 23,18,4.6,Mar 28,0,0.0,Apr 25,0,0.0,,,
+1969,,,,,,,,,,,,,,,,,,
+1970,,,,,,,,,,,,,,,,,,
+1971,,,,,,,,,,,,,,,,,,
+1972,,,,,,,Feb 29,26,9.8,Mar 31,0,0.0,,,,,,
+1973,,,,,,,,,,Apr 02,22,6.8,Apr 27,0,0.0,,,
+1974,,,,,,,Feb 26,35,9.9,,,,,,,,,
+1975,Dec 26,12,1.9,Jan 29,16,3.5,Feb 26,24,6.4,Apr 01,17,6.6,May 01,0,0.0,May 29,0,0.0
+1976,Jan 02,9,2.1,Jan 27,12,3.1,Feb 26,17,5.7,Mar 31,0,0.0,Apr 28,0,0.0,May 26,0,0.0
+1977,Dec 28,0,0.0,Jan 26,0,0.0,Feb 25,6,0.9,Mar 31,0,0.0,Apr 25,0,0.0,May 31,0,0.0
+1978,Jan 09,15,3.3,Jan 27,24,4.6,Feb 23,22,7.7,Mar 29,0,0.0,Apr 24,0,0.0,May 30,0,0.0
+1979,Dec 28,18,4.2,Jan 30,30,6.9,Feb 27,30,9.3,Mar 26,17,6.4,Apr 25,0,0.0,Jun 01,0,0.0
+1980,Dec 26,0,0.0,,,,,,,,,,Apr 28,0,0.0,May 28,0,0.0
+1981,Dec 26,0,0.0,Jan 26,0,0.0,Feb 22,0,0.0,Mar 25,0,0.0,Apr 24,0,0.0,May 28,0,0.0
+1982,,,,Jan 25,25,6.8,Feb 24,19,7.1,Mar 27,10,4.4,Apr 25,0,0.0,May 26,0,0.0
+1983,Dec 28,12,2.6,Jan 26,12,3.0,Feb 22,17,5.2,Mar 26,0,0.0,Apr 26,0,0.0,May 27,0,0.0
+1984,Dec 30,33,8.0,Jan 26,28,7.9,Mar 01,30,8.9,Mar 28,16,6.5,Apr 24,0,0.0,May 29,0,0.0
+1985,Dec 26,19,4.1,Jan 27,20,4.9,Feb 24,24,5.9,Mar 26,12,3.0,Apr 25,0,0.0,May 30,0,0.0
+1986,Dec 27,17,3.5,Mar 01,,6.1,Feb 24,20,7.8,Mar 28,0,0.0,Apr 27,0,0.0,,,
+1987,Dec 29,0,0.0,Mar 01,,2.1,Feb 26,14,3.4,Mar 24,7,1.2,Apr 23,0,0.0,Nov 01,0,0.0
+1988,Dec 26,8,0.8,Mar 01,,2.6,Feb 27,16,4.4,Mar 25,1,0.3,Apr 28,0,0.0,,,
+1989,Dec 27,20,3.0,Mar 01,,4.5,Feb 22,28,6.9,Mar 23,2,0.8,Apr 24,0,0.0,Nov 01,,0.0
+1990,Dec 26,8,1.1,Mar 01,,3.0,Feb 22,18,3.9,Mar 29,0,0.0,Apr 23,0,0.0,Nov 01,,0.0
+1991,,,,,,,Feb 22,9,2.8,Mar 25,1,0.8,Apr 24,0,0.0,,,
+1992,,,,,,,Feb 27,6,1.6,Mar 25,0,0.0,Apr 24,0,0.0,,,
+1993,,,,,,,Feb 27,37,8.9,Mar 26,7,2.6,Apr 26,0,0.0,,,
+1994,,,,,,,Feb 28,14,3.5,Mar 26,0,0.0,Apr 25,0,0.0,,,
+1995,,,,,,,Feb 22,13,3.8,Mar 25,3,0.2,Apr 27,0,0.0,,,
+1996,,,,,,,Feb 29,28,8.5,Mar 30,12,5.5,Apr 28,0,0.0,,,
+1997,,,,,,,Feb 25,35,11.2,Mar 27,18,6.5,Apr 28,0,0.0,,,
+1998,,,,,,,Mar 02,24,6.5,Apr 02,9,2.5,Apr 26,0,0.0,,,
+1999,,,,,,,Feb 26,15,5.3,Mar 29,1,0.2,Apr 28,0,0.0,,,
+2000,,,,,,,Feb 28,13,4.1,Mar 31,0,0.0,Apr 27,0,0.0,,,
+2001,,,,,,,Feb 26,27,6.1,Mar 29,0,0.0,Apr 27,0,0.0,,,
+2002,,,,,,,Feb 27,25,6.0,Mar 27,16,4.1,Apr 26,0,0.0,,,
+2003,,,,,,,Feb 24,8,2.0,Mar 27,1,0.3,Apr 27,0,0.0,,,
+2004,,,,,,,Feb 27,29,9.4,Mar 29,0,0.0,Apr 27,0,0.0,,,
+2005,,,,,,,Feb 25,18,7.5,Mar 31,1,0.2,Apr 26,0,0.0,,,
+2006,,,,,,,Feb 26,29,8.5,Mar 30,18,6.1,Apr 27,0,0.0,,,
+2007,,,,,,,Feb 24,6,1.9,Mar 29,0,0.0,Apr 26,0,0.0,,,
+2008,,,,,,,Feb 27,40,12.6,Mar 28,27,11.4,Apr 27,0,0.0,,,
+2009,,,,,,,Feb 28,16,6.1,Mar 27,5,0.8,Apr 28,0,0.0,,,
+2010,,,,,,,Feb 27,16,3.5,Mar 28,0,0.0,Apr 27,0,0.0,,,
+2011,,,,,,,,,,Mar 24,0,0.0,,,,,,
+2012,,,,,,,,,,,,,,,,,,
+2013,,,,,,,,,,Apr 01,0,0.0,Apr 29,0,0.0,,,

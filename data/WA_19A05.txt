@@ -1,0 +1,82 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 19A05: Horseshoe Basin Am (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Horseshoe Basin Am (disc) (19A05) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 7000 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:53:15 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1959,,,,Jan 29,33,10.2,Mar 02,38,13.7,Apr 04,35,12.6,,,,,,
+1960,,,,Jan 30,17,4.7,Feb 29,18,5.0,Apr 03,9,2.7,,,,,,
+1961,,,,Feb 01,12,3.6,Mar 03,18,5.4,Mar 29,25,9.5,,,,,,
+1962,,,,Feb 01,42,10.5,Mar 12,23,7.4,Mar 31,20,6.4,,,,,,
+1963,,,,Jan 28,18,4.5,Feb 25,12,4.0,Mar 31,33,11.6,,,,,,
+1964,,,,Jan 28,48,12.0,Feb 27,49,14.7,Mar 27,35,13.6,,,,,,
+1965,,,,,,,Feb 26,36,11.2,Mar 30,43,15.5,,,,,,
+1966,,,,,,,Feb 26,42,15.5,Mar 28,45,16.6,,,,,,
+1967,,,,Jan 30,48,14.9,Feb 26,51,17.3,Mar 30,60,21.0,,,,,,
+1968,,,,Jan 28,40,8.4,Feb 26,51,17.3,Mar 30,52,20.8,,,,,,
+1969,,,,Feb 01,48,15.4,Mar 03,57,20.5,Apr 03,60,25.2,,,,,,
+1970,,,,Feb 03,39,10.5,Feb 26,43,14.6,Mar 30,47,16.4,,,,,,
+1971,,,,Feb 01,44,14.1,Feb 28,54,21.6,Apr 03,64,24.3,,,,,,
+1972,,,,Feb 01,58,19.1,Mar 03,79,28.4,Mar 30,70,29.4,,,,,,
+1973,,,,Jan 30,30,8.1,Feb 27,32,10.2,Mar 30,46,16.1,,,,,,
+1974,,,,Feb 04,57,17.1,Mar 03,63,21.4,Apr 02,72,26.6,,,,,,
+1975,,,,Jan 30,43,12.9,Feb 26,46,15.2,Mar 31,64,23.7,,,,,,
+1976,,,,Jan 30,50,16.5,,,,Apr 01,62,18.6,,,,,,
+1977,,,,,,,,,,Mar 29,42,11.8,,,,,,
+1978,,,,,,,,,,Mar 30,48,16.3,,,,,,
+1979,,,,,,,Feb 28,48,12.0,Apr 02,48,14.4,,,,,,
+1980,,,,Jan 29,42,10.5,Feb 29,44,11.9,,,,,,,,,
+1981,,,,,,,Mar 02,48,13.4,Apr 02,48,12.5,,,,,,
+1982,,,,Feb 03,66,17.8,Feb 27,56,16.8,,,,,,,,,
+1983,,,,,,,,,,,,,,,,,,

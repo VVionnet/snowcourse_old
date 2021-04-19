@@ -1,0 +1,85 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 51K14: Mcneil Canyon, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Mcneil Canyon (51K14) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 1320 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:35:11 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1987,,,,Jan 28,30,9.2,Mar 01,41,12.0,Apr 01,45,14.5,Apr 24,40,15.6,,,
+1988,,,,Jan 26,29,7.3,Mar 01,49,12.5,Mar 31,60,19.5,Apr 27,56,21.0,,,
+1989,,,,Jan 29,38,10.0,Mar 02,33,10.2,Mar 30,30,9.4,Apr 26,16,5.8,,,
+1990,Jan 03,22,4.3,Jan 30,28,6.2,Mar 04,39,8.6,Apr 02,29,9.0,Sep 01,1,0.3,,,
+1991,Dec 28,10,2.7,Jan 29,17,3.9,Feb 28,23,5.6,Mar 26,30,8.2,Apr 30,16,5.6,,,
+1992,Jan 02,33,6.5,Jan 29,38,10.3,Mar 02,45,11.4,Mar 31,56,17.1,May 01,35,12.4,,,
+1993,,,,Feb 01,34,7.2,Feb 27,27,8.7,Apr 02,33,9.5,Apr 30,6,2.2,,,
+1994,,,,Jan 31,21,5.8,Feb 25,21,5.9,Apr 01,30,8.5,May 02,2,1.0,,,
+1995,,,,Feb 01,38,10.1,Feb 27,38,11.7,Apr 03,39,12.4,May 01,14,6.2,,,
+1996,,,,Jan 31,10,1.6,Feb 29,23,4.6,Apr 02,19,4.6,Apr 30,0,0.0,,,
+1997,,,,Jan 30,21,4.3,Feb 28,27,5.1,Apr 03,30,7.5,Apr 29,0,0.0,,,
+1998,,,,Feb 02,33,9.8,Mar 02,37,12.2,Apr 06,39,13.5,Apr 30,28,9.6,,,
+1999,,,,Jan 29,34,8.4,Feb 26,57,13.5,Apr 01,58,17.4,Apr 29,41,16.6,,,
+2000,,,,Jan 28,48,9.5,Mar 01,48,12.6,Mar 30,58,16.9,May 01,27,11.6,,,
+2001,,,,Jan 29,41,9.9,May 01,54,13.5,Apr 02,55,16.7,Apr 25,40,15.9,,,
+2002,,,,Jan 30,34,9.0,Feb 28,53,16.4,Apr 02,50,16.3,May 01,28,10.7,,,
+2003,,,,Jan 30,13,4.6,Mar 03,6,2.0,Mar 31,8,2.4,Apr 30,0,0.0,,,
+2004,,,,,,,Mar 01,29,8.0,Mar 31,42,10.3,,,,,,
+2005,,,,,,,Feb 28,30,9.4,Apr 02,33,10.1,,,,,,
+2006,,,,,,,,,,,,,,,,,,
+2007,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,
+2010,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,Mar 02,54,15.8,,,,,,,,,
+2013,,,,,,,,,,,,,,,,,,
+2014,,,,,,,Feb 28,5,1.5,,,,,,,,,

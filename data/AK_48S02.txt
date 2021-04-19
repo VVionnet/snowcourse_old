@@ -1,0 +1,108 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 48S02: Squaw Lake, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Squaw Lake (48S02) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 2150 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:44:08 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1967,,,,,,,Mar 06,20,2.6,Apr 07,21,3.2,,,,,,
+1968,,,,,,,Mar 05,29,5.5,Apr 03,28,5.7,,,,,,
+1969,,,,,,,Mar 03,18,2.5,Apr 01,22,3.3,,,,,,
+1970,,,,,,,Mar 03,15,1.8,Apr 03,18,2.9,,,,,,
+1971,,,,,,,Mar 05,28,4.6,Apr 02,33,6.6,,,,,,
+1972,,,,,,,Mar 01,12,2.2,Apr 05,18,3.2,,,,,,
+1973,,,,,,,Feb 27,24,4.6,Mar 27,24,4.6,,,,,,
+1974,,,,,,,Feb 25,16,2.4,Mar 27,18,3.0,,,,,,
+1975,,,,,,,Feb 25,16,2.4,Mar 27,21,3.6,,,,,,
+1976,,,,,,,Feb 24,16,2.6,Mar 27,18,3.1,,,,,,
+1977,,,,,,,Feb 24,25,4.1,Mar 29,27,5.1,,,,,,
+1978,,,,,,,Feb 27,20,3.2,Mar 28,21,3.5,,,,,,
+1979,,,,,,,Feb 26,14,2.2,Mar 27,18,2.7,,,,,,
+1980,,,,,,,Feb 25,27,4.8,Mar 27,26,5.4,,,,,,
+1981,,,,,,,May 01,27,4.4,Mar 30,28,5.5,,,,,,
+1982,,,,,,,Feb 26,17,3.1,Mar 26,22,3.7,,,,,,
+1983,,,,,,,Feb 24,19,3.0,Mar 28,18,3.2,,,,,,
+1984,,,,,,,Mar 03,24,3.3,Mar 27,23,3.6,,,,,,
+1985,,,,,,,Feb 27,21,3.1,Mar 27,23,3.9,,,,,,
+1986,,,,,,,Mar 06,18,3.0,Apr 02,21,3.8,,,,,,
+1987,,,,,,,Mar 08,26,4.4,Apr 01,24,4.5,,,,,,
+1988,,,,,,,May 01,25,4.1,Mar 29,27,4.8,,,,,,
+1989,,,,,,,May 01,13,2.0,Mar 22,13,2.0,Apr 19,13,4.0,,,
+1990,,,,,,,May 01,15,2.5,Jul 01,22,4.0,,,,,,
+1991,,,,,,,Feb 27,19,3.5,Jul 01,25,4.5,,,,,,
+1992,,,,,,,May 01,13,1.9,Jul 01,14,2.5,,,,,,
+1993,,,,,,,Mar 09,43,9.0,Apr 01,50,10.9,,,,,,
+1994,,,,,,,May 01,26,5.8,Apr 01,32,6.2,,,,,,
+1995,,,,,,,May 01,17,2.5,Jul 01,18,2.8,,,,,,
+1996,,,,,,,,,,,,,,,,,,
+1997,,,,,,,,,,,,,,,,,,
+1998,,,,,,,,,,Mar 31,21,3.8,,,,,,
+1999,,,,,,,,,,,,,,,,,,
+2000,,,,,,,,,,,,,,,,,,
+2001,,,,,,,,,,,,,,,,,,
+2002,,,,,,,,,,,,,,,,,,
+2003,,,,,,,,,,,,,,,,,,
+2004,,,,,,,,,,,,,,,,,,
+2005,,,,,,,,,,,,,,,,,,
+2006,,,,,,,,,,,,,,,,,,
+2007,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,
+2010,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,,,,,,,,,,,,
+2013,,,,,,,,,,,,,,,,,,
+2014,,,,,,,,,,,,,,,,,,
+2015,,,,,,,,,,,,,,,,,,
+2016,,,,,,,,,,,,,,,,,,
+2017,,,,,,,,23,,,,,,,,,,

@@ -1,0 +1,109 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20A25: Greenwood Flat Am (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Greenwood Flat Am (disc) (20A25) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 3540 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:11:32 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1927,,,,,,,,,,Mar 26,63,23.8,,,,,,
+1928,,,,,,,,,,Mar 22,37,15.3,,,,,,
+1929,,,,,,,,,,Mar 22,29,11.1,,,,,,
+1930,,,,,,,,,,Mar 23,44,15.4,,,,,,
+1931,,,,,,,,,,Mar 21,44,15.6,,,,,,
+1932,,,,,,,,,,,,,,,,,,
+1933,,,,,,,,,,,,,,,,,,
+1934,,,,,,,,,,,,,,,,,,
+1935,,,,,,,,,,,,,,,,,,
+1936,,,,,,,,,,Mar 22,50,19.8,,,,,,
+1937,,,,,,,,,,Mar 24,58,23.8,,,,,,
+1938,,,,,,,,,,Mar 23,91,30.1,,,,,,
+1939,,,,,,,,,,Mar 23,41,15.9,,,,,,
+1940,,,,,,,,,,Mar 24,52,22.2,,,,,,
+1941,,,,,,,,,,Mar 23,41,16.5,,,,,,
+1942,,,,,,,,,,Mar 20,49,18.0,,,,,,
+1943,,,,,,,,,,Mar 16,68,24.8,,,,,,
+1944,,,,Jan 31,34,9.3,,,,Mar 18,29,9.8,,,,,,
+1945,,,,,,,,,,Mar 18,58,16.3,,,,,,
+1946,,,,,,,,,,Mar 20,91,36.6,,,,,,
+1947,,,,,,,,,,Mar 20,50,20.6,,,,,,
+1948,,,,,,,,,,Mar 20,63,19.9,,,,,,
+1949,,,,,,,,,,Mar 19,84,34.3,,,,,,
+1950,,,,,,,,,,Mar 18,80,31.8,,,,,,
+1951,,,,,,,,,,Mar 20,95,34.6,,,,,,
+1952,,,,,,,,,,Mar 18,73,22.3,,,,,,
+1953,,,,,,,,,,Mar 19,72,25.9,,,,,,
+1954,,,,,,,,,,Mar 18,82,28.5,,,,,,
+1955,,,,,,,,,,Mar 19,60,20.9,,,,,,
+1956,,,,Jan 29,120,40.2,Mar 02,120,42.0,Mar 17,112,44.8,,,,,,
+1957,,,,Feb 06,50,15.2,Mar 01,54,18.4,Mar 17,71,21.7,,,,,,
+1958,,,,Feb 02,81,26.7,Feb 27,59,22.2,Mar 19,61,24.1,,,,,,
+1959,,,,Jan 29,90,27.9,Mar 02,78,28.1,Mar 19,83,29.7,,,,,,
+1960,,,,Jan 30,50,13.8,Feb 29,56,18.3,Mar 19,56,19.3,,,,,,
+1961,,,,Feb 02,64,23.0,Mar 03,75,23.2,Mar 21,66,25.7,,,,,,
+1962,,,,,,,Mar 07,37,13.0,Mar 20,34,13.5,,,,,,
+1963,,,,Jan 29,20,6.8,Feb 24,12,4.2,Mar 24,27,10.1,,,,,,
+1964,,,,Jan 28,97,24.2,Feb 27,73,26.3,,,,,,,,,
+1965,,,,Feb 01,69,20.0,Feb 26,55,17.0,,,,,,,,,
+1966,,,,,,,Feb 26,42,14.7,,,,,,,,,
+1967,,,,,,,,,,,,,Apr 30,70,28.4,,,
+1968,,,,,,,,,,,,,,,,,,
+1969,,,,Feb 03,97,31.0,,,,,,,,,,,,
+1970,,,,,,,,,,,,,,,,,,
+1971,,,,Feb 01,86,27.5,,,,,,,,,,,,
+1972,,,,,,,,,,,,,,,,,,
+1973,,,,Jan 30,51,15.3,Mar 02,51,18.9,Mar 22,45,17.1,,,,,,
+1974,,,,Feb 05,90,28.8,Mar 03,100,36.0,Mar 24,100,44.0,,,,,,
+1975,,,,,,,Feb 26,81,28.4,,,,,,,,,
+1976,,,,,,,,,,Mar 27,81,30.8,,,,,,
+1977,,,,,,,,,,,,,,,,,,
+1978,,,,,,,,,,,,,,,,,,

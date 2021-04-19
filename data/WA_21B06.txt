@@ -1,0 +1,94 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21B06: S.f. Cedar River (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# S.f. Cedar River (disc) (21B06) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 3000 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:00:23 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1946,,,,,,,Feb 27,89,37.8,Apr 03,100,47.7,,,,,,
+1947,,,,,,,Feb 27,47,19.6,Mar 28,35,16.7,,,,,,
+1948,,,,,,,Feb 27,79,30.3,Apr 01,84,31.0,,,,,,
+1949,,,,,,,,,,Mar 30,117,54.7,,,,,,
+1950,,,,,,,,,,Mar 28,119,42.9,,,,,,
+1951,,,,,,,,,,Apr 04,68,28.4,,,,,,
+1952,,,,,,,,,,Apr 03,81,30.5,,,,,,
+1953,,,,,,,,,,Mar 31,52,17.9,,,,,,
+1954,,,,,,,Mar 01,91,35.8,Apr 03,97,40.9,,,,,,
+1955,,,,,,,,,,Apr 02,112,37.2,,,,,,
+1956,,,,,,,,,,Mar 29,140,60.0,,,,,,
+1957,,,,,,,Feb 26,45,18.2,Mar 28,61,26.9,,,,,,
+1958,,,,,,,Feb 27,36,13.2,Mar 31,28,11.8,,,,,,
+1959,,,,,,,Mar 03,29,9.3,Mar 28,40,15.5,,,,,,
+1960,,,,,,,Feb 27,30,9.8,Mar 30,36,15.0,,,,,,
+1961,,,,,,,Feb 28,43,12.8,Mar 31,37,15.5,,,,,,
+1962,,,,,,,Mar 01,21,6.7,Mar 30,36,14.2,,,,,,
+1963,,,,,,,Feb 26,0,0.0,Apr 03,11,2.5,,,,,,
+1964,,,,,,,Feb 26,75,28.5,Apr 02,95,41.9,,,,,,
+1965,,,,,,,Feb 25,65,27.6,Mar 29,57,23.3,,,,,,
+1966,,,,,,,Feb 25,58,24.4,Mar 28,63,29.0,,,,,,
+1967,,,,,,,Feb 24,46,16.9,Mar 29,60,20.4,,,,,,
+1968,,,,,,,Feb 26,6,2.2,Mar 27,3,1.1,,,,,,
+1969,,,,,,,Feb 25,88,33.6,Mar 31,69,32.5,,,,,,
+1970,,,,,,,Feb 26,23,10.1,Mar 27,20,9.3,,,,,,
+1971,,,,,,,Feb 24,65,28.7,Mar 28,102,41.0,,,,,,
+1972,,,,,,,Feb 25,89,36.1,Mar 28,79,35.5,,,,,,
+1973,,,,,,,Feb 27,14,5.3,Mar 27,15,5.6,,,,,,
+1974,,,,,,,Mar 02,95,32.6,Mar 27,83,38.3,,,,,,
+1975,,,,,,,Feb 25,78,32.6,Mar 28,90,34.0,,,,,,
+1976,,,,,,,Mar 01,64,17.0,Mar 30,78,25.8,,,,,,
+1977,,,,Jan 27,0,0.0,Feb 24,2,0.3,Mar 28,30,8.0,,,,,,
+1978,,,,,,,Feb 24,0,0.0,Mar 27,0,0.0,,,,,,
+1979,,,,,,,Mar 01,46,14.3,Mar 29,26,9.8,,,,,,
+1980,,,,,,,Feb 25,25,9.3,Mar 27,30,11.3,,,,,,
+1981,,,,,,,Feb 24,0,0.0,Mar 27,0,0.0,,,,,,
+1982,,,,,,,,,,,,,,,,,,

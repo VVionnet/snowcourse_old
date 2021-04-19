@@ -1,0 +1,88 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20A02: Freezeout Meadows (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Freezeout Meadows (disc) (20A02) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 5000 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:00:57 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1944,,,,,,,Feb 29,40,10.4,Apr 03,38,13.1,,,,,,
+1945,,,,,,,Feb 27,47,11.7,Mar 31,67,18.8,,,,,,
+1946,,,,,,,,,,Mar 29,83,32.9,,,,,,
+1947,Jan 03,69,24.3,Jan 31,94,35.6,Feb 28,88,39.3,Mar 30,76,37.7,,,,,,
+1948,Jan 01,57,12.4,Jan 31,67,19.8,Feb 29,105,38.0,Apr 02,105,42.2,,,,,,
+1949,,,,,,,,,,Apr 01,103,44.7,Apr 28,71,34.8,,,
+1950,,,,,,,,,,Apr 02,113,43.7,May 01,97,44.6,,,
+1951,,,,,,,Mar 01,93,35.1,Mar 30,100,41.5,,,,,,
+1952,,,,,,,Feb 28,65,23.4,Apr 02,73,26.9,,,,,,
+1953,,,,,,,Feb 28,81,27.7,Mar 31,74,29.3,Apr 30,64,27.0,,,
+1954,,,,,,,,,,Apr 03,131,48.2,Apr 29,119,50.0,,,
+1955,,,,,,,Feb 26,59,16.9,Mar 30,84,31.4,Apr 28,81,34.3,,,
+1956,,,,,,,,,,Mar 30,151,62.5,May 03,108,57.1,,,
+1957,,,,,,,Feb 28,79,26.5,Mar 28,83,31.9,Apr 27,64,28.3,,,
+1958,,,,,,,Feb 28,56,21.6,Mar 28,52,22.9,Apr 30,56,25.7,,,
+1959,,,,,,,Feb 26,77,23.2,Apr 02,95,32.9,May 01,74,31.4,,,
+1960,,,,,,,Feb 26,66,20.4,Mar 30,73,22.8,Apr 29,54,23.1,,,
+1961,,,,,,,Feb 26,88,28.0,Mar 28,80,30.7,Apr 28,66,29.5,,,
+1962,,,,,,,Feb 25,47,18.3,Mar 28,61,22.3,May 01,38,14.8,,,
+1963,,,,,,,Feb 24,39,13.9,Mar 27,41,16.1,Apr 26,44,17.2,,,
+1964,,,,,,,Feb 25,76,28.1,Mar 24,96,34.8,Apr 28,84,37.1,,,
+1965,,,,,,,Feb 25,93,34.9,Mar 30,82,34.2,Apr 27,71,33.2,,,
+1966,,,,,,,Feb 24,83,31.0,Mar 28,91,34.5,Apr 28,65,29.2,,,
+1967,,,,,,,Mar 02,96,29.3,Mar 28,97,34.7,Apr 24,87,35.9,,,
+1968,,,,,,,Feb 27,70,27.0,Mar 31,74,27.0,Apr 29,70,32.1,,,
+1969,,,,,,,Feb 24,74,25.4,Mar 27,68,26.4,Apr 30,60,26.0,,,
+1970,,,,Jan 29,69,17.1,Feb 24,55,19.3,Mar 30,66,23.4,Apr 28,81,29.4,,,
+1971,,,,Feb 05,86,31.3,,,,Apr 03,143,58.0,Apr 27,129,61.1,,,
+1972,,,,,,,,,,,,,Apr 27,88,39.2,,,
+1973,,,,,,,,,,,,,Apr 26,50,20.9,,,
+1974,,,,,,,,,,,,,,,,,,

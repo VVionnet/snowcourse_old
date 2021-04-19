@@ -1,0 +1,82 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 23G14: Mule Creek, OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Mule Creek (23G14) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 3680 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:43:25 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1969,Dec 30,28,7.6,Feb 13,70,27.8,Feb 27,73,28.9,Mar 28,48,22.5,Apr 30,0,0.0,,,
+1970,Dec 29,14,2.8,Jan 26,0,0.0,Feb 25,0,0.0,Mar 26,0,0.0,Apr 28,6,1.2,,,
+1971,Jan 04,31,12.5,Jan 27,28,12.6,Feb 25,24,7.2,Mar 30,37,14.3,Apr 27,30,14.2,,,
+1972,Dec 29,60,17.9,Jan 27,49,14.3,Feb 27,34,13.5,Mar 29,0,0.0,Apr 28,0,0.0,,,
+1973,Dec 25,0,0.0,Jan 30,13,3.9,Feb 27,0,0.0,Mar 30,3,0.7,Apr 26,0,0.0,,,
+1974,Dec 27,0,0.0,Jan 29,0,0.0,Feb 27,31,6.7,Mar 29,15,6.8,Apr 28,0,0.0,,,
+1975,Dec 30,5,1.1,Jan 29,4,1.0,Feb 26,21,10.1,Mar 27,34,11.8,Apr 28,20,7.9,,,
+1976,Dec 29,0,0.0,Jan 27,0,0.0,Feb 26,7,2.0,Mar 29,20,6.8,Apr 28,0,0.0,,,
+1977,Dec 28,0,0.0,Jan 27,0,0.0,Feb 25,22,4.3,Mar 29,22,8.5,Apr 28,0,0.0,,,
+1978,Dec 29,0,0.1,Jan 26,0,0.0,Feb 24,0,0.0,Mar 27,0,0.0,Apr 28,0,0.0,,,
+1979,Dec 27,0,0.0,Jan 30,7,1.1,Feb 26,31,8.8,Mar 27,0,0.0,Apr 26,0,0.0,,,
+1980,Dec 27,13,2.1,Jan 28,0,0.0,Feb 27,0,0.0,Mar 27,6,3.2,Apr 28,0,0.0,,,
+1981,Dec 29,0,0.0,Jan 27,0,0.0,Feb 26,0,0.0,Mar 30,0,0.0,Apr 27,0,0.0,,,
+1982,Dec 29,4,1.6,Jan 28,41,11.8,Feb 24,12,4.1,Mar 29,20,4.4,Apr 27,15,6.5,,,
+1983,Dec 28,14,4.6,Jan 28,0,0.0,Feb 28,5,1.6,Mar 29,3,1.2,,,,,,
+1984,Dec 28,2,0.6,Jan 30,0,0.0,Feb 29,8,2.9,Mar 29,0,0.0,Apr 25,,0.1,,,
+1985,Dec 28,8,1.8,Jan 30,5,0.9,Feb 26,4,1.2,Mar 26,14,2.4,Apr 29,0,0.0,,,
+1986,Dec 27,1,0.2,Jan 29,0,0.0,Feb 25,0,0.0,Mar 27,0,0.0,Apr 29,0,0.0,,,
+1987,Dec 30,0,0.0,Jan 27,,0.1,Feb 25,11,2.8,Mar 27,0,0.0,Apr 27,0,0.0,,,
+1988,Dec 31,18,3.2,Jan 28,15,5.4,Feb 25,0,0.0,Mar 30,0,0.0,Apr 28,0,0.0,,,
+1989,Dec 28,33,6.4,Jan 25,35,12.6,Feb 24,31,12.1,Mar 28,9,3.7,Apr 27,0,0.0,,,
+1990,,,,,,,May 01,,8.1,,,,Sep 01,,0.0,,,
+1991,,,,,,,,,,,,,,,,,,
+1992,,,,Mar 01,,0.0,,,,,,,,,,,,
+1993,,,,,,,,,,,,,,,,,,

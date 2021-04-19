@@ -1,0 +1,71 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 05J40: Willow Park, CO
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Willow Park (05J40) 
+# Colorado  SNOW COURSE/AERIAL MARKER Site - 10700 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:39:34 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1978,,,,,,,Feb 27,71,21.0,Mar 30,61,23.5,Apr 29,55,24.5,,,
+1979,,,,Jan 25,54,14.8,Feb 25,57,17.5,Mar 31,84,24.2,May 01,76,27.8,,,
+1980,,,,Feb 05,62,17.0,Feb 29,66,19.5,Mar 29,80,27.5,Apr 28,71,29.9,,,
+1981,,,,Jan 27,17,3.0,Feb 01,23,5.1,Mar 31,39,8.6,Apr 29,14,4.8,,,
+1982,Dec 29,35,8.4,Jan 26,54,15.5,Feb 27,50,15.5,Mar 26,59,20.0,Apr 28,57,19.8,,,
+1983,Jan 01,32,7.7,Jan 28,38,9.1,Feb 27,44,11.2,Mar 29,70,19.3,Apr 29,71,22.1,,,
+1984,Jan 01,57,13.0,Feb 01,49,17.6,Feb 29,50,19.0,Mar 29,66,21.1,Apr 29,78,31.0,,,
+1985,,,,Jan 31,48,11.5,Mar 01,43,12.0,Apr 01,84,18.4,Apr 30,53,21.2,,,
+1986,,,,Mar 01,46,13.2,May 01,64,21.8,Mar 31,63,21.8,Apr 30,76,30.5,,,
+1987,,,,,,,,,,Mar 28,52,13.2,,,,,,
+1988,,,,,,,,,,Mar 30,64,18.0,,,,,,
+1989,Dec 24,28,5.6,,,,,,,Mar 31,47,15.1,,,,,,
+1990,,,,Jan 31,36,8.8,,,,Apr 01,58,17.8,,,,,,
+1991,,,,,,,,,,,,,,,,,,

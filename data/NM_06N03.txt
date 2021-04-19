@@ -1,0 +1,108 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 06N03: Chamita, NM
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Chamita (06N03) 
+# New Mexico  SNOW COURSE/AERIAL MARKER Site - 8400 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:01:42 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1941,,,,,,,Mar 02,48,16.0,,,,,,,,,
+1942,,,,Feb 03,20,4.5,Mar 02,35,7.2,Apr 01,37,11.0,,,,,,
+1943,,,,Feb 04,35,7.5,Mar 01,31,9.1,Apr 02,25,8.7,,,,,,
+1944,,,,Feb 01,26,4.9,Feb 29,37,8.4,Apr 02,30,10.1,,,,,,
+1945,,,,Feb 01,38,9.8,Feb 28,35,11.1,Apr 01,36,11.8,,,,,,
+1946,,,,Jan 30,15,3.3,Mar 01,11,2.7,Mar 29,6,2.0,,,,,,
+1947,,,,Jan 31,26,6.5,Mar 10,32,8.8,Mar 30,14,4.2,,,,,,
+1948,,,,Feb 01,24,4.5,Feb 27,30,7.8,Apr 03,36,12.6,,,,,,
+1949,,,,Feb 01,41,10.0,Mar 04,41,13.3,Apr 03,47,15.1,,,,,,
+1950,,,,Feb 02,22,4.6,Mar 01,27,7.5,Mar 31,20,7.3,,,,,,
+1951,,,,Feb 01,16,3.5,Mar 01,30,7.5,Apr 04,15,4.3,,,,,,
+1952,,,,Feb 04,51,18.3,Feb 29,54,20.2,Mar 31,41,18.0,,,,,,
+1953,,,,Feb 01,28,7.4,Feb 28,29,7.5,Mar 28,12,4.4,,,,,,
+1954,,,,Jan 30,23,4.8,Feb 28,19,5.0,Apr 01,26,8.3,,,,,,
+1955,,,,Jan 30,14,2.6,Feb 26,36,5.5,Mar 31,15,4.8,,,,,,
+1956,,,,Feb 01,44,9.0,Feb 29,37,10.8,Mar 31,8,2.8,,,,,,
+1957,,,,Feb 03,47,12.3,Feb 28,37,13.7,Mar 30,38,13.7,,,,,,
+1958,,,,Jan 30,31,4.8,Feb 28,31,7.4,Apr 01,37,12.3,,,,,,
+1959,,,,Feb 02,17,1.9,Feb 28,24,4.9,Mar 30,14,3.0,,,,,,
+1960,,,,Jan 28,26,6.4,Feb 26,32,8.5,Mar 30,26,9.7,,,,,,
+1961,,,,Jan 30,26,4.5,Feb 27,30,5.8,Mar 30,40,8.5,,,,,,
+1962,,,,Jan 29,33,7.5,Feb 26,44,9.0,Mar 30,37,10.5,,,,,,
+1963,,,,Jan 30,24,5.3,Feb 27,29,8.8,Mar 27,17,6.4,Apr 29,0,0.0,,,
+1964,,,,Jan 30,13,2.3,Feb 27,22,4.4,Mar 30,24,7.5,Apr 28,0,0.0,,,
+1965,,,,Jan 29,46,7.3,Feb 26,41,12.3,Mar 29,42,12.7,Apr 28,2,0.7,,,
+1966,,,,Jan 28,32,7.8,Feb 25,37,10.0,Mar 30,12,5.9,Apr 27,0,0.0,,,
+1967,,,,Jan 30,26,5.9,Feb 27,22,4.5,Mar 30,5,1.8,Apr 27,0,0.0,,,
+1968,,,,Jan 30,25,4.4,Feb 27,27,7.0,Mar 28,24,6.9,Apr 25,5,1.7,,,
+1969,,,,Jan 29,47,11.1,Feb 26,46,13.3,Mar 26,42,15.1,Apr 29,0,0.0,,,
+1970,,,,Jan 28,14,3.4,Feb 27,14,3.3,Mar 28,19,5.4,Apr 30,0,0.0,,,
+1971,,,,Jan 28,21,3.7,Feb 25,25,6.1,Mar 30,3,0.7,Apr 29,0,0.0,,,
+1972,,,,Jan 27,20,5.4,Feb 24,17,4.3,Mar 29,4,1.3,Apr 26,0,0.0,,,
+1973,,,,Jan 26,31,7.5,Feb 27,33,8.7,Mar 31,44,12.7,May 02,0,0.0,,,
+1974,,,,Feb 01,32,8.6,Feb 27,30,9.3,Mar 27,17,6.9,Apr 30,0,0.0,,,
+1975,,,,Jan 31,28,5.9,Feb 28,38,9.5,Mar 28,57,16.4,Apr 30,24,8.5,,,
+1976,,,,Jan 29,24,4.9,Feb 26,33,9.2,Mar 24,26,8.2,Apr 30,0,0.0,,,
+1977,Dec 30,5,0.5,Jan 31,16,2.7,Feb 25,18,2.6,Mar 29,0,0.0,Apr 26,0,0.0,,,
+1978,Jan 03,10,1.1,Jan 24,27,5.2,Feb 23,32,9.3,Mar 28,29,11.6,Apr 25,0,0.0,,,
+1979,,,,Jan 28,49,11.4,Mar 01,50,14.4,Mar 26,45,15.2,Apr 24,23,10.1,,,
+1980,,,,Jan 31,33,8.7,Feb 27,54,16.6,Mar 25,56,18.2,Apr 30,19,7.3,,,
+1981,Dec 29,13,2.5,Jan 28,15,2.2,Feb 25,12,2.8,Mar 30,21,5.6,Apr 29,0,0.0,,,
+1982,Dec 28,10,1.1,Jan 27,28,7.3,Feb 24,35,9.9,Apr 01,39,14.5,Apr 26,9,3.1,,,
+1983,Dec 28,24,4.5,Jan 24,26,5.1,Feb 24,32,8.7,Mar 28,42,11.7,Apr 27,15,5.6,,,
+1984,Dec 28,44,9.1,Jan 25,39,11.4,Feb 27,41,12.7,Mar 28,40,13.6,Mar 31,0,0.0,,,
+1985,Dec 26,20,4.8,Jan 29,32,7.2,Feb 25,35,8.9,Mar 25,27,9.8,Apr 24,4,1.3,,,
+1986,Dec 30,21,4.8,Jan 27,21,5.5,Mar 03,28,8.3,Mar 27,23,8.1,Apr 28,0,0.0,,,
+1987,Dec 29,11,2.4,Jan 26,21,4.7,Feb 25,29,6.6,Mar 24,30,8.8,Apr 27,5,1.5,,,
+1988,Dec 29,20,3.2,Jan 29,31,7.5,Mar 01,32,10.5,Mar 31,23,7.9,May 02,0,0.0,,,
+1989,Dec 28,25,3.5,Jan 25,31,5.9,Feb 22,39,9.2,Mar 29,12,4.1,Apr 26,0,0.0,,,
+1990,Dec 28,0,0.0,Jan 29,10,1.4,Feb 27,12,2.2,Mar 26,6,1.6,Apr 26,0,0.0,,,
+1991,,,,,,,,,,,,,,,,,,

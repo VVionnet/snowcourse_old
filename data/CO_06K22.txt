@@ -1,0 +1,81 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 06K22: Aspen, CO
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Aspen (06K22) 
+# Colorado  SNOW COURSE/AERIAL MARKER Site - 9700 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:52:01 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1960,,,,Jan 26,30,8.3,Feb 25,59,17.4,Mar 25,71,19.6,Apr 26,53,16.3,,,
+1961,,,,Jan 25,25,4.8,Feb 25,34,6.8,Mar 25,45,10.1,Apr 26,46,15.6,,,
+1962,,,,Jan 26,55,13.7,Feb 25,63,16.4,Mar 25,68,22.4,Apr 26,66,20.9,,,
+1963,,,,Jan 26,24,4.1,Feb 23,34,7.5,Mar 30,38,10.6,Apr 24,34,10.5,,,
+1964,,,,Jan 25,32,6.4,Feb 22,38,9.1,Mar 22,48,12.2,Apr 27,45,12.8,,,
+1965,,,,Jan 28,51,14.5,Feb 26,55,18.5,Mar 29,95,25.1,Apr 27,76,23.5,,,
+1966,,,,Jan 28,35,9.4,Feb 25,41,10.8,Mar 28,41,12.0,Apr 27,38,12.0,,,
+1967,,,,Jan 29,44,10.0,Feb 27,57,17.5,Mar 29,49,18.8,Apr 28,45,16.1,,,
+1968,,,,Jan 29,36,8.5,Feb 26,47,12.3,Mar 29,48,13.1,Apr 28,66,20.6,,,
+1969,,,,Jan 28,64,12.5,Feb 26,52,16.4,Mar 29,56,18.2,Apr 27,42,16.0,,,
+1970,,,,Jan 28,45,13.0,Feb 25,52,13.8,Mar 29,61,18.0,Apr 28,72,26.7,,,
+1971,,,,Jan 28,41,12.3,Feb 26,61,19.8,Mar 29,70,24.9,Apr 28,56,17.9,,,
+1972,,,,Jan 28,44,12.3,Feb 26,51,15.4,Mar 28,51,16.7,Apr 28,53,21.7,,,
+1973,,,,Jan 28,41,11.4,Feb 26,42,12.2,Mar 27,54,17.7,Apr 28,59,21.0,,,
+1974,,,,Jan 28,51,13.4,Feb 25,54,15.7,Mar 29,39,19.9,Apr 28,60,24.7,,,
+1975,,,,Jan 28,46,10.9,Feb 25,52,14.7,Mar 28,72,24.1,Apr 28,61,21.6,,,
+1976,,,,Jan 28,40,10.3,Feb 25,54,16.0,Mar 28,58,18.7,Apr 27,55,23.0,,,
+1977,,,,Jan 27,20,2.3,Feb 25,30,5.8,Mar 29,45,12.0,Apr 28,24,8.5,,,
+1978,,,,Jan 28,52,15.1,Feb 25,52,16.1,Mar 28,71,26.7,,,,,,
+1979,,,,Jan 26,53,15.2,Feb 24,57,16.8,Mar 28,64,17.4,Apr 27,52,18.5,,,
+1980,,,,Jan 27,35,8.1,Feb 26,56,14.0,Mar 26,58,18.4,Apr 28,53,19.0,,,
+1981,,,,Jan 26,15,3.3,Feb 23,22,4.9,Mar 26,35,8.7,Apr 25,31,10.4,,,
+1982,,,,Jan 26,46,12.6,Feb 24,48,15.2,Mar 26,58,19.4,Apr 26,59,22.2,,,
+1983,,,,Jan 24,28,6.6,Feb 23,38,8.8,Mar 25,58,15.8,Apr 25,56,18.4,,,
