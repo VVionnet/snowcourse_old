@@ -1,0 +1,110 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10K06: Timberline, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Timberline (10K06) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 8684 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:54:30 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1957,,,,,,,,,,Apr 04,51,14.0,May 08,28,10.2,,,
+1958,,,,,,,Mar 11,53,13.4,,,,May 08,55,19.2,,,
+1959,,,,,,,Feb 27,38,8.9,Mar 27,23,9.4,,,,,,
+1960,,,,,,,,,,,,,,,,,,
+1961,,,,,,,Feb 28,19,4.1,Mar 31,38,9.3,,,,,,
+1962,,,,,,,,,,Apr 02,68,24.9,Apr 30,43,16.1,,,
+1963,,,,,,,Feb 28,18,3.5,Mar 29,24,6.3,May 01,21,7.9,,,
+1964,,,,,,,Feb 28,20,3.5,Apr 01,27,6.8,,,,,,
+1965,,,,,,,Feb 26,47,15.6,Apr 01,55,18.9,Apr 30,55,22.2,,,
+1966,,,,,,,,,,Apr 04,48,15.4,,,,,,
+1967,,,,,,,Mar 01,52,17.0,Apr 03,55,18.4,Apr 28,43,16.3,,,
+1968,,,,,,,Feb 29,44,12.5,,,,May 01,55,20.1,,,
+1969,,,,,,,,,,Mar 28,69,26.1,,,,,,
+1970,,,,,,,,,,Mar 30,43,10.1,,,,,,
+1971,,,,,,,,,,Apr 05,42,13.0,,,,,,
+1972,,,,,,,,,,Mar 24,37,13.2,,,,,,
+1973,,,,,,,,,,Mar 29,71,19.4,,,,,,
+1974,,,,,,,,,,Apr 03,38,9.8,,,,,,
+1975,,,,,,,,,,Mar 27,74,15.0,,,,,,
+1976,,,,,,,,,,Mar 29,36,9.5,,,,,,
+1977,,,,,,,,,,Apr 06,10,3.2,,,,,,
+1978,,,,,,,,,,Apr 03,61,20.7,,,,,,
+1979,,,,,,,,,,Apr 05,82,26.4,,,,,,
+1980,,,,,,,,,,,,,,,,,,
+1981,,,,,,,,,,,,,,,,,,
+1982,,,,,,,,,,,,,,,,,,
+1983,,,,,,,,,,,,,,,,,,
+1984,,,,,,,,,,,,,,,,,,
+1985,,,,,,,,,,,,,,,,,,
+1986,,,,,,,,,,,,,,,,,,
+1987,,,,,,,,,,,,,,,,,,
+1988,,,,,,,,,,,,,,,,,,
+1989,,,,,,,,,,,,,,,,,,
+1990,,,,,,,,,,,,,,,,,,
+1991,,,,,,,,,,Mar 30,44,10.7,,,,,,
+1992,,,,,,,,,,Mar 30,40,10.9,,,,,,
+1993,,,,,,,,,,Mar 28,58,20.6,,,,,,
+1994,,,,,,,,,,Mar 29,36,9.9,,,,,,
+1995,,,,,,,,,,Mar 28,56,17.6,,,,,,
+1996,,,,,,,,,,Mar 28,35,10.6,,,,,,
+1997,,,,,,,,,,Mar 26,51,17.2,,,,,,
+1998,,,,,,,,,,Mar 31,53,15.8,,,,,,
+1999,,,,,,,,,,Mar 28,23,6.1,,,,,,
+2000,,,,,,,,,,Mar 29,37,14.2,,,,,,
+2001,,,,,,,,,,Mar 28,38,12.0,,,,,,
+2002,,,,,,,,,,Mar 28,25,6.3,,,,,,
+2003,,,,,,,,,,Mar 29,40,11.5,,,,,,
+2004,,,,,,,,,,Mar 28,25,9.6,,,,,,
+2005,,,,,,,,,,Mar 28,73,26.5,,,,,,
+2006,,,,,,,Feb 25,21,5.2,Mar 27,28,8.2,Apr 26,5,1.7,,,
+2007,,,,,,,Feb 25,28,6.8,Mar 30,10,2.2,Apr 26,0,0.0,,,
+2008,,,,,,,Feb 27,58,16.9,Mar 28,49,17.4,Apr 26,30,12.6,,,
+2009,,,,,,,Feb 24,32,8.0,Mar 28,20,7.5,Apr 27,9,2.2,,,

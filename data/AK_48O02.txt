@@ -1,0 +1,82 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 48O02: Rock Creek Ridge, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Rock Creek Ridge (48O02) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 2600 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:34:14 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1992,,,,,,,,,,,,,May 02,21,6.8,,,
+1993,Dec 30,48,10.1,Jan 29,55,12.5,Feb 25,48,13.2,Mar 31,48,14.2,Apr 27,38,12.2,,,
+1994,Jan 05,19,4.0,Jan 30,20,4.1,Feb 27,22,4.2,Mar 30,28,5.8,Apr 30,12,3.4,,,
+1995,Dec 29,22,4.8,Jan 30,21,4.9,Feb 26,23,5.2,Mar 30,24,5.6,Apr 30,8,1.9,,,
+1996,,,,Jan 30,8,1.1,Feb 29,26,5.4,Mar 28,22,5.2,May 01,4,1.9,,,
+1997,,,,,,,Feb 26,24,4.6,Apr 02,25,5.4,,,,,,
+1998,Jan 01,18,3.4,Feb 02,20,3.8,Mar 02,20,3.5,Mar 31,14,3.4,May 01,8,1.2,,,
+1999,Dec 29,10,1.6,Jan 28,13,2.0,Mar 01,15,2.8,Apr 02,15,2.9,,,,,,
+2000,,,,Jan 31,34,7.6,Feb 28,32,8.6,Apr 01,32,7.9,Apr 28,31,9.2,,,
+2001,,,,Mar 01,12,2.3,Feb 26,15,2.8,Mar 29,18,3.6,Apr 30,2,0.4,,,
+2002,,,,Feb 01,13,1.7,May 01,13,2.7,Mar 29,14,3.2,Apr 30,21,4.6,,,
+2003,,,,Jan 31,5,0.5,Feb 28,3,0.3,Mar 28,4,0.5,Apr 28,0,0.0,,,
+2004,,,,Feb 02,16,2.8,Feb 28,18,3.2,Apr 01,19,4.0,Apr 29,0,0.0,,,
+2005,,,,Jan 31,21,4.8,,,,Mar 30,26,6.0,Apr 28,10,2.9,,,
+2006,,,,Jan 31,14,1.8,Feb 28,24,3.1,Mar 31,19,3.5,May 01,18,3.8,,,
+2007,,,,Jan 28,12,2.0,Feb 28,14,2.2,Apr 02,16,2.6,May 01,0,0.0,,,
+2008,,,,Jan 28,12,1.5,Feb 28,14,2.1,Apr 02,12,2.0,May 01,13,3.1,,,
+2009,,,,,,,Feb 28,18,3.8,Mar 30,20,3.9,Apr 30,4,1.7,,,
+2010,,,,Feb 01,12,1.4,Mar 01,15,1.9,Mar 31,15,2.0,Apr 29,1,0.2,,,
+2011,,,,Jan 31,14,1.7,Feb 27,33,5.1,,,,Apr 30,10,3.1,,,
+2012,,,,Jan 31,24,3.8,Feb 29,25,5.2,Mar 30,26,5.9,Apr 30,1,0.3,,,
+2013,,,,,,,,,,,,,,,,,,
+2014,,,,,,,Feb 28,15,4.2,,,,Apr 29,0,0.0,,,
+2015,,,,,,,,,,,,,Apr 29,0,0.0,,,
+2016,,,,,,,,,,Mar 29,26,6.1,May 01,0,0.0,,,

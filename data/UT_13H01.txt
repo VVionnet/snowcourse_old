@@ -1,0 +1,91 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 13H01: One Mile Summit, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# One Mile Summit (13H01) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 7330 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:53:05 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1959,Jan 02,10,2.2,Jan 31,19,4.2,Feb 24,31,7.5,Mar 26,24,7.7,,,,,,
+1960,,,,Jan 29,18,4.0,,,,Mar 28,21,6.7,,,,,,
+1961,,,,,,,Feb 23,20,5.2,Mar 26,29,7.1,,,,,,
+1962,,,,,,,Feb 26,31,7.3,Apr 01,30,8.7,,,,,,
+1963,,,,Jan 30,11,2.6,Feb 27,10,3.3,Mar 26,14,4.8,,,,,,
+1964,,,,,,,Feb 29,25,6.8,Mar 29,30,7.8,,,,,,
+1965,,,,,,,Feb 24,30,9.3,Mar 30,31,9.3,,,,,,
+1966,,,,,,,Feb 25,25,6.2,Mar 30,23,7.5,,,,,,
+1967,,,,,,,Feb 28,16,4.2,Apr 02,26,6.5,,,,,,
+1968,,,,,,,Feb 29,15,4.5,Mar 29,21,6.4,,,,,,
+1969,,,,,,,Feb 27,39,9.1,Apr 01,30,10.2,,,,,,
+1970,,,,,,,Feb 26,18,6.1,Mar 31,33,8.1,,,,,,
+1971,,,,,,,Mar 06,34,9.0,Mar 30,29,9.8,,,,,,
+1972,,,,,,,Mar 08,28,8.4,Mar 28,24,8.2,,,,,,
+1973,,,,,,,Feb 26,25,7.5,Mar 29,37,9.6,,,,,,
+1974,,,,,,,Feb 26,25,5.8,Apr 04,23,8.5,,,,,,
+1975,,,,,,,Mar 03,24,6.9,Apr 04,30,8.0,,,,,,
+1976,,,,,,,,,,,,,,,,,,
+1977,,,,,,,Feb 25,6,0.9,Mar 30,17,4.0,,,,,,
+1978,,,,,,,Feb 28,17,4.5,Mar 28,16,6.1,,,,,,
+1979,,,,,,,Feb 26,24,6.6,Mar 29,22,5.9,,,,,,
+1980,,,,,,,,,,,,,,,,,,
+1981,,,,,,,Feb 26,8,2.5,Apr 04,22,5.3,,,,,,
+1982,,,,,,,Feb 28,13,4.3,Apr 03,33,9.2,,,,,,
+1983,,,,,,,,,,Apr 05,35,7.9,,,,,,
+1984,,,,,,,Mar 05,31,7.6,Mar 28,34,12.0,,,,,,
+1985,,,,,,,Feb 26,18,5.2,Mar 26,24,5.2,,,,,,
+1986,,,,,,,Feb 25,16,5.1,Mar 26,14,4.9,,,,,,
+1987,,,,,,,Feb 27,16,3.1,Mar 25,14,3.2,,,,,,
+1988,,,,,,,Feb 23,12,3.0,Mar 26,11,3.8,,,,,,
+1989,,,,,,,Feb 27,12,3.3,Mar 30,10,2.6,,,,,,
+1990,,,,,,,Mar 01,11,2.3,Mar 25,14,3.9,,,,,,
+1991,,,,,,,Feb 23,8,1.9,Mar 26,12,2.7,,,,,,
+1992,,,,,,,,,,,,,,,,,,

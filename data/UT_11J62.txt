@@ -1,0 +1,76 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11J62: City Creek, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# City Creek (11J62) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 7500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:36:46 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1984,Jan 01,92,30.3,Feb 01,82,32.5,Mar 01,91,33.4,Apr 01,97,40.3,May 01,89,43.2,Jun 01,5,2.7
+1985,Jan 01,55,17.4,Feb 01,75,21.7,Mar 01,74,24.6,Apr 01,71,27.6,May 01,36,17.6,Jun 01,0,0.0
+1986,Jan 01,46,13.2,Feb 01,62,18.6,Mar 01,68,26.5,Apr 01,70,37.2,May 01,80,35.9,Jun 01,0,0.0
+1987,Jan 01,39,8.7,Feb 01,44,11.8,Mar 01,48,14.4,Apr 01,49,17.7,May 01,0,0.0,Jun 01,0,0.0
+1988,,,,Feb 01,43,11.3,,,,,,,,,,,,
+1989,Jan 05,55,16.6,Feb 01,56,19.9,Mar 01,65,24.9,Mar 27,62,27.5,May 01,24,13.1,Jun 01,0,0.0
+1990,Jan 03,28,7.8,Feb 05,50,14.6,Mar 01,50,17.1,Mar 30,34,13.6,May 02,0,0.0,Nov 01,,0.0
+1991,Jan 02,36,8.9,Feb 04,47,14.4,Mar 04,70,21.1,Apr 02,63,23.7,Apr 30,92,31.3,,,
+1992,Dec 26,28,7.8,Jan 30,34,10.1,Mar 02,47,13.9,Apr 01,31,11.4,Apr 29,0,0.0,,,
+1993,Dec 31,52,13.7,Jan 28,69,21.7,Mar 01,82,27.5,Mar 31,60,27.1,Apr 29,51,26.0,,,
+1994,Dec 30,25,6.0,Feb 01,42,11.3,Feb 28,72,21.0,Mar 31,57,22.2,Apr 29,39,17.3,May 31,0,0.0
+1995,Jan 04,44,13.9,Feb 02,65,22.2,Mar 01,63,24.1,Mar 31,71,29.8,May 03,60,26.7,Jun 01,23,11.6
+1996,Jan 03,39,10.9,Feb 01,88,21.4,Mar 04,83,29.0,Apr 02,81,32.6,Apr 30,67,30.1,May 31,0,0.0
+1997,Dec 26,58,16.2,Jan 31,92,28.7,Feb 27,91,32.4,Apr 03,72,31.0,May 01,64,28.2,May 29,0,0.0
+1998,Dec 31,32,8.0,Jan 29,64,19.4,Mar 03,94,29.4,Apr 01,77,31.9,Apr 29,65,33.4,Jun 03,0,0.0
+1999,Dec 29,24,5.7,Feb 03,61,14.6,Mar 01,60,19.8,Mar 30,44,20.4,Apr 29,44,19.4,Jun 03,0,0.0
+2000,Dec 29,25,8.2,Feb 01,49,15.2,Feb 29,72,22.8,Mar 29,65,25.6,May 01,14,6.9,Jun 01,0,0.0
+2001,,,,Feb 01,49,14.9,Mar 01,59,17.9,Apr 03,48,20.4,Apr 27,43,21.4,May 30,0,0.0
+2002,Dec 27,49,17.1,Jan 30,58,18.5,Feb 27,62,21.9,Mar 27,79,29.4,Apr 30,40,18.9,May 30,0,0.0

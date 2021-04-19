@@ -1,0 +1,111 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 14K08: Kalamazoo Creek, NV
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Kalamazoo Creek (14K08) 
+# Nevada  SNOW COURSE/AERIAL MARKER Site - 7400 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:52:43 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1959,,,,,,,Mar 03,16,3.5,Mar 27,10,3.0,,,,,,
+1960,,,,,,,Feb 29,25,6.4,Mar 30,5,1.6,,,,,,
+1961,,,,,,,Mar 03,18,5.3,Mar 29,28,7.6,,,,,,
+1962,,,,,,,Feb 28,36,10.3,Mar 30,33,11.0,,,,,,
+1963,,,,,,,May 01,3,0.3,Apr 02,3,1.4,,,,,,
+1964,,,,,,,Feb 28,23,5.4,Mar 27,27,8.0,,,,,,
+1965,,,,,,,Feb 24,24,7.4,Mar 29,21,6.8,,,,,,
+1966,,,,,,,Feb 23,25,5.9,Mar 28,13,4.2,,,,,,
+1967,,,,,,,Mar 01,32,10.1,Mar 29,23,6.1,,,,,,
+1968,,,,,,,Feb 29,21,6.2,Mar 27,21,6.6,,,,,,
+1969,,,,,,,Mar 04,48,10.0,Mar 25,34,10.0,,,,,,
+1970,,,,,,,Feb 27,16,4.4,Mar 26,16,5.1,,,,,,
+1971,,,,,,,Feb 24,27,7.2,Mar 26,20,7.0,,,,,,
+1972,,,,,,,Feb 24,28,8.3,Mar 28,0,0.0,,,,,,
+1973,,,,,,,Feb 27,31,8.2,Apr 03,49,14.0,,,,,,
+1974,,,,,,,,,,Mar 26,26,8.0,,,,,,
+1975,,,,,,,,,,,,,,,,,,
+1976,,,,,,,Feb 27,29,7.4,Mar 31,28,8.4,,,,,,
+1977,,,,,,,Feb 27,11,3.0,Mar 31,18,4.9,,,,,,
+1978,,,,Jan 31,21,5.5,Feb 26,29,8.4,Mar 27,29,11.6,,,,,,
+1979,,,,Jan 27,32,6.0,Feb 27,38,9.8,Mar 30,40,11.5,,,,,,
+1980,,,,Jan 27,15,4.2,Feb 27,29,8.6,Mar 28,42,13.9,,,,,,
+1981,,,,Jan 29,14,3.1,Feb 28,20,5.2,Mar 29,26,7.8,,,,,,
+1982,,,,Jan 27,26,7.1,Feb 28,24,8.5,Mar 28,38,12.8,,,,,,
+1983,,,,Jan 28,38,9.6,Feb 28,41,12.3,Mar 21,48,16.6,,,,,,
+1984,,,,,,,Feb 24,41,12.6,Mar 30,53,16.0,,,,,,
+1985,,,,,,,Feb 24,33,9.1,Mar 28,38,9.9,,,,,,
+1986,,,,,,,Feb 26,31,10.1,Mar 23,28,10.7,,,,,,
+1987,,,,,,,Feb 28,24,5.3,Mar 29,28,8.4,,,,,,
+1988,,,,,,,Feb 27,28,8.7,Mar 27,19,6.9,,,,,,
+1989,,,,,,,Feb 27,27,6.9,Mar 27,12,3.9,,,,,,
+1990,,,,,,,Feb 28,21,5.1,Mar 28,18,4.3,,,,,,
+1991,,,,,,,Feb 27,12,3.2,Mar 28,20,4.9,,,,,,
+1992,,,,,,,May 01,21,5.0,Apr 01,18,5.2,,,,,,
+1993,,,,,,,Mar 01,40,11.1,Apr 01,21,8.1,,,,,,
+1994,,,,,,,Feb 26,25,5.4,Mar 31,16,4.9,,,,,,
+1995,,,,,,,Feb 27,28,7.8,Mar 30,19,6.4,,,,,,
+1996,,,,,,,Feb 23,25,6.1,Mar 28,25,8.5,,,,,,
+1997,,,,,,,Feb 28,43,11.3,Mar 28,21,7.6,,,,,,
+1998,,,,,,,Feb 25,44,10.3,Mar 30,34,9.8,,,,,,
+1999,,,,,,,Feb 26,29,7.2,Mar 29,18,5.8,,,,,,
+2000,,,,,,,Feb 23,21,5.4,Mar 27,21,6.7,,,,,,
+2001,,,,,,,Mar 03,31,6.5,Mar 30,14,4.3,,,,,,
+2002,,,,,,,Feb 27,30,7.0,Mar 26,27,7.8,,,,,,
+2003,,,,,,,Feb 25,18,4.3,Mar 28,13,3.8,,,,,,
+2004,,,,,,,Feb 28,40,9.2,Mar 30,11,4.4,,,,,,
+2005,,,,,,,Feb 26,37,10.0,Apr 01,43,13.5,,,,,,
+2006,,,,,,,Feb 25,29,7.9,Mar 31,36,12.4,,,,,,
+2007,,,,,,,Feb 26,26,6.0,Mar 30,10,1.9,,,,,,
+2008,,,,,,,Feb 28,30,8.9,Mar 26,22,8.0,,,,,,
+2009,,,,,,,Feb 26,27,7.9,Mar 28,22,8.4,,,,,,
+2010,,,,,,,Feb 26,31,8.5,Apr 02,36,10.8,,,,,,
+2011,,,,,,,Feb 24,34,10.4,Mar 29,38,12.2,,,,,,
+2012,,,,,,,Feb 29,16,3.0,Mar 28,9,3.0,,,,,,

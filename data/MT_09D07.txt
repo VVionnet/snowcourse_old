@@ -1,0 +1,87 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 09D07: Cooke Station, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Cooke Station (09D07) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 8150 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:49:34 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,,,,,,,Jul 01,,13.5,,,,,,
+1962,,,,,,,,,,Jul 01,,16.5,,,,,,
+1963,,,,,,,,,,Jul 01,,19.5,,,,,,
+1964,,,,,,,,,,Jul 01,,20.0,,,,,,
+1965,,,,,,,,,,Jul 01,,27.5,,,,,,
+1966,,,,,,,Feb 25,42,11.6,Apr 01,41,13.3,Apr 29,49,15.5,,,
+1967,,,,Feb 02,62,18.2,Mar 01,62,20.5,Mar 31,77,26.7,May 02,72,28.6,May 29,37,18.2
+1968,,,,,,,Feb 29,60,18.2,Mar 29,60,20.6,Apr 28,56,20.6,May 29,30,13.6
+1969,,,,,,,Feb 28,58,19.8,Mar 28,57,21.0,Apr 29,43,18.8,Jun 02,0,0.0
+1970,,,,,,,Feb 26,60,21.2,Mar 26,70,23.9,Apr 30,76,27.7,May 28,36,17.3
+1971,,,,,,,Feb 23,69,23.5,Mar 30,81,28.3,Apr 29,74,31.7,Jun 02,38,20.0
+1972,Jan 03,52,11.8,Feb 03,56,19.3,Feb 29,68,21.3,Mar 31,70,26.0,Apr 28,67,26.7,May 30,31,15.5
+1973,Jan 02,33,7.7,Jan 31,41,10.7,Feb 28,42,12.2,Mar 29,46,13.3,Apr 27,53,16.6,May 30,19,7.3
+1974,Dec 27,34,7.6,Jan 31,59,15.2,Feb 23,59,16.8,Mar 28,75,23.1,Apr 26,61,24.2,May 29,42,19.4
+1975,Dec 26,26,6.0,Jan 27,57,13.6,Mar 01,60,17.8,Mar 29,68,20.7,Apr 30,70,24.9,May 30,51,23.4
+1976,Dec 29,45,14.0,Jan 27,61,20.0,Feb 25,64,21.9,Apr 01,72,27.4,Apr 29,74,30.4,Jun 01,24,12.2
+1977,Dec 27,25,4.4,Jan 25,32,8.6,Mar 01,38,8.8,Mar 31,46,12.4,Apr 29,28,10.0,Jun 01,0,0.0
+1978,Dec 27,59,15.8,Jan 27,72,21.4,Feb 28,84,27.0,Mar 31,65,27.6,Apr 28,60,27.9,May 30,41,22.1
+1979,Dec 28,42,11.4,,,,Mar 02,81,19.3,Mar 30,73,21.2,Apr 30,60,23.2,May 30,37,15.4
+1980,,,,,,,Feb 29,51,13.7,Mar 28,58,16.8,May 02,34,14.4,,,
+1981,,,,,,,Feb 27,44,11.3,Mar 27,43,13.0,May 01,33,11.7,,,
+1982,,,,,,,Feb 24,58,19.1,Mar 29,76,23.6,Apr 29,67,28.0,,,
+1983,Dec 21,32,6.5,,,,Feb 24,52,15.4,Mar 29,55,17.4,Apr 28,49,18.8,,,
+1984,,,,,,,Feb 27,43,11.6,Mar 28,51,14.8,Apr 26,51,16.6,,,
+1985,,,,,,,Feb 27,50,14.1,Mar 28,61,17.4,Apr 30,42,16.2,,,
+1986,,,,,,,Feb 27,62,18.3,Mar 27,62,20.6,Apr 30,65,22.2,,,
+1987,,,,,,,Feb 25,38,9.1,Mar 30,44,12.1,Apr 30,21,5.9,,,
+1988,,,,,,,Feb 29,40,12.0,Mar 30,50,14.6,May 02,45,16.2,,,
+1989,,,,,,,Feb 27,58,18.0,Mar 30,75,25.4,May 01,44,19.9,,,
+1990,,,,,,,,,,,,,,,,,,

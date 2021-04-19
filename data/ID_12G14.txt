@@ -1,0 +1,72 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 12G14: Putnam (Disc), ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Putnam (disc) (12G14) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 7220 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:39:24 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1979,,,,,,,Mar 03,61,19.4,Apr 05,56,20.6,,,,,,
+1980,,,,,,,,,,Apr 05,67,29.6,,,,,,
+1981,,,,,,,,,,,,,,,,,,
+1982,,,,,,,Mar 04,71,23.8,Apr 04,77,29.2,,,,,,
+1983,,,,Feb 02,47,14.1,,,,,,,,,,,,
+1984,,,,,,,Feb 27,60,19.5,Mar 31,63,24.0,Apr 29,55,21.3,,,
+1985,,,,,,,Feb 28,53,15.8,Mar 29,60,18.5,,,,,,
+1986,,,,Feb 01,52,16.4,Feb 28,67,23.8,Mar 29,52,23.3,Apr 30,29,12.0,,,
+1987,,,,,,,Feb 25,43,10.8,Mar 26,35,10.5,Apr 28,0,0.0,,,
+1988,,,,,,,Feb 27,38,8.5,Mar 26,35,12.2,Apr 30,8,3.1,,,
+1989,,,,,,,Feb 25,59,21.2,Mar 30,61,20.7,Apr 30,17,6.9,,,
+1990,,,,,,,Mar 02,36,11.8,Apr 01,35,12.8,Apr 28,0,0.0,,,
+1991,,,,,,,Mar 02,44,10.4,Mar 29,47,14.8,Apr 27,25,8.1,,,
+1992,,,,Feb 01,22,6.1,Feb 29,31,7.5,Mar 30,21,6.0,Apr 26,0,0.0,,,
+1993,,,,,,,,,,,,,,,,,,

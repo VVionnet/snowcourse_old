@@ -1,0 +1,92 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 09L02: Lasal Mountain-Upper, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Lasal Mountain-upper (09L02) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 9850 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:54:49 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1956,,,,,,,Mar 06,42,13.2,Apr 02,39,12.0,,,,,,
+1957,,,,,,,Feb 21,48,15.8,Apr 01,60,23.0,,,,,,
+1958,,,,,,,Mar 03,64,20.5,Mar 26,79,25.8,,,,,,
+1959,,,,,,,Feb 19,31,7.6,Apr 01,40,11.5,Apr 29,20,9.0,,,
+1960,,,,,,,Feb 18,41,11.8,Mar 23,54,19.0,Apr 21,28,12.1,,,
+1961,,,,,,,Feb 21,24,4.9,Mar 22,37,9.6,Apr 21,38,13.4,,,
+1962,,,,,,,Feb 21,56,14.0,Mar 23,60,17.8,Apr 20,31,9.8,,,
+1963,,,,,,,Feb 21,40,9.7,Mar 22,44,12.7,Apr 26,15,5.9,,,
+1964,,,,,,,Feb 20,27,5.4,Mar 25,48,9.8,Apr 24,35,11.4,,,
+1965,,,,,,,Feb 19,46,13.0,Mar 25,63,17.7,Apr 23,39,14.5,,,
+1966,,,,,,,,,,Mar 25,48,18.0,Apr 25,29,12.4,,,
+1967,,,,,,,Feb 21,33,8.9,Mar 28,27,8.8,Apr 24,15,5.5,,,
+1968,Jan 05,42,10.9,,,,Feb 21,55,16.1,Mar 22,62,21.2,Apr 24,59,23.8,May 29,10,4.6
+1969,,,,,,,Feb 19,53,15.0,Mar 20,56,20.1,Apr 23,24,12.0,,,
+1970,,,,,,,Feb 25,45,12.5,Mar 25,61,18.3,Apr 29,70,22.4,May 26,0,0.0
+1971,Dec 23,39,9.8,,,,Feb 24,46,12.6,Mar 25,45,15.1,Apr 27,28,9.3,May 27,0,0.0
+1972,Dec 20,41,10.8,,,,Feb 24,38,11.9,Mar 28,26,10.3,Apr 28,5,1.9,,,
+1973,Dec 22,30,7.8,,,,Feb 21,50,16.0,Mar 22,68,20.8,Apr 25,64,22.3,May 25,14,5.6
+1974,,,,,,,Feb 26,55,18.0,Mar 25,44,16.7,Apr 29,36,16.6,May 30,0,0.0
+1975,Dec 30,30,5.7,,,,Feb 27,42,11.2,Mar 31,59,18.3,Apr 30,54,20.0,May 30,10,3.2
+1976,Jan 05,26,5.0,Jan 29,28,7.1,Feb 26,40,9.4,Mar 29,47,14.0,Apr 29,29,11.0,May 27,0,0.0
+1977,Dec 29,0,0.0,Jan 27,13,2.4,Feb 25,17,2.7,Mar 29,27,7.0,Apr 27,0,0.0,May 31,0,0.0
+1978,Dec 30,22,4.8,Jan 31,45,11.6,Feb 28,58,16.7,Mar 29,65,24.2,Apr 29,52,23.8,May 30,5,2.3
+1979,Dec 28,33,8.8,Jan 30,58,15.6,Feb 28,65,18.9,Mar 31,86,25.8,Apr 26,52,22.2,May 31,0,0.0
+1980,Jan 03,31,5.6,Jan 30,47,12.2,Feb 28,63,18.2,Mar 26,88,26.2,Apr 28,58,25.6,May 27,33,15.9
+1981,Dec 30,26,9.5,Jan 26,29,9.8,Feb 25,36,10.0,Mar 31,57,16.4,Apr 29,15,5.2,May 28,0,0.0
+1982,Dec 29,27,5.3,Jan 27,38,10.0,Feb 26,40,12.1,Mar 26,53,17.1,Apr 28,24,8.2,,,
+1983,Dec 30,49,13.7,Jan 27,53,15.1,Feb 25,68,19.5,Mar 29,92,27.7,Apr 30,78,29.2,May 26,57,26.1
+1984,Dec 27,36,9.6,Jan 30,45,13.4,Feb 22,56,17.2,Mar 29,64,20.3,Apr 26,72,21.2,May 31,0,0.0
+1985,Dec 20,32,5.4,,,,Feb 28,44,9.2,Mar 27,50,12.8,May 01,32,11.7,May 31,0,0.0
+1986,Dec 18,33,9.2,Jan 30,40,13.4,Feb 27,46,14.6,Mar 27,53,17.8,Apr 28,41,17.0,Nov 01,,0.0
+1987,Dec 31,29,7.5,Jan 26,41,10.8,Feb 26,68,18.1,Mar 31,72,22.9,Apr 28,44,17.6,May 28,0,0.0
+1988,Jan 07,42,9.0,Feb 02,42,11.2,Mar 02,45,13.6,Mar 30,47,15.4,Apr 29,33,13.0,,,
+1989,,,,Jan 25,43,9.9,Feb 23,46,13.0,Mar 23,41,14.8,May 03,0,0.0,Nov 01,,0.0
+1990,,,,,,,,,,,,,,,,,,

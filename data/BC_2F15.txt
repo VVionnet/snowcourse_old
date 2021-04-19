@@ -1,0 +1,85 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 2F15: Esperon Cr Lower, BC
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Esperon Cr Lower (2F15) 
+# British Columbia  SNOW COURSE/AERIAL MARKER Site - 4396 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:44:51 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1966,,,,Jan 28,27,5.9,Feb 25,29,9.0,Mar 25,33,11.0,Apr 29,15,6.2,Jun 01,0,0.0
+1967,,,,Jan 31,37,10.2,Feb 28,36,11.6,Apr 03,37,13.6,May 01,30,12.4,May 31,0,0.0
+1968,,,,,,,,,,,,,,,,,,
+1969,,,,,,,,,,,,,,,,,,
+1970,,,,,,,Mar 06,28,8.4,Mar 27,31,10.6,,,,,,
+1971,,,,Jan 29,43,11.9,Feb 27,49,13.3,Mar 28,57,16.3,Apr 25,40,15.0,,,
+1972,,,,,,,Feb 27,48,14.9,Mar 25,46,15.5,Apr 29,36,14.6,May 27,0,0.0
+1973,,,,Jan 28,25,6.2,Feb 25,31,8.4,Mar 25,33,10.5,Apr 28,17,6.8,,,
+1974,,,,,,,Feb 25,54,15.0,Mar 31,51,18.1,Apr 28,36,14.8,May 30,5,2.4
+1975,,,,,,,Feb 23,54,15.9,Mar 31,50,16.9,Apr 26,37,15.0,May 31,0,0.0
+1976,,,,,,,Feb 29,41,11.1,Mar 28,44,12.5,Apr 25,30,10.5,,,
+1977,,,,,,,Feb 27,20,3.5,Mar 27,23,4.6,Apr 29,0,0.0,Jun 01,0,0.0
+1978,,,,,,,Feb 25,41,12.1,Mar 31,33,11.9,Apr 29,21,8.5,,,
+1979,,,,,,,Feb 25,35,7.9,Mar 30,28,7.9,Apr 29,16,5.3,,,
+1980,,,,,,,Feb 29,26,7.1,Mar 31,31,8.5,Apr 27,8,2.4,,,
+1981,,,,Feb 07,18,4.9,Mar 01,29,7.4,Mar 29,25,7.1,Apr 26,21,6.1,,,
+1982,,,,,,,Feb 27,41,11.5,Mar 28,43,13.8,Apr 25,34,12.7,,,
+1983,,,,,,,Feb 27,46,13.5,Mar 31,46,15.4,May 01,28,11.3,,,
+1984,,,,,,,Feb 26,35,9.0,Apr 01,33,10.7,Apr 29,22,8.0,,,
+1985,,,,,,,Feb 24,34,9.5,Mar 31,39,10.6,Apr 30,19,6.3,,,
+1986,,,,,,,Mar 01,31,8.0,Mar 29,25,8.0,Apr 26,19,6.8,,,
+1987,,,,,,,Feb 28,28,7.5,Mar 29,24,8.0,Apr 26,4,1.3,,,
+1988,,,,,,,Feb 28,26,7.3,Mar 27,29,8.0,May 01,2,0.6,,,
+1989,,,,,,,Feb 26,37,9.0,Apr 01,37,11.0,Apr 30,10,3.2,,,
+1990,,,,,,,Feb 25,26,6.7,Apr 01,20,6.1,Apr 29,1,0.2,,,
+1991,,,,,,,,,,Mar 31,35,10.8,,,,,,
+1992,,,,,,,,,,Mar 29,19,6.4,Apr 27,2,0.6,,,
+1993,,,,,,,,,,,,,,,,,,

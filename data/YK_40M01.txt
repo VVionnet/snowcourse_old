@@ -51,7 +51,7 @@
 # Yukon Territory  SNOW COURSE/AERIAL MARKER Site - 2150 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:26:07 AM GMT-08:00
+# As of: Apr 19, 2021 10:40:48 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -101,4 +101,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,,,,,,,Mar 01,22,3.9,Mar 26,23,4.4,Apr 26,4,1.1,,,
 2019,,,,,,,Mar 01,16,2.2,Mar 27,9,2.0,Apr 25,0,0.0,,,
 2020,,,,,,,Feb 26,18,2.8,Apr 01,19,3.3,Apr 30,0,0.0,,,
-2021,,,,,,,Feb 24,22,4.3,,,,,,,,,
+2021,,,,,,,Feb 24,22,4.3,Mar 31,27,5.2,,,,,,

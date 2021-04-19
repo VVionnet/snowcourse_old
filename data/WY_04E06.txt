@@ -1,0 +1,72 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 04E06: Sweetwater Mountain, WY
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Sweetwater Mountain (04E06) 
+# Wyoming  SNOW COURSE/AERIAL MARKER Site - 5860 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:40:02 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1977,Dec 27,14,2.5,Jan 28,30,4.8,Feb 27,30,7.5,Apr 03,34,10.2,May 01,0,0.0,,,
+1978,,,,Jan 27,12,2.5,Feb 25,26,6.5,Mar 30,13,2.5,Apr 29,0,0.0,,,
+1979,Jan 04,22,3.3,Jan 27,24,4.8,Feb 25,28,5.6,Mar 30,16,5.6,Apr 30,0,0.0,,,
+1980,Dec 27,9,2.0,Jan 29,12,2.5,Feb 29,12,3.5,Mar 30,20,5.2,May 01,0,0.0,,,
+1981,Dec 29,6,1.0,Jan 27,10,1.6,Feb 26,10,2.0,Mar 30,1,0.2,May 01,0,0.0,,,
+1982,Dec 30,14,2.0,Jan 28,21,4.0,Feb 25,20,4.0,Mar 31,21,5.0,,,,,,
+1983,Jan 04,22,4.0,Feb 01,29,7.0,Feb 28,26,7.0,Mar 31,16,5.0,,,,,,
+1984,Jan 01,20,4.0,Jan 30,22,4.5,Feb 24,23,5.0,Mar 30,24,5.0,,,,,,
+1985,Jan 01,6,1.0,Jan 29,18,3.5,Feb 26,23,4.0,Mar 30,16,2.0,May 01,0,0.0,,,
+1986,Jan 07,25,4.0,Jan 27,26,5.5,,,,Mar 29,15,4.0,Apr 28,0,0.0,,,
+1987,,,,Feb 02,15,3.0,Feb 27,22,4.0,Mar 31,24,6.0,,,,,,
+1988,Dec 28,0,0.0,Jan 29,14,4.0,Feb 28,21,4.0,,,,,,,,,
+1989,,,,,,,Feb 25,20,3.0,Mar 27,0,0.0,,,,,,
+1990,Dec 27,17,4.6,Jan 30,22,4.6,Feb 26,24,5.2,Mar 30,20,5.8,,,,,,
+1991,Dec 28,12,1.6,Jan 30,18,2.5,Feb 26,26,4.5,Mar 29,17,4.6,,,,,,

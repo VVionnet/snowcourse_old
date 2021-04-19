@@ -1,0 +1,94 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11L05: Donkey Reservoir, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Donkey Reservoir (11L05) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 9800 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:55:58 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1954,,,,,,,,,,Mar 19,19,5.1,,,,,,
+1955,,,,,,,,,,Mar 24,25,6.0,,,,,,
+1956,,,,,,,,,,Mar 27,20,5.7,,,,,,
+1957,,,,,,,,,,Apr 03,44,9.4,,,,,,
+1958,,,,,,,,,,Mar 26,52,13.3,,,,,,
+1959,,,,,,,,,,Mar 30,18,4.3,,,,,,
+1960,,,,,,,,,,Mar 23,28,7.3,,,,,,
+1961,,,,,,,,,,Mar 21,40,11.6,,,,,,
+1962,,,,,,,,,,Mar 27,35,9.3,,,,,,
+1963,,,,,,,,,,Mar 22,26,5.6,,,,,,
+1964,,,,,,,,,,Mar 25,25,4.6,,,,,,
+1965,,,,,,,,,,Mar 30,37,9.2,,,,,,
+1966,,,,,,,,,,Apr 04,19,4.7,,,,,,
+1967,,,,,,,,,,Mar 28,9,2.1,,,,,,
+1968,,,,,,,,,,Mar 25,28,7.6,,,,,,
+1969,,,,,,,,,,Mar 25,34,9.6,,,,,,
+1970,,,,,,,,,,Mar 24,33,7.9,,,,,,
+1971,,,,,,,,,,Mar 23,26,7.1,,,,,,
+1972,,,,,,,,,,Mar 28,22,6.8,,,,,,
+1973,,,,,,,,,,Apr 05,61,14.6,,,,,,
+1974,,,,,,,,,,Mar 26,21,5.5,,,,,,
+1975,,,,,,,,,,Mar 25,34,9.4,,,,,,
+1976,,,,,,,,,,Mar 29,27,6.3,,,,,,
+1977,,,,,,,,,,Mar 30,12,2.3,,,,,,
+1978,,,,,,,,,,Apr 01,29,8.2,,,,,,
+1979,,,,,,,,,,,,,Apr 30,18,6.8,,,
+1980,,,,,,,,,,Mar 29,58,14.8,,,,,,
+1981,,,,,,,,,,Mar 28,30,6.9,,,,,,
+1982,,,,,,,,,,Mar 28,35,10.0,,,,,,
+1983,,,,,,,,,,Mar 29,35,10.0,,,,,,
+1984,,,,,,,,,,Mar 28,32,7.4,,,,,,
+1985,,,,,,,,,,Mar 26,34,8.8,,,,,,
+1986,Dec 29,16,3.9,Mar 01,,4.4,May 01,,6.2,Mar 25,26,7.2,,,,Jun 01,0,0.0
+1987,Dec 27,28,7.1,Mar 01,,8.8,Feb 27,52,12.1,Mar 24,59,14.0,Apr 23,32,8.1,Nov 01,0,0.0
+1988,Dec 31,15,2.5,Mar 01,,5.0,Feb 23,22,4.5,Jul 01,,7.5,Apr 26,12,3.2,,,
+1989,Dec 29,14,2.3,Mar 01,,3.4,Feb 24,19,4.1,Mar 28,13,3.3,Apr 27,1,0.1,Nov 01,,0.0
+1990,,,,,,,,,,,,,,,,,,

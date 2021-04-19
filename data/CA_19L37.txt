@@ -1,0 +1,71 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 19L37: Dodge Ridge, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Dodge Ridge (19L37) 
+# California  SNOW COURSE/AERIAL MARKER Site - 8150 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:42:43 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1970,,,,Jan 28,62,24.0,Mar 03,91,34.2,Mar 30,71,33.4,May 01,73,32.6,,,
+1971,,,,Jan 29,81,35.0,Mar 01,97,37.9,Mar 29,95,45.8,Apr 26,83,40.6,,,
+1972,,,,Jan 28,88,30.0,Feb 25,82,32.0,Mar 31,50,26.2,Apr 28,50,26.2,,,
+1973,,,,Jan 29,79,28.1,Feb 27,124,43.6,Mar 30,136,56.0,Apr 26,102,50.3,,,
+1974,,,,Jan 28,70,28.1,Feb 26,77,33.3,Mar 25,84,38.7,Apr 22,88,42.6,,,
+1975,,,,Jan 28,48,19.3,Feb 24,107,39.1,Mar 24,134,50.7,Apr 24,138,60.1,,,
+1976,,,,Jan 28,18,6.0,Feb 25,37,12.1,Mar 23,40,16.5,Apr 28,32,14.0,,,
+1977,,,,Jan 29,19,5.0,Feb 25,29,8.5,Mar 25,36,11.8,Apr 27,0,0.0,,,
+1978,Jan 08,78,24.5,Jan 21,108,38.0,Feb 26,126,52.5,Mar 28,131,62.0,Apr 30,137,70.2,,,
+1979,,,,Jan 28,68,26.7,Feb 25,119,40.2,Mar 25,96,42.4,Apr 28,90,45.1,,,
+1980,,,,,,,,,,Mar 27,153,64.5,Apr 25,127,60.2,,,
+1981,,,,Jan 25,36,9.5,Feb 22,56,21.7,Mar 29,89,32.7,Apr 26,60,25.6,,,
+1982,,,,Jan 31,97,35.3,Feb 24,82,34.6,Mar 25,112,47.7,Apr 25,118,58.1,,,
+1983,,,,,,,,,,,,,,,,,,

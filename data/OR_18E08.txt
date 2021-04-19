@@ -1,0 +1,121 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 18E08: Gold Center (Rev), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Gold Center (rev) (18E08) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 5340 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:02:50 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1939,Dec 29,19,4.3,Jan 31,36,7.2,Feb 26,49,12.7,Mar 30,25,9.5,,,,,,
+1940,Dec 30,3,1.0,Jan 31,17,4.2,Mar 01,32,10.7,Apr 01,18,6.8,,,,,,
+1941,Dec 30,26,6.3,Jan 23,33,8.5,Mar 03,33,10.9,Mar 26,17,6.5,,,,,,
+1942,Dec 30,18,4.8,Jan 30,23,5.8,Feb 28,39,10.5,Mar 26,32,11.8,,,,,,
+1943,Dec 31,41,9.2,Jan 28,52,14.1,Mar 02,40,15.0,Mar 26,41,14.2,,,,,,
+1944,Jan 03,14,3.8,Jan 31,18,4.3,Mar 01,29,8.2,Mar 28,24,8.2,,,,,,
+1945,Jan 03,17,3.6,Jan 31,24,5.0,Feb 26,36,11.7,Mar 31,37,13.2,,,,,,
+1946,,,,,,,,,,Mar 29,39,14.5,,,,,,
+1947,,,,Jan 29,27,6.2,Mar 01,32,9.0,Mar 29,23,7.0,,,,,,
+1948,,,,Jan 29,22,8.0,Feb 28,32,11.5,Mar 30,38,13.3,,,,,,
+1949,Dec 29,30,7.3,Jan 28,36,10.3,Feb 28,53,16.3,Mar 29,38,13.8,,,,,,
+1950,,,,Jan 31,44,11.7,Mar 02,36,13.8,Mar 31,44,17.0,,,,,,
+1951,,,,Feb 01,38,11.0,Feb 28,37,14.2,Apr 02,36,14.7,,,,,,
+1952,,,,Feb 01,50,14.1,Mar 03,50,17.7,Mar 31,44,17.8,,,,,,
+1953,,,,Jan 29,33,11.7,Feb 28,42,13.5,Mar 28,45,16.0,,,,,,
+1954,,,,Jan 30,43,11.5,Feb 27,37,12.0,Mar 30,32,12.7,Apr 30,0,0.0,,,
+1955,,,,Jan 27,23,5.2,Feb 25,36,9.7,Apr 01,34,10.5,,,,,,
+1956,,,,Jan 29,43,10.2,Feb 25,60,17.0,Mar 31,40,15.3,,,,,,
+1957,,,,Feb 03,30,6.3,Mar 01,26,8.2,Mar 23,39,13.2,,,,,,
+1958,,,,Jan 29,50,11.9,Feb 20,46,15.2,Mar 31,43,15.8,Apr 28,30,13.2,,,
+1959,,,,Jan 28,23,5.6,Feb 27,32,9.2,Mar 25,30,10.5,Apr 27,0,0.0,,,
+1960,,,,Jan 26,23,5.6,Feb 27,39,10.3,Mar 26,24,9.7,Apr 26,3,1.2,,,
+1961,,,,Jan 28,22,5.7,Feb 21,30,8.8,Mar 29,31,11.4,Apr 26,2,0.9,,,
+1962,,,,Jan 30,29,8.2,Feb 23,45,13.4,Mar 27,46,15.7,Apr 25,0,0.0,,,
+1963,,,,Jan 28,12,3.1,Feb 25,9,3.8,Mar 28,4,1.7,Apr 29,3,1.5,,,
+1964,,,,Jan 29,37,8.8,Feb 25,37,10.9,Mar 31,37,13.5,Apr 29,9,4.2,,,
+1965,,,,Jan 27,53,13.9,Feb 24,45,14.2,Mar 25,35,14.5,Apr 27,4,1.9,,,
+1966,,,,Jan 27,28,6.6,Feb 24,40,10.8,Mar 28,34,13.1,Apr 27,0,0.0,,,
+1967,,,,Jan 27,32,8.2,Feb 24,33,9.9,Mar 29,35,11.0,Apr 26,31,12.2,,,
+1968,,,,Jan 26,24,8.8,Feb 27,25,9.3,Mar 25,16,6.8,Apr 25,0,0.0,,,
+1969,,,,Jan 31,48,11.4,Feb 26,45,14.6,Mar 26,39,14.5,Apr 28,3,1.0,,,
+1970,,,,Jan 28,48,12.3,Feb 26,40,15.3,Mar 30,43,16.3,Apr 29,30,12.2,,,
+1971,,,,Jan 27,47,14.5,Feb 25,43,14.6,Mar 29,52,21.0,Apr 28,30,12.8,,,
+1972,,,,Jan 24,45,14.2,Feb 25,48,15.3,Mar 29,29,12.5,Apr 26,13,5.4,,,
+1973,,,,Jan 29,28,6.8,Feb 22,32,8.8,Mar 29,26,8.5,Apr 26,0,0.0,,,
+1974,,,,Jan 30,46,14.2,Feb 27,54,16.9,Mar 27,42,16.8,Apr 26,27,12.0,,,
+1975,,,,Jan 31,30,9.7,Feb 25,46,14.3,Mar 26,60,18.5,Sep 01,,7.6,,,
+1976,,,,Jan 26,,10.5,Mar 01,,12.0,Mar 29,45,13.8,Apr 30,11,4.2,,,
+1977,,,,Jan 28,7,2.1,May 01,,11.9,Mar 30,19,6.9,Sep 01,,0.2,,,
+1978,Jan 06,28,6.3,Feb 02,38,9.4,Feb 28,36,11.2,Mar 27,20,8.8,Apr 25,0,0.1,,,
+1979,Dec 27,21,5.8,Jan 25,31,8.3,Mar 01,56,15.0,Apr 03,39,14.5,Apr 27,16,7.0,,,
+1980,Dec 26,20,4.7,Jan 30,25,7.1,Feb 26,26,9.1,Mar 25,31,11.8,May 02,0,0.0,,,
+1981,Dec 30,11,3.5,Jan 30,18,3.9,Feb 25,20,4.4,Mar 28,20,5.7,Apr 29,0,0.0,,,
+1982,Jan 02,34,6.8,Jan 27,44,12.0,Feb 22,38,13.7,Apr 01,37,14.2,Apr 29,20,8.5,,,
+1983,Dec 28,34,8.0,Jan 28,39,10.8,Feb 24,46,14.0,Mar 28,38,13.8,Apr 27,24,9.7,,,
+1984,Dec 30,42,9.5,Jan 26,35,10.9,May 01,,11.6,Mar 27,44,14.1,Sep 01,,7.1,,,
+1985,Jan 02,36,8.5,Feb 04,34,8.7,May 01,,12.3,Mar 25,36,11.5,Sep 01,,3.9,,,
+1986,Dec 26,19,4.8,Jan 28,29,7.3,Feb 26,33,11.3,Mar 25,22,9.5,,,,,,
+1987,Dec 30,14,3.3,Jan 27,25,5.6,Feb 25,30,8.0,Mar 27,16,5.4,,,,,,
+1988,Jan 06,16,3.2,Jan 26,25,6.2,Feb 24,25,8.0,Mar 31,18,6.0,,,,,,
+1989,Dec 27,28,6.7,Jan 26,41,11.2,Feb 27,42,12.5,Mar 30,32,11.7,,,,,,
+1990,Jan 01,,2.8,Mar 01,,4.9,May 01,,7.8,Jul 01,,0.0,Sep 01,,2.1,,,
+1991,Jan 01,,3.1,Mar 01,,4.7,May 01,,2.1,Jul 01,,5.6,,,,,,
+1992,,,,Mar 01,,6.6,,,,,,,,,,,,
+1993,,,,Mar 01,,14.3,,,,Jul 01,,13.7,,,,,,
+1994,,,,,,,May 01,,9.3,Jul 01,,1.5,,,,,,
+1995,,,,Mar 01,,9.7,May 01,,7.7,Jul 01,,5.7,,,,,,
+1996,,,,Mar 01,,7.8,May 01,,8.7,Jul 01,,3.6,Sep 01,,0.0,,,
+1997,,,,Mar 01,,11.6,May 01,,11.6,Jul 01,,5.9,,,,,,
+1998,,,,Feb 01,,8.9,,,,Jul 01,,8.4,,,,,,
+1999,,,,Mar 01,,12.5,,,,,,,,,,,,
+2000,,,,,,,,,,,,,,,,,,
+2001,,,,Mar 01,,7.0,,,,,,,,,,,,
+2002,,,,Mar 01,,12.2,Mar 01,,12.0,Jul 01,,10.6,,,,,,

@@ -1,0 +1,72 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11H36: Tony Grove Lake, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Tony Grove Lake (11H36) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 8400 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:40:19 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1976,,,,Jan 26,73,23.9,Feb 25,84,29.9,Mar 30,100,39.5,Apr 28,86,38.1,May 26,22,10.2
+1977,Dec 27,5,0.6,Jan 25,20,4.5,Feb 28,44,8.1,Mar 30,56,15.2,Apr 25,0,0.0,May 31,0,0.0
+1978,Jan 09,97,32.2,Jan 31,102,37.4,Feb 24,110,42.5,Mar 30,98,47.0,Apr 25,96,49.9,May 31,52,30.2
+1979,Dec 26,57,16.4,Jan 29,79,26.6,Feb 26,106,32.8,Apr 05,101,36.2,Apr 25,76,34.4,Jun 01,0,0.0
+1980,Dec 27,29,7.4,Feb 03,74,26.0,Feb 26,99,32.9,Apr 03,104,41.0,Apr 28,69,34.4,May 28,30,15.8
+1981,Dec 27,22,5.8,Jan 27,31,7.0,Feb 22,45,11.6,Mar 25,54,15.5,Apr 24,35,14.0,May 27,3,1.1
+1982,,,,Jan 26,100,31.8,Feb 24,107,40.5,Mar 25,131,49.8,Apr 25,121,54.5,May 26,67,35.3
+1983,Dec 27,55,15.4,Jan 26,58,19.5,Feb 22,78,26.1,Mar 26,93,31.1,Apr 26,93,35.4,May 27,86,40.8
+1984,Dec 29,102,31.4,Jan 27,94,34.1,Mar 02,98,40.1,Mar 29,126,47.9,Apr 27,98,42.8,May 29,53,29.9
+1985,Dec 29,77,22.2,Jan 26,67,24.2,Feb 25,88,30.4,Mar 25,84,31.9,Apr 25,69,29.5,May 31,0,0.0
+1986,Dec 26,52,17.5,Mar 01,,23.8,Feb 21,145,43.8,Mar 29,122,56.0,Apr 27,115,53.2,Nov 01,,23.4
+1987,Dec 29,22,6.1,Mar 01,,9.5,Feb 26,54,14.3,Mar 24,59,17.0,Apr 23,26,9.1,Nov 01,0,0.0
+1988,Dec 26,34,7.1,Mar 01,,15.5,Feb 26,64,23.3,Mar 25,76,26.0,Apr 28,47,21.3,,,
+1989,Dec 28,63,15.9,Mar 01,,22.7,Feb 21,90,30.6,Mar 23,104,37.6,Apr 26,76,33.6,Nov 01,,6.0
+1990,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,73 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20B23: Colockum Creek No. 2 (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Colockum Creek No. 2 (disc) (20B23) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 4300 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:43:55 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1968,,,,,,,Feb 26,25,9.0,Mar 28,16,6.0,Apr 30,0,0.0,,,
+1969,,,,Jan 30,42,10.2,Feb 27,53,17.5,Apr 01,31,12.2,Apr 29,0,0.0,,,
+1970,,,,Jan 29,46,12.0,Feb 25,38,13.8,Mar 30,33,13.8,Apr 28,19,8.2,,,
+1971,,,,Jan 27,35,10.5,Feb 24,26,8.9,Mar 30,38,13.0,Apr 28,17,7.0,,,
+1972,,,,Jan 28,45,14.5,Feb 25,42,16.2,Mar 29,26,13.0,Apr 26,4,1.8,,,
+1973,,,,Feb 01,22,6.0,Feb 27,20,6.2,Mar 28,14,5.8,Apr 27,0,0.0,,,
+1974,,,,Feb 01,45,13.0,Feb 25,39,11.5,Mar 27,38,13.5,Apr 30,7,3.0,,,
+1975,,,,Jan 29,29,7.5,Feb 28,34,12.5,Mar 28,37,12.2,Apr 28,19,8.5,,,
+1976,,,,Jan 27,13,3.2,Feb 25,21,5.0,Mar 29,23,7.8,Apr 29,0,0.0,,,
+1977,,,,Jan 27,0,0.0,Feb 25,0,0.0,Mar 30,4,1.2,Apr 28,0,0.0,,,
+1978,,,,Jan 30,36,9.8,Feb 28,43,13.3,Mar 29,23,10.5,Apr 28,4,1.5,,,
+1979,,,,Jan 29,22,4.2,Feb 26,36,10.3,Mar 28,28,8.8,Apr 27,7,2.2,,,
+1980,,,,Jan 30,38,9.0,Feb 28,38,13.0,Mar 27,31,11.8,Apr 29,0,0.0,,,
+1981,,,,Jan 28,16,3.2,Feb 24,12,3.5,Mar 30,4,1.8,Apr 29,0,0.0,,,
+1982,,,,Jan 27,30,7.8,Feb 25,24,8.5,Mar 29,21,6.5,Apr 28,6,2.0,,,
+1983,,,,,,,,,,,,,,,,,,

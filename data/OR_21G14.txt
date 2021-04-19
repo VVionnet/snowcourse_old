@@ -1,0 +1,88 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21G14: Yamsey Pp&l (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Yamsey Pp&l (disc) (21G14) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 4600 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:07:08 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1936,Dec 31,5,0.1,Jan 31,18,1.1,Feb 28,12,2.0,Mar 31,2,0.1,,,,,,
+1937,,,,Jan 31,30,6.3,Feb 28,27,8.4,Mar 31,12,5.5,Apr 30,0,0.0,,,
+1938,Dec 31,0,0.0,Jan 31,8,0.5,Feb 28,11,3.0,Mar 31,6,2.2,Apr 30,0,0.0,,,
+1939,Dec 31,0,0.0,Jan 31,4,0.6,Feb 28,6,1.9,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1940,Dec 31,0,0.0,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1941,Dec 31,3,0.8,Jan 31,4,1.4,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1942,Dec 31,10,1.1,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1943,Dec 31,4,1.5,Jan 31,23,7.8,Feb 28,11,7.6,Mar 31,0,0.0,,,,,,
+1944,,,,,,,Feb 28,10,2.1,Mar 31,0,0.0,,,,,,
+1945,Dec 31,4,1.2,Jan 31,2,0.6,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1946,Dec 31,9,3.8,Jan 31,20,7.0,Feb 28,16,6.2,Mar 31,4,1.5,,,,,,
+1947,Dec 31,0,0.0,Jan 31,6,0.9,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1948,Dec 31,2,0.4,Jan 31,0,0.0,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1949,Dec 31,18,4.2,Jan 31,16,4.1,Feb 28,18,6.4,Mar 31,3,1.1,,,,,,
+1950,Dec 31,6,1.8,Jan 31,18,4.6,Feb 28,3,1.1,Mar 31,0,0.0,,,,,,
+1951,Dec 31,0,0.0,Jan 31,14,4.4,Feb 28,10,3.0,Mar 31,0,0.0,,,,,,
+1952,Dec 31,20,4.1,Jan 31,25,7.2,Feb 28,20,6.2,Mar 31,15,5.9,,,,,,
+1953,,,,Jan 31,10,3.6,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1954,Dec 31,0,0.0,Jan 31,27,6.8,,,,Mar 31,8,3.0,,,,,,
+1955,Dec 31,9,2.2,Jan 31,12,3.8,Feb 28,11,3.5,Mar 31,5,1.8,,,,,,
+1956,Dec 31,7,2.0,Jan 31,15,4.5,Feb 28,18,6.5,Mar 31,4,1.5,,,,,,
+1957,Dec 31,0,0.0,Jan 31,13,3.5,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1958,Dec 31,9,2.1,Jan 31,15,5.2,Feb 28,7,2.1,Mar 31,2,0.5,,,,,,
+1959,Dec 31,2,0.2,Jan 31,2,0.3,Feb 28,0,0.0,Mar 31,0,0.0,,,,,,
+1960,Dec 31,2,0.1,Jan 31,5,1.1,Feb 29,4,1.5,Mar 31,2,0.5,,,,,,
+1961,,,,Jan 31,0,0.0,Feb 28,0,0.0,,,,,,,,,
+1962,Dec 28,12,4.1,Jan 31,16,4.7,Mar 01,17,6.5,Mar 31,0,0.0,,,,,,
+1963,Dec 31,0,0.0,Jan 31,12,2.5,Feb 28,0,0.0,,,,,,,,,
+1964,Dec 31,0,0.0,Jan 31,17,5.0,Feb 29,12,4.0,Mar 30,6,1.8,,,,,,
+1965,,,,Feb 05,7,2.0,,,,,,,,,,,,
+1966,,,,,,,,,,,,,,,,,,

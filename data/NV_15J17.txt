@@ -51,7 +51,7 @@
 # Nevada  SNOW COURSE/AERIAL MARKER Site - 7545 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:22:26 AM GMT-08:00
+# As of: Apr 19, 2021 10:46:30 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -112,4 +112,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,,,,Jan 29,17,4.3,Feb 26,29,5.5,Mar 28,27,10.3,,,,,,
 2019,,,,Jan 30,27,7.3,Feb 27,43,12.5,Mar 28,47,17.9,,,,,,
 2020,,,,Jan 27,32,9.3,Feb 27,33,10.9,Mar 31,24,10.6,,,,,,
-2021,,,,Feb 01,24,5.6,Mar 01,39,9.8,,,,,,,,,
+2021,,,,Feb 01,24,5.6,Mar 01,39,9.8,Apr 01,30,11.4,,,,,,

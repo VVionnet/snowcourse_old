@@ -1,0 +1,88 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 19F03: Emigrant Butte (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Emigrant Butte (disc) (19F03) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 5000 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:54:27 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1957,,,,,,,,,,Mar 27,2,0.8,,,,,,
+1958,,,,,,,,,,Mar 26,12,4.3,,,,,,
+1959,,,,,,,,,,Mar 27,0,0.0,,,,,,
+1960,,,,,,,,,,Mar 29,2,0.5,,,,,,
+1961,,,,,,,,,,Mar 30,0,0.0,,,,,,
+1962,,,,,,,Feb 20,19,5.8,Mar 20,20,6.3,,,,,,
+1963,,,,Jan 22,0,0.0,Feb 25,0,0.0,Mar 25,0,0.0,,,,,,
+1964,,,,Jan 29,19,4.8,Feb 25,16,4.7,Mar 31,10,3.4,,,,,,
+1965,,,,Feb 02,9,3.1,Feb 26,9,4.2,Mar 29,0,0.0,,,,,,
+1966,,,,Jan 31,10,2.1,Feb 24,17,4.7,Mar 29,0,0.0,,,,,,
+1967,,,,Feb 01,13,4.0,Feb 27,13,4.5,Mar 30,8,3.4,,,,,,
+1968,,,,Jan 29,3,0.6,,,,Apr 01,0,0.0,,,,,,
+1969,,,,Jan 29,20,4.5,Feb 25,25,7.4,Mar 25,22,6.9,,,,,,
+1970,,,,Jan 28,16,3.8,Feb 25,8,3.2,Mar 26,0,0.0,,,,,,
+1971,,,,Jan 25,10,5.3,Feb 24,6,2.7,Mar 25,0,0.0,,,,,,
+1972,,,,Jan 27,20,5.4,Feb 25,13,3.5,Mar 30,0,0.0,,,,,,
+1973,,,,Jan 30,3,1.0,Feb 28,3,1.1,Mar 29,0,0.0,,,,,,
+1974,,,,Jan 29,2,0.6,Feb 28,8,1.8,Mar 28,0,0.0,,,,,,
+1975,,,,Jan 29,15,4.6,Feb 27,24,6.3,Mar 28,22,6.3,,,,,,
+1976,,,,Jan 28,14,3.4,Feb 26,15,5.0,Mar 29,12,4.6,,,,,,
+1977,,,,Jan 26,0,0.1,,,,,,,,,,,,
+1978,,,,Jan 31,17,4.4,Feb 27,16,4.9,Mar 30,0,0.0,,,,,,
+1979,,,,Jan 31,21,4.1,Feb 28,34,7.7,Mar 29,0,0.0,,,,,,
+1980,,,,Jan 30,0,0.0,Feb 29,0,0.1,Mar 28,0,0.1,,,,,,
+1981,,,,Jan 29,9,1.0,Feb 27,0,0.0,Mar 30,0,0.0,,,,,,
+1982,,,,Jan 29,19,4.4,Mar 01,0,0.0,Apr 01,0,0.4,,,,,,
+1983,,,,,,,,,,,,,,,,,,
+1984,,,,,,,,,,,,,,,,,,
+1985,,,,,,,,,,,,,,,,,,
+1986,,,,Mar 01,,2.7,,,,,,,,,,,,
+1987,,,,,,,,,,,,,,,,,,

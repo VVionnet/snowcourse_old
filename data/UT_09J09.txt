@@ -1,0 +1,86 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 09J09: Chepeta-Whiterocks, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Chepeta-whiterocks (09J09) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 10350 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:47:22 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1962,,,,,,,Mar 05,71,18.0,Apr 06,70,24.0,Apr 30,47,18.5,,,
+1963,,,,Feb 04,23,4.1,Feb 28,11,2.3,Mar 25,23,5.8,Apr 23,44,12.5,,,
+1964,,,,Feb 04,29,5.8,Feb 27,29,6.4,Mar 30,26,6.0,,,,May 20,34,12.0
+1965,,,,,,,Feb 25,39,11.3,,,,,,,,,
+1966,,,,Jan 25,40,10.5,,,,Mar 14,47,12.5,,,,,,
+1967,,,,,,,Feb 28,53,14.8,,,,,,,,,
+1968,,,,,,,,,,,,,,,,,,
+1969,,,,,,,Mar 11,71,18.5,,,,May 08,27,11.6,,,
+1970,,,,,,,,,,Apr 01,56,15.1,May 01,67,19.4,,,
+1971,,,,,,,,,,Mar 29,47,15.5,Apr 28,49,15.2,,,
+1972,,,,,,,,,,Mar 31,47,15.5,Apr 27,57,18.8,May 26,35,13.3
+1973,,,,,,,,,,Apr 04,71,19.2,Apr 26,74,20.0,Jun 07,5,2.5
+1974,,,,,,,,,,,,,Apr 29,37,11.5,Jun 10,0,0.0
+1975,,,,,,,Mar 04,43,12.9,,,,May 01,64,21.8,,,
+1976,,,,,,,Feb 27,43,12.0,,,,Apr 29,53,16.4,Jun 03,0,0.0
+1977,,,,Feb 08,5,1.0,Feb 28,8,1.4,Mar 30,32,6.7,May 02,3,1.2,Jun 07,0,0.0
+1978,,,,Jan 27,25,7.5,,,,Apr 12,43,15.0,May 01,47,15.5,May 25,29,13.0
+1979,,,,Feb 10,48,13.0,Mar 03,74,19.2,,,,Apr 27,53,18.6,May 25,23,11.5
+1980,,,,,,,,,,Apr 04,77,21.6,May 05,53,21.2,Jun 05,29,14.5
+1981,,,,Jan 27,26,6.0,Mar 05,40,9.6,,,,Apr 30,23,8.3,May 28,6,3.0
+1982,,,,,,,,,,Apr 10,74,21.5,May 05,47,18.8,Jun 02,26,13.0
+1983,,,,,,,Mar 03,65,16.2,Apr 07,68,19.0,,,,Jun 10,59,29.5
+1984,,,,,,,,,,Apr 06,59,15.3,May 07,62,19.8,May 31,3,1.5
+1985,,,,,,,,,,Apr 01,74,16.3,,,,,,
+1986,,,,,,,Feb 27,65,16.2,Apr 04,77,23.1,May 05,53,19.1,,,
+1987,,,,,,,Mar 04,47,9.9,Apr 02,64,14.7,Apr 29,41,13.5,,,
+1988,,,,,,,Feb 24,35,8.0,Apr 06,40,10.4,May 03,39,11.7,,,
+1989,,,,,,,Feb 28,44,10.1,Mar 31,42,13.0,,,,,,
+1990,,,,,,,,,,,,,,,,,,

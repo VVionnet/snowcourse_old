@@ -1,0 +1,89 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20H04: Reservation Creek, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reservation Creek (20H04) 
+# California  SNOW COURSE/AERIAL MARKER Site - 5900 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:53:38 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1958,,,,Jan 31,36,11.1,Mar 03,35,13.4,Mar 31,47,16.9,,,,,,
+1959,,,,Feb 02,12,3.7,Feb 26,23,6.3,Mar 31,14,5.7,,,,,,
+1960,,,,Jan 29,22,5.3,Feb 29,32,9.8,Mar 29,25,9.1,,,,,,
+1961,,,,Jan 27,15,4.6,Feb 27,21,6.4,Mar 30,28,9.6,,,,,,
+1962,,,,Jan 30,31,8.3,Feb 26,42,11.4,Mar 28,47,16.9,,,,,,
+1963,,,,Feb 01,2,1.0,Mar 01,0,0.0,Mar 27,0,0.0,,,,,,
+1964,,,,Jan 30,40,10.8,Feb 26,34,11.4,Apr 02,34,12.0,,,,,,
+1965,,,,Jan 28,35,10.8,Feb 25,26,10.4,Mar 30,18,7.8,,,,,,
+1966,,,,Jan 26,29,8.1,Feb 24,32,9.4,Mar 28,27,10.2,,,,,,
+1967,,,,Jan 27,31,7.0,Feb 27,26,8.0,Mar 27,25,9.0,,,,,,
+1968,,,,Jan 30,32,5.8,Feb 28,13,4.4,Mar 29,11,4.2,,,,,,
+1969,,,,Jan 30,48,12.7,Feb 25,48,16.1,Mar 26,43,18.0,,,,,,
+1970,,,,Jan 29,23,7.9,Mar 03,24,9.1,Mar 31,17,7.5,,,,,,
+1971,,,,Jan 29,21,8.0,Feb 26,23,7.8,Mar 31,34,13.5,,,,,,
+1972,,,,Jan 28,48,14.9,Feb 29,43,17.5,Mar 28,26,11.2,,,,,,
+1973,,,,Jan 29,26,6.5,Feb 27,32,9.5,Mar 28,33,11.2,,,,,,
+1974,,,,Jan 29,21,7.0,Mar 01,42,12.1,Mar 29,33,12.6,,,,,,
+1975,,,,Jan 28,29,9.7,Mar 03,48,16.5,Mar 27,54,19.7,,,,,,
+1976,,,,Jan 30,23,6.9,Mar 02,54,13.6,Mar 26,36,14.2,,,,,,
+1977,,,,Jan 26,9,2.5,Feb 25,11,3.0,Mar 24,19,5.8,,,,,,
+1978,,,,Jan 27,31,10.1,Feb 27,31,11.3,Mar 30,18,8.0,,,,,,
+1979,,,,Jan 31,21,5.6,Feb 23,39,11.9,Mar 29,25,10.1,,,,,,
+1980,,,,Jan 31,24,8.0,Feb 28,38,13.8,Mar 28,43,16.8,,,,,,
+1981,,,,Jan 30,26,5.6,Feb 23,15,5.9,Mar 31,18,7.5,,,,,,
+1982,,,,Jan 28,36,10.8,Feb 25,21,8.0,Mar 23,24,10.1,,,,,,
+1983,,,,Jan 28,31,10.0,Feb 25,41,16.4,Mar 28,57,21.7,,,,,,
+1984,,,,Jan 30,43,16.8,,,,Mar 30,41,18.5,,,,,,
+1985,,,,Jan 31,33,9.7,Mar 01,39,13.0,Apr 01,36,13.4,,,,,,
+1986,,,,Jan 31,14,5.7,,,,Mar 25,27,12.4,,,,,,
+1987,,,,Jan 30,23,7.5,,,,Mar 26,26,10.5,,,,,,
+1988,,,,Mar 01,23,7.5,,,,,,,,,,,,
+1989,,,,,,,,,,,,,,,,,,

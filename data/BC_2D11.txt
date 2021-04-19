@@ -1,0 +1,81 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 2D11: Arrow Creek, BC
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Arrow Creek (2D11) 
+# British Columbia  SNOW COURSE/AERIAL MARKER Site - 5315 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:39:30 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1978,,,,,,,Feb 27,66,24.4,Mar 31,58,25.8,Apr 25,63,28.7,,,
+1979,,,,,,,Feb 26,72,17.6,Mar 27,59,19.7,Apr 28,55,20.6,,,
+1980,,,,,,,Feb 28,65,22.5,Mar 28,79,28.1,Apr 30,50,25.2,,,
+1981,,,,,,,Feb 28,67,23.1,Mar 28,63,23.3,Apr 30,63,26.0,,,
+1982,,,,,,,Mar 01,81,28.5,Apr 01,91,35.5,Apr 30,88,36.4,,,
+1983,,,,,,,,,,Mar 29,78,30.5,,,,,,
+1984,,,,,,,,,,Mar 31,61,20.8,,,,,,
+1985,,,,,,,Feb 25,72,24.9,Mar 29,80,28.0,,,,,,
+1986,,,,,,,Feb 28,56,17.4,Apr 01,53,18.7,,,,,,
+1987,,,,,,,Mar 01,52,18.4,Mar 29,70,25.2,,,,,,
+1988,,,,,,,Mar 01,56,17.5,Apr 01,77,26.7,,,,,,
+1989,,,,,,,Mar 01,69,22.3,Apr 03,87,29.9,,,,,,
+1990,,,,,,,Mar 01,81,28.2,Mar 27,75,29.9,,,,,,
+1991,,,,,,,Mar 01,78,29.0,Apr 01,89,34.1,,,,,,
+1992,,,,,,,Mar 01,72,26.6,Apr 01,57,26.1,,,,,,
+1993,,,,,,,Mar 01,64,18.2,Apr 01,56,20.7,Apr 30,46,20.7,,,
+1994,,,,,,,Feb 27,79,24.3,Apr 01,71,27.4,,,,,,
+1995,,,,,,,Feb 26,69,26.1,Mar 30,77,30.7,,,,,,
+1996,,,,,,,Mar 04,83,29.5,Mar 30,83,31.5,,,,,,
+1997,,,,,,,Feb 25,89,35.3,Apr 01,92,39.6,Apr 27,76,38.9,,,
+1998,,,,,,,Mar 01,70,23.6,,,,,,,,,
+1999,,,,,,,Mar 02,112,39.5,Mar 31,114,52.4,Apr 30,98,49.9,,,
+2000,,,,,,,Feb 29,65,23.3,Mar 29,77,27.9,,,,,,
+2001,,,,,,,,,,Apr 03,50,14.8,,,,,,

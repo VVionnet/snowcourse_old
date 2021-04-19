@@ -1,0 +1,83 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 41P01: Eagle Village (Discontinued), AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Eagle Village (discontinued) (41P01) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 900 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:45:22 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1965,,,,,,,Mar 08,18,2.8,Jul 01,15,3.0,,,,,,
+1966,,,,,,,Mar 10,30,5.0,Apr 07,24,4.8,,,,,,
+1967,,,,,,,Mar 08,26,5.0,Apr 09,23,5.3,,,,,,
+1968,,,,,,,Mar 03,26,5.8,Apr 01,27,6.5,,,,,,
+1969,,,,,,,Mar 05,12,1.9,Apr 03,15,2.2,,,,,,
+1970,,,,,,,Mar 05,15,2.6,Apr 07,15,3.0,,,,,,
+1971,,,,,,,Mar 06,30,5.9,Apr 04,31,6.9,,,,,,
+1972,,,,,,,Mar 03,19,3.2,Apr 07,20,4.1,,,,,,
+1973,,,,,,,Mar 01,16,3.0,Mar 29,16,3.2,,,,,,
+1974,,,,,,,Feb 27,22,3.2,Mar 29,21,3.9,,,,,,
+1975,,,,,,,Feb 27,36,8.1,Jul 01,42,8.6,,,,,,
+1976,,,,,,,Feb 26,19,3.0,Mar 29,19,3.7,,,,,,
+1977,,,,,,,Feb 27,20,3.1,Mar 30,20,3.9,,,,,,
+1978,,,,,,,Mar 01,19,3.3,Mar 30,22,4.2,,,,,,
+1979,,,,,,,Feb 26,27,4.9,Apr 02,34,6.7,,,,,,
+1980,,,,,,,Mar 04,21,3.8,Apr 02,17,3.3,,,,,,
+1981,,,,,,,Mar 04,12,2.2,Apr 02,9,2.0,,,,,,
+1982,,,,,,,Mar 05,22,4.0,Mar 26,20,4.2,,,,,,
+1983,,,,,,,Feb 23,23,3.5,Mar 30,24,4.4,,,,,,
+1984,,,,,,,Feb 27,20,3.7,Mar 30,20,3.6,,,,,,
+1985,,,,,,,Feb 26,21,3.8,Mar 25,23,4.8,,,,,,
+1986,,,,,,,May 01,16,3.2,Mar 27,17,3.9,,,,,,
+1987,,,,,,,Feb 26,21,3.6,Mar 31,21,4.3,,,,,,
+1988,,,,,,,May 01,21,3.6,Apr 02,24,4.5,,,,,,
+1989,,,,,,,Mar 01,22,4.3,Mar 30,22,4.4,,,,,,
+1990,,,,,,,,,,,,,,,,,,

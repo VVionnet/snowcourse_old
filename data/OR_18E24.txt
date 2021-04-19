@@ -1,0 +1,77 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 18E24: Indian Creek Butte (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Indian Creek Butte (disc) (18E24) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 6550 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:52:19 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1960,,,,,,,Mar 01,60,16.2,Apr 02,46,18.4,,,,,,
+1961,,,,Feb 07,46,12.9,Feb 28,58,19.1,Mar 27,81,22.7,May 02,26,9.4,,,
+1962,,,,,,,Feb 26,69,19.3,Mar 29,75,25.5,May 01,22,8.8,,,
+1963,,,,,,,Feb 25,30,10.8,Apr 09,48,18.7,Apr 28,52,18.7,,,
+1964,,,,,,,Feb 27,60,19.2,Mar 27,72,23.0,May 03,42,16.8,,,
+1965,,,,Jan 31,84,22.7,Feb 24,84,31.1,Mar 30,80,33.6,,,,,,
+1966,,,,Jan 27,43,9.5,Mar 01,54,15.1,,,,,,,,,
+1967,,,,Jan 30,60,16.2,Mar 04,78,23.4,Apr 06,78,23.4,May 01,80,27.2,,,
+1968,,,,Feb 08,41,10.2,Feb 28,36,13.0,Mar 31,30,11.4,,,,,,
+1969,,,,,,,Mar 03,70,21.0,,,,,,,,,
+1970,,,,,,,Feb 25,84,31.9,Mar 27,75,29.3,,,,,,
+1971,,,,Jan 27,69,22.1,Mar 06,59,18.8,,,,,,,,,
+1972,,,,Feb 02,84,25.0,Mar 07,91,31.9,Mar 29,60,25.2,,,,,,
+1973,,,,Jan 27,66,18.5,Feb 23,60,18.6,Apr 03,63,22.1,,,,,,
+1974,,,,Feb 06,60,20.2,Mar 08,93,31.6,Mar 26,78,30.4,,,,,,
+1975,,,,Jan 22,66,21.1,Feb 22,84,25.2,Mar 29,93,29.8,,,,,,
+1976,,,,Jan 19,68,22.4,Feb 24,66,18.5,Mar 30,72,23.0,,,,,,
+1977,,,,,,,Mar 04,21,4.2,,,,,,,,,
+1978,,,,Jan 24,69,18.6,Feb 28,85,31.4,Mar 27,50,19.0,,,,,,
+1979,,,,,,,,,,,,,,,,,,

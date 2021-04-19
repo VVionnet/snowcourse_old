@@ -51,7 +51,7 @@
 # British Columbia  SNOW COURSE/AERIAL MARKER Site - 4101 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:13:44 AM GMT-08:00
+# As of: Apr 19, 2021 11:04:05 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -139,4 +139,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,Dec 27,34,9.2,Jan 28,52,17.1,Feb 27,74,26.9,Mar 28,74,27.9,Apr 26,64,26.6,,,
 2019,Dec 28,42,13.0,Feb 02,75,23.6,Feb 26,62,24.1,Mar 25,59,24.8,Apr 27,48,24.1,,,
 2020,Dec 30,50,16.0,Jan 28,65,23.9,Feb 27,78,27.9,Mar 28,84,34.6,Apr 26,65,33.0,,,
-2021,Dec 29,54,16.3,Jan 28,58,20.6,Feb 24,73,26.1,,,,,,,,,
+2021,Dec 29,54,16.3,Jan 28,58,20.6,Feb 24,73,26.1,Mar 30,76,31.5,,,,,,

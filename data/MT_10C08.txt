@@ -1,0 +1,101 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10C08: South Fork Shields, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# South Fork Shields (10C08) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 8100 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:50:42 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,,,,,,,Jul 01,,18.0,,,,,,
+1962,,,,,,,,,,Jul 01,,25.0,,,,,,
+1963,,,,,,,,,,Jul 01,,20.2,,,,,,
+1964,,,,,,,,,,Jul 01,,29.5,,,,,,
+1965,,,,,,,Mar 01,81,29.4,Mar 26,80,30.5,Apr 28,86,36.4,,,
+1966,,,,,,,Mar 02,60,16.1,Mar 30,59,21.2,Apr 29,68,26.3,,,
+1967,,,,,,,Mar 01,63,23.4,Mar 28,80,29.6,May 02,85,33.6,,,
+1968,,,,,,,Feb 26,70,22.6,Mar 28,77,27.1,May 02,73,29.4,,,
+1969,,,,,,,Feb 28,55,19.4,Mar 27,57,20.6,May 02,49,20.2,,,
+1970,,,,,,,Feb 26,76,25.8,Apr 02,92,32.8,May 04,97,37.4,,,
+1971,,,,,,,Feb 23,67,23.7,Mar 31,96,32.6,Apr 29,97,37.9,,,
+1972,,,,,,,Mar 03,65,21.5,Mar 30,85,27.7,Apr 28,75,30.0,,,
+1973,,,,,,,Feb 28,48,14.8,Mar 29,59,17.6,May 01,74,24.6,,,
+1974,,,,,,,Feb 28,60,20.6,Mar 28,80,29.4,May 02,77,33.2,,,
+1975,,,,,,,Feb 28,64,21.6,Mar 31,85,28.6,Apr 29,95,32.8,,,
+1976,,,,,,,Feb 27,65,23.0,Mar 30,75,26.9,Apr 30,91,33.2,,,
+1977,,,,,,,Feb 28,68,18.1,Apr 05,82,26.8,Apr 29,54,23.2,,,
+1978,,,,,,,Feb 23,76,27.6,Mar 29,72,30.2,Apr 28,72,32.3,,,
+1979,,,,,,,Mar 05,73,24.6,Mar 27,73,28.0,Apr 27,83,33.6,,,
+1980,,,,Feb 01,38,10.5,Feb 26,51,14.8,Mar 25,67,21.6,Apr 29,49,21.2,,,
+1981,,,,,,,Feb 25,54,16.0,Apr 03,72,21.6,May 01,61,24.5,,,
+1982,,,,,,,Mar 01,58,20.6,Mar 26,69,25.0,Apr 30,76,32.0,,,
+1983,Jan 03,41,11.4,,,,Feb 24,53,17.4,Mar 30,67,22.0,Apr 26,56,22.3,Jun 02,51,22.5
+1984,Dec 30,43,12.2,,,,Feb 29,70,22.0,Mar 30,86,30.0,May 01,91,34.6,,,
+1985,Dec 28,34,9.5,,,,Feb 28,52,15.5,Apr 01,75,22.6,Apr 29,52,20.4,,,
+1986,Dec 26,29,8.0,,,,Feb 26,58,17.6,Mar 26,62,20.6,May 01,63,24.0,,,
+1987,Dec 29,24,7.0,,,,Feb 24,47,11.2,Mar 31,53,15.6,Apr 28,30,10.2,,,
+1988,Dec 28,15,3.1,,,,Feb 25,47,14.6,Mar 31,64,21.2,Apr 29,57,25.0,,,
+1989,,,,,,,Mar 01,68,16.4,Mar 30,72,23.8,May 01,73,27.7,,,
+1990,,,,,,,Feb 23,54,19.4,Mar 30,68,23.5,,,,,,
+1991,,,,,,,May 01,,15.1,Mar 25,69,21.2,Sep 01,,31.7,,,
+1992,,,,,,,May 01,,16.2,,,,,,,,,
+1993,,,,,,,,,,Mar 31,56,18.4,,,,,,
+1994,,,,,,,,,,Apr 01,47,15.4,,,,,,
+1995,,,,,,,,,,,,,,,,,,
+1996,,,,,,,,,,Mar 31,78,25.5,,,,,,
+1997,,,,,,,,,,Mar 26,85,34.0,,,,,,
+1998,,,,,,,,,,,,,,,,,,
+1999,,,,,,,,,,Mar 30,59,22.1,,,,,,
+2000,,,,,,,,,,,,,,,,,,
+2001,,,,,,,,,,,,,,,,,,
+2002,,,,,,,,,,Apr 04,57,19.9,,,,,,
+2003,,,,,,,,,,,,,,,,,,
+2004,,,,,,,,,,Mar 30,53,21.9,,,,,,

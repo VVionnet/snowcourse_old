@@ -1,0 +1,104 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11D08: Clover Meadow, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Clover Meadow (11D08) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 8600 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:49:30 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,,,,,,,Jul 01,,15.0,,,,,,
+1962,,,,,,,,,,Jul 01,,19.2,,,,,,
+1963,,,,,,,Feb 22,37,8.6,Mar 25,46,13.0,Apr 25,52,15.4,,,
+1964,,,,,,,Feb 27,50,12.6,Mar 30,55,16.8,Apr 29,60,19.8,,,
+1965,,,,,,,Mar 01,62,21.7,Mar 30,62,22.4,Apr 27,60,24.0,,,
+1966,,,,,,,Mar 04,40,11.0,Apr 01,42,12.9,May 02,45,17.0,,,
+1967,,,,,,,Feb 23,49,14.0,Mar 31,77,21.7,Apr 23,62,23.6,,,
+1968,,,,,,,Feb 28,57,18.2,Apr 01,61,20.7,May 01,60,21.8,,,
+1969,,,,,,,Feb 27,58,17.7,Mar 30,58,19.7,Apr 27,53,18.8,,,
+1970,,,,,,,Mar 05,49,14.8,Apr 01,68,21.1,May 05,75,27.4,,,
+1971,,,,,,,May 01,,20.5,Apr 03,74,27.7,May 03,71,27.6,,,
+1972,,,,,,,Mar 01,55,17.8,Mar 29,71,22.1,Apr 26,64,23.4,,,
+1973,,,,,,,Mar 03,40,10.4,Apr 04,58,15.9,May 02,64,19.5,,,
+1974,,,,,,,Feb 24,50,16.4,Apr 07,67,25.0,Apr 29,58,24.5,,,
+1975,,,,,,,Feb 24,53,16.0,Apr 01,67,21.2,May 01,83,29.2,,,
+1976,,,,,,,Feb 22,56,17.7,Mar 29,71,22.2,Apr 29,78,26.0,,,
+1977,,,,,,,Feb 25,32,6.6,Apr 03,52,13.0,May 01,24,8.0,,,
+1978,,,,,,,Feb 28,63,17.6,Mar 26,53,18.8,Apr 28,51,20.6,,,
+1979,,,,,,,Mar 04,56,13.9,Apr 01,51,14.4,Apr 25,55,18.7,,,
+1980,,,,,,,Feb 27,44,12.0,Apr 06,61,19.1,Apr 25,40,16.4,,,
+1981,,,,,,,Feb 22,40,10.2,Mar 29,52,14.6,Apr 29,46,16.6,,,
+1982,,,,,,,Feb 27,49,14.6,Mar 27,65,19.0,Apr 28,67,25.4,,,
+1983,,,,,,,Feb 25,51,14.4,Mar 30,65,20.0,Apr 29,53,20.8,,,
+1984,,,,,,,Mar 01,49,13.2,Mar 28,67,18.9,Apr 28,74,21.0,,,
+1985,,,,,,,Feb 23,45,12.2,Mar 30,59,16.0,Apr 29,33,10.8,,,
+1986,,,,,,,Feb 27,45,11.4,Mar 29,50,14.5,Apr 27,53,17.8,,,
+1987,,,,,,,Mar 03,40,10.6,Mar 31,40,9.9,Apr 26,22,6.8,,,
+1988,,,,,,,Feb 26,35,9.0,Mar 29,46,12.2,Apr 27,37,13.1,,,
+1989,,,,Feb 09,35,9.9,Feb 26,41,11.0,Mar 29,56,15.0,Apr 29,50,14.7,,,
+1990,,,,,,,Feb 26,37,10.4,Mar 28,47,14.4,Apr 27,29,9.2,,,
+1991,,,,,,,Mar 02,40,11.3,Mar 28,50,14.5,Apr 30,62,20.6,,,
+1992,,,,,,,Feb 25,44,11.8,Mar 31,41,12.6,Apr 26,39,12.3,,,
+1993,,,,,,,,,,Mar 31,42,12.2,,,,,,
+1994,,,,,,,,,,Mar 29,47,12.6,,,,,,
+1995,,,,,,,,,,Mar 31,61,16.8,,,,,,
+1996,,,,,,,,,,Mar 31,60,17.8,,,,,,
+1997,,,,,,,Mar 04,68,19.2,,,,,,,,,
+1998,,,,,,,,,,Apr 03,52,16.8,,,,,,
+1999,,,,,,,,,,Apr 03,54,17.5,,,,,,
+2000,,,,,,,,,,Mar 26,47,14.8,,,,,,
+2001,,,,,,,,,,,,,May 03,39,13.6,,,
+2002,,,,,,,,,,Mar 31,46,13.4,,,,,,
+2003,,,,,,,,,,Mar 28,57,14.2,,,,,,
+2004,,,,,,,,,,Mar 28,40,12.6,,,,,,
+2005,,,,,,,,,,Mar 29,50,11.0,,,,,,
+2006,,,,,,,,,,,,,Apr 29,54,21.6,,,
+2007,,,,,,,,,,Mar 26,43,12.6,,,,,,

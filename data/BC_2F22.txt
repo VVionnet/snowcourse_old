@@ -1,0 +1,77 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 2F22: Pearson Creek, BC
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Pearson Creek (2F22) 
+# British Columbia  SNOW COURSE/AERIAL MARKER Site - 3084 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:40:38 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1975,Dec 27,15,2.7,Jan 27,28,6.6,Feb 27,31,9.0,Mar 26,27,8.2,Apr 25,9,3.4,,,
+1976,,,,Jan 28,28,6.8,Feb 27,30,9.0,Mar 25,26,8.4,Apr 27,5,1.8,,,
+1977,Dec 29,13,3.8,Jan 28,19,4.4,Feb 28,16,4.2,Mar 29,24,6.7,Apr 28,0,0.0,,,
+1978,,,,Jan 31,26,6.5,Mar 01,26,7.6,Mar 30,10,3.8,Apr 29,0,0.0,,,
+1979,,,,Feb 01,25,5.7,Feb 27,26,6.8,Mar 27,13,4.5,Apr 30,0,0.0,,,
+1980,,,,Jan 28,12,2.5,Feb 29,13,3.9,Mar 28,17,5.5,Apr 29,0,0.0,,,
+1981,,,,Jan 30,9,2.5,Feb 27,8,2.8,Mar 30,2,0.8,Apr 30,0,0.0,,,
+1982,,,,Feb 03,30,6.4,Mar 01,20,6.5,Mar 30,20,6.8,Apr 29,6,1.6,,,
+1983,,,,Jan 31,20,5.5,Mar 01,19,5.3,Mar 30,7,2.5,May 01,0,0.0,,,
+1984,,,,Feb 01,20,5.1,Mar 01,20,5.7,Mar 29,11,3.5,May 01,0,0.0,,,
+1985,,,,Feb 04,16,4.3,Feb 27,20,5.2,Mar 29,18,5.4,May 01,0,0.0,,,
+1986,,,,Jan 31,20,4.2,Mar 03,18,4.7,Apr 02,4,1.2,Apr 30,0,0.0,,,
+1987,,,,Jan 30,13,2.7,Feb 27,14,3.1,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1988,Dec 30,9,1.6,Feb 01,10,1.7,Mar 03,15,3.9,Mar 31,11,3.4,Apr 29,0,0.0,,,
+1989,,,,Jan 30,19,4.5,Mar 02,22,5.2,Mar 31,13,4.2,Apr 26,0,0.0,May 26,0,0.0
+1990,,,,Feb 01,20,4.1,Mar 02,19,5.2,Mar 29,11,3.7,Apr 26,0,0.0,May 30,0,0.0
+1991,,,,Jan 31,27,7.4,Mar 01,21,7.0,Apr 02,17,5.7,Apr 29,0,0.0,,,
+1992,,,,Feb 03,11,3.2,Mar 02,9,3.0,Mar 31,0,0.0,Apr 29,0,0.0,,,
+1993,,,,Jan 29,21,5.7,Mar 02,23,6.3,Mar 31,13,4.8,Apr 30,0,0.0,,,
+1994,,,,,,,,,,,,,,,,,,

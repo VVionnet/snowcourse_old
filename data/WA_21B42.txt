@@ -1,0 +1,97 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21B42: Cougar Mtn., WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Cougar Mtn. (21B42) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 3200 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:44:44 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1967,,,,,,,,,,,,,May 01,,28.8,,,
+1968,,,,,,,,,,,,,Apr 22,,3.2,,,
+1969,,,,Feb 05,82,27.8,,,,Mar 30,60,28.0,Apr 25,41,18.6,,,
+1970,,,,,,,,,,,,,,,,,,
+1971,,,,Feb 02,61,23.8,Feb 20,63,27.0,Mar 25,86,37.0,Apr 26,68,35.0,May 26,9,5.2
+1972,Dec 27,61,14.8,Jan 30,85,31.2,Feb 25,79,35.2,Mar 30,50,25.6,Apr 27,46,23.4,,,
+1973,Dec 29,13,3.4,Feb 01,21,6.2,Feb 23,17,7.6,Mar 29,12,5.0,Apr 30,0,0.0,,,
+1974,Jan 04,45,15.2,Feb 06,69,24.6,Feb 28,83,31.0,Apr 03,83,36.6,Apr 29,52,26.0,,,
+1975,Jan 03,34,8.4,,,,Feb 24,67,28.2,Mar 27,76,33.0,Apr 29,65,30.7,,,
+1976,Jan 07,22,4.6,Jan 30,20,7.7,Mar 02,59,17.6,,,,,,,,,
+1977,,,,Jan 31,0,0.0,Feb 22,0,0.0,Mar 30,29,10.4,,,,,,
+1978,,,,Jan 27,6,2.0,,,,Mar 30,0,0.0,May 01,0,0.0,,,
+1979,,,,Jan 29,36,12.0,Feb 28,60,21.9,Mar 26,33,15.6,Apr 26,30,14.2,,,
+1980,,,,Jan 28,28,9.3,Feb 29,17,6.9,Apr 04,32,14.3,Apr 30,0,0.0,,,
+1981,,,,Feb 02,12,2.4,Feb 26,0,0.0,Apr 03,14,3.3,Apr 27,0,0.0,,,
+1982,,,,Feb 03,71,24.0,Feb 26,54,22.8,Apr 01,58,25.7,Apr 27,47,22.3,,,
+1983,,,,,,,,,,,,,,,,,,
+1984,,,,,,,,,,,,,,,,,,
+1985,,,,,,,,,,,,,,,,,,
+1986,,,,,,,,,,,,,,,,,,
+1987,,,,,,,,,,,,,,,,,,
+1988,,,,,,,,,,Jul 01,60,22.4,,,,,,
+1989,,,,Feb 02,93,31.0,,,,Mar 29,73,26.8,,,,,,
+1990,,,,Jan 29,35,7.8,Feb 23,60,19.8,Mar 28,44,18.2,,,,,,
+1991,,,,,,,,,,,,,,,,,,
+1992,Dec 31,14,4.8,,,,May 01,,34.0,,,,,,,,,
+1993,,,,Jan 30,47,16.6,,,,Apr 01,27,11.7,,,,,,
+1994,,,,Mar 01,,2.7,,,,Apr 04,28,9.6,Sep 01,,0.0,,,
+1995,,,,Mar 01,,13.8,,,,Jul 01,,5.3,Sep 01,,0.0,,,
+1996,,,,Feb 03,41,8.4,Feb 28,26,9.6,Mar 30,21,6.6,,,,,,
+1997,,,,Jan 31,56,23.6,,,,Apr 01,87,38.2,Sep 01,,33.2,,,
+1998,,,,Jan 31,33,10.8,Mar 05,42,14.2,Apr 02,33,12.8,Sep 01,,12.0,Nov 01,,0.0
+1999,,,,Feb 03,39,13.6,Mar 02,65,22.6,Apr 02,64,15.2,Sep 01,,38.0,,,
+2000,Jan 01,,4.0,Feb 02,36,11.4,Mar 05,42,14.0,Mar 30,43,17.0,Sep 01,,18.7,,,
+2001,,,,Jan 27,16,5.6,May 01,,8.4,Apr 04,30,11.3,Sep 01,,12.5,Nov 01,,0.0
+2002,Jan 01,,9.8,Jan 29,59,16.7,Feb 27,62,25.0,Mar 30,86,38.0,Sep 01,,31.5,,,
+2003,,,,Feb 04,5,1.0,Feb 26,11,2.5,Mar 27,20,7.7,,,,May 30,0,0.0
+2004,,,,Feb 02,29,9.0,Feb 29,34,11.7,Mar 29,30,11.7,,,,,,
+2005,,,,Jan 28,0,0.0,Feb 28,0,0.0,Jul 01,,1.0,May 03,0,0.0,,,
+2006,,,,,,,,,,,,,,,,,,

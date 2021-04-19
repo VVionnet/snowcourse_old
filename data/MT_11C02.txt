@@ -1,0 +1,96 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11C02: Pickfoot Creek, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Pickfoot Creek (11C02) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 6650 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:50:30 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,,,,,,,Jul 01,,7.1,,,,,,
+1962,,,,,,,,,,Jul 01,,10.2,,,,,,
+1963,,,,,,,,,,Jul 01,,7.9,,,,,,
+1964,,,,,,,,,,Jul 01,,12.1,,,,,,
+1965,,,,,,,,,,Jul 01,,12.5,,,,,,
+1966,,,,,,,,,,Jul 01,,7.1,Sep 01,,5.7,,,
+1967,,,,,,,,,,Jul 01,,14.7,Sep 01,,18.5,,,
+1968,,,,,,,,,,Jul 01,,10.6,Sep 01,,8.4,,,
+1969,,,,,,,,,,Jul 01,,10.0,Sep 01,,0.0,,,
+1970,,,,,,,,,,Jul 01,,15.7,Sep 01,,18.9,,,
+1971,,,,,,,,,,Jul 01,,13.6,Sep 01,,13.3,,,
+1972,,,,,,,,,,Jul 01,,14.0,Sep 01,,13.6,,,
+1973,,,,,,,,,,Jul 01,,6.9,Sep 01,,6.8,,,
+1974,,,,,,,,,,Jul 01,,12.0,Sep 01,,9.0,,,
+1975,,,,,,,,,,Jul 01,,12.2,Sep 01,,15.0,,,
+1976,,,,,,,,,,Jul 01,,9.9,Sep 01,,8.8,,,
+1977,,,,,,,,,,Jul 01,,12.0,Sep 01,,6.5,,,
+1978,,,,,,,Feb 21,41,12.3,Mar 28,34,12.8,Apr 26,21,10.2,,,
+1979,,,,,,,Feb 26,44,13.2,Mar 26,39,12.7,Apr 24,38,12.7,,,
+1980,,,,,,,Feb 25,27,7.3,Mar 24,33,9.0,Apr 28,0,0.0,,,
+1981,,,,,,,Feb 24,12,4.3,Mar 30,19,7.0,Apr 27,4,2.0,,,
+1982,,,,,,,Feb 23,35,9.7,Mar 25,40,11.8,Apr 26,36,11.5,,,
+1983,,,,,,,Feb 23,31,9.3,Mar 28,31,9.7,Apr 25,23,6.5,,,
+1984,Dec 27,25,5.5,,,,Feb 24,26,7.2,Mar 26,32,9.5,Apr 25,17,5.3,,,
+1985,,,,,,,Feb 25,34,8.2,Mar 25,34,10.5,Apr 25,13,4.3,,,
+1986,,,,,,,Feb 24,32,8.7,Mar 24,24,8.2,Apr 28,7,2.0,,,
+1987,,,,,,,Feb 23,26,5.3,Mar 25,20,6.0,Apr 27,0,0.0,,,
+1988,,,,,,,Feb 23,23,5.7,Mar 28,31,8.3,Apr 25,13,3.2,,,
+1989,,,,,,,Feb 23,31,8.3,Mar 27,33,10.5,Apr 24,8,2.4,,,
+1990,,,,,,,Feb 22,25,6.7,Mar 26,30,9.0,Apr 24,0,0.0,,,
+1991,,,,,,,Feb 25,24,7.0,Mar 26,36,10.2,Apr 26,22,7.5,,,
+1992,,,,,,,Feb 24,24,6.7,Mar 25,14,5.0,Apr 27,0,0.0,,,
+1993,,,,,,,Mar 01,30,7.2,Mar 25,20,5.8,Apr 27,24,8.7,,,
+1994,,,,,,,Feb 23,28,6.6,Mar 28,27,7.5,Apr 25,5,0.6,,,
+1995,,,,,,,,,,Mar 27,19,5.2,Apr 26,6,2.2,,,
+1996,,,,,,,Feb 29,38,9.5,Mar 27,46,11.5,Apr 29,12,4.7,,,
+1997,,,,,,,,,,,,,,,,,,
+1998,,,,,,,,,,Mar 25,17,5.7,,,,,,
+1999,,,,,,,,,,,,,,,,,,

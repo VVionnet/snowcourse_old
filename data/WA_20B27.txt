@@ -1,0 +1,69 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20B27: Four Mile Ridge Am (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Four Mile Ridge Am (disc) (20B27) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 6800 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:42:07 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1972,,,,Feb 01,108,34.6,,,,Apr 01,120,55.2,May 01,108,55.1,May 31,60,36.0
+1973,,,,Jan 29,64,20.1,Feb 23,57,20.7,Mar 28,60,23.4,Apr 27,40,20.0,,,
+1974,,,,Feb 05,144,40.3,Feb 28,124,40.2,Apr 02,124,51.6,Apr 29,108,55.5,May 29,80,44.4
+1975,,,,Jan 29,84,27.7,Mar 03,92,34.0,Mar 28,100,38.0,Apr 28,100,44.0,May 29,65,35.1
+1976,,,,Jan 27,88,31.9,Mar 02,132,43.4,Mar 29,111,43.3,Apr 26,111,52.2,May 28,60,31.6
+1977,,,,,,,Feb 23,12,3.8,Mar 29,48,15.4,Apr 25,12,4.0,May 27,0,0.0
+1978,,,,Jan 26,100,27.0,Feb 24,98,40.2,Mar 29,96,45.2,Apr 28,94,47.9,May 30,72,38.9
+1979,,,,Jan 31,36,10.1,Feb 27,60,16.2,Apr 01,60,22.8,Apr 30,48,20.2,,,
+1980,,,,Jan 28,72,21.6,Feb 29,84,27.7,Mar 28,84,29.4,May 01,60,26.4,,,
+1981,,,,Jan 30,50,17.5,Feb 28,74,21.5,Mar 30,60,22.2,Apr 27,48,19.7,,,
+1982,,,,Feb 01,84,21.8,Feb 26,96,21.7,Mar 24,98,38.2,Apr 29,98,43.3,May 25,66,33.3
+1983,,,,,,,,,,,,,,,,,,

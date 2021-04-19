@@ -1,0 +1,74 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20L06: Echo Peak, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Echo Peak (20L06) 
+# California  SNOW COURSE/AERIAL MARKER Site - 7800 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:41:03 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1974,,,,,,,Mar 04,139,43.3,Mar 31,162,68.4,,,,,,
+1975,,,,,,,Feb 24,81,27.9,Apr 01,102,40.8,,,,,,
+1976,Dec 31,8,2.2,Jan 26,14,3.6,Feb 23,29,9.0,Mar 25,27,11.3,May 01,3,1.3,,,
+1977,Dec 28,0,0.0,Jan 31,18,5.3,Feb 26,24,5.6,Apr 02,35,14.2,Apr 26,0,0.0,,,
+1978,Dec 31,57,22.5,Feb 04,105,35.7,Feb 23,106,45.4,Mar 27,100,49.6,Apr 26,101,54.7,,,
+1979,Dec 29,34,8.6,Jan 30,49,17.3,Feb 26,94,29.8,Mar 23,72,30.6,Apr 25,57,28.4,,,
+1980,Dec 27,27,4.5,Jan 30,40,13.1,Feb 26,66,21.9,Mar 26,72,29.5,Apr 25,43,18.5,,,
+1981,Dec 30,13,4.6,Feb 02,55,14.9,Feb 27,49,16.8,Mar 30,66,24.4,Apr 29,20,9.0,,,
+1982,,,,Jan 25,110,37.3,Feb 24,87,39.8,Mar 31,182,70.9,Apr 29,102,53.5,,,
+1983,Jan 03,73,24.2,,,,Feb 22,119,46.0,Mar 26,160,62.7,Apr 26,154,68.7,,,
+1984,Jan 02,,40.8,Jan 26,85,38.5,Feb 27,104,42.5,Mar 27,95,45.3,May 01,89,43.8,,,
+1985,Jan 01,74,23.0,,,,Feb 25,52,21.0,Mar 31,71,28.8,Apr 30,31,15.2,,,
+1986,Jan 01,65,18.9,Jan 28,59,23.0,Feb 27,118,55.5,Mar 26,146,53.7,Apr 30,70,34.1,,,
+1987,Jan 01,,1.5,Mar 01,,10.8,Feb 27,58,19.5,Mar 31,56,22.9,,,,,,
+1988,Jan 01,,9.2,Jan 27,60,21.1,Feb 24,49,20.1,Jun 30,25,12.2,Sep 01,,2.4,,,
+1989,Jan 01,,18.0,Jan 30,63,24.6,Feb 27,70,28.8,Mar 27,96,45.2,Sep 01,,20.0,,,
+1990,,,,,,,,,,,,,,,,,,

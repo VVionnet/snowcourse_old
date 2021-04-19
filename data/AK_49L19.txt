@@ -1,0 +1,85 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 49L19: Summit Creek, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Summit Creek (49L19) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 1400 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:34:29 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1991,Jan 03,26,5.8,Jan 25,31,7.5,Mar 01,32,8.2,Mar 29,39,10.5,Apr 29,20,6.0,,,
+1992,Dec 26,36,8.6,Jan 25,42,12.6,Feb 26,43,13.3,Mar 26,48,16.0,Apr 29,28,12.4,,,
+1993,Dec 30,38,9.3,Jan 30,49,12.9,Feb 25,45,14.4,Mar 31,45,14.5,May 04,6,2.6,,,
+1994,Dec 31,22,6.7,Feb 01,25,7.5,Mar 02,36,8.7,Mar 31,32,10.0,May 03,0,0.0,,,
+1995,Jan 08,34,8.7,Jan 27,36,9.4,Feb 25,40,11.6,Mar 25,46,12.4,May 02,6,3.3,,,
+1996,Dec 30,7,1.2,Jan 26,11,1.7,Feb 27,26,4.7,Mar 29,21,5.9,Apr 30,0,0.0,,,
+1997,Dec 28,22,5.2,Jan 28,29,6.3,Feb 28,36,8.4,Mar 28,34,9.6,May 02,5,1.8,,,
+1998,Jan 05,29,7.4,Jan 29,28,8.3,Feb 28,37,10.8,Mar 28,31,10.3,Apr 30,19,7.9,,,
+1999,Dec 29,22,4.3,Jan 30,31,7.6,Feb 27,37,9.2,Mar 31,40,11.9,Apr 30,25,9.8,,,
+2000,Dec 29,22,5.9,Mar 01,46,11.2,Mar 01,46,12.7,Apr 03,50,14.9,,,,,,
+2001,Dec 28,22,6.1,Jan 27,45,10.9,Mar 01,52,14.7,Mar 28,48,17.3,Apr 30,38,13.9,,,
+2002,Dec 29,29,5.6,Jan 29,40,9.2,Feb 26,44,11.0,Mar 27,47,12.6,May 07,28,10.2,,,
+2003,Dec 30,15,2.9,Jan 28,16,4.0,Feb 27,18,5.0,Mar 27,22,7.0,Apr 25,11,4.3,,,
+2004,Jan 01,28,5.7,Jan 28,31,7.8,Feb 27,36,9.9,Mar 26,41,11.9,Apr 29,21,8.2,,,
+2005,Dec 31,30,7.2,Jan 29,30,8.3,Feb 25,38,9.7,Mar 31,45,12.7,May 01,18,6.1,,,
+2006,,,,,,,,,,,,,,,,,,
+2007,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,
+2010,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,,,,,,,,,,,,
+2013,,,,,,,,,,,,,,,,,,
+2014,,,,,,,,,,,,,,,,,,
+2015,,,,,,,,,,,,,,,,,,
+2016,,,,,,,,,,,,,,,,,,
+2017,,,,,,,,,,,,,,,,,,
+2018,,,,,,,,,,,,,,,,,,

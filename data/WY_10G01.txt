@@ -1,0 +1,89 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10G01: Youngs Ranch, WY
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Youngs Ranch (10G01) 
+# Wyoming  SNOW COURSE/AERIAL MARKER Site - 6650 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:51:49 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,Mar 01,,5.9,May 01,,10.1,Jul 01,,10.1,,,,,,
+1962,,,,Mar 01,,14.4,May 01,,17.9,Jul 01,,20.9,,,,,,
+1963,,,,Mar 01,,6.6,May 01,,9.8,Jul 01,,10.1,,,,,,
+1964,,,,Mar 01,,8.9,May 01,,12.2,Jul 01,,18.2,,,,,,
+1965,,,,Feb 01,60,16.5,Mar 01,66,25.0,Mar 30,72,27.5,,,,,,
+1966,,,,Jan 28,35,8.5,Mar 03,42,11.0,Mar 28,42,11.0,,,,,,
+1967,,,,Jan 28,42,11.5,Feb 27,57,17.5,Mar 31,57,17.5,,,,,,
+1968,,,,Jan 29,33,7.0,Feb 26,40,10.5,Mar 28,44,14.0,,,,,,
+1969,,,,Feb 03,42,10.5,Feb 27,48,15.0,Apr 01,38,13.0,,,,,,
+1970,,,,Jan 30,37,11.0,Feb 28,37,12.5,Mar 31,63,23.0,,,,,,
+1971,,,,Jan 27,60,18.5,Mar 01,60,20.0,Mar 27,66,22.5,,,,,,
+1972,,,,Jan 31,71,18.5,Mar 01,80,24.0,Mar 31,66,26.5,,,,,,
+1973,,,,Jan 28,41,9.5,Feb 27,47,14.0,Apr 01,57,18.0,,,,,,
+1974,,,,Jan 29,50,13.0,Feb 25,57,16.5,Apr 03,62,21.7,,,,,,
+1975,,,,Jan 29,42,11.0,Mar 02,54,16.5,Apr 01,65,20.5,,,,,,
+1976,,,,Jan 30,54,15.1,Feb 27,56,16.8,Mar 30,72,25.2,,,,,,
+1977,,,,Jan 29,19,4.0,Mar 04,22,4.6,Apr 02,28,6.7,,,,,,
+1978,,,,Jan 28,84,24.4,Feb 28,82,25.4,Mar 27,74,28.1,,,,,,
+1979,,,,Jan 30,54,12.4,Feb 25,66,17.8,Apr 02,57,19.0,,,,,,
+1980,,,,Jan 30,42,10.5,Feb 28,52,14.6,Apr 02,60,18.6,,,,,,
+1981,,,,Feb 02,28,5.0,Mar 02,22,6.1,Mar 31,28,7.0,Apr 28,0,0.0,,,
+1982,,,,Jan 29,61,16.5,Feb 25,58,16.8,Mar 31,60,19.2,,,,,,
+1983,,,,Feb 02,38,10.3,Mar 01,,14.5,Mar 29,42,13.9,,,,,,
+1984,,,,Jan 31,33,9.6,,,,Mar 30,42,13.4,,,,,,
+1985,,,,Jan 28,34,7.5,Feb 26,42,11.3,Mar 28,48,13.9,,,,,,
+1986,,,,Jan 28,48,12.5,Feb 26,66,19.1,Mar 26,57,20.0,,,,,,
+1987,,,,Jan 29,45,9.9,Feb 28,38,8.4,Mar 30,24,7.4,,,,,,
+1988,,,,Jan 31,42,9.0,Feb 27,42,10.9,Mar 30,54,15.7,,,,,,
+1989,,,,Jan 27,36,8.5,Feb 26,37,10.0,Mar 28,35,12.2,May 01,0,0.0,,,
+1990,,,,Feb 04,38,8.2,Feb 27,37,10.4,Mar 30,27,9.7,,,,,,
+1991,,,,Feb 01,22,5.1,Feb 26,28,7.8,Mar 30,32,10.2,Apr 30,13,3.9,,,
+1992,,,,Jan 28,19,5.3,Feb 24,28,6.7,Mar 29,16,5.0,Apr 27,0,0.0,,,

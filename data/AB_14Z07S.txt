@@ -1,0 +1,84 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 14Z07S: Akamina Pass Pillow, AB
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Akamina Pass Pillow (14Z07S) 
+# Alberta  SNOW COURSE/AERIAL MARKER Site - 5905 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:33:31 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1994,,59,,,94,,,131,,,,,,,,,,
+1995,,75,,,100,,,94,,,,,,,,,,
+1996,,,,,,,,171,,,140,,,103,,,,
+1997,,,,,,,,,,,,,,,,,,
+1998,,,,,116,,,126,,,174,,,,,,,
+1999,,,,,203,,,,,,247,,,198,,,,
+2000,,126,,,126,,,131,,,167,,,87,,,,
+2001,,,,,64,,,84,,,,,,142,,,,
+2002,,50,5.0,,93,9.3,,143,14.3,,200,20.0,,203,20.3,,,8.3
+2003,,,5.2,,82,8.2,,103,10.3,,,16.0,,96,9.6,,,0.0
+2004,,,8.5,,130,13.0,,139,13.9,,144,14.4,,28,2.8,,,0.0
+2005,,72,7.2,,74,7.4,,87,8.7,,110,11.0,,62,6.2,,,0.0
+2006,Jan 01,66,6.6,Feb 01,155,15.5,Mar 01,202,20.2,Apr 01,235,23.5,May 01,164,16.4,Jun 01,,0.0
+2007,Jan 01,86,8.6,Feb 01,116,11.6,Mar 01,149,14.9,Apr 01,,14.2,May 01,73,7.3,Jun 01,,0.2
+2008,Jan 01,,6.6,Feb 01,,12.7,Mar 01,,17.0,Apr 01,,19.2,May 01,,18.5,Jun 01,,0.3
+2009,Jan 01,,4.5,Feb 01,,7.3,Mar 01,,9.8,Apr 02,,15.2,May 01,,13.7,Jun 01,,0.0
+2010,Jan 01,,9.9,Feb 01,,12.2,Mar 01,,13.2,Apr 01,,16.3,May 01,,14.3,Jun 01,,3.0
+2011,Jan 01,,8.4,Feb 01,,14.3,Mar 01,,18.5,Apr 01,,23.9,May 01,,32.0,Jun 01,,19.5
+2012,Jan 01,,11.0,Feb 01,,16.9,Mar 01,,19.7,Apr 01,,33.2,May 01,,22.7,Jun 01,,4.3
+2013,Jan 01,,11.5,Feb 01,,15.6,Mar 01,,17.4,Apr 01,,21.9,May 01,,20.0,Jun 01,,0.7
+2014,Jan 01,,7.1,Feb 01,,10.6,Mar 01,,15.2,Apr 01,,24.7,May 01,,23.2,Jun 01,,0.3
+2015,Jan 01,,7.0,Feb 01,,9.1,Mar 01,,11.4,Apr 01,,11.5,May 01,,0.6,Jun 01,,0.0
+2016,,,7.7,Feb 01,,11.0,Mar 01,,13.6,Apr 01,,18.4,May 01,,2.0,Jun 01,,0.0
+2017,Jan 01,,5.7,Feb 01,,7.6,Mar 01,,14.6,Apr 01,,10.7,May 01,,19.1,Jun 01,,0.0
+2018,,,,,,,,,,,,,,,,,,
+2019,,,,Feb 01,,7.8,Mar 01,,12.0,Apr 01,,13.5,May 01,,14.2,Jun 01,,0.0
+2020,Jan 01,,9.7,,,,,,,,,,,,,,,

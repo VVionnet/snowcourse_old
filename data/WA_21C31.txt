@@ -1,0 +1,74 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21C31: Packwood Lake (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Packwood Lake (disc) (21C31) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 2870 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:51:29 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,Jan 30,2,0.8,Mar 04,30,7.1,Mar 30,18,6.5,,,,,,
+1962,,,,Feb 01,22,8.5,Mar 01,34,8.5,Apr 01,27,10.8,,,,,,
+1963,,,,Jan 29,3,1.0,Feb 26,0,0.0,Mar 29,4,1.0,,,,,,
+1964,,,,Jan 23,37,7.8,Feb 25,34,11.1,Mar 25,59,18.6,,,,,,
+1965,,,,Feb 04,38,14.8,Feb 26,44,18.3,Apr 01,30,13.9,,,,,,
+1966,Jan 07,33,9.5,Jan 27,35,13.6,Feb 25,40,17.8,Mar 28,46,20.3,,,,,,
+1967,Jan 05,16,3.3,Jan 26,31,8.0,Mar 03,35,13.2,Mar 31,38,14.2,,,,,,
+1968,Jan 04,7,2.0,Feb 06,15,5.5,Feb 27,4,1.6,Mar 30,0,0.0,,,,,,
+1969,Jan 02,42,9.4,Feb 04,69,19.2,Feb 26,56,22.0,Mar 29,45,19.4,,,,,,
+1970,Dec 28,7,1.2,Feb 03,22,5.4,Feb 25,16,6.2,Mar 27,3,1.2,,,,,,
+1971,Jan 01,33,7.7,Jan 27,61,20.1,Mar 03,60,22.1,Apr 01,66,29.1,,,,,,
+1972,Dec 27,44,11.2,Jan 27,82,26.8,Mar 06,80,30.1,Mar 27,64,27.9,,,,,,
+1973,Dec 29,3,0.7,Jan 31,12,2.9,Feb 27,5,2.0,Mar 30,0,0.0,,,,,,
+1974,Dec 31,36,8.4,Feb 02,48,14.5,Feb 25,53,19.2,Apr 08,55,23.3,,,,,,
+1975,Dec 31,18,4.0,Jan 27,36,10.6,Feb 24,39,14.9,Mar 27,40,16.6,,,,,,
+1976,Jan 01,8,2.0,Jan 28,22,7.8,Feb 23,41,13.1,Mar 26,63,21.8,,,,,,
+1977,,,,,,,,,,,,,,,,,,

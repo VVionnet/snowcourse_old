@@ -1,0 +1,76 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 09J13: Grizzly Ridge, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Grizzly Ridge (09J13) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 8500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:43:52 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1968,,,,,,,,,,,,,Apr 30,46,17.4,,,
+1969,Dec 31,19,3.0,,,,,,,,,,Apr 23,26,11.0,,,
+1970,Dec 29,20,5.0,,,,,,,,,,Apr 24,44,11.9,May 27,0,0.0
+1971,Dec 30,27,7.1,Jan 29,32,9.3,Feb 23,40,10.5,,,,Apr 21,27,8.1,May 26,0,0.0
+1972,Dec 21,23,5.0,Jan 28,37,10.1,Feb 24,35,10.4,Mar 23,24,8.5,Apr 27,9,3.2,,,
+1973,Dec 19,23,5.6,Jan 24,36,8.4,Feb 21,39,10.8,Mar 26,48,13.3,Apr 19,66,16.2,May 31,0,0.0
+1974,Dec 18,16,2.8,Jan 30,24,5.7,Feb 22,27,6.0,Mar 20,24,7.2,Apr 22,28,9.0,May 31,0,0.0
+1975,Dec 18,15,3.4,Jan 28,24,5.1,Feb 19,29,6.3,Mar 19,31,8.6,Apr 23,36,11.1,May 22,36,9.3
+1976,Dec 24,19,4.3,Jan 28,24,5.8,Feb 23,39,9.8,Mar 25,36,11.3,Apr 26,41,11.6,May 22,0,0.0
+1977,Dec 29,4,0.3,Jan 28,9,1.5,Feb 23,9,2.0,Mar 28,15,3.3,Apr 26,0,0.0,May 31,0,0.0
+1978,Dec 30,13,2.8,Jan 30,22,6.5,Feb 27,31,9.2,Mar 31,31,10.4,Apr 27,25,8.1,Jun 02,0,0.0
+1979,Dec 28,30,7.1,Jan 31,36,9.1,Mar 01,46,11.5,Mar 27,45,13.3,,,,May 30,0,0.0
+1980,Dec 26,24,5.3,Jan 31,47,11.5,Feb 28,51,14.8,Mar 26,56,17.3,Apr 28,33,13.3,,,
+1981,Jan 07,3,0.9,Jan 29,6,1.6,Mar 03,16,4.0,Mar 30,31,7.2,May 01,1,0.1,May 29,0,0.0
+1982,Dec 30,14,2.4,Jan 28,25,5.2,Feb 25,22,6.0,Mar 31,39,10.4,Apr 29,28,9.4,,,
+1983,Dec 29,35,9.2,Jan 28,36,10.4,Feb 28,42,11.7,Mar 30,58,15.2,Apr 29,45,19.2,Jun 01,0,0.0
+1984,Dec 30,27,5.1,Jan 27,29,7.2,Feb 29,35,9.8,Mar 30,48,12.0,Apr 30,38,11.8,May 31,0,0.0
+1985,Dec 20,27,4.3,Jan 31,28,6.6,Feb 28,36,8.1,Mar 28,43,10.8,Apr 25,19,5.8,May 30,0,0.0
+1986,,,,,,,,,,,,,,,,,,

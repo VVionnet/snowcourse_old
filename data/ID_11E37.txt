@@ -1,0 +1,89 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11E37: Crab Creek (Disc), ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Crab Creek (disc) (11E37) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 6860 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:48:03 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,,,,,,,Jul 01,,13.6,,,,,,
+1962,,,,,,,,,,Jul 01,,21.1,,,,,,
+1963,,,,,,,,,,Jul 01,,7.5,,,,,,
+1964,,,,,,,,,,Jul 01,,14.0,,,,,,
+1965,,,,,,,,,,Jul 01,,17.1,,,,,,
+1966,,,,,,,,,,Jul 01,,11.5,,,,,,
+1967,,,,,,,,,,Jul 01,,21.5,,,,,,
+1968,,,,,,,,,,Jul 01,,14.2,,,,,,
+1969,,,,,,,,,,Jul 01,,33.1,,,,,,
+1970,,,,,,,,,,Jul 01,,16.5,,,,,,
+1971,,,,,,,,,,Jul 01,,24.6,,,,,,
+1972,,,,,,,,,,Jul 01,,13.7,,,,,,
+1973,,,,,,,,,,Jul 01,,14.2,,,,,,
+1974,,,,,,,,,,Jul 01,,21.8,,,,,,
+1975,,,,,,,,,,Jul 01,,21.0,,,,,,
+1976,,,,,,,,,,Jul 01,,15.7,,,,,,
+1977,,,,,,,,,,Jul 01,,5.8,,,,,,
+1978,,,,,,,,,,Jul 01,,17.2,,,,,,
+1979,,,,,,,,,,Jul 01,,14.6,,,,,,
+1980,,,,,,,,,,Jul 01,,13.9,,,,,,
+1981,,,,,,,,,,Jul 01,,10.8,,,,,,
+1982,,,,,,,,,,Mar 29,52,15.2,,,,,,
+1983,,,,,,,,,,Mar 30,80,28.8,,,,,,
+1984,,,,,,,,,,Mar 29,55,15.0,,,,,,
+1985,Dec 29,27,6.1,,,,,,,Mar 30,59,14.8,,,,,,
+1986,Dec 28,23,5.0,,,,May 01,,10.6,Jul 01,,14.4,,,,,,
+1987,Dec 29,8,1.2,Mar 01,,3.6,May 01,,6.0,Mar 28,33,9.5,Sep 01,,0.0,Jun 01,0,0.0
+1988,Dec 31,22,4.5,Mar 01,,7.4,May 01,,8.5,Apr 01,36,10.5,Sep 01,,1.5,Nov 01,,0.0
+1989,Jan 01,,11.4,Mar 01,,15.2,Feb 28,54,16.8,Apr 01,65,21.5,Sep 01,,15.0,Nov 01,,0.0
+1990,Jan 01,,1.4,Mar 01,,4.6,Feb 27,32,8.5,Jul 01,,9.0,Sep 01,,0.0,Nov 01,,0.0
+1991,Jan 01,,3.0,Mar 01,,4.2,,,,Jul 01,,8.4,Sep 01,,9.7,Nov 01,,0.0
+1992,,,,,,,,,,,,,,,,,,

@@ -51,7 +51,7 @@
 # Alaska  SNOW COURSE/AERIAL MARKER Site - 160 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:11:16 AM GMT-08:00
+# As of: Apr 19, 2021 10:31:45 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -71,4 +71,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,,16,,Jan 30,28,5.7,Mar 01,32,6.6,Apr 02,33,7.4,May 02,15,4.8,,,
 2019,,,,Jan 30,24,5.5,Mar 03,27,6.1,Mar 31,27,7.4,,,,,,
 2020,,18,,Feb 01,27,5.4,Feb 28,31,6.3,Mar 31,29,7.1,Apr 29,12,4.0,,,
-2021,,22,,Jan 31,27,4.4,Mar 01,33,5.4,,,,,,,,,
+2021,,22,,Jan 31,27,4.4,Mar 01,33,5.4,Mar 31,36,6.2,,,,,,

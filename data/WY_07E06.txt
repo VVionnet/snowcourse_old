@@ -1,0 +1,115 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 07E06: Powder River Pass, WY
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Powder River Pass (07E06) 
+# Wyoming  SNOW COURSE/AERIAL MARKER Site - 9480 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:07:33 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1936,,,,,,,,,,,,,Sep 01,,0.0,,,
+1937,,,,,,,,,,Jul 01,,8.5,Sep 01,,9.6,,,
+1938,,,,,,,,,,Jul 01,,12.2,Sep 01,,4.7,,,
+1939,,,,,,,,,,Jul 01,,8.1,Sep 01,,3.4,,,
+1940,,,,,,,,,,Jul 01,,10.8,Sep 01,,12.2,,,
+1941,,,,,,,,,,Jul 01,,5.9,Sep 01,,8.4,,,
+1942,,,,,,,,,,Jul 01,,7.3,Sep 01,,2.6,,,
+1943,,,,,,,,,,Jul 01,,10.6,Sep 01,,1.9,,,
+1944,,,,,,,,,,Jul 01,,9.9,Sep 01,,7.7,,,
+1945,,,,,,,,,,Jul 01,,10.0,Sep 01,,8.0,,,
+1946,,,,,,,,,,Jul 01,,10.3,Sep 01,,0.9,,,
+1947,,,,,,,,,,Jul 01,,7.7,Sep 01,,10.1,,,
+1948,,,,,,,,,,Jul 01,,8.6,Sep 01,,7.5,,,
+1949,,,,,,,,,,Jul 01,,11.6,Sep 01,,2.1,,,
+1950,,,,,,,,,,Jul 01,,11.5,Sep 01,,11.6,,,
+1951,,,,,,,,,,Jul 01,,10.1,Sep 01,,7.1,,,
+1952,,,,,,,,,,Jul 01,,13.7,Sep 01,,5.1,,,
+1953,,,,,,,,,,Jul 01,,9.5,Sep 01,,8.0,,,
+1954,,,,,,,,,,Jul 01,,7.5,Sep 01,,5.0,,,
+1955,,,,,,,May 01,,6.2,Jul 01,,9.2,Sep 01,,9.6,,,
+1956,,,,Mar 01,,9.1,May 01,,10.8,Jul 01,,10.7,Sep 01,,4.4,,,
+1957,,,,Mar 01,,6.3,May 01,,7.5,Jul 01,,9.6,Sep 01,,2.6,,,
+1958,,,,Mar 01,,6.6,May 01,,6.9,Jul 01,,9.9,Sep 01,,12.3,,,
+1959,,,,Mar 01,,10.6,May 01,,12.1,Jul 01,,14.8,Sep 01,,17.0,,,
+1960,,,,,,,,,,Jul 01,,8.9,Sep 01,,7.4,,,
+1961,,,,Mar 01,,5.6,May 01,,7.0,Jul 01,,11.1,Sep 01,,7.5,,,
+1962,,,,Mar 01,,11.2,May 01,,13.4,Jul 01,,14.0,Sep 01,,12.1,,,
+1963,,,,Mar 01,,7.5,May 01,,11.6,Jul 01,,11.4,Sep 01,,15.9,,,
+1964,,,,Mar 01,,6.9,May 01,,11.1,Jul 01,,13.7,Sep 01,,14.9,,,
+1965,,,,Mar 01,,11.0,May 01,,15.1,Jul 01,,17.1,Sep 01,,15.6,,,
+1966,,,,Mar 01,,2.9,May 01,,5.1,Jul 01,,4.4,Sep 01,,10.0,,,
+1967,,,,Feb 01,36,7.9,Mar 01,41,12.2,Apr 02,49,14.1,May 03,56,18.8,,,
+1968,,,,Feb 01,35,8.6,Mar 02,42,10.7,Mar 29,46,12.9,Apr 29,46,15.0,,,
+1969,,,,Jan 29,36,7.3,Feb 26,37,9.1,Mar 30,38,9.6,Apr 29,18,5.9,,,
+1970,,,,Jan 28,45,9.1,Feb 25,39,10.4,Mar 31,51,12.8,Apr 29,56,16.0,,,
+1971,,,,Jan 28,34,7.8,Feb 26,50,11.9,Mar 29,50,14.5,Apr 28,57,17.5,,,
+1972,,,,Jan 27,51,13.0,Feb 29,54,15.8,Mar 31,56,17.4,Apr 27,54,20.5,,,
+1973,,,,Feb 01,25,4.9,Mar 01,28,5.3,Mar 29,34,7.7,May 01,46,13.4,,,
+1974,,,,Jan 31,33,7.0,Feb 27,35,7.9,Mar 28,40,10.0,Apr 30,32,9.2,,,
+1975,,,,Jan 29,46,9.7,Feb 26,41,10.7,Mar 26,56,14.4,Apr 29,63,16.0,,,
+1976,,,,Jan 28,39,10.1,Feb 26,43,11.9,Mar 31,56,16.4,Apr 29,58,18.7,,,
+1977,,,,Jan 30,26,5.8,Feb 26,33,6.8,Apr 01,49,10.2,May 01,21,7.0,,,
+1978,,,,Feb 02,44,11.4,Feb 23,47,13.2,Mar 29,44,12.7,May 02,36,12.8,,,
+1979,,,,Feb 01,37,9.5,Mar 01,39,10.8,Apr 07,46,11.6,Apr 28,37,11.4,,,
+1980,,,,Feb 01,27,6.0,Mar 08,32,7.7,Apr 04,39,10.5,May 03,15,4.9,,,
+1981,,,,Feb 02,22,3.6,Feb 25,24,5.0,Mar 31,32,7.3,Apr 27,11,3.0,,,
+1982,,,,Jan 28,35,8.3,Feb 25,36,8.6,Mar 30,51,13.8,Apr 29,43,14.4,,,
+1983,,,,Jan 26,29,7.0,Feb 25,32,8.0,Mar 31,40,9.5,Apr 28,34,8.7,,,
+1984,,,,Jan 30,28,5.5,Feb 23,31,7.1,Apr 04,42,9.3,Apr 24,36,9.3,,,
+1985,Dec 31,24,2.9,Jan 31,28,5.9,Feb 26,31,5.8,Apr 01,37,8.0,Apr 30,18,5.2,Jun 01,0,0.0
+1986,,,,Jan 28,34,8.4,Feb 26,45,10.5,Mar 25,49,14.3,Apr 28,37,13.0,May 29,0,0.0
+1987,,,,Jan 26,25,4.8,Mar 02,32,6.9,Mar 26,34,7.3,Apr 27,0,0.0,,,
+1988,,,,Jan 28,21,3.5,Feb 24,27,6.5,Mar 25,31,7.8,Apr 27,20,5.7,,,
+1989,,,,Jan 30,26,5.8,Feb 28,34,6.2,Mar 28,34,8.0,Apr 21,32,8.3,,,
+1990,,,,Jan 29,34,8.6,Feb 26,35,8.3,Mar 28,44,10.8,Apr 27,38,10.9,,,
+1991,,,,Jan 29,36,8.2,Feb 27,41,10.2,Mar 26,52,12.8,Apr 25,46,13.6,,,
+1992,Jan 27,318,7.3,Mar 01,32,7.3,,,,,,,,,,,,
+1993,,,,Mar 01,28,6.0,,,,Jul 01,32,8.7,,,,,,

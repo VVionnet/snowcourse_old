@@ -1,0 +1,81 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 48L03: Wolverine Glacier (C) (Disc), AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Wolverine Glacier (c) (disc) (48L03) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 4430 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:43:41 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1968,Jan 30,120,55.1,,,,,,,Apr 10,195,83.9,,,,Jun 06,184,95.7
+1969,Jan 26,93,37.8,,,,,,,Apr 18,211,80.7,,,,Jun 03,207,107.1
+1970,,,,,,,,,,Apr 19,338,157.9,,,,Jun 09,311,165.0
+1971,Jan 08,106,38.6,,,,,,,Apr 27,219,90.2,May 04,228,92.9,,,
+1972,Jan 12,86,33.6,,,,,,,Apr 10,108,39.4,,,,Jun 21,113,53.5
+1973,Jan 08,100,34.6,,,,,,,,,,,,,Jun 02,244,94.1
+1974,,,,,,,Mar 05,134,49.6,,,,,,,Jun 08,138,70.1
+1975,,,,Feb 06,132,53.9,,,,,,,,,,,,
+1976,,,,Feb 23,114,43.3,,,,,,,,,,Jun 08,356,192.1
+1977,,,,Feb 25,354,159.0,,,,,,,,,,,,
+1978,,,,Feb 28,259,114.0,,,,,,,,,,Jun 02,308,163.5
+1979,,,,,,,Mar 07,166,68.1,,,,,,,,,
+1980,Jan 11,192,67.3,,,,,,,,,,,,,Jun 06,413,224.0
+1981,Jan 26,472,212.6,,,,,,,,,,,,,Jun 05,531,308.3
+1982,Jan 23,155,61.8,,,,,,,,,,,,,,,
+1983,,,,,,,,,,,,,,,,,,
+1984,,,,,,,,,,,,,,,,,,
+1985,Jan 13,144,54.7,,,,,,,,,,,,,,,
+1986,,,,,,,,,,,,,,,,,,
+1987,,,,,,,,,,,,,,,,,,
+1988,,,,,,,,,,Mar 19,307,138.0,,,,,,
+1989,,,,,,,,,,,,,,,,,,
+1990,,,,Feb 14,138,57.9,,,,,,,,,,,,
+1991,,,,,,,,,,,,,,,,,,

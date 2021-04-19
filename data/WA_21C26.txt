@@ -1,0 +1,82 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21C26: Lone Pine Shelter, WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Lone Pine Shelter (21C26) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 3800 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:52:27 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1960,,,,,,,Feb 28,56,18.1,Apr 02,79,31.0,Apr 29,83,35.9,,,
+1961,Jan 01,,10.9,Feb 01,,20.1,Mar 02,86,30.4,Mar 30,96,44.3,Apr 28,92,43.3,,,
+1962,Jan 01,,7.5,Jan 31,50,20.4,Feb 28,66,22.0,Mar 31,98,34.7,Apr 29,79,31.4,,,
+1963,Jan 01,,1.1,Jan 28,27,7.7,Feb 25,19,6.3,Mar 28,36,11.8,Apr 30,53,24.4,,,
+1964,Jan 01,,12.8,Jan 28,93,30.0,Feb 28,95,34.8,Mar 26,138,49.0,Apr 28,116,53.7,,,
+1965,Jan 01,,15.8,Feb 05,88,38.7,Feb 25,97,42.1,Apr 02,95,43.9,Apr 27,79,41.9,,,
+1966,Jan 01,,17.4,Jan 28,90,37.1,Feb 24,111,46.0,Mar 28,138,65.0,Apr 25,117,58.9,,,
+1967,Jan 06,63,17.9,Jan 31,90,33.2,Feb 27,98,38.8,Apr 01,127,49.4,Apr 28,133,56.4,,,
+1968,Jan 03,50,17.3,Feb 06,83,31.6,Feb 27,65,27.3,Mar 30,81,33.5,Apr 29,76,32.3,,,
+1969,Jan 04,65,19.1,Feb 05,126,38.4,Feb 26,124,47.4,Mar 28,113,47.4,May 01,,48.5,,,
+1970,Dec 31,41,10.8,Feb 01,74,22.4,Feb 24,75,26.9,Mar 28,69,26.6,Apr 28,88,33.6,,,
+1971,Jan 02,105,30.7,Jan 28,138,49.7,Mar 05,162,61.1,Apr 03,175,77.7,Apr 26,172,83.4,,,
+1972,Dec 28,108,30.0,Jan 28,135,49.9,Mar 07,131,60.4,Mar 28,122,56.3,Apr 26,140,63.9,,,
+1973,Jan 03,29,7.0,Feb 01,54,12.7,Feb 27,44,15.9,Mar 30,57,21.4,Apr 26,45,20.3,,,
+1974,Jan 01,104,32.6,Feb 05,133,45.1,Feb 27,169,59.6,Apr 12,184,83.2,Apr 29,160,81.0,,,
+1975,Dec 31,44,11.6,Jan 28,62,23.4,Feb 25,91,34.6,Mar 27,128,44.9,Apr 29,119,48.9,,,
+1976,Dec 30,42,13.8,Jan 29,63,23.2,Feb 28,142,39.0,Mar 28,155,55.1,Apr 25,126,56.9,,,
+1977,Dec 27,4,1.3,Jan 26,4,1.3,Feb 23,13,2.3,Mar 29,69,18.9,Apr 25,38,15.9,,,
+1978,Dec 27,28,8.7,Jan 27,44,14.6,Feb 23,50,19.0,Mar 27,44,18.0,Apr 25,58,23.1,,,
+1979,Jan 01,,12.0,Feb 01,,12.7,Mar 01,,23.7,Apr 01,,23.0,May 01,,24.0,,,
+1980,Jan 01,,1.1,Feb 01,,21.7,Mar 01,,28.6,Apr 10,93,36.5,Apr 30,57,24.2,,,
+1981,Jan 01,,18.0,Feb 01,,7.7,Mar 01,,8.9,Apr 01,,11.8,May 01,,13.9,Jun 01,,0.0
+1982,Jan 01,,11.3,Feb 01,,35.0,Mar 01,,44.0,Apr 01,,51.3,May 01,,63.0,,,
+1983,Jan 01,,16.4,Feb 01,,28.3,Mar 01,,37.2,Apr 01,,44.9,May 01,,36.5,,,
+1984,,,,,,,,,,,,,,,,,,

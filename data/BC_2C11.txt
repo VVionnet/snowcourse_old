@@ -1,0 +1,101 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 2C11: Kimberley Upper V O R, BC
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Kimberley Upper V O R (2C11) 
+# British Columbia  SNOW COURSE/AERIAL MARKER Site - 7021 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:43:06 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1969,,,,Jan 30,65,17.8,Feb 28,69,21.3,Apr 01,67,22.5,Apr 30,69,23.0,,,
+1970,,,,Jan 30,38,8.4,Feb 27,43,11.6,Mar 31,46,13.4,Apr 30,57,18.0,,,
+1971,,,,Jan 28,62,18.0,Feb 25,70,21.4,Mar 31,82,26.8,Apr 28,78,29.9,,,
+1972,,,,Jan 27,69,20.2,Mar 02,90,27.4,Mar 30,85,31.4,Apr 26,98,36.8,,,
+1973,,,,Jan 31,45,12.8,Feb 27,48,14.4,Mar 29,57,16.6,Apr 30,52,18.2,,,
+1974,,,,Jan 31,82,22.5,Feb 27,80,24.2,Mar 28,87,28.7,May 01,82,30.4,,,
+1975,,,,Jan 30,50,14.4,Feb 26,63,18.8,Mar 27,71,23.4,Apr 30,70,25.5,,,
+1976,,,,Jan 29,55,17.2,Feb 27,76,21.2,Mar 30,81,27.2,Apr 28,75,27.8,,,
+1977,,,,Feb 01,22,4.5,Feb 28,26,6.4,Mar 31,40,9.2,Apr 29,25,7.4,,,
+1978,,,,Jan 31,49,15.3,Feb 27,53,17.2,Mar 30,50,18.9,Apr 27,57,24.7,,,
+1979,,,,Jan 31,29,6.7,Feb 28,48,10.9,Mar 29,46,12.6,Apr 30,44,15.2,,,
+1980,,,,Jan 31,47,13.6,Feb 27,52,17.5,Mar 28,57,19.5,Apr 29,39,16.9,,,
+1981,,,,Jan 29,46,12.2,Feb 26,55,14.7,Mar 27,52,15.1,Apr 30,49,17.6,,,
+1982,,,,Jan 29,48,12.6,Feb 25,56,16.0,Mar 30,68,21.1,Apr 28,64,22.7,,,
+1983,,,,Jan 26,37,10.8,Feb 24,46,13.7,Mar 29,52,15.1,Apr 27,54,17.6,,,
+1984,,,,Jan 26,39,11.0,Feb 29,41,10.7,Mar 30,43,12.4,Apr 27,45,14.0,,,
+1985,,,,Jan 30,36,11.3,Feb 27,44,14.4,Mar 29,48,13.5,Apr 29,46,15.5,,,
+1986,,,,Jan 30,43,12.8,Feb 27,54,16.0,Mar 28,54,17.3,Apr 29,55,16.5,,,
+1987,,,,Jan 29,37,10.2,Feb 25,40,12.4,Mar 27,54,16.5,Apr 30,40,15.5,,,
+1988,,,,Jan 28,31,7.3,Feb 26,33,9.8,Mar 30,47,12.2,Apr 28,35,12.4,,,
+1989,,,,Feb 07,42,11.8,Feb 23,48,13.2,Mar 29,60,18.1,Apr 28,61,20.8,,,
+1990,,,,Jan 26,40,8.2,Feb 26,49,13.7,Mar 29,49,16.7,Apr 25,41,15.2,,,
+1991,,,,Jan 29,56,17.3,Feb 27,60,20.6,Mar 28,78,25.7,Apr 30,71,27.6,,,
+1992,,,,,,,Feb 27,44,13.0,Mar 31,39,12.8,Apr 29,33,12.6,,,
+1993,,,,,,,Feb 25,42,10.0,Mar 31,43,11.5,Apr 29,44,13.2,,,
+1994,,,,,,,Mar 01,43,11.7,Mar 31,42,12.9,Apr 27,38,12.8,,,
+1995,,,,,,,Feb 28,48,13.8,Mar 30,59,18.2,May 01,61,21.2,,,
+1996,,,,,,,Feb 28,61,17.9,Mar 29,63,24.3,Apr 30,69,23.0,,,
+1997,,,,,,,Feb 27,67,19.6,Mar 27,70,24.3,Apr 29,68,26.5,,,
+1998,,,,,,,Feb 27,35,9.2,Mar 30,44,12.8,Apr 29,34,12.3,,,
+1999,,,,,,,Feb 25,70,21.1,Mar 30,69,23.9,Apr 28,58,24.3,,,
+2000,,,,,,,Feb 29,38,10.1,Mar 27,45,13.1,Apr 29,40,14.1,,,
+2001,,,,,,,Feb 27,27,6.0,Mar 30,32,7.8,Apr 29,35,10.2,,,
+2002,,,,,,,,,,,,,,,,,,
+2003,,,,,,,Feb 23,40,10.7,Mar 30,49,15.1,Apr 28,50,16.9,,,
+2004,,,,,,,Feb 25,40,11.2,Mar 30,43,13.5,Apr 30,35,12.4,,,
+2005,,,,,,,Feb 23,32,8.5,,,,Apr 25,34,10.2,,,
+2006,,,,,,,,,11.1,,,15.9,,,18.3,,,
+2007,,,,,,,Feb 26,55,16.0,Apr 03,60,19.2,May 01,48,18.6,,,
+2008,,,,,,,Feb 29,45,13.4,Mar 28,52,16.8,Apr 30,53,18.9,,,
+2009,,,,,,,Feb 26,35,8.8,Mar 26,46,13.0,Apr 30,54,16.7,,,
+2010,,,,,,,,,,,44,13.3,,41,13.9,,,
+2011,,0,,,,,,,,,,13.3,,,13.9,,,
+2012,,,,,,,,,,,,,,,,,,

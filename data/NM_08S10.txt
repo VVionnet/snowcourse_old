@@ -1,0 +1,107 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 08S10: Whitewater - Aerial And Snow Course, NM
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Whitewater - Aerial And Snow Course (08S10) 
+# New Mexico  SNOW COURSE/AERIAL MARKER Site - 10750 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:46:29 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1964,,,,Jan 30,24,4.8,Mar 01,30,6.8,Mar 30,50,10.0,,,,,,
+1965,,,,Jan 29,48,10.6,Feb 26,72,20.1,Mar 31,76,24.3,,,,,,
+1966,,,,Jan 31,84,20.2,Feb 28,98,28.0,Mar 31,94,34.5,,,,,,
+1967,,,,Jan 31,14,3.8,Feb 28,38,8.1,Mar 31,38,11.4,,,,,,
+1968,Dec 28,76,20.5,Jan 31,78,26.5,Feb 29,89,32.1,Mar 31,91,36.2,,,,,,
+1969,,,,Jan 31,48,14.4,Feb 01,62,18.8,Apr 01,62,21.7,,,,,,
+1970,,,,Jan 31,43,10.4,Mar 03,80,19.6,Apr 01,76,21.3,,,,,,
+1971,,,,Feb 01,16,4.8,Mar 03,40,8.8,Mar 31,31,8.2,,,,,,
+1972,,,,Jan 31,64,19.2,Mar 01,54,19.0,Mar 31,34,14.4,,,,,,
+1973,,,,Feb 04,68,16.3,Feb 28,98,22.5,Mar 31,123,34.4,,,,,,
+1974,,,,Jan 31,38,11.3,Feb 28,32,11.8,Mar 31,41,14.2,,,,,,
+1975,,,,Jan 31,54,11.9,Mar 02,63,16.4,Mar 31,96,27.8,,,,,,
+1976,,,,Jan 30,32,8.6,Feb 27,54,15.1,Apr 01,64,17.9,,,,,,
+1977,,,,Jan 31,48,8.6,Feb 27,52,10.4,Mar 31,62,13.6,,,,,,
+1978,,,,Feb 01,48,9.6,Mar 07,96,24.0,Mar 31,87,26.1,,,,,,
+1979,,,,Feb 01,108,28.1,Feb 27,115,34.5,Mar 31,98,35.3,,,,,,
+1980,,,,Feb 02,54,15.1,Feb 29,90,25.2,Apr 01,100,40.0,,,,,,
+1981,Dec 30,18,4.5,Feb 01,24,6.0,Mar 01,40,13.0,Mar 31,66,19.8,,,,,,
+1982,Dec 30,18,4.0,Jan 28,48,14.4,Feb 24,72,14.4,Mar 31,96,36.1,,,,,,
+1983,Jan 03,68,13.6,Feb 02,96,20.2,Feb 28,102,28.6,Mar 29,130,41.6,,,,,,
+1984,Dec 28,44,8.8,Jan 31,60,16.8,Feb 28,51,12.8,Mar 31,37,11.8,,,,,,
+1985,Dec 29,87,19.1,Feb 02,102,25.5,Mar 01,110,30.8,Apr 01,116,37.1,,,,,,
+1986,,,,,,,,,,,,,,,,,,
+1987,,,,,,,,,,Apr 01,,22.6,,,,,,
+1988,Dec 31,46,10.1,Jan 29,68,19.5,Feb 26,68,22.0,Jul 01,51,17.8,,,,,,
+1989,,,,Feb 04,60,15.0,Mar 01,48,12.0,Apr 01,27,9.5,,,,,,
+1990,Jan 04,21,3.8,Feb 03,54,11.0,Mar 01,54,15.1,Apr 04,45,14.8,,,,,,
+1991,Jan 03,70,15.4,Feb 01,78,19.5,Mar 03,112,29.0,Apr 01,116,39.4,,,,,,
+1992,Dec 31,70,14.0,Mar 01,87,26.1,May 01,87,29.6,Jul 01,114,39.9,,,,,,
+1993,,,,Mar 01,82,22.1,May 01,20,36.0,Jul 01,10,44.0,,,,,,
+1994,Jan 01,26,4.7,Feb 02,43,9.5,May 01,52,14.6,Apr 01,48,14.4,,,,,,
+1995,Dec 29,66,13.2,Jan 31,99,24.8,Mar 02,112,33.6,Jul 01,96,30.7,,,,,,
+1996,Dec 29,14,2.8,Mar 01,27,5.4,May 01,45,9.0,Jul 01,18,4.7,,,,,,
+1997,Jan 01,39,10.5,Mar 01,69,20.7,May 01,99,26.7,Mar 30,75,26.2,,,,,,
+1998,Jan 01,57,12.0,Mar 01,11,24.0,May 01,97,29.1,Jul 01,99,29.7,,,,,,
+1999,Jan 01,25,7.5,Mar 01,24,5.3,May 01,18,4.5,Jul 01,18,5.0,,,,,,
+2000,Jan 01,33,5.3,Mar 01,13,1.8,May 01,34,8.5,Jul 01,30,6.0,,,,,,
+2001,Dec 29,39,9.8,Jan 31,90,18.0,Feb 25,78,20.3,Mar 29,75,23.2,,,,,,
+2002,Jan 01,51,10.2,Mar 01,42,9.7,May 01,47,14.1,Mar 30,13,3.9,,,,,,
+2003,Jan 01,24,5.2,,,,May 01,85,20.4,Jul 01,81,24.3,,,,,,
+2004,Jan 01,7,1.4,Mar 01,42,10.5,May 01,42,10.9,Jul 01,37,11.1,,,,,,
+2005,Dec 31,51,15.3,Jan 29,73,20.4,Feb 28,129,41.3,Mar 31,118,43.7,,,,,,
+2006,Dec 28,7,1.4,Jan 30,15,3.0,Feb 26,0,0.0,Mar 28,23,11.0,,,,,,
+2007,,,,,,,,,,,,,,,,,,
+2008,,,,Mar 01,68,23.0,,,,,,,,,,,,
+2009,Dec 28,49,14.7,Jan 28,45,17.6,Feb 24,41,16.8,Mar 28,47,16.0,,,,,,
+2010,Dec 27,37,9.2,Jan 30,90,28.8,Feb 24,117,38.6,Mar 29,112,43.7,,,,,,
+2011,Dec 27,23,6.0,Jan 27,22,7.3,Feb 28,39,14.4,Mar 28,8,3.2,,,,,,
+2012,Dec 28,51,12.8,Jan 30,51,15.8,Feb 29,57,18.8,Mar 28,50,21.5,,,,,,
+2013,Jan 06,43,10.3,Jan 30,51,14.8,Feb 25,65,16.2,Mar 29,26,13.0,,,,,,

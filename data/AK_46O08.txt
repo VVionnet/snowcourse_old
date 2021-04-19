@@ -1,0 +1,82 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 46O08: Ptarmigan Airstrip, AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Ptarmigan Airstrip (46O08) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 2400 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:33:36 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1994,,,,Jan 31,14,2.5,May 01,17,3.0,Mar 31,18,4.1,,,,,,
+1995,Jan 05,17,3.4,Feb 03,19,3.7,Feb 27,24,4.6,Jul 01,27,5.8,,,,,,
+1996,,,,Mar 01,9,1.2,May 01,17,2.4,Mar 31,15,2.7,,,,,,
+1997,,,,Feb 10,18,2.5,Mar 03,17,2.8,Apr 04,21,3.6,,,,,,
+1998,,,,Feb 01,18,3.1,Mar 01,16,3.1,,,,,,,,,
+1999,,,,Mar 01,16,1.8,Mar 02,14,2.1,Apr 01,15,2.7,,,,,,
+2000,,,,Feb 04,21,3.6,Feb 27,15,3.7,Apr 01,15,3.9,,,,,,
+2001,,,,Feb 01,12,2.7,Mar 01,15,3.0,Jul 01,15,3.1,,,,,,
+2002,,,,Feb 02,12,1.9,Mar 05,9,1.9,Mar 30,15,2.9,,,,,,
+2003,,,,Feb 02,7,1.2,Mar 01,5,1.0,Apr 02,12,2.0,,,,,,
+2004,,,,Jan 30,19,3.0,Mar 03,19,3.3,Apr 01,19,3.5,,,,,,
+2005,,,,Feb 01,30,6.0,Feb 28,31,6.0,Apr 05,31,6.7,,,,,,
+2006,,,,,,,Feb 26,12,2.3,Mar 31,11,2.4,,,,,,
+2007,,,,Feb 02,15,2.7,Mar 01,20,3.6,Mar 31,19,3.8,,,,,,
+2008,,,,Feb 01,17,2.7,May 01,17,2.9,Apr 04,15,2.9,,,,,,
+2009,,,,,,,,,,Mar 30,20,4.0,,,,,,
+2010,,,,Feb 13,18,2.6,Mar 05,18,2.6,Apr 01,21,3.8,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,Mar 01,27,5.5,Mar 31,24,5.7,,,,,,
+2013,,,,,,,Feb 27,20,3.8,Apr 01,25,4.8,,,,,,
+2014,,,,,,,,,,,,,,,,,,
+2015,,,,,,,,,,,,,,,,,,
+2016,,,,,,,,,,,,,,,,,,
+2017,,,,,,,,,,,,,,,,,,
+2018,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,93 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10J02: Middle Beaver Creek, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Middle Beaver Creek (10J02) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 8650 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:55:59 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1954,,,,,,,,,,Mar 25,22,5.3,,,,,,
+1955,,,,,,,,,,Mar 29,21,5.4,,,,,,
+1956,,,,,,,,,,Mar 27,14,4.5,,,,,,
+1957,,,,,,,,,,Mar 28,19,5.2,,,,,,
+1958,,,,,,,,,,Mar 31,28,5.9,,,,,,
+1959,,,,,,,,,,Apr 01,26,7.4,,,,,,
+1960,,,,,,,,,,Mar 23,16,4.2,,,,,,
+1961,,,,,,,,,,Apr 04,18,6.1,,,,,,
+1962,,,,,,,,,,Mar 23,34,7.3,,,,,,
+1963,,,,,,,,,,Mar 26,12,3.0,,,,,,
+1964,,,,,,,,,,Mar 26,26,6.1,,,,,,
+1965,,,,,,,,,,Mar 25,29,6.6,,,,,,
+1966,,,,,,,,,,Mar 24,11,3.3,,,,,,
+1967,,,,,,,,,,Mar 24,16,4.1,,,,,,
+1968,,,,,,,,,,Mar 25,18,3.7,,,,,,
+1969,,,,,,,,,,Mar 30,17,5.2,,,,,,
+1970,,,,,,,,,,Mar 23,14,3.5,,,,,,
+1971,,,,,,,,,,Mar 26,22,6.9,,,,,,
+1972,,,,,,,,,,Mar 22,11,3.8,,,,,,
+1973,,,,,,,,,,Mar 23,26,6.1,,,,,,
+1974,,,,,,,,,,,,,,,,,,
+1975,,,,,,,,,,Apr 03,18,5.0,,,,,,
+1976,,,,,,,,,,Apr 02,20,4.4,,,,,,
+1977,,,,,,,,,,Apr 01,8,1.4,,,,,,
+1978,,,,,,,,,,,,,,,,,,
+1979,,,,,,,,,,Apr 06,20,6.3,,,,,,
+1980,,,,,,,,,,Mar 28,52,12.5,,,,,,
+1981,,,,,,,,,,Mar 30,18,3.6,,,,,,
+1982,,,,,,,,,,Mar 29,15,3.9,,,,,,
+1983,,,,,,,,,,Apr 04,39,7.9,,,,,,
+1984,,,,,,,,,,Mar 28,22,4.5,,,,,,
+1985,,,,,,,,,,Apr 01,19,4.8,,,,,,
+1986,,,,,,,,,,Apr 02,11,2.1,,,,,,
+1987,,,,,,,,,,Mar 30,28,6.4,,,,,,
+1988,,,,,,,,,,Apr 07,23,5.0,,,,,,
+1989,,,,,,,,,,,,,,,,,,

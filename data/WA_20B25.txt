@@ -1,0 +1,87 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20B25: Trough No. 2, WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Trough No. 2 (20B25) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 5310 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:40:20 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1976,,,,,,,Feb 25,23,7.0,Mar 29,24,8.7,Apr 29,8,4.3,,,
+1977,,,,Jan 27,0,0.0,Feb 25,0,0.0,Mar 30,8,3.2,Apr 28,0,0.0,,,
+1978,,,,Jan 30,46,13.5,Feb 28,56,19.0,Mar 29,40,18.0,Apr 28,30,15.0,,,
+1979,,,,Jan 29,22,4.5,Feb 26,43,12.0,Mar 28,33,10.5,Apr 27,20,7.5,,,
+1980,,,,Jan 30,38,11.5,,,,Mar 27,51,19.0,Apr 29,16,7.5,,,
+1981,,,,Jan 28,10,1.0,Feb 24,18,6.0,Mar 30,18,7.0,Apr 29,0,0.0,,,
+1982,,,,Jan 27,44,11.5,Feb 25,38,14.0,Mar 29,52,15.5,Apr 28,40,16.5,,,
+1983,,,,Jan 25,42,13.3,Mar 01,54,17.0,Jul 01,,16.3,Sep 01,,18.3,,,
+1984,,,,Jan 28,6,1.8,Feb 27,18,4.1,Mar 29,11,3.3,Apr 30,7,2.3,,,
+1985,,,,,,,,,,,,,,,,,,
+1986,,,,,,,,,,Jul 01,,9.9,,,,Jun 01,0,0.0
+1987,,,,,,,,,,,,,,,,,,
+1988,,,,,,,,,,,,,,,,,,
+1989,,,,Feb 01,13,3.6,,,,Mar 31,28,10.1,,,,,,
+1990,,,,Mar 01,,3.9,,,,Jul 01,,2.4,,,,,,
+1991,,,,,,,Mar 01,,0.2,,,,,,,,,
+1992,,,,,,,,,,,,,,,,,,
+1993,,,,,,,,,,,,,,,,,,
+1994,,,,,,,,,,,,,,,,,,
+1995,,,,,,,,,,Mar 29,48,15.8,,,,,,
+1996,,,,,,,,,,,,,,,,,,
+1997,,,,,,,,,,,,,,,,,,
+1998,,,,,,,,,,,,,,,,,,
+1999,,,,,,,,,,,,,,,,,,
+2000,,,,Jan 28,21,5.5,,,,,,,,,,,,
+2001,Jan 01,,5.2,,,,,,,,,,,,,,,
+2002,,,,,,,,,,,,,,,,,,
+2003,,,,,,,,,,,,,,,,,,
+2004,,,,Jan 28,30,8.2,,,,,,,,,,,,
+2005,,,,,,,,,,,,,,,,,,

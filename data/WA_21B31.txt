@@ -1,0 +1,106 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21B31: Sawmill Ridge, WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Sawmill Ridge (21B31) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 4700 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:51:32 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,Jan 02,53,15.1,Feb 02,56,21.0,,,,Mar 29,99,44.8,,,,,,
+1962,Dec 31,62,22.4,Jan 28,69,28.0,Feb 27,74,28.0,Mar 28,106,38.4,,,,,,
+1963,Dec 31,33,10.5,Jan 27,40,13.0,Feb 27,36,14.2,Apr 02,68,22.6,,,,,,
+1964,Jan 04,51,15.8,Jan 28,106,35.2,Feb 25,111,41.6,Apr 03,132,55.2,,,,,,
+1965,,,,Feb 01,84,32.6,Feb 24,114,45.8,Mar 31,109,48.2,,,,,,
+1966,Dec 31,40,7.9,Jan 24,69,20.3,Mar 01,103,32.2,Mar 29,92,38.8,,,,,,
+1967,Dec 27,28,8.6,Jan 30,84,27.9,Feb 24,102,37.2,Apr 01,122,46.8,,,,,,
+1968,Jan 02,25,7.0,Feb 05,42,15.0,Feb 26,35,13.4,Mar 31,57,17.2,,,,,,
+1969,Jan 08,85,25.0,Feb 03,108,35.4,Feb 25,97,37.8,Mar 27,97,43.3,,,,,,
+1970,Dec 28,43,9.0,Jan 30,62,19.6,Feb 26,69,24.6,Mar 27,69,28.6,,,,,,
+1971,Jan 02,67,17.8,Jan 27,124,41.4,Mar 05,142,49.0,Apr 01,146,60.8,,,,,,
+1972,Dec 30,75,24.0,Jan 28,128,49.6,Feb 26,141,59.5,Mar 27,140,66.6,,,,,,
+1973,Dec 29,36,8.8,Jan 29,40,13.7,Feb 27,43,16.1,Mar 28,56,19.7,,,,,,
+1974,Dec 31,74,23.2,Feb 05,136,43.8,Mar 03,148,52.4,Apr 04,144,61.0,,,,,,
+1975,Dec 28,61,15.6,Jan 27,96,33.0,Feb 26,111,41.8,Mar 27,123,47.8,,,,,,
+1976,Dec 27,51,15.8,Jan 26,76,29.0,Feb 23,102,36.6,Mar 27,148,50.2,,,,,,
+1977,Dec 27,12,2.2,Jan 26,11,3.7,Feb 23,10,3.7,Mar 29,57,17.1,,,,,,
+1978,Dec 31,45,17.3,Jan 27,59,21.2,Mar 01,67,23.0,Apr 03,54,22.8,,,,,,
+1979,Jan 02,42,13.6,Jan 29,54,16.3,Feb 28,97,29.3,Apr 05,80,32.6,,,,,,
+1980,Dec 28,27,7.4,Jan 27,59,17.8,Feb 29,56,19.1,Apr 01,80,27.6,Apr 30,52,22.6,,,
+1981,,,,Feb 02,21,6.3,Feb 27,29,10.4,Apr 01,45,13.2,,,,,,
+1982,Jan 04,69,15.8,Jan 31,84,28.8,Feb 26,83,32.8,Mar 29,94,36.8,May 01,88,39.8,,,
+1983,Jan 06,45,13.6,Jan 31,58,19.6,Feb 28,63,23.0,Mar 30,69,24.6,Apr 29,52,22.0,,,
+1984,,,,Feb 02,41,15.2,Mar 02,67,20.8,Apr 04,68,25.8,Apr 29,73,29.2,May 31,57,25.6
+1985,,,,Jan 30,61,19.6,Mar 02,95,39.0,Apr 06,95,44.0,May 01,82,36.3,,,
+1986,Jan 02,30,7.1,,,,Mar 02,47,16.4,Mar 31,43,16.0,,,,May 30,37,18.8
+1987,Jan 05,48,14.9,Feb 03,78,26.3,Mar 06,65,25.0,Mar 31,56,23.0,Apr 30,41,18.4,,,
+1988,Jan 02,36,10.6,Jan 31,53,17.6,Feb 27,58,22.1,Apr 07,84,34.0,May 03,65,26.0,May 31,50,19.6
+1989,Jan 07,54,13.0,Feb 05,70,25.0,Mar 03,100,37.0,Apr 09,98,43.0,May 02,64,32.0,Jun 01,27,14.0
+1990,Dec 30,12,3.9,Jan 29,71,18.0,Feb 28,85,30.8,Mar 30,89,38.0,May 03,56,27.4,Jun 01,14,4.8
+1991,Jan 02,43,13.0,Feb 05,49,18.7,Feb 26,47,19.7,Jul 01,77,29.2,Apr 29,60,25.7,Jun 02,13,6.3
+1992,Dec 31,32,9.3,Feb 03,40,14.7,Mar 02,42,16.8,Mar 28,22,9.0,Apr 28,2,0.8,May 31,0,0.0
+1993,Jan 01,57,17.2,Jan 30,57,20.5,Mar 02,57,21.8,Apr 01,49,22.7,May 03,42,19.7,,,
+1994,Jan 03,34,8.7,Jan 29,33,12.3,Mar 07,60,18.5,Jul 01,55,21.5,,,,,,
+1995,Dec 29,64,22.5,Feb 01,64,26.1,Feb 27,69,29.5,Mar 29,76,31.7,Apr 27,70,32.1,May 29,3,1.4
+1996,Jan 01,24,6.8,Feb 03,40,11.2,Feb 28,44,17.2,Mar 30,47,19.7,,,,,,
+1997,Jan 05,97,33.0,Jan 31,101,39.9,Feb 28,127,52.7,Apr 01,153,64.8,May 01,134,64.4,,,
+1998,Jan 03,41,11.7,Jan 31,75,24.1,Mar 05,87,29.4,Apr 02,79,31.6,May 02,56,25.8,,,
+1999,Jan 02,45,14.0,Feb 03,80,24.2,Mar 02,101,35.3,Apr 02,95,38.0,,,,,,
+2000,Dec 29,34,10.5,Feb 02,82,26.7,Mar 05,86,28.0,Mar 30,88,32.7,May 01,78,38.0,,,
+2001,Jan 01,,5.5,Jan 27,27,9.2,Feb 26,40,13.2,Apr 04,51,19.2,Apr 27,43,18.3,May 26,0,0.0
+2002,Jan 01,,15.0,Jan 29,74,21.8,Feb 27,72,26.5,Mar 30,100,38.7,Apr 29,77,33.2,Jun 03,47,25.0
+2003,Jan 01,,8.0,Feb 04,34,9.0,Feb 26,42,14.0,Mar 27,61,22.5,Apr 29,49,20.8,May 30,0,0.0
+2004,Jan 01,,12.6,Feb 02,72,24.5,Feb 29,82,29.1,Apr 01,80,33.3,Apr 28,33,14.9,May 27,0,0.0
+2005,Dec 31,10,3.2,Jan 28,2,1.2,Feb 28,2,1.1,Apr 04,25,7.0,May 03,0,0.0,,,
+2006,Dec 29,25,6.7,Feb 03,79,23.8,Feb 24,89,27.5,Mar 28,83,32.8,Apr 28,58,26.7,,,
+2007,Jan 03,58,17.0,Feb 01,61,23.3,Feb 28,83,33.2,Mar 28,61,27.3,Apr 28,44,22.2,,,
+2008,,,,Feb 04,85,25.2,Feb 26,89,32.7,Mar 29,89,33.5,Apr 26,102,46.7,May 30,41,19.7
+2009,,46,10.7,,53,22.9,,59,22.5,,101,33.6,,87,38.9,,,

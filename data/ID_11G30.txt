@@ -1,0 +1,75 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11G30: Sedgwick Peak (Disc), ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Sedgwick Peak (disc) (11G30) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 7850 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:38:47 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1980,,,,Feb 01,50,15.2,Mar 01,58,16.9,Mar 29,64,21.3,,,,,,
+1981,,,,,,,Feb 28,29,7.3,Mar 28,46,11.1,,,,,,
+1982,,,,Jan 30,59,18.5,Feb 27,63,24.6,Mar 29,76,26.3,,,,,,
+1983,,,,Jan 29,42,12.5,Feb 26,49,16.2,Mar 27,58,16.8,,,,,,
+1984,,,,Jan 28,46,16.0,Feb 25,62,18.9,Mar 31,58,21.2,,,,,,
+1985,,,,Feb 01,36,9.1,Feb 27,47,11.5,Mar 30,60,18.0,Apr 26,31,12.4,,,
+1986,,,,Jan 31,44,14.0,Feb 28,76,25.6,Mar 27,68,28.8,May 02,59,27.2,,,
+1987,,,,,,,Feb 25,38,8.6,Mar 27,35,9.0,Apr 28,1,0.3,,,
+1988,,,,Jan 30,36,9.2,Feb 27,34,10.4,Mar 27,35,10.8,Apr 29,11,4.7,,,
+1989,,,,Jan 29,42,11.8,Feb 26,50,16.8,Mar 31,60,20.4,Apr 30,28,12.5,,,
+1990,,,,Jan 27,29,6.6,Mar 02,37,12.0,Apr 02,34,12.0,Apr 30,7,2.3,,,
+1991,,,,Jan 25,37,9.1,Mar 04,48,11.3,Apr 01,49,15.3,May 02,45,16.0,,,
+1992,,,,Feb 02,24,6.5,Feb 29,36,9.7,Apr 01,29,7.9,Apr 26,5,1.8,,,
+1993,,,,Jan 30,48,14.0,Feb 27,63,18.3,Mar 30,54,19.7,Apr 28,54,22.9,,,
+1994,,,,Jan 29,25,5.9,Feb 28,55,12.0,Mar 27,45,12.6,Apr 30,18,6.7,,,
+1995,,,,Jan 30,44,11.6,Feb 24,43,14.6,Mar 29,54,20.3,May 01,35,15.6,Jun 01,,0.0
+1996,,,,Feb 01,55,14.3,Feb 29,62,19.3,Mar 28,58,18.9,Apr 27,48,19.0,,,
+1997,,,,,,,,,,,,,,,,,,

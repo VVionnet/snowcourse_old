@@ -1,0 +1,69 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 12G19: Twitchell Canyon (Disc), ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Twitchell Canyon (disc) (12G19) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 6300 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:38:11 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1981,,,,,,,Mar 03,24,8.5,Mar 30,33,11.7,,,,,,
+1982,,,,Feb 01,47,15.2,Mar 03,44,15.8,Apr 05,56,21.4,,,,,,
+1983,Jan 04,39,10.1,Feb 01,39,11.9,Mar 01,51,15.0,Mar 31,53,19.7,,,,,,
+1984,Dec 30,42,10.2,Feb 01,39,13.3,Mar 01,53,13.7,Mar 30,59,21.2,,,,,,
+1985,Dec 31,40,10.8,Feb 01,42,12.3,Mar 01,52,16.7,Apr 01,57,19.6,May 01,8,3.6,,,
+1986,Dec 31,28,8.0,,,,,,,Apr 01,24,10.2,,,,,,
+1987,Dec 31,16,4.7,Jan 29,30,7.1,Feb 27,37,10.7,Apr 01,29,9.2,May 01,0,0.0,,,
+1988,Dec 31,30,3.6,Feb 01,37,9.8,Mar 01,34,11.2,Apr 01,33,12.1,,,,,,
+1989,Dec 30,41,10.3,Jan 31,48,16.2,Feb 28,52,18.8,Mar 31,50,20.6,May 01,0,0.0,,,
+1990,Dec 29,11,2.6,Jan 31,27,6.2,Mar 01,30,9.6,,,,,,,,,
+1991,,,,Jan 31,34,9.4,,,,,,,,,,,,
+1992,,,,,,,,,,,,,,,,,,

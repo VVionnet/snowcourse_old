@@ -1,0 +1,70 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 11H37: Bug Lake, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Bug Lake (11H37) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 7950 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:39:40 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1978,,,,,,,Feb 23,52,18.5,Mar 29,47,20.5,Apr 24,39,18.2,May 30,0,0.0
+1979,Dec 26,34,8.8,Jan 29,54,16.2,Feb 27,61,20.1,Mar 26,56,21.4,Apr 25,46,19.1,Jun 01,0,0.0
+1980,Dec 26,19,3.3,Feb 03,49,14.4,Feb 25,65,19.0,Apr 02,69,24.8,Apr 28,40,17.4,May 28,3,1.0
+1981,Dec 26,18,4.6,Jan 26,23,5.3,Feb 22,29,7.1,Mar 24,31,8.9,Apr 24,19,6.5,May 27,0,0.0
+1982,,,,Jan 26,64,18.8,,,,Mar 26,79,28.9,Apr 25,70,30.6,May 26,29,14.0
+1983,Dec 28,31,7.2,Jan 26,33,9.2,Feb 22,44,11.8,Mar 26,53,15.8,Apr 26,56,18.2,May 27,41,16.1
+1984,Dec 30,62,18.8,Jan 28,58,21.1,Mar 01,60,22.0,Mar 29,66,23.2,Apr 27,62,24.2,May 29,8,4.8
+1985,Dec 26,40,11.1,Jan 26,40,12.2,Feb 26,55,15.2,Mar 26,58,18.1,Apr 25,42,15.8,May 31,0,0.0
+1986,Dec 26,34,10.3,Mar 01,,12.8,Feb 25,90,27.8,Mar 29,74,29.1,Apr 27,64,26.6,Nov 01,,0.6
+1987,Dec 29,19,4.8,Mar 01,,7.1,Feb 26,38,8.9,Mar 24,47,10.9,Apr 23,25,8.0,Nov 01,0,0.0
+1988,Dec 26,28,5.1,Mar 01,,9.4,Feb 26,40,12.0,Mar 25,47,13.6,Apr 28,26,9.9,Nov 01,,0.2
+1989,Dec 28,28,6.8,Mar 01,,9.4,Feb 21,48,13.5,Mar 23,53,17.1,Apr 24,28,11.6,Nov 01,,0.0
+1990,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,71 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 49N02: Devils Canyon (Discontinued), AK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Devils Canyon (discontinued) (49N02) 
+# Alaska  SNOW COURSE/AERIAL MARKER Site - 1350 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:39:46 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1977,,,,Feb 03,36,6.7,Feb 28,36,7.0,Mar 31,48,9.6,Apr 27,39,9.4,,,
+1978,,,,Jan 27,18,3.0,Mar 02,19,3.6,Apr 01,22,4.6,Apr 28,15,4.3,,,
+1979,,,,Mar 01,30,5.5,Mar 01,30,6.9,Mar 28,46,10.4,Apr 29,34,9.5,,,
+1980,,,,Mar 01,41,7.6,May 01,46,9.5,Mar 26,48,13.5,Apr 29,39,12.5,,,
+1981,,,,Jan 29,17,3.1,Feb 26,30,5.6,Mar 31,30,7.0,Apr 30,21,5.1,,,
+1982,,,,Feb 06,21,4.2,Feb 24,23,5.1,Mar 25,42,8.4,Apr 26,34,8.5,,,
+1983,,,,Feb 04,37,9.0,Feb 23,40,9.6,Mar 28,51,12.2,Sep 01,45,12.5,,,
+1984,,,,Mar 01,24,5.0,Feb 28,36,7.8,Mar 28,39,9.0,Apr 25,38,9.5,,,
+1985,Jan 03,36,4.7,Jan 28,37,8.1,Mar 04,50,10.1,Mar 25,57,13.1,May 01,43,13.6,,,
+1986,Jan 15,17,3.8,Mar 01,18,3.9,Feb 27,19,4.2,Mar 31,28,5.6,Apr 28,21,5.7,,,
+1987,,,,Jan 27,43,9.5,,,,,,,,,,,,
+1988,,,,,,,,,,,,,,,,,,
+1989,,,,,,,,,,Mar 29,40,10.0,,27,,,,
+1990,,,,,,,,,,,,,,,,,,

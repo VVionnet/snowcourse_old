@@ -1,0 +1,85 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 21C01: Stem Glade (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Stem Glade (disc) (21C01) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 5050 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:57:53 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1950,,,,,,,,,,Mar 28,233,93.3,,,,,,
+1951,,,,,,,,,,Mar 31,180,78.4,,,,,,
+1952,,,,,,,,,,Apr 04,180,77.1,,,,,,
+1953,,,,,,,,,,Mar 31,172,71.7,Apr 30,155,72.1,,,
+1954,,,,,,,,,,Mar 29,198,86.7,Apr 30,188,87.4,,,
+1955,,,,,,,,,,Mar 30,197,75.0,May 02,189,82.6,,,
+1956,,,,,,,,,,Mar 29,258,108.4,Apr 29,206,98.7,,,
+1957,,,,Feb 03,129,44.0,Mar 02,144,57.7,Mar 29,159,69.6,,,,,,
+1958,,,,Jan 31,152,51.1,Feb 27,153,60.1,Mar 28,147,67.4,,,,,,
+1959,,,,Feb 02,127,45.5,Feb 27,156,54.9,Mar 31,197,78.0,,,,,,
+1960,,,,Jan 28,76,26.4,Mar 01,106,36.9,Mar 30,143,52.3,,,,,,
+1961,,,,Jan 29,100,36.7,Mar 01,192,67.5,Mar 28,182,80.0,,,,,,
+1962,,,,Jan 30,112,47.0,Feb 26,130,53.2,Mar 31,162,67.6,,,,,,
+1963,,,,Jan 29,70,25.2,Feb 26,73,29.9,Apr 01,132,45.4,,,,,,
+1964,,,,Jan 28,174,58.6,Feb 25,176,70.6,Mar 27,218,93.6,,,,,,
+1965,,,,Feb 02,142,56.2,Feb 24,173,67.1,Mar 27,166,73.0,,,,,,
+1966,Dec 29,81,17.4,Jan 28,111,39.8,Feb 25,134,50.6,Mar 28,157,65.6,,,,,,
+1967,Dec 27,70,24.3,Jan 30,170,60.4,Feb 27,181,70.6,Mar 24,212,82.4,,,,,,
+1968,Jan 02,47,16.9,Jan 31,89,26.1,Feb 27,82,34.0,Mar 29,123,42.4,,,,,,
+1969,Dec 30,108,36.9,Jan 27,150,52.4,Feb 27,170,66.6,Apr 01,165,71.3,,,,,,
+1970,Dec 29,79,21.1,Jan 29,136,42.8,Feb 26,131,54.3,Mar 30,141,61.1,,,,,,
+1971,Jan 04,126,37.3,Feb 01,176,71.1,Mar 01,209,85.3,Mar 29,249,104.7,,,,,,
+1972,Dec 27,137,40.7,Jan 31,225,84.9,Mar 01,244,105.9,Mar 28,249,116.1,Apr 26,261,123.2,,,
+1973,Dec 28,68,20.4,Jan 29,85,30.9,Feb 26,88,36.1,Mar 27,107,42.6,Apr 26,95,43.0,,,
+1974,Jan 02,122,40.7,Feb 06,195,71.9,Feb 25,216,80.7,Mar 27,210,95.6,Apr 29,224,110.0,,,
+1975,Dec 30,110,32.4,Jan 27,151,57.7,Feb 24,182,72.0,Mar 27,211,85.1,Apr 24,195,84.4,,,
+1976,Dec 29,80,32.4,Jan 26,135,53.9,Feb 24,185,68.4,Mar 31,221,84.9,Apr 26,204,90.6,,,
+1977,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,98 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 12J01: Rocky Basin-Settlement Canyon, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Rocky Basin-settlement Canyon (12J01) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 8900 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:56:02 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1954,,,,,,,Mar 09,31,10.9,Apr 07,42,15.5,May 04,33,11.3,,,
+1955,,,,,,,Mar 08,63,19.4,Apr 06,85,26.8,May 05,57,23.7,,,
+1956,,,,,,,,,,Apr 06,56,20.2,Apr 27,35,14.7,,,
+1957,,,,,,,,,,Apr 04,90,28.5,May 01,83,36.1,,,
+1958,,,,,,,,,,Mar 25,81,28.6,Apr 30,74,32.8,,,
+1959,,,,,,,,,,Mar 24,51,18.4,Apr 30,34,15.9,,,
+1960,,,,,,,,,,Apr 02,72,27.9,Apr 30,49,22.3,,,
+1961,,,,,,,,,,Mar 31,58,18.6,,,,,,
+1962,,,,,,,,,,Mar 27,85,31.4,Apr 30,67,28.4,,,
+1963,,,,,,,,,,,,,Apr 29,69,22.5,,,
+1964,,,,,,,,,,Mar 27,86,21.9,Apr 30,66,26.5,,,
+1965,,,,,,,,,,Mar 25,76,27.1,Apr 29,76,34.5,,,
+1966,,,,,,,,,,Mar 25,52,18.4,Apr 29,28,12.0,,,
+1967,,,,,,,,,,Mar 27,62,24.4,Apr 28,72,28.9,,,
+1968,,,,,,,,,,Mar 29,64,24.5,Apr 26,75,30.1,,,
+1969,,,,,,,,,,Mar 24,100,39.3,Apr 27,77,38.6,May 24,21,15.0
+1970,,,,,,,,,,Apr 01,69,22.4,Apr 28,80,26.7,,,
+1971,,,,,,,,,,Mar 30,74,29.3,May 01,67,29.8,May 27,28,14.4
+1972,,,,,,,Feb 28,62,21.8,Mar 30,55,22.7,Apr 28,63,27.5,,,
+1973,,,,,,,Mar 07,98,36.4,Mar 30,123,44.5,May 02,114,50.2,,,
+1974,,,,,,,Feb 28,64,21.9,Apr 01,59,24.7,May 01,71,33.4,,,
+1975,,,,,,,,,,Mar 29,101,32.4,May 01,97,38.9,,,
+1976,,,,,,,,,,Mar 26,74,26.3,Apr 27,69,28.6,May 23,12,5.4
+1977,,,,,,,,,,Apr 04,62,18.7,Apr 27,14,6.0,May 27,0,0.0
+1978,,,,,,,,,,Mar 31,78,35.2,May 02,80,38.0,May 30,42,23.6
+1979,,,,,,,,,,Mar 28,75,26.7,Apr 25,71,29.0,,,
+1980,,,,,,,,,,Mar 26,99,37.9,May 02,64,30.0,May 30,43,19.0
+1981,,,,,,,,,,Mar 31,77,21.6,Apr 29,38,15.3,May 30,11,4.4
+1982,,,,Feb 01,60,18.8,Mar 01,54,19.7,Apr 08,101,35.6,Apr 29,67,28.0,,,
+1983,,,,Feb 03,70,23.7,,,,Mar 30,120,42.0,Apr 28,108,45.8,Jun 06,64,33.6
+1984,,,,,,,,,,Apr 03,119,41.9,Apr 30,126,51.0,,,
+1985,,,,,,,Feb 27,67,22.1,Mar 30,86,30.0,Apr 30,45,20.7,,,
+1986,Jan 02,35,11.3,Feb 03,52,15.2,Feb 27,55,18.8,Mar 31,62,25.4,Apr 30,71,31.9,Nov 01,,12.4
+1987,Dec 31,24,7.4,Feb 02,45,12.4,Mar 02,60,18.4,Apr 01,80,27.0,Apr 30,34,14.1,Nov 01,0,0.0
+1988,,,,Mar 01,,9.5,Feb 29,39,11.7,Apr 01,67,19.9,Apr 29,40,15.2,Nov 01,,0.3
+1989,,,,Mar 01,,14.7,Mar 01,55,18.5,Mar 30,61,22.8,Apr 24,34,14.8,Nov 01,,0.0
+1990,,,,,,,Feb 27,57,17.5,Mar 26,60,22.4,Apr 26,48,19.3,Nov 01,,0.0
+1991,Jan 01,,7.4,Mar 01,,10.6,Mar 06,58,16.2,Mar 26,64,18.8,Apr 30,81,29.6,,,
+1992,Jan 01,,6.9,Mar 01,,9.7,Feb 26,61,18.6,Mar 25,56,19.6,Apr 24,32,13.2,,,
+1993,,,,,,,Feb 27,90,28.3,Mar 26,70,30.5,Apr 25,72,34.1,,,
+1994,,,,,,,,,,,,,,,,,,

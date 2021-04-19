@@ -1,0 +1,110 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 28L01: Watson Lake Airport, YK
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Watson Lake Airport (28L01) 
+# Yukon Territory  SNOW COURSE/AERIAL MARKER Site - 685 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:46:02 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1965,,,,Feb 01,21,3.7,Mar 01,31,7.4,Apr 01,27,6.1,May 01,0,0.0,,,
+1966,,,,Feb 01,17,2.5,Mar 01,19,4.5,Apr 01,10,3.7,May 01,0,0.0,,,
+1967,,,,Feb 01,28,5.5,Mar 01,34,7.4,Apr 01,32,9.0,May 01,11,3.9,,,
+1968,,,,Feb 01,23,4.4,Mar 01,22,4.1,Apr 01,17,3.9,May 01,6,1.5,,,
+1969,,,,Feb 01,23,4.0,Mar 01,28,4.9,Apr 01,33,6.1,May 01,0,0.0,,,
+1970,,,,Feb 01,23,4.2,Mar 01,21,5.6,Apr 01,17,5.0,May 01,6,2.1,,,
+1971,,,,Feb 01,15,1.8,Mar 01,15,3.0,Apr 01,15,3.4,May 01,0,0.0,,,
+1972,,,,Feb 01,25,5.7,Mar 01,30,7.7,Apr 01,28,6.9,May 01,23,5.7,,,
+1973,,,,Feb 01,21,4.0,Mar 01,24,4.6,Apr 01,20,4.8,May 01,0,0.0,,,
+1974,,,,Feb 01,25,4.1,Mar 01,24,5.0,Apr 01,25,5.5,May 01,2,0.6,,,
+1975,,,,Feb 01,15,2.6,Mar 01,15,2.9,Apr 01,18,3.5,Apr 29,0,0.0,,,
+1976,,,,Feb 01,31,4.8,Mar 02,35,7.3,Apr 01,33,6.8,May 01,11,3.8,,,
+1977,,,,Feb 01,20,3.9,Mar 01,19,3.2,Apr 01,20,5.0,Apr 29,0,0.0,,,
+1978,,,,Feb 02,15,2.0,Mar 02,16,3.1,Mar 30,19,4.3,May 01,0,0.0,,,
+1979,,,,Jan 23,19,2.7,Feb 23,30,6.4,Apr 02,26,6.0,May 01,8,5.0,,,
+1980,,,,Feb 01,19,2.2,Mar 04,24,4.6,Apr 01,23,5.0,May 01,0,0.0,,,
+1981,,,,Feb 01,20,3.1,Mar 02,22,4.1,Apr 02,20,5.0,May 01,11,3.7,,,
+1982,,,,Feb 01,18,2.2,Mar 01,19,4.0,Apr 02,19,4.1,May 03,0,0.0,,,
+1983,,,,Feb 01,17,3.5,Mar 01,20,3.8,Apr 05,19,2.8,May 02,0,0.0,,,
+1984,,,,Feb 02,17,2.2,Feb 24,19,3.4,Apr 03,11,4.2,May 01,0,0.0,,,
+1985,Jan 02,25,4.6,,,,Mar 02,29,6.4,Apr 01,26,5.9,May 01,12,3.6,,,
+1986,Jan 02,25,4.6,,,,Mar 02,29,6.4,Apr 01,26,5.9,May 01,12,3.6,,,
+1987,,,,,,,,,,,,,,,,,,
+1988,,,,,,,,,,,,,,,,,,
+1989,,,,,,,,,,,,,,,,,,
+1990,,,,,,,,,,,,,,,,,,
+1991,,,,,,,,,,,,,,,,,,
+1992,,,,,,,,,,,,,,,,,,
+1993,,,,,,,,,,,,,,,,,,
+1994,,,,,,,,,,,,,,,,,,
+1995,,,,,,,,,,,,,,,,,,
+1996,,,,,,,,,,,,,,,,,,
+1997,,,,,,,,,,,,,,,,,,
+1998,,,,,,,,,,,,,,,,,,
+1999,,,,,,,,,,,,,,,,,,
+2000,,,,,,,,,,,,,,,,,,
+2001,,,,,,,,,,,,,,,,,,
+2002,,,,,,,,,,,,,,,,,,
+2003,,,,,,,,,,,,,,,,,,
+2004,,,,,,,,,,,,,,,,,,
+2005,,,,,,,,,,,,,,,,,,
+2006,,,,,,,,,,,,,,,,,,
+2007,,,,,,,,,,,,,,,,,,
+2008,,,,,,,,,,,,,,,,,,
+2009,,,,,,,,,,,,,,,,,,
+2010,,,,,,,,,,,,,,,,,,
+2011,,,,,,,,,,,,,,,,,,
+2012,,,,,,,Feb 27,26,6.2,Mar 29,28,7.6,,,,,,
+2013,,,,,,,Feb 27,37,7.8,Mar 27,32,7.1,Apr 30,34,8.0,,,
+2014,,,,,,,Feb 26,34,9.3,Mar 27,33,9.3,Apr 28,18,6.9,,,
+2015,,,,,,,Feb 26,23,4.3,Mar 27,22,4.7,Apr 27,,0.0,,,
+2016,,,,,,,Feb 24,22,4.0,Mar 29,20,4.2,Apr 26,0,0.0,,,
+2017,,,,,,,Feb 28,14,2.2,Mar 30,21,4.2,Apr 26,2,0.6,,,

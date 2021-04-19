@@ -1,0 +1,88 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10D27: East Boulder S, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# East Boulder S (10D27) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 9250 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:49:46 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,,,,,,,Jul 01,,25.6,Sep 01,,31.4,,,
+1962,,,,,,,,,,Jul 01,,33.0,Sep 01,,31.1,,,
+1963,,,,,,,,,,Jul 01,,23.9,Sep 01,,30.1,,,
+1964,,,,,,,,,,Jul 01,,29.5,Sep 01,,35.3,,,
+1965,,,,,,,,,,Jul 01,,40.6,Sep 01,,44.2,,,
+1966,,,,,,,,,,Jul 01,,23.3,Sep 01,,25.2,,,
+1967,,,,,,,,,,Jul 01,,40.1,Sep 01,,44.8,,,
+1968,,,,,,,,,,Jul 01,,33.2,Sep 01,,38.3,,,
+1969,,,,,,,,,,Jul 01,,31.8,Sep 01,,32.6,,,
+1970,,,,Feb 08,84,24.5,,,,Jul 01,,31.1,May 03,102,42.0,,,
+1971,,,,,,,,,,Apr 05,117,47.0,Apr 30,117,53.0,,,
+1972,,,,,,,,,,Mar 31,96,36.5,Apr 28,98,41.0,,,
+1973,,,,,,,,,,Apr 04,77,24.0,Apr 29,85,28.0,,,
+1974,,,,,,,,,,Apr 05,115,41.5,Apr 30,96,41.5,,,
+1975,,,,,,,,,,Apr 11,108,35.5,May 01,120,44.0,,,
+1976,,,,,,,,,,Apr 01,98,39.0,May 01,99,42.5,,,
+1977,,,,,,,,,,Apr 05,75,23.5,May 06,51,20.5,,,
+1978,,,,,,,,,,Apr 03,87,36.5,May 04,87,37.5,,,
+1979,,,,,,,,,,Apr 05,96,30.0,May 03,87,34.5,,,
+1980,,,,,,,,,,Apr 08,91,30.0,May 01,51,21.0,,,
+1981,,,,,,,,,,Apr 08,72,19.0,Apr 30,54,19.0,,,
+1982,,,,,,,,,,Apr 05,141,36.5,May 01,99,41.5,,,
+1983,,,,,,,,,,Mar 30,81,26.5,Apr 30,74,29.0,,,
+1984,,,,,,,,,,Mar 26,77,23.0,Apr 28,81,28.0,,,
+1985,,,,,,,,,,Apr 02,84,27.0,May 01,63,25.0,,,
+1986,,,,,,,,,,Mar 28,84,30.0,Apr 29,77,31.0,,,
+1987,,,,,,,,,,Mar 29,68,20.5,Apr 28,34,13.5,,,
+1988,,,,,,,,,,Apr 01,72,24.5,Apr 29,54,21.5,,,
+1989,,,,,,,,,,Mar 30,95,30.4,Apr 30,75,31.5,,,
+1990,,,,,,,,,,Apr 01,76,26.2,Apr 30,78,31.2,,,
+1991,,,,,,,,,,,,,,,,,,

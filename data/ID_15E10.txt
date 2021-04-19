@@ -1,0 +1,92 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 15E10: Deadwood Airstrip (Disc), ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Deadwood Airstrip (disc) (15E10) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 5360 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:53:40 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1958,Dec 29,42,9.9,Jan 27,47,13.2,Feb 24,45,14.7,Mar 27,47,18.2,Apr 28,37,14.0,,,
+1959,Dec 28,19,3.9,Jan 29,35,8.1,Feb 26,46,14.1,Mar 28,41,11.5,Apr 28,10,3.9,,,
+1960,Dec 29,16,2.7,Jan 29,28,7.1,Feb 27,42,12.5,Mar 29,29,11.4,Apr 30,0,0.0,,,
+1961,Dec 28,22,4.3,Jan 29,23,5.3,Feb 26,32,8.0,Mar 29,31,9.9,Apr 30,0,0.0,,,
+1962,Dec 29,38,10.1,Jan 29,41,11.4,Feb 26,51,15.1,Mar 29,52,17.5,Apr 28,6,1.7,,,
+1963,Dec 28,6,2.1,Feb 05,10,3.6,Feb 25,8,3.6,Mar 27,7,3.5,Apr 29,0,0.0,,,
+1964,Dec 26,18,3.7,Jan 27,50,9.8,Feb 27,38,12.6,Mar 27,50,15.9,Apr 26,21,10.0,May 26,0,0.0
+1965,Dec 27,28,8.8,Jan 26,62,18.2,Feb 24,52,19.4,Mar 27,56,19.0,Apr 26,25,12.2,,,
+1966,Dec 28,20,4.4,Jan 28,39,11.8,Feb 24,42,13.7,Mar 26,44,15.3,Apr 26,7,2.7,,,
+1967,Dec 26,18,4.1,Jan 30,39,10.4,Feb 23,42,13.4,Mar 27,41,14.8,Apr 25,33,11.6,,,
+1968,Dec 27,21,5.0,Jan 27,35,8.7,Feb 27,34,13.0,Mar 27,29,12.2,Apr 27,0,0.0,,,
+1969,Dec 30,40,7.8,Jan 29,61,16.6,Feb 25,72,21.3,Mar 27,58,21.0,Sep 01,,9.3,,,
+1970,Jan 02,23,6.4,Jan 27,52,17.4,Feb 24,46,17.9,Mar 27,48,18.7,Apr 27,36,15.6,,,
+1971,Dec 29,61,14.7,Jan 28,56,15.5,Feb 23,53,18.3,Mar 27,66,25.4,Apr 27,36,17.5,,,
+1972,Dec 27,46,11.3,Jan 27,52,16.6,Mar 01,50,19.6,Mar 27,36,15.1,Apr 27,21,10.1,,,
+1973,Dec 29,21,4.3,Jan 29,31,7.7,Feb 27,34,10.9,Mar 28,28,9.0,Apr 27,0,0.0,,,
+1974,Dec 30,43,10.6,Jan 28,45,13.8,Feb 27,54,17.6,Mar 28,50,19.4,Apr 29,20,8.9,,,
+1975,Dec 31,29,5.5,Feb 06,45,11.9,Mar 03,47,16.7,Apr 01,54,21.4,Apr 29,44,19.8,,,
+1976,Jan 01,,6.1,Jan 30,39,10.7,Feb 27,51,14.1,Mar 30,52,17.7,Apr 29,15,6.7,,,
+1977,Jan 01,,1.5,Feb 01,13,2.2,Mar 02,20,3.8,Mar 29,23,5.4,Sep 01,,0.0,,,
+1978,Dec 27,28,7.4,Feb 02,49,13.4,Feb 28,52,18.9,Mar 31,31,13.8,May 01,10,3.7,,,
+1979,Dec 27,19,4.8,Jan 31,30,7.4,Mar 02,49,13.0,Apr 03,30,11.4,Apr 30,6,2.6,,,
+1980,Dec 26,31,5.5,Jan 29,38,11.8,Feb 27,43,14.1,Mar 28,50,17.9,Apr 29,11,5.4,,,
+1981,Dec 31,18,6.2,Jan 29,33,7.9,Feb 25,38,11.9,Apr 02,29,10.6,Apr 30,0,0.0,,,
+1982,Jan 05,50,9.5,Jan 27,51,12.6,Feb 25,44,14.1,Apr 02,58,18.4,Apr 28,33,14.2,Jun 01,0,0.0
+1983,Dec 28,40,11.1,Jan 31,46,13.7,Feb 28,62,17.4,Apr 01,53,19.8,Apr 26,34,13.3,May 31,0,0.0
+1984,Jan 01,,11.0,Mar 01,,12.3,May 01,,15.0,Jul 01,,16.0,Sep 01,,9.4,May 29,0,0.0
+1985,Jan 01,,8.2,Mar 01,,10.3,May 01,,13.4,Jul 01,,14.7,Sep 01,,3.1,,,
+1986,Jan 01,,4.4,,,,May 01,,14.2,Jul 01,,11.7,May 01,0,0.0,,,
+1987,Jan 01,,2.4,Mar 01,,5.9,May 01,,8.2,Jul 01,,8.6,Apr 29,0,0.0,,,
+1988,Jan 01,,3.7,Mar 01,,8.7,May 01,,8.0,Jul 01,,7.4,Sep 01,,0.0,Nov 01,,0.0
+1989,Jan 01,,5.5,Mar 01,,10.5,May 01,,11.5,Jul 01,,12.5,Sep 01,,0.0,Nov 01,,0.0
+1990,Jan 01,,1.1,Mar 01,,5.6,May 01,,9.0,Jul 01,,7.7,Sep 01,,0.0,Nov 01,,0.0
+1991,Jan 01,,3.4,Mar 01,,5.3,May 01,,5.1,Jul 01,,6.7,Sep 01,,0.0,Nov 01,,0.0
+1992,,,,,,,,,,,,,,,,,,

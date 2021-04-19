@@ -1,0 +1,80 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 12K01: Vernon Creek, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Vernon Creek (12K01) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 7500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:43:53 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1968,,,,,,,Feb 29,22,7.6,Mar 28,25,9.8,Apr 30,10,4.0,,,
+1969,,,,,,,Feb 27,53,17.2,Mar 31,42,18.3,Apr 24,17,7.0,,,
+1970,,,,,,,Feb 27,13,4.6,Mar 31,18,6.2,Apr 29,9,2.6,May 28,0,0.1
+1971,,,,,,,Feb 25,33,9.4,Mar 30,19,8.0,Apr 29,2,1.6,May 28,0,0.1
+1972,Dec 22,18,4.3,,,,Feb 23,24,8.1,Mar 27,3,0.5,Apr 24,0,0.1,May 26,0,0.1
+1973,Jan 03,31,6.9,Feb 02,38,11.3,Mar 02,46,15.6,Apr 02,67,20.0,Apr 30,39,15.7,May 31,0,0.1
+1974,,,,Jan 26,32,8.3,Feb 24,34,9.4,Mar 31,14,4.9,Apr 28,0,0.1,Jun 03,0,0.1
+1975,Dec 30,14,2.8,Jan 29,21,5.9,Feb 23,30,8.2,Mar 31,39,12.0,May 03,22,9.0,May 29,0,0.1
+1976,Dec 29,16,4.2,,,,Feb 28,28,8.2,,,,Apr 30,0,0.1,May 25,0,0.1
+1977,Dec 29,0,0.1,Jan 29,8,1.2,Feb 28,9,2.0,Mar 27,9,3.0,Apr 30,0,0.1,May 26,0,0.1
+1978,Dec 29,7,1.8,Jan 28,32,8.8,Feb 25,45,14.5,Mar 25,44,18.2,Apr 30,14,6.5,May 31,0,0.1
+1979,Dec 28,29,8.5,Jan 27,42,11.2,Feb 28,52,13.2,Mar 26,54,17.4,Apr 27,30,13.0,May 31,0,0.1
+1980,Dec 28,12,3.3,Jan 30,36,8.0,Feb 28,40,11.0,Mar 28,59,17.3,Apr 30,13,6.5,,,
+1981,Dec 30,4,1.5,Jan 25,12,2.0,Feb 27,24,6.1,Mar 27,28,7.2,Apr 29,0,0.1,May 28,0,0.1
+1982,,,,Jan 30,32,8.4,,,,Mar 27,36,11.5,May 01,8,3.1,,,
+1983,,,,,,,Feb 27,56,16.0,,,,,,,May 18,25,12.0
+1984,Dec 29,44,11.8,Feb 01,44,13.8,Mar 01,40,14.9,Mar 31,62,21.6,Apr 29,44,17.6,May 31,0,0.1
+1985,,,,Feb 04,44,10.5,Mar 01,43,11.7,,,,Apr 29,0,0.1,,,
+1986,Jan 07,25,6.2,Mar 01,,8.4,May 01,,13.9,Apr 01,22,8.8,,,,Jun 01,0,0.1
+1987,Dec 31,1,0.1,Feb 02,14,3.1,May 01,,4.9,Apr 01,23,5.9,Sep 01,,0.0,Nov 01,0,0.0
+1988,,,,Mar 01,,5.2,Feb 29,27,7.1,Jul 01,,9.5,Apr 28,0,0.0,,,
+1989,,,,Mar 01,,4.3,Mar 01,24,6.8,Mar 30,10,3.6,May 01,0,0.0,Nov 01,,0.0
+1990,,,,,,,,,,,,,,,,,,

@@ -51,7 +51,7 @@
 # California  SNOW COURSE/AERIAL MARKER Site - 7900 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:16:28 AM GMT-08:00
+# As of: Apr 19, 2021 11:09:56 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -146,4 +146,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,,,,Feb 01,,16.0,Mar 05,,18.5,Apr 03,,29.0,May 10,,22.4,,,
 2019,,,,Jan 31,,31.0,Mar 12,,55.0,Apr 09,,61.5,May 04,,63.0,,,
 2020,,,,Feb 03,,22.5,Feb 27,,23.5,Apr 03,,22.5,Apr 29,,21.0,,,
-2021,,,,,,,Mar 03,,23.0,,,,,,,,,
+2021,,,,,,,Mar 03,,23.0,Mar 30,,27.0,,,,,,

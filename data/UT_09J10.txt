@@ -1,0 +1,84 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 09J10: Reynolds Park, UT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reynolds Park (09J10) 
+# Utah  SNOW COURSE/AERIAL MARKER Site - 10400 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:46:33 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1964,,,,,,,,,,,,,May 20,45,16.0,,,
+1965,,,,,,,Feb 25,39,11.3,,,,,,,,,
+1966,,,,,,,,,,Mar 14,62,16.4,,,,,,
+1967,,,,,,,Feb 28,45,12.6,,,,,,,,,
+1968,,,,,,,,,,,,,,,,,,
+1969,,,,,,,,,,,,,,,,,,
+1970,,,,,,,,,,Apr 01,60,16.2,May 01,63,18.3,,,
+1971,,,,,,,,,,Mar 29,49,16.2,Apr 28,68,21.1,,,
+1972,,,,,,,,,,Mar 31,62,20.5,Apr 27,58,19.1,May 26,10,3.8
+1973,,,,,,,,,,Apr 04,82,22.1,Apr 26,84,23.5,,,
+1974,,,,,,,,,,,,,Apr 29,45,14.0,,,
+1975,,,,,,,,,,,,,May 01,74,25.2,,,
+1976,,,,,,,Feb 27,51,14.3,,,,Apr 29,66,20.5,Jun 03,2,1.0
+1977,,,,Feb 08,4,0.8,Feb 28,12,2.2,Mar 30,27,5.7,May 02,2,0.8,Jun 07,0,0.0
+1978,,,,Jan 27,27,8.1,,,,Apr 12,45,15.8,,,,May 25,36,16.2
+1979,,,,Feb 10,51,13.8,Mar 03,84,21.8,,,,Apr 27,58,20.3,May 25,21,10.5
+1980,,,,,,,,,,Apr 04,80,22.4,,,,Jun 05,36,18.0
+1981,,,,Jan 27,24,5.5,Mar 05,50,13.5,,,,Apr 30,24,8.6,May 28,0,0.0
+1982,,,,,,,,,,Apr 10,75,23.2,May 05,45,18.0,Jun 02,12,6.0
+1983,,,,,,,Mar 03,73,21.9,Apr 07,90,25.2,,,,Jun 10,63,31.5
+1984,,,,,,,,,,Apr 06,69,18.6,May 07,66,19.8,May 31,0,0.0
+1985,,,,,,,,,,Apr 01,75,20.2,,,,,,
+1986,,,,,,,Feb 27,71,19.2,Apr 04,89,26.7,May 05,60,21.6,,,
+1987,,,,,,,Mar 04,60,13.2,Apr 02,67,15.4,Apr 29,37,12.2,,,
+1988,,,,,,,Feb 24,41,9.4,Apr 06,49,12.7,May 03,43,12.9,,,
+1989,,,,,,,Feb 28,45,10.4,Mar 31,44,13.6,,,,,,
+1990,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,87 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 20K22: Brockway Summit #1 & #2, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Brockway Summit #1 & #2 (20K22) 
+# California  SNOW COURSE/AERIAL MARKER Site - 7100 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:45:28 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1965,,,,Feb 02,53,20.1,Mar 01,46,19.1,Mar 31,37,17.0,,,,,,
+1966,,,,Jan 27,39,12.1,Mar 03,49,14.8,Mar 30,20,8.1,,,,,,
+1967,,,,Jan 27,72,18.1,Mar 01,53,22.1,Mar 31,83,29.2,,,,,,
+1968,,,,Feb 01,59,13.9,Feb 28,32,13.1,Mar 25,34,13.2,,,,,,
+1969,,,,Jan 31,100,30.1,Feb 26,130,47.7,Mar 24,104,48.9,,,,,,
+1970,,,,Jan 31,44,14.1,Feb 24,43,16.1,Mar 28,28,11.8,,,,,,
+1971,,,,Jan 31,46,17.0,Feb 27,40,15.5,Mar 27,53,20.7,,,,,,
+1972,,,,Jan 28,50,12.7,Feb 25,42,13.0,Mar 31,0,0.0,,,,,,
+1973,,,,Jan 27,54,16.2,Feb 25,68,21.6,Mar 27,64,22.8,,,,,,
+1974,,,,Jan 31,32,10.9,Feb 26,39,12.7,Mar 30,53,17.6,,,,,,
+1975,,,,Jan 29,21,6.9,Feb 26,55,18.7,Mar 28,79,25.9,,,,,,
+1976,,,,Jan 29,0,0.0,Feb 25,10,2.9,Mar 29,5,1.6,,,,,,
+1977,,,,Jan 30,10,3.4,Feb 28,18,4.2,Mar 30,13,3.4,,,,,,
+1978,,,,Jan 30,55,19.0,Feb 27,60,24.7,Mar 28,49,21.7,,,,,,
+1979,,,,Jan 29,25,6.7,Feb 28,58,16.0,Mar 27,39,13.8,,,,,,
+1980,,,,Jan 30,42,14.9,Feb 29,68,25.0,Mar 26,69,27.1,,,,,,
+1981,,,,Jan 26,29,10.0,Feb 26,20,6.6,Mar 27,23,7.9,,,,,,
+1982,,,,Jan 28,47,11.8,Feb 26,25,10.9,Apr 05,75,21.4,,,,,,
+1983,Dec 30,57,17.3,Jan 28,78,23.1,Mar 02,93,34.0,Mar 29,114,45.2,,,,,,
+1984,Dec 30,40,13.9,Jan 26,38,14.8,Mar 02,45,16.2,Mar 31,30,13.7,,,,,,
+1985,,,,Jan 30,31,8.3,Mar 02,33,11.5,Mar 30,57,17.2,,,,,,
+1986,Jan 01,19,8.1,Jan 27,28,10.1,Mar 01,64,25.9,Mar 29,49,21.5,,,,,,
+1987,Jan 01,0,0.0,Jan 26,13,3.4,Feb 28,32,8.6,Mar 25,30,10.0,,,,,,
+1988,Jan 03,27,5.3,Feb 03,32,9.2,Feb 27,19,6.2,Apr 04,0,0.0,Sep 01,0,0.0,,,
+1989,,,,Jan 29,31,10.0,Feb 26,32,11.9,Mar 27,35,14.9,,,,,,
+1990,Dec 29,10,2.2,Jan 25,14,3.4,Feb 25,35,9.1,Apr 02,9,2.5,,,,,,
+1991,Dec 30,12,2.4,Jan 26,11,2.3,Mar 03,26,4.5,Mar 25,52,8.8,,,,,,
+1992,Dec 30,12,2.4,Jan 30,10,3.0,Mar 02,17,5.1,Mar 30,6,1.7,,,,,,
+1993,,,,Jan 27,81,25.1,,,,,,,,,,,,
+1994,,,,,,,,,,,,,,,,,,

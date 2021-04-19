@@ -1,0 +1,102 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 13E01: Lemhi Pass, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Lemhi Pass (13E01) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 7480 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:59:22 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1948,,,,,,,Mar 01,38,10.0,Apr 01,44,12.2,,,,,,
+1949,,,,,,,Mar 01,40,9.9,Apr 01,41,11.8,,,,,,
+1950,,,,,,,Mar 01,34,8.8,Apr 01,35,10.9,,,,,,
+1951,,,,,,,Mar 01,36,9.5,Apr 01,45,12.5,,,,,,
+1952,,,,,,,Mar 01,39,11.0,Apr 01,49,13.7,,,,,,
+1953,,,,,,,Mar 01,30,7.9,Apr 01,33,9.2,,,,,,
+1954,,,,,,,Mar 01,26,7.0,Apr 01,31,8.6,,,,,,
+1955,,,,,,,Mar 01,24,5.4,Apr 01,29,8.2,,,,,,
+1956,,,,,,,Mar 01,42,11.0,Apr 01,44,11.8,,,,,,
+1957,,,,,,,Mar 01,32,7.1,Apr 01,38,9.6,,,,,,
+1958,,,,,,,Mar 01,31,6.5,Apr 01,39,9.7,,,,,,
+1959,,,,,,,Feb 26,31,7.8,Mar 25,32,8.7,,,,,,
+1960,,,,,,,Feb 29,30,6.6,Mar 27,23,6.8,,,,,,
+1961,,,,,,,Feb 23,22,4.7,Mar 28,28,6.5,,,,,,
+1962,,,,,,,Feb 26,32,7.0,Mar 22,31,7.4,,,,,,
+1963,,,,,,,Feb 25,23,6.0,Mar 27,24,5.8,,,,,,
+1964,,,,,,,Feb 24,32,6.8,Mar 30,35,9.0,,,,,,
+1965,,,,,,,Feb 23,46,14.6,Mar 29,49,15.3,,,,,,
+1966,,,,,,,Feb 23,25,5.4,Mar 28,20,5.6,,,,,,
+1967,,,,,,,Feb 27,29,7.2,Mar 30,36,9.4,,,,,,
+1968,,,,,,,Feb 27,35,9.8,Mar 29,33,10.2,,,,,,
+1969,,,,,,,Feb 27,40,11.1,Mar 28,39,12.1,,,,,,
+1970,,,,,,,Feb 25,21,5.2,Apr 01,38,9.5,,,,,,
+1971,,,,,,,Feb 24,34,9.4,Mar 31,41,12.3,,,,,,
+1972,,,,,,,Mar 01,34,10.3,Mar 29,30,10.3,,,,,,
+1973,,,,,,,Feb 28,21,4.9,Mar 28,32,7.0,,,,,,
+1974,,,,,,,Feb 27,28,7.5,Mar 27,33,10.4,,,,,,
+1975,,,,,,,Feb 23,35,9.8,Apr 01,42,12.0,May 02,48,16.0,,,
+1976,,,,Feb 03,30,9.3,Feb 22,38,11.2,Mar 29,45,13.6,Apr 29,43,14.4,,,
+1977,,,,,,,Feb 25,12,2.5,Apr 03,27,5.6,May 01,0,0.0,,,
+1978,,,,,,,Mar 03,39,10.8,Mar 26,32,11.0,Apr 28,22,8.8,,,
+1979,,,,,,,Mar 04,40,9.8,Apr 01,37,10.0,Apr 25,38,11.3,,,
+1980,,,,,,,Feb 27,28,6.6,Mar 28,34,9.5,Apr 28,0,0.0,,,
+1981,,,,,,,Feb 28,20,5.0,Apr 02,26,7.0,May 03,0,0.0,,,
+1982,,,,,,,Feb 26,30,8.8,Mar 28,33,10.4,Apr 27,33,11.3,,,
+1983,,,,,,,Feb 26,26,5.2,Mar 29,27,7.8,Apr 29,15,5.0,,,
+1984,,,,,,,Mar 03,38,6.1,Mar 29,42,9.2,Apr 28,40,13.2,,,
+1985,,,,,,,Feb 24,30,6.0,Mar 30,34,9.1,Apr 29,0,0.0,,,
+1986,,,,,,,Feb 28,34,9.6,Apr 05,24,8.0,May 01,25,7.5,,,
+1987,,,,,,,Mar 02,29,7.2,Mar 30,28,8.5,Apr 26,3,0.8,,,
+1988,,,,,,,Feb 25,26,6.3,Mar 28,30,7.2,Apr 26,10,3.2,,,
+1989,,,,,,,Feb 25,30,7.1,Mar 27,29,8.2,Apr 28,7,2.6,,,
+1990,,,,,,,Feb 25,16,4.4,Mar 28,20,5.6,Apr 26,3,1.0,,,
+1991,,,,,,,May 01,,6.0,Jul 01,,8.1,Sep 01,,7.8,,,
+1992,,,,,,,,,,,,,,,,,,

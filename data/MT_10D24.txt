@@ -1,0 +1,88 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 10D24: Placer Basin, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Placer Basin (10D24) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 8830 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:50:32 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1961,,,,,,,,,,Jul 01,,14.0,,,,,,
+1962,,,,,,,,,,Jul 01,,30.0,,,,,,
+1963,,,,,,,,,,Jul 01,,20.0,,,,,,
+1964,,,,,,,,,,Jul 01,,20.0,,,,,,
+1965,,,,,,,,,,Jul 01,,30.0,,,,,,
+1966,,,,,,,,,,Jul 01,,16.5,,,,,,
+1967,,,,,,,,,,Jul 01,,28.0,,,,,,
+1968,,,,,,,,,,Jul 01,,25.0,,,,,,
+1969,,,,,,,,,,Jul 01,,18.0,,,,,,
+1970,,,,Feb 08,58,15.5,,,,Jul 01,,25.0,May 03,91,35.5,,,
+1971,,,,,,,,,,Apr 05,83,31.0,Apr 30,103,38.0,,,
+1972,,,,,,,,,,Mar 31,63,22.0,Apr 28,63,25.0,,,
+1973,Jan 09,36,5.8,,,,,,,Apr 04,69,18.0,Apr 29,89,25.0,,,
+1974,,,,,,,,,,Apr 05,68,23.0,Apr 30,65,26.5,,,
+1975,,,,Jan 28,72,21.5,Mar 12,67,22.0,Apr 11,77,27.0,May 01,89,33.0,May 27,89,38.0
+1976,,,,,,,,,,Apr 01,67,25.5,May 01,81,34.0,,,
+1977,,,,,,,,,,Apr 05,60,17.0,May 06,33,11.0,,,
+1978,,,,,,,,,,Apr 03,53,21.0,May 04,51,21.5,,,
+1979,,,,,,,,,,Apr 05,65,21.5,May 03,63,24.0,,,
+1980,,,,,,,,,,Apr 08,81,22.5,May 01,33,13.0,,,
+1981,,,,,,,,,,Apr 08,63,15.0,Apr 30,31,11.0,,,
+1982,,,,,,,,,,Apr 05,111,26.5,May 01,63,27.0,,,
+1983,,,,,,,,,,Mar 30,63,19.0,Apr 30,55,19.5,,,
+1984,,,,,,,,,,Mar 26,60,18.0,Apr 28,69,21.5,,,
+1985,,,,,,,,,,Apr 02,52,19.0,May 01,37,14.5,,,
+1986,,,,,,,,,,Mar 28,57,17.5,Apr 29,47,18.0,,,
+1987,,,,,,,,,,Mar 29,60,18.0,Apr 28,28,13.5,,,
+1988,,,,,,,,,,Apr 01,54,18.5,Apr 29,42,12.0,,,
+1989,,,,,,,,,,Mar 30,65,20.8,Apr 30,51,22.0,,,
+1990,,,,,,,,,,Apr 01,62,20.5,Apr 30,63,19.5,,,
+1991,,,,,,,,,,,,,,,,,,

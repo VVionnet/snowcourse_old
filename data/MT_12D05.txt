@@ -51,7 +51,7 @@
 # Montana  SNOW COURSE/AERIAL MARKER Site - 6960 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 2, 2021 8:21:33 AM GMT-08:00
+# As of: Apr 19, 2021 10:50:41 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -115,4 +115,4 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,,,,,,,Feb 27,31,7.0,Mar 27,33,9.9,May 01,24,7.8,,,
 2019,,,,,,,Feb 25,40,8.4,Mar 26,35,9.8,Apr 30,18,6.8,,,
 2020,,,,,,,Feb 25,32,8.2,,,,Apr 30,15,5.0,,,
-2021,,,,,,,Feb 25,33,7.0,,,,,,,,,
+2021,,,,,,,Feb 25,33,7.0,Mar 31,32,7.1,,,,,,

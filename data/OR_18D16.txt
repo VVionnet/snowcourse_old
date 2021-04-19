@@ -1,0 +1,78 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 18D16: Blue Mountain Camp (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Blue Mountain Camp (disc) (18D16) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 4300 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:46:48 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1963,Dec 21,2,0.6,Jan 30,12,1.9,Feb 27,1,0.1,Mar 28,0,0.0,Apr 29,0,0.0,,,
+1964,Dec 30,18,4.2,Jan 30,55,15.8,Feb 26,59,20.0,Mar 27,74,27.8,Apr 29,28,12.8,May 26,0,0.0
+1965,Dec 29,29,8.8,Jan 26,55,13.4,Feb 26,42,15.6,Mar 29,36,14.2,Apr 28,0,0.0,May 28,0,0.0
+1966,Dec 30,12,2.0,Jan 27,33,9.6,Feb 28,51,14.6,Mar 29,41,16.2,Apr 29,0,0.0,May 27,0,0.0
+1967,Dec 28,10,2.0,Jan 27,33,11.6,Feb 24,32,10.7,Mar 29,31,9.5,Apr 27,9,3.6,May 26,0,0.0
+1968,Dec 28,7,1.8,Jan 30,13,5.2,Feb 28,0,0.0,Mar 28,3,0.8,Apr 29,0,0.0,Jun 01,0,0.0
+1969,Dec 31,35,8.8,Jan 30,54,15.8,Feb 27,54,19.8,Mar 27,46,20.8,Apr 29,2,0.3,May 28,0,0.0
+1970,Dec 30,17,4.0,Jan 27,30,10.8,Feb 25,29,13.0,Mar 26,33,14.4,Apr 29,27,11.4,May 28,0,0.0
+1971,Dec 29,21,5.4,Jan 28,23,13.6,Feb 25,23,9.4,Mar 29,30,14.8,Apr 27,17,7.2,May 26,0,0.0
+1972,Dec 30,50,20.2,Jan 27,55,23.6,Feb 28,54,27.4,Mar 30,45,22.2,Apr 27,32,17.4,May 25,0,0.0
+1973,Jan 03,14,2.8,Jan 30,14,4.8,Feb 27,13,5.6,Mar 29,12,6.6,Apr 26,0,0.0,May 29,0,0.0
+1974,Dec 28,51,18.4,Jan 29,60,23.6,Feb 28,78,31.4,Mar 27,62,28.0,Apr 26,50,25.0,May 29,0,0.0
+1975,Dec 27,21,7.0,Jan 28,39,13.6,Feb 25,47,14.8,Mar 26,45,16.8,,,,,,
+1976,Dec 30,23,6.4,Jan 28,42,15.1,Feb 26,57,20.8,Mar 29,61,27.4,Apr 28,29,14.8,,,
+1977,Dec 29,0,0.1,Jan 27,7,3.0,Feb 25,9,1.0,Mar 30,26,8.5,Apr 20,0,0.0,,,
+1978,Jan 04,21,4.7,Feb 02,27,8.2,Mar 01,20,8.9,Mar 28,0,0.0,Apr 25,0,0.0,,,
+1979,Dec 26,26,9.3,Jan 26,37,12.9,Feb 28,57,20.0,Mar 29,23,10.6,Apr 27,6,2.8,,,
+1980,Dec 29,9,3.2,Jan 29,15,5.2,Feb 27,12,5.7,Mar 28,20,6.4,Apr 30,0,0.0,,,
+1981,Dec 29,0,0.0,Jan 29,7,1.1,Feb 24,0,0.0,Mar 27,8,1.8,Apr 29,0,0.0,,,
+1982,Dec 29,28,6.0,Jan 29,52,18.0,Feb 27,48,18.4,Apr 05,52,20.2,Apr 29,14,6.6,,,
+1983,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,101 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 15N02: Clark Canyon, NV
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Clark Canyon (15N02) 
+# Nevada  SNOW COURSE/AERIAL MARKER Site - 9000 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:00:37 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1945,,,,,,,,,,Mar 28,46,14.3,,,,,,
+1946,,,,,,,Mar 02,16,4.9,Apr 01,29,8.3,,,,,,
+1947,,,,,,,Mar 06,25,7.6,Mar 27,15,5.2,,,,,,
+1948,,,,,,,Feb 26,23,7.2,Mar 29,28,8.1,,,,,,
+1949,,,,,,,Mar 04,48,13.5,Apr 01,62,18.0,,,,,,
+1950,,,,,,,Mar 01,14,4.9,Mar 30,9,3.9,,,,,,
+1951,,,,,,,Feb 27,17,2.8,Mar 29,6,1.5,,,,,,
+1952,,,,,,,Feb 24,37,11.8,Mar 25,60,18.7,,,,,,
+1953,,,,,,,Feb 26,11,3.1,Mar 29,1,0.3,,,,,,
+1954,,,,,,,Feb 24,23,8.5,Apr 01,34,12.8,,,,,,
+1955,,,,,,,Feb 27,26,7.9,Mar 30,19,6.1,,,,,,
+1956,,,,,,,Feb 25,13,3.8,Mar 29,2,0.8,,,,,,
+1957,,,,,,,Feb 28,11,4.6,Mar 26,8,3.7,,,,,,
+1958,,,,,,,Feb 23,24,7.0,Mar 29,40,11.6,,,,,,
+1959,,,,,,,Mar 01,21,5.4,Mar 29,9,4.7,,,,,,
+1960,,,,,,,Feb 26,37,11.1,Mar 27,22,7.9,,,,,,
+1961,,,,,,,Feb 25,10,2.8,Mar 29,15,3.1,,,,,,
+1962,,,,,,,Feb 28,41,12.6,Mar 29,41,13.7,,,,,,
+1963,,,,,,,Feb 28,2,0.6,Mar 29,7,2.5,,,,,,
+1964,,,,,,,Feb 27,6,1.4,Mar 26,12,3.0,,,,,,
+1965,,,,,,,Mar 02,17,5.3,Mar 31,21,7.2,,,,,,
+1966,,,,,,,Mar 08,32,9.6,Mar 28,16,5.1,,,,,,
+1967,,,,,,,Feb 27,12,3.8,Mar 30,4,2.0,,,,,,
+1968,,,,,,,Feb 29,23,7.5,Apr 02,23,6.9,,,,,,
+1969,,,,,,,,,,Mar 27,72,27.6,,,,,,
+1970,,,,,,,Feb 27,6,0.7,Mar 31,11,3.8,,,,,,
+1971,,,,,,,Mar 01,20,5.4,Mar 30,5,1.9,,,,,,
+1972,,,,,,,Feb 28,19,7.3,Mar 30,0,0.0,,,,,,
+1973,,,,,,,Feb 27,46,13.8,Mar 27,75,17.7,,,,,,
+1974,,,,,,,Feb 26,25,6.8,Mar 27,17,6.1,,,,,,
+1975,,,,,,,Feb 26,15,4.2,Mar 25,27,8.3,,,,,,
+1976,,,,,,,Feb 27,20,6.0,Mar 30,12,4.5,,,,,,
+1977,,,,,,,Mar 01,2,0.6,,,,,,,,,
+1978,,,,,,,Mar 02,56,15.7,Mar 28,50,20.4,,,,,,
+1979,,,,,,,Mar 01,45,12.5,Mar 28,60,16.6,,,,,,
+1980,,,,,,,,,,Mar 27,55,20.1,,,,,,
+1981,,,,,,,Feb 25,4,1.2,Mar 25,17,5.5,,,,,,
+1982,,,,,,,Feb 26,14,4.5,Mar 31,31,10.5,,,,,,
+1983,,,,,,,Feb 24,39,12.3,Mar 30,48,19.0,,,,,,
+1984,,,,,,,,,,,,,,,,,,
+1985,,,,,,,,,,,,,,,,,,
+1986,,,,,,,,,,,,,,,,,,
+1987,,,,,,,,,,,,,,,,,,
+1988,,,,,,,,,,,,,,,,,,

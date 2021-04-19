@@ -1,0 +1,74 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 19L32: Ebbetts Pass #2, CA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Ebbetts Pass #2 (19L32) 
+# California  SNOW COURSE/AERIAL MARKER Site - 8700 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:40:40 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1975,Jan 02,50,13.2,Jan 29,55,19.5,Feb 23,103,36.5,Mar 30,134,46.4,Apr 29,117,52.0,,,
+1976,Dec 31,23,7.0,Jan 23,30,9.4,,,,Mar 25,48,18.4,May 01,33,14.0,,,
+1977,Dec 27,1,0.3,Jan 26,17,4.6,Feb 26,29,8.8,Mar 29,32,12.4,Apr 26,4,1.4,,,
+1978,Dec 31,57,20.0,Jan 24,97,36.0,Feb 24,144,47.3,Mar 28,105,50.6,Apr 26,113,58.6,,,
+1979,Dec 27,36,9.0,Jan 26,68,20.0,Feb 27,103,34.0,Mar 29,107,39.8,Apr 25,81,39.2,,,
+1980,Dec 27,55,12.8,Jan 30,86,35.8,Feb 26,132,50.1,Mar 26,137,59.9,Apr 25,117,58.2,,,
+1981,Dec 29,16,5.4,Feb 02,65,17.0,Feb 27,61,19.3,Mar 30,80,28.9,Apr 29,49,21.3,,,
+1982,,,,Jan 29,110,39.3,Feb 23,105,44.6,Apr 08,170,67.3,Apr 27,135,67.5,,,
+1983,Jan 01,85,25.6,Jan 25,99,33.5,Mar 04,185,66.0,Apr 01,166,71.0,Apr 26,175,75.5,,,
+1984,Jan 01,,33.4,Jan 25,85,33.7,Feb 28,103,41.5,Mar 27,93,41.5,May 01,79,37.9,,,
+1985,Jan 01,62,18.3,Jan 29,56,17.0,Feb 25,61,23.0,Apr 01,83,30.2,Apr 30,38,17.6,,,
+1986,Jan 01,49,15.1,Jan 27,51,16.8,Feb 25,126,50.0,Mar 25,132,62.5,Apr 30,100,45.6,,,
+1987,Jan 01,,2.7,Mar 01,,8.9,Feb 26,53,14.5,Mar 30,54,18.8,,,,,,
+1988,Jan 01,,10.2,Jan 26,59,17.7,Feb 23,45,16.5,Mar 31,33,14.7,,,,,,
+1989,Jan 01,,15.7,Jan 30,51,22.0,Feb 27,55,18.9,Apr 04,81,35.6,Sep 01,,22.9,,,
+1990,,,,Feb 02,49,12.5,Mar 30,46,18.0,Mar 30,46,18.0,,,,,,
+1991,,,,,,,,,,,,,,,,,,

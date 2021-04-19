@@ -1,0 +1,101 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 22G22: Little Red Mountain (Disc), OR
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Little Red Mountain (disc) (22G22) 
+# Oregon  SNOW COURSE/AERIAL MARKER Site - 6500 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 11:06:59 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1936,,,,Jan 22,55,16.7,,,,Mar 29,66,27.4,,,,,,
+1937,,,,Jan 30,47,11.4,,,,Mar 30,75,27.1,,,,,,
+1938,,,,Jan 27,27,7.6,,,,Mar 30,106,37.4,,,,,,
+1939,,,,Jan 28,32,7.4,,,,Mar 29,43,17.4,,,,,,
+1940,,,,Jan 29,20,5.8,,,,Mar 28,51,20.5,,,,,,
+1941,,,,Jan 28,57,19.2,,,,Mar 30,45,20.2,,,,,,
+1942,,,,Jan 26,29,10.4,,,,Mar 29,57,21.8,,,,,,
+1943,,,,Feb 04,49,16.1,,,,Apr 02,30,13.3,,,,,,
+1944,,,,Feb 04,36,9.6,,,,Mar 29,36,14.7,,,,,,
+1945,,,,Jan 30,13,2.5,,,,Apr 03,54,19.3,,,,,,
+1946,,,,,,,,,,Mar 27,61,26.0,,,,,,
+1947,,,,Feb 04,29,10.2,,,,Apr 02,46,17.2,,,,,,
+1948,,,,,,,Feb 27,34,12.6,Mar 30,51,17.9,,,,,,
+1949,,,,Jan 29,41,12.8,,,,Mar 29,83,30.6,,,,,,
+1950,,,,,,,Mar 01,47,20.8,Mar 29,62,22.5,,,,,,
+1951,,,,Jan 30,41,14.5,Mar 02,55,13.0,Mar 30,50,16.3,,,,,,
+1952,,,,Feb 06,86,29.4,Mar 04,89,32.6,Apr 08,80,39.2,,,,,,
+1953,,,,Jan 31,60,28.4,Feb 27,63,26.5,Apr 01,79,34.6,,,,,,
+1954,,,,Feb 02,71,23.9,Mar 02,71,29.7,Mar 30,75,32.9,,,,,,
+1955,,,,Feb 14,37,13.9,Mar 06,47,16.5,Mar 28,42,15.9,,,,,,
+1956,,,,Feb 01,94,29.6,Mar 12,113,42.2,Apr 15,80,39.6,,,,,,
+1957,,,,Feb 10,27,8.2,Mar 03,30,12.7,Mar 31,48,20.9,,,,,,
+1958,,,,,,,Feb 23,67,27.2,Mar 26,90,36.3,,,,,,
+1959,,,,,,,Feb 22,69,24.0,Mar 21,51,22.2,,,,,,
+1960,,,,Feb 04,51,14.2,Mar 01,52,22.4,Apr 02,40,14.7,,,,,,
+1961,,,,,,,Mar 02,42,14.3,Mar 30,64,23.7,,,,,,
+1962,,,,Jan 28,37,12.9,Feb 25,52,15.5,Mar 27,68,26.8,,,,,,
+1963,,,,Jan 29,9,3.1,Feb 25,3,1.4,Mar 26,20,5.0,,,,,,
+1964,,,,Jan 28,52,14.5,Feb 25,44,15.8,Mar 27,62,21.1,,,,,,
+1965,,,,Jan 27,56,20.1,Feb 23,51,21.6,Mar 29,48,22.7,,,,,,
+1966,,,,Feb 03,82,25.4,Feb 26,77,31.6,Mar 30,74,35.1,,,,,,
+1967,,,,Feb 01,55,20.4,Feb 28,56,23.1,Mar 28,74,27.9,,,,,,
+1968,,,,Jan 25,37,14.3,Feb 27,35,16.1,Mar 26,50,16.9,,,,,,
+1969,,,,Feb 06,100,31.6,Mar 02,124,43.4,Mar 25,93,41.9,,,,,,
+1970,,,,Jan 28,56,15.4,Feb 23,52,20.7,Mar 25,50,22.1,,,,,,
+1971,,,,Jan 26,46,18.2,Feb 25,58,17.2,Mar 29,73,28.7,,,,,,
+1972,,,,Jan 27,82,27.4,Feb 29,73,29.9,Mar 27,57,22.9,,,,,,
+1973,,,,Jan 27,37,10.3,Feb 22,34,11.8,Mar 27,46,16.3,,,,,,
+1974,,,,Jan 28,61,23.5,Feb 25,80,27.8,Mar 28,98,38.1,,,,,,
+1975,,,,Jan 29,45,13.7,Feb 24,81,27.4,Mar 27,120,41.1,,,,,,
+1976,,,,Jan 26,26,9.0,Feb 25,38,10.4,Mar 29,50,17.7,,,,,,
+1977,,,,Jan 24,11,3.3,Feb 25,19,3.6,Mar 28,36,11.1,,,,,,
+1978,,,,,,,,,,Mar 28,44,21.0,,,,,,
+1979,,,,,,,,,,,,,,,,,,

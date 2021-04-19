@@ -1,0 +1,90 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 17B06: Ragged Mountain, ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Ragged Mountain (17B06) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 4200 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:36:05 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1985,Jan 07,53,17.6,Jan 29,49,18.0,Feb 23,64,22.0,Mar 26,57,23.6,,,,,,
+1986,Jan 02,25,5.9,Jan 28,32,9.6,Feb 27,30,11.2,Mar 29,29,12.4,,,,,,
+1987,Jan 02,27,6.0,Feb 02,39,11.0,Feb 28,40,14.2,Mar 28,27,9.0,,,,,,
+1988,,,,Jan 27,37,9.8,Feb 28,40,13.9,,,,,,,,,
+1989,Jan 08,46,13.8,,,,Mar 04,76,19.0,Apr 01,61,25.6,,,,,,
+1990,Dec 31,6,1.9,,,,Mar 04,45,18.2,Apr 01,33,17.0,Apr 29,10,2.6,,,
+1991,Jan 04,21,5.4,Feb 02,27,8.6,Mar 03,25,7.6,Mar 30,30,11.0,Apr 28,0,0.0,,,
+1992,Jan 01,17,4.4,Feb 01,24,8.1,Mar 01,26,10.5,Mar 29,0,0.0,May 01,0,0.0,,,
+1993,Jan 01,,11.3,Jan 31,51,17.8,Feb 28,62,21.9,Mar 28,44,19.8,May 01,7,3.7,,,
+1994,Jan 01,43,11.1,Jan 30,37,12.4,Feb 27,49,15.2,Apr 02,17,8.6,May 01,0,0.0,,,
+1995,Dec 31,46,17.1,Jan 29,57,22.0,Feb 25,37,13.6,Apr 02,26,13.5,May 06,0,0.0,,,
+1996,Jan 01,11,2.5,Feb 04,31,7.3,Mar 02,22,6.3,Mar 30,20,7.4,,,,,,
+1997,Jan 05,60,22.7,Feb 01,72,27.4,Mar 01,87,32.9,Mar 29,80,35.2,Apr 27,48,23.5,,,
+1998,Jan 01,23,7.6,Feb 01,44,15.9,Feb 28,58,20.5,Mar 29,42,18.5,May 03,0,0.0,,,
+1999,Jan 01,36,11.7,Jan 30,65,18.5,Feb 27,82,29.3,Apr 01,66,27.9,May 02,35,16.3,,,
+2000,Jan 02,42,14.0,Jan 30,65,21.8,Mar 05,64,26.1,Apr 01,67,28.8,May 06,13,6.4,,,
+2001,Jan 01,32,8.6,Feb 03,40,11.8,Mar 04,49,15.5,Apr 01,28,11.4,Apr 29,13,6.4,,,
+2002,Jan 01,54,17.8,Feb 01,74,24.0,Mar 02,68,27.1,Mar 30,74,30.9,May 01,23,12.2,,,
+2003,Jan 01,32,7.4,Feb 02,24,9.1,Mar 02,33,11.6,Apr 01,18,7.3,,,,,,
+2004,,,,Jan 31,55,18.0,Mar 06,67,22.7,,,,,,,,,
+2005,,,,,,,,,,,,,,,,,,
+2006,,,,Feb 04,64,22.1,,,,Mar 21,68,26.7,,,,,,
+2007,Dec 29,43,12.8,Jan 28,53,15.8,Feb 25,66,21.6,,,,,,,,,
+2008,,,,,,,Mar 02,76,29.4,Apr 04,94,35.2,,,,,,
+2009,,,,Jan 31,46,16.3,Mar 01,52,18.4,Mar 28,58,23.8,,,,,,
+2010,Jan 02,27,6.4,Jan 31,36,11.1,Feb 27,42,13.5,,,,,,,,,
+2011,Jan 01,49,10.6,Jan 27,44,16.4,Feb 27,59,18.6,,,,,,,,,
+2012,Dec 31,21,8.1,Jan 29,37,10.8,,,,,,,,,,,,
+2013,Dec 30,45,13.8,Feb 02,51,18.4,,,,,,,,,,,,
+2014,Jan 01,23,6.6,Feb 01,39,9.6,Mar 01,53,14.7,,,,,,,,,
+2015,Jan 03,16,3.6,Jan 31,17,6.2,,,,Apr 01,0,0.0,,,,,,
+2016,Jan 06,43,12.3,Jan 31,53,18.0,Feb 27,47,20.0,,,,,,,,,
+2017,,,,,,,Feb 27,61,19.0,,,,,,,,,

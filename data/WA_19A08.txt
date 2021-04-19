@@ -1,0 +1,73 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 19A08: Clark Aerial (Disc), WA
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Clark Aerial (disc) (19A08) 
+# Washington  SNOW COURSE/AERIAL MARKER Site - 7000 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:47:00 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1963,,,,Feb 01,30,8.1,Mar 06,39,12.9,Apr 05,50,14.0,Apr 28,77,28.9,,,
+1964,,,,Feb 01,64,16.1,Feb 29,72,19.8,Mar 30,72,20.2,Apr 29,69,24.2,,,
+1965,,,,,,,Mar 03,57,17.1,Apr 04,65,24.7,,,,,,
+1966,,,,,,,,,,Mar 27,54,18.9,Apr 30,42,16.8,,,
+1967,,,,Jan 30,63,19.5,,,,Apr 03,66,23.1,May 01,90,32.4,,,
+1968,,,,,,,Mar 01,48,14.4,Apr 03,56,20.2,Apr 30,45,18.9,,,
+1969,,,,,,,Mar 03,66,19.8,Apr 03,56,23.0,,,,,,
+1970,,,,,,,,,,,,,,,,,,
+1971,,,,Jan 31,53,15.9,Feb 26,63,22.7,Apr 01,88,29.9,Apr 30,69,28.3,,,
+1972,,,,,,,Mar 01,90,29.7,Apr 01,96,35.5,May 01,105,48.3,,,
+1973,,,,,,,,,,,,,,,,,,
+1974,,,,Feb 05,72,21.6,Mar 02,78,26.5,Apr 02,114,42.2,,,,,,
+1975,,,,Jan 30,60,16.8,Feb 27,64,21.8,Mar 31,84,30.2,,,,,,
+1976,,,,Jan 30,38,12.5,,,,,,,,,,,,
+1977,,,,,,,,,,,,,,,,,,
+1978,,,,,,,,,,,,,,,,,,

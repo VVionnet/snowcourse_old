@@ -1,0 +1,69 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 15F16: Idaho City Townsite (Disc), ID
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Idaho City Townsite (disc) (15F16) 
+# Idaho  SNOW COURSE/AERIAL MARKER Site - 4000 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:38:08 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1981,Jan 02,6,2.2,Jan 30,9,3.2,Feb 26,4,1.4,,,,,,,,,
+1982,,,,Jan 29,35,8.6,Mar 01,22,8.8,Mar 31,13,3.1,May 03,0,0.0,,,
+1983,Dec 29,17,3.1,Jan 31,15,5.5,Feb 28,17,6.1,Apr 29,0,0.0,,,,,,
+1984,Dec 29,29,5.8,Jan 30,27,8.0,Mar 01,28,8.2,Mar 30,5,1.6,May 01,0,0.0,,,
+1985,Dec 27,18,4.5,Feb 01,18,4.2,Feb 27,24,6.4,Mar 28,12,3.2,Apr 26,0,0.0,,,
+1986,Dec 30,11,2.1,Jan 30,15,3.8,Mar 03,11,4.0,Apr 01,0,0.0,May 01,0,0.0,,,
+1987,Dec 31,0,0.0,Jan 29,9,1.8,Feb 27,8,2.6,Apr 01,0,0.0,Apr 30,0,0.0,,,
+1988,Dec 28,6,1.1,Feb 01,20,4.5,Feb 29,5,2.1,Mar 31,0,0.0,Apr 29,0,0.0,,,
+1989,Dec 28,18,3.9,Feb 01,24,6.9,Mar 01,17,6.6,Mar 30,0,0.0,May 01,0,0.0,,,
+1990,Dec 28,0,0.0,Feb 01,14,2.1,Mar 01,12,4.1,Mar 28,0,0.0,May 01,0,0.0,,,
+1991,,,,,,,Feb 27,0,0.0,,,,,,,,,
+1992,,,,,,,,,,,,,,,,,,

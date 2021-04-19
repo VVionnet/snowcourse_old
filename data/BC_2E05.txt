@@ -1,0 +1,91 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 2E05: Trapping Creek Lower, BC
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Trapping Creek Lower (2E05) 
+# British Columbia  SNOW COURSE/AERIAL MARKER Site - 3051 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:44:55 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1966,,,,Jan 29,18,3.4,Feb 27,17,4.4,Mar 30,7,2.3,Apr 28,0,0.0,,,
+1967,,,,Jan 30,18,5.1,Feb 28,17,5.2,Mar 30,13,4.6,Apr 27,0,0.0,,,
+1968,,,,Jan 30,16,4.1,Feb 27,9,3.4,Mar 30,0,0.0,Apr 29,0,0.0,Jun 01,0,0.0
+1969,,,,Jan 30,26,6.4,Feb 27,28,7.5,Mar 29,13,4.2,Apr 28,0,0.0,Jun 01,0,0.0
+1970,,,,Jan 31,20,3.9,Feb 27,13,4.0,Mar 30,7,2.4,Apr 29,0,0.0,Jun 01,0,0.0
+1971,,,,Jan 30,21,4.0,Feb 26,20,6.0,Mar 29,21,6.4,Apr 29,0,0.0,Jun 01,0,0.0
+1972,,,,Jan 29,28,6.8,Feb 27,29,7.2,Mar 26,18,6.2,Apr 26,0,0.0,,,
+1973,,,,Jan 29,11,1.2,Feb 25,13,2.7,Mar 28,3,0.8,May 01,0,0.0,Jun 01,0,0.0
+1974,,,,Jan 27,20,4.8,Feb 24,28,7.0,Mar 29,18,5.4,Apr 28,0,0.0,Jun 01,0,0.0
+1975,,,,Jan 26,31,6.5,Feb 23,34,8.8,Mar 29,26,8.6,Apr 28,0,0.0,,,
+1976,,,,Jan 28,23,6.1,Feb 24,25,7.0,Mar 28,22,7.0,Apr 27,0,0.0,,,
+1977,,,,Jan 29,12,2.2,Feb 26,9,2.3,Mar 28,7,2.2,Apr 28,0,0.0,,,
+1978,,,,Jan 29,25,5.0,Feb 26,23,6.5,Mar 29,12,3.7,Apr 29,0,0.0,,,
+1979,,,,Jan 29,19,3.2,Feb 24,21,4.3,Mar 30,4,0.9,,,,,,
+1980,,,,Jan 31,11,1.8,Mar 02,15,4.3,Apr 01,10,2.9,,,,,,
+1981,,,,Jan 30,8,2.0,Feb 27,6,1.7,Mar 29,0,0.0,,,,,,
+1982,,,,Jan 31,26,4.7,Feb 27,20,5.0,Mar 27,14,4.3,,,,,,
+1983,,,,Jan 29,24,5.4,Feb 26,21,5.7,Mar 29,8,2.4,,,,,,
+1984,,,,Jan 29,23,4.6,Feb 27,22,5.0,Mar 31,8,2.6,,,,,,
+1985,,,,Feb 03,14,2.0,Mar 03,14,3.4,Mar 31,12,3.4,Apr 29,0,0.0,,,
+1986,,,,Feb 05,20,3.3,Mar 01,20,5.0,Mar 31,0,0.0,May 03,0,0.0,,,
+1987,,,,Jan 31,17,3.1,Feb 28,14,3.9,Mar 28,1,0.3,May 02,0,0.0,,,
+1988,,,,Jan 30,12,2.5,Feb 27,14,3.8,Mar 26,5,1.7,Apr 27,0,0.0,,,
+1989,,,,Jan 28,19,4.6,Feb 25,22,5.5,Apr 01,9,2.8,Apr 27,0,0.0,,,
+1990,,,,Jan 27,12,2.0,Feb 24,16,3.5,Mar 31,3,1.1,Apr 26,0,0.0,,,
+1991,,,,,,,Feb 23,17,5.7,Mar 26,14,4.8,Apr 29,0,0.0,,,
+1992,,,,,,,Feb 29,9,2.8,Mar 30,0,0.0,Apr 27,0,0.0,,,
+1993,,,,,,,Feb 28,20,5.3,Mar 29,11,3.2,Apr 28,0,0.0,,,
+1994,,,,,,,Feb 27,23,4.8,Mar 27,11,3.9,May 01,0,0.0,,,
+1995,,,,,,,Feb 25,16,4.9,Apr 01,6,1.7,Apr 30,0,0.0,,,
+1996,,,,,,,Mar 02,24,6.9,Mar 30,13,4.5,Apr 29,0,0.0,,,
+1997,,,,,,,Mar 02,27,7.0,Mar 30,17,4.9,Apr 26,0,0.0,,,
+1998,,,,,,,Mar 01,14,3.9,Mar 29,5,1.7,May 03,0,0.0,,,
+1999,,,,,,,Feb 28,20,5.9,Apr 03,8,2.6,May 01,0,0.0,,,

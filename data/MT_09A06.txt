@@ -1,0 +1,91 @@
+#------------------------------------------------- WARNING --------------------------------------------
+# 
+# The data you have obtained from this automated Natural Resources Conservation Service 
+# database are subject to revision regardless of indicated Quality Assurance level. 
+# Data are released on condition that neither the NRCS nor the United States Government 
+# may be held liable for any damages resulting from its use. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# 
+# Support Contact: usdafpacbc@servicenowservices.com
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Reporting Frequency: Monthly
+# Date Range: Period of Record
+# Report Instantaneous Data As: Start of Month
+#
+# Data for the following site(s) are contained in this file:
+#
+#	SNOW COURSE/AERIAL MARKER 09A06: Sucker Creek, MT
+# 
+# Data items provided in this file:
+#
+# Element Name           Value Type       Function Type  Function Duration               Base Data  Measurement Units  Sensor Depth  Element Code  Description                                                                                        
+# Snow Water Equivalent  Collection date  None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# Snow Depth             Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           SNWD          Total snow depth                                                                                   
+# Snow Water Equivalent  Value            None           Instantaneous - Start of Month  N/A        Inches             N/A           WTEQ          Depth of water that would theoretically result if the entire snowpack were melted instantaneously  
+# 
+# Quality Control flags included:
+#
+# Flag    Name                Description
+#  V      Valid               Validated Data
+#  N      No Profile          No profile for automated validation
+#  E      Edit                Edit, minor adjustment for sensor noise
+#  B      Back Estimate       Regression-based estimate for homogenizing collocated Snow Course and Snow Pillow data sets
+#  K      Estimate            Estimate
+#  X      External Estimate   External estimate
+#  S      Suspect             Suspect data
+# 
+# Quality Assurance flags included:
+#
+# Flag    Name                Description
+#  U      Unknown             Unknown
+#  R      Raw                 No Human Review
+#  P      Provisional         Preliminary Human Review
+#  A      Approved            Processing and Final Review Completed
+# 
+#------------------------------------------------------------------------------------------------------
+# 
+# Sucker Creek (09A06) 
+# Montana  SNOW COURSE/AERIAL MARKER Site - 3960 ft
+# Reporting Frequency: Monthly; Date Range: Period of Record
+#
+# As of: Apr 19, 2021 10:41:35 AM GMT-08:00
+#
+Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
+,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
+1973,Dec 27,0,0.0,Jan 26,0,0.0,Feb 27,0,0.0,Mar 29,0,0.0,Apr 26,8,2.7,,,
+1974,Dec 27,2,0.2,Jan 31,2,0.2,Feb 26,0,0.0,Mar 27,1,0.1,Apr 30,0,0.0,,,
+1975,Dec 31,0,0.0,Jan 30,0,0.0,Feb 27,0,0.0,Mar 28,12,1.2,May 02,8,2.3,,,
+1976,,,,Jan 23,0,0.0,Feb 26,0,0.0,Mar 29,0,0.0,,,,,,
+1977,Dec 30,2,0.3,,,,Feb 26,4,0.4,Mar 31,12,1.6,Apr 30,0,0.0,,,
+1978,Dec 29,10,1.2,Jan 26,18,3.5,Feb 23,14,3.6,Mar 28,0,0.0,May 01,0,0.0,,,
+1979,Dec 27,10,1.6,Jan 24,13,2.5,Feb 26,0,0.0,Mar 28,6,0.4,Apr 27,0,0.0,,,
+1980,Dec 28,0,0.0,Jan 28,3,0.4,Feb 28,0,0.0,Mar 27,0,0.0,Apr 28,0,0.0,May 28,0,0.0
+1981,Dec 30,0,0.0,Jan 29,5,0.4,Feb 28,0,0.0,Mar 31,3,0.4,Apr 28,0,0.0,May 28,0,0.0
+1982,Dec 30,4,0.6,Jan 27,0,0.0,Feb 25,3,0.8,Mar 30,0,0.0,Apr 30,0,0.0,Jun 01,13,3.0
+1983,Dec 30,8,0.4,Jan 28,2,0.2,Feb 28,0,0.0,Mar 31,0,0.0,Apr 30,0,0.0,,,
+1984,Dec 26,13,1.8,Jan 30,0,0.0,Feb 28,2,0.4,Mar 29,0,0.0,Apr 30,0,0.0,May 31,0,0.0
+1985,Jan 02,6,0.6,Jan 29,4,0.6,Feb 27,0,0.0,Mar 29,4,0.8,Apr 29,0,0.0,May 29,0,0.0
+1986,Dec 27,5,0.8,Jan 28,0,0.0,Feb 26,0,0.0,Mar 27,0,0.0,Apr 28,0,0.0,May 29,0,0.0
+1987,Dec 29,0,0.0,Jan 27,3,0.4,Feb 26,4,0.2,Mar 25,10,1.0,Apr 25,0,0.0,May 28,0,0.0
+1988,Dec 28,0,0.0,Jan 28,0,0.0,Feb 25,0,0.0,Mar 28,0,0.0,Apr 27,0,0.0,May 27,0,0.0
+1989,Dec 27,7,0.6,Jan 28,0,0.0,Feb 25,7,0.6,Mar 28,0,0.0,Apr 26,0,0.0,May 25,0,0.0
+1990,Dec 27,6,1.1,Jan 27,0,0.0,Feb 26,0,0.0,Mar 28,4,0.5,Apr 26,0,0.0,May 29,0,0.0
+1991,Dec 27,4,0.4,Jan 29,5,0.4,Feb 26,0,0.0,Mar 28,4,0.4,Apr 25,0,0.0,Nov 01,0,0.0
+1992,Dec 26,0,0.0,Jan 27,0,0.0,Feb 26,0,0.0,Mar 27,0,0.0,Apr 27,0,0.0,Nov 01,0,0.0
+1993,Dec 26,0,0.0,Jan 29,1,1.0,Feb 26,7,0.8,Mar 25,0,0.0,Apr 28,0,0.0,Nov 01,0,0.0
+1994,Dec 28,0,0.0,Jan 27,5,1.1,Feb 28,4,0.7,Mar 28,0,0.0,Apr 28,2,0.3,May 26,0,0.0
+1995,Dec 26,0,0.0,Jan 25,0,0.0,Feb 23,0,0.0,Mar 30,17,3.1,Apr 27,0,0.0,May 27,0,0.0
+1996,Dec 26,1,0.1,Jan 30,6,0.7,Feb 27,5,0.5,Mar 28,6,0.7,Apr 29,0,0.0,May 29,0,0.0
+1997,Dec 30,9,1.3,Jan 29,4,0.4,Feb 28,4,0.3,Apr 01,0,0.0,Apr 30,0,0.0,May 29,0,0.0
+1998,Dec 26,0,0.0,Jan 30,0,0.0,Feb 26,0,0.0,Mar 30,0,0.0,May 01,0,0.0,May 30,0,0.0
+1999,Dec 30,12,3.8,Jan 29,0,0.0,Mar 02,3,0.6,Apr 01,4,0.5,May 01,0,0.0,Jun 01,0,0.0
+2000,Dec 29,0,0.0,Jan 28,3,0.5,Feb 25,0,0.0,Mar 30,3,0.4,May 01,0,0.0,Jun 01,0,0.0
+2001,Dec 27,2,0.6,Jan 30,2,0.6,Feb 27,6,0.8,Mar 28,0,0.0,Apr 26,0,0.0,May 30,0,0.0
+2002,Dec 26,0,0.0,Jan 31,3,0.4,Feb 26,4,0.3,Mar 28,4,1.4,Apr 25,2,0.6,May 31,0,0.0
+2003,Dec 30,0,0.0,Jan 27,0,0.0,Feb 27,7,1.0,Mar 25,0,0.0,Apr 28,0,0.0,May 27,0,0.0
+2004,Dec 30,19,2.0,Jan 30,17,3.6,Feb 25,11,2.8,Mar 29,0,0.0,Apr 30,0,0.0,May 26,0,0.0
+2005,Dec 28,3,0.4,Jan 27,0,0.0,Feb 25,0,0.0,Mar 30,0,0.0,Apr 25,0,0.0,May 25,0,0.0
+2006,Dec 28,0,0.0,Jan 30,1,0.2,May 01,2,0.8,Mar 29,0,0.0,Apr 26,0,0.0,May 30,0,0.0
