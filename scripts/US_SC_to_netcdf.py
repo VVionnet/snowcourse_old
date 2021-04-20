@@ -6,7 +6,6 @@ import sys
 import pdb
 import datetime
 import glob
-import matplotlib.pyplot as plt
 
 
 DEFAULT_ENCODING = {
@@ -75,8 +74,6 @@ lskip=[]
 da_temp=[]
 
 for cf in files_us:
-#for cf in files_us[1:25]:
-
    
    print(cf)
    sta_id = cf.split('.')[0]
