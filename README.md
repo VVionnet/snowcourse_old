@@ -18,12 +18,19 @@ to create the metadata file delimited by "|"
 
 Run the script `./downloadFilez.bash` to download the data
 
-## Convert the data in netcdf
+## Convert the data in NetCDF
 
-Run the script `./US_SC_to_netcdf.py` to convert the data into Netcdf. The format of the netcdf is the same as for CanSWE, the historical Canadian SWE dataset. 
+Run the script `./US_SC_to_netcdf.py` to convert the data into NetCDF. The format of the NetCDF is the same as for CanSWE, the historical Canadian SWE dataset (Vionnet et al., 2021) 
 
 The script is made of 5 stages: (i) loop over the individual datafiles to combine them into a single xarray dataset, (ii) add the relevant metadata for each measurement site, (iii) apply a simple QC based on range thresholding and (iv) add the attributes of each data and metadata and (v) generate the final netcdf. 
 
-The script includes a check on the measurement date to make sure that it corresponds approximatively (+/- 15 days) to the nominal date (beginning of each month). If it not the case, the nominal date is used as the measurement data and a flag is added. 
+The script includes a check on the measurement date to make sure that it corresponds approximatively (+/- 15 days) to the nominal date (beginning of each month). If it is not the case, the nominal date is used as the measurement date and a flag is added ('U') (see the attributes of the NetCDF). When such date inconsistency occurs, the reported SWE value corresponds to an estimated value (NCRS, personal communication, 2021). We recommend to remove set this value to NaN when using this dataset for model evaluation. 
+
+The NetCDF file contains a variable that describes the type of SWE measurements. A value of 7 is used for 'Aerial markers'. This is specific to this US dataset. Note that stations originally identified as aerial markers may correspond to snow courses for the more recent years since these remote sites can be more easily acessed using modern helicopters. However, it is not possible to make a clear distinction (NCRS, personal communication, 2021). This is one of the limitation of this dataset. 
+  
 
 Requires the following python package: xarray, pandas, numpy
+
+## References 
+Vionnet, V., Mortimer, C., Brady, M., Arnal, L. and Brown, R.: Canadian historical Snow Water Equivalent dataset (CanSWE, 1928-2020), submitted to Earth System Science Data, May 2021 
+
