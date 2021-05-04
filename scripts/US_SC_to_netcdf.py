@@ -73,8 +73,7 @@ lcheck_dupli=True
 lskip=[]
 da_temp=[]
 
-#for cf in files_us:
-for cf in files_us[0:100]:
+for cf in files_us:
    
    print(cf)
    sta_id = cf.split('.')[0]
@@ -199,10 +198,7 @@ for var in ['data_flag_snw','data_flag_snd']:
 #Metadata for snow surveys
 meta_file         = 'allStations_metadata.txt'
 meta_file_path    = os.path.join('../meta',meta_file)
-#meta_all  =  pd.read_csv(meta_file_path, sep='|', engine='python',names=['station_name','id','type','elevation','lat','lon','year','state'])
 meta_all  =  pd.read_csv(meta_file_path, sep='|', engine='python',usecols=[0,3,4,7,8,9],names=['id','type','year','state','station_name','date_beg','date_end','lat','lon','elevation','region','watershed','wat2'])
-#names=['id','station_name''lat','lon','elevation'])
-#meta_all  =  pd.read_csv(meta_file_path, sep='|', engine='python',usecols=[0,4,7,8,9]names=['id','type','year','station_name','date_beg','date_end','lat','lon','elevation','region','watershed'])
 meta_all = meta_all.convert_dtypes()
 
 # Create station_id and remove space in string
@@ -219,23 +215,18 @@ da_fin['lon'] = xr.DataArray(meta_sel['lon'].astype(float),coords={'station_id':
 da_fin['elevation'] = xr.DataArray(meta_sel['elevation'].astype(float)*0.3048,coords={'station_id':meta_sel.station_id}, dims='station_id')
 
 # Create station name
-meta_sel['station_name']=meta_sel['station_name'].str.upper()
-meta_sel['station_name']=meta_sel['station_name'].str.strip()
+name_ok = [tt.split('(')[0].upper().strip() for tt in meta_sel.station_name]  # Extract info from the station name
+meta_sel['station_name']=name_ok
 da_fin['station_name'] = xr.DataArray(meta_sel['station_name'],coords={'station_id':meta_sel.station_id}, dims='station_id')
 
 # Add data source
 source_ok=['US Natural Resources Convervation Service' for tt in da_fin.station_id ]
 da_fin['source'] = xr.DataArray(source_ok,dims='station_id')
 
-# Add measurement type (aerial marker are not identified yet)
-
-# Detect potential Aerial markers
-mask_aerial = ['Aerial' in tt or 'AM' in tt or 'Am ' in tt for tt in meta_sel.station_name]
-#meta_all.station_name[mask_aerial]
-pdb.set_trace()
-
+# Add measurement type and detect potential Aerial markers
+mask_aerial = ['AERIAL' in tt or ' AM' in tt  for tt in meta_sel.station_name]
 type_ok=np.array([0 for tt in da_fin.station_id]) # Default is multi point manual measurement
-type_ok[mask_aerial]=7
+type_ok[mask_aerial]=7    # Use special value for aeril markers
 da_fin['type_mes'] = xr.DataArray(type_ok,dims='station_id')
 
 # Adapt station_id
@@ -348,12 +339,12 @@ da_fin.den.attrs['description'] = 'Bulk snow density, defined as den = snw/snd'
 # 
 da_fin.data_flag_snw.attrs['long_name']='Agency data quality flag: snow water equivalent'
 da_fin.data_flag_snw.attrs['standard_name']='data_quality_flag_agency_snw'
-da_fin.data_flag_snw.attrs['description']='U: US specific - precise sampling date not available - adjusted to nominal survey date'
+da_fin.data_flag_snw.attrs['description']='U: US specific - precise sampling date not available - adjusted to nominal survey date - corresponds to estimated value'
 
 #
 da_fin.data_flag_snd.attrs['long_name']='Agency data quality flag: snow depth'
 da_fin.data_flag_snd.attrs['standard_name']='data_quality_flag_agency_snd'
-da_fin.data_flag_snd.attrs['description']='U: US specific - precise sampling date not available - adjusted to nominal survey date'
+da_fin.data_flag_snd.attrs['description']='U: US specific - precise sampling date not available - adjusted to nominal survey date - corresponds to estimated value'
 
 #
 da_fin.qc_flag_snw.attrs['long_name']='Data quality flag: snow water equivalent'
