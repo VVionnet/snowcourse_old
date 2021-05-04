@@ -365,6 +365,3 @@ da_fin.attrs['source']      = "Manual snow surveys and aerial markers"
 # Save netcdf
 encoding = generate_encodings(da_fin)
 da_fin.to_netcdf(netcdf_file_out,format='NETCDF4',encoding=encoding)
-
-pdb.set_trace()
-
