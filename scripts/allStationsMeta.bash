@@ -46,7 +46,14 @@ while IFS= read -r line; do
  regex="$( printf "${split}%s" "${vec[@]}" )"
  station="${regex:${#split}}" # remove leading separator
 
+ # fix inappropriate delimiters
+ station=`echo $station | gsed -e 's/| (/(/g'`
+
  # write out the station ID and the original metadata vector
  echo $id " | " $station
 
 done < "$meta"
+
+# fix any problems
+echo $meta
+
