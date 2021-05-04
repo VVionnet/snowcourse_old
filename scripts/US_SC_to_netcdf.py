@@ -73,7 +73,8 @@ lcheck_dupli=True
 lskip=[]
 da_temp=[]
 
-for cf in files_us:
+#for cf in files_us:
+for cf in files_us[0:100]:
    
    print(cf)
    sta_id = cf.split('.')[0]
@@ -196,17 +197,16 @@ for var in ['data_flag_snw','data_flag_snd']:
    da_fin[var].values[mm] =b''
 
 #Metadata for snow surveys
-meta_file         = 'snowcourse_metadata.txt'
+meta_file         = 'allStations_metadata.txt'
 meta_file_path    = os.path.join('../meta',meta_file)
-meta_all  =  pd.read_csv(meta_file_path, sep='|', engine='python',names=['station_name','id','type','elevation','lat','lon','year','state'])
+#meta_all  =  pd.read_csv(meta_file_path, sep='|', engine='python',names=['station_name','id','type','elevation','lat','lon','year','state'])
+meta_all  =  pd.read_csv(meta_file_path, sep='|', engine='python',usecols=[0,3,4,7,8,9],names=['id','type','year','state','station_name','date_beg','date_end','lat','lon','elevation','region','watershed','wat2'])
+#names=['id','station_name''lat','lon','elevation'])
+#meta_all  =  pd.read_csv(meta_file_path, sep='|', engine='python',usecols=[0,4,7,8,9]names=['id','type','year','station_name','date_beg','date_end','lat','lon','elevation','region','watershed'])
 meta_all = meta_all.convert_dtypes()
 
-# Detect potential Aerial markers
-#mask_aerial = ['Aerial' in tt or 'AM' in tt or 'Am ' in tt for tt in meta_all.station_name]
-#meta_all.station_name[mask_aerial]
-
 # Create station_id and remove space in string
-meta_all['station_id'] = meta_all['state']+'_'+meta_all['id'] 
+meta_all['station_id'] = meta_all['state'].str.strip()+'_'+meta_all['id'].str.strip()
 meta_all['station_id'] = meta_all['station_id'].str.strip()
 
 # Restrict metadata to stations containing data
@@ -228,7 +228,14 @@ source_ok=['US Natural Resources Convervation Service' for tt in da_fin.station_
 da_fin['source'] = xr.DataArray(source_ok,dims='station_id')
 
 # Add measurement type (aerial marker are not identified yet)
-type_ok=[0 for tt in da_fin.station_id ]
+
+# Detect potential Aerial markers
+mask_aerial = ['Aerial' in tt or 'AM' in tt or 'Am ' in tt for tt in meta_sel.station_name]
+#meta_all.station_name[mask_aerial]
+pdb.set_trace()
+
+type_ok=np.array([0 for tt in da_fin.station_id]) # Default is multi point manual measurement
+type_ok[mask_aerial]=7
 da_fin['type_mes'] = xr.DataArray(type_ok,dims='station_id')
 
 # Adapt station_id
@@ -300,7 +307,7 @@ da_fin.qc_flag_snw.values[mask_pb_den] = b'D'
 # Type
 da_fin.type_mes.attrs['standard_name'] = 'measurement_type'
 da_fin.type_mes.attrs['long_name'] = 'Method of measurement for snow water equivalent'
-da_fin.type_mes.attrs['description'] = 'WMO standard -- 0: MULTI POINT MANUAL SNOW SURVEY; 1: SINGLE POINT MANUAL SNOW WATER EQUIVALENT MEASUREMENT; 2: SNOW PILLOW OR SNOW SCALE; 3: PASSIVE GAMMA; 4: GNSS/GPS METHODS; 5: COSMIC RAY ATTENUATION; 6: TIME DOMAIN REFLECTOMETRY'
+da_fin.type_mes.attrs['description'] = 'WMO standard -- 0: MULTI POINT MANUAL SNOW SURVEY; 1: SINGLE POINT MANUAL SNOW WATER EQUIVALENT MEASUREMENT; 2: SNOW PILLOW OR SNOW SCALE; 3: PASSIVE GAMMA; 4: GNSS/GPS METHODS; 5: COSMIC RAY ATTENUATION; 6: TIME DOMAIN REFLECTOMETRY -- US Specific: 7: AERIAL MARKERS (ESTIMATED VALUE)'
  
 # Source
 da_fin.source.attrs['long_name'] = 'Data provider'
