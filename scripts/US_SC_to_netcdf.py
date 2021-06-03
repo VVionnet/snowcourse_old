@@ -224,9 +224,16 @@ source_ok=['US Natural Resources Convervation Service' for tt in da_fin.station_
 da_fin['source'] = xr.DataArray(source_ok,dims='station_id')
 
 # Add measurement type and detect potential Aerial markers
-mask_aerial = ['AERIAL' in tt or ' AM' in tt  for tt in meta_sel.station_name]
-type_ok=np.array([0 for tt in da_fin.station_id]) # Default is multi point manual measurement
-type_ok[mask_aerial]=7    # Use special value for aeril markers
+type_ok = []
+for sta in sta_id:
+    ext = meta_sel.loc[meta_sel.station_id==sta]
+
+    tt = ext.station_name.values[0]
+    if('AERIAL' in tt or ' AM' in tt): 
+       type_ok.append(7) # Use special value for aerial markers
+    else:
+       type_ok.append(0) # Default is multi point manual measurement
+
 da_fin['type_mes'] = xr.DataArray(type_ok,dims='station_id')
 
 # Adapt station_id
