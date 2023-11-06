@@ -5,7 +5,12 @@
 # Data are released on condition that neither the NRCS nor the United States Government 
 # may be held liable for any damages resulting from its use. 
 # 
-# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# SNOTEL air temperature data contains a known bias. This bias is rooted in the sensor 
+# conversion equation and varies through the output range. Solutions are in development. 
+# For more information go to Air Temperature Bias Correction. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/sites/default/files/2023-03/Report%20Generator%20Help%20Guide.pdf
+# Air Temperature Bias Correction: https://www.nrcs.usda.gov/wps/portal/wcc/home/snowClimateMonitoring/temperature/temperatureBiasCorrection/
 # 
 # Support Contact: usdafpacbc@servicenowservices.com
 # 
@@ -17,7 +22,7 @@
 #
 # Data for the following site(s) are contained in this file:
 #
-#	SNOW COURSE/AERIAL MARKER 20K19: Squaw Valley #2, CA
+#	SNOW COURSE/AERIAL MARKER 20K19: Palisades Tahoe #2, CA
 # 
 # Data items provided in this file:
 #
@@ -47,11 +52,11 @@
 # 
 #------------------------------------------------------------------------------------------------------
 # 
-# Squaw Valley #2 (20K19) 
+# Palisades Tahoe #2 (20K19) 
 # California  SNOW COURSE/AERIAL MARKER Site - 7694 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 19, 2021 10:55:49 AM GMT-08:00
+# As of: Nov 6, 2023, 11:06:09 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -123,3 +128,6 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2019,,,,Jan 28,81,28.7,Mar 01,154,58.6,Mar 29,162,69.2,,,,,,
 2020,,,,Jan 29,65,22.6,Feb 27,55,21.4,Apr 01,,35.3,,,,,,
 2021,,,,Jan 29,85,20.0,Feb 24,78,26.3,Mar 29,78,29.1,,,,,,
+2022,,,,Jan 27,72,26.6,Feb 23,76,28.4,Mar 29,58,26.0,,,,,,
+2023,,,,Jan 26,122,46.0,Feb 23,119,50.5,Mar 29,183,81.0,,,,,,
+2024,,,,,,,,,,,,,,,,,,

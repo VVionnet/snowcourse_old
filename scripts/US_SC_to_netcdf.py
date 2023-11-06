@@ -80,8 +80,8 @@ for cf in files_us:
 
    count = len(open(cf).readlines(  ))
    # Load into a dataframe
-   if(count>55): # make sure that the ascii file contains snow data (at least one year)
-      df = pd.read_csv(cf, skiprows=55, engine='python')
+   if(count>60): # make sure that the ascii file contains snow data (at least one year)
+      df = pd.read_csv(cf, skiprows=60, engine='python')
    else:
       lskip.append(sta_id)  
       continue 
@@ -124,7 +124,7 @@ for cf in files_us:
    # Adjust year to account for the fact that teh first measurement of the year can be collected in late December
    mask_month=[t.month>11 for t in df_all.time]
    if(np.sum(mask_month)>0):
-      df_all['time'][mask_month] = df_all['time'][mask_month] - pd.DateOffset(years=1)
+      df_all['time'].values[mask_month] = df_all['time'][mask_month] - pd.DateOffset(years=1)
 
    # Define time as the new index of the dataframe. 
    df_all.index = df_all.time
@@ -144,16 +144,16 @@ for cf in files_us:
    #      - the measurement date if this date is in agreement with the nominal date
    #      - the nominal date if the measurement date is too different from the noimnal data
    df_all['time_bis'] = df_all['time']
-   df_all['time_bis'][mask_time] =  df_all['time_ref'][mask_time].values 
+   df_all['time_bis'].values[mask_time] =  df_all['time_ref'][mask_time].values 
 
    # Create qc_flag to keep track of the change
    mask_swe_OK = ~df_all.snw.isnull()
    df_all['data_flag_snw'] = b''
-   df_all['data_flag_snw'][mask_time & mask_swe_OK] = b'U'
+   df_all['data_flag_snw'].values[mask_time & mask_swe_OK] = b'U'
 
    mask_sd_OK = ~df_all.snd.isnull()
    df_all['data_flag_snd'] = b''
-   df_all['data_flag_snd'][mask_time & mask_sd_OK] = b'U'
+   df_all['data_flag_snd'].values[mask_time & mask_sd_OK] = b'U'
 
    # Change the time index to use time_bis as the new time reference:
    df_all.index = df_all.time_bis

@@ -5,7 +5,12 @@
 # Data are released on condition that neither the NRCS nor the United States Government 
 # may be held liable for any damages resulting from its use. 
 # 
-# Help and Tutorials: https://www.nrcs.usda.gov/wps/portal/wcc/home/dataAccessHelp/helpCenters/reportGeneratorHelp/
+# SNOTEL air temperature data contains a known bias. This bias is rooted in the sensor 
+# conversion equation and varies through the output range. Solutions are in development. 
+# For more information go to Air Temperature Bias Correction. 
+# 
+# Help and Tutorials: https://www.nrcs.usda.gov/sites/default/files/2023-03/Report%20Generator%20Help%20Guide.pdf
+# Air Temperature Bias Correction: https://www.nrcs.usda.gov/wps/portal/wcc/home/snowClimateMonitoring/temperature/temperatureBiasCorrection/
 # 
 # Support Contact: usdafpacbc@servicenowservices.com
 # 
@@ -51,7 +56,7 @@
 # Alaska  SNOW COURSE/AERIAL MARKER Site - 100 ft
 # Reporting Frequency: Monthly; Date Range: Period of Record
 #
-# As of: Apr 19, 2021 10:30:52 AM GMT-08:00
+# As of: Nov 6, 2023, 10:49:33 AM GMT-08:00
 #
 Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,Jun
 ,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values,Snow Water Equivalent Collection Date Start of Month Values,Snow Depth (in) Start of Month Values,Snow Water Equivalent (in) Start of Month Values
@@ -59,4 +64,7 @@ Water Year,Jan,Jan,Jan,Feb,Feb,Feb,Mar,Mar,Mar,Apr,Apr,Apr,May,May,May,Jun,Jun,J
 2018,,39,,Jan 31,39,8.6,Mar 01,42,9.6,Apr 02,42,10.5,May 02,19,6.5,,,
 2019,,,,Jan 30,33,7.3,Mar 02,42,9.4,Apr 01,36,10.3,,,,,,
 2020,,32,,Jan 31,31,7.2,Feb 28,51,11.2,Mar 31,42,11.7,May 01,24,7.9,,,
-2021,,32,,Feb 04,36,7.4,Mar 01,43,8.5,Apr 01,43,9.0,,,,,,
+2021,,32,,Feb 04,36,7.4,Mar 01,43,8.5,Apr 01,43,9.0,Apr 28,15,4.4,,,
+2022,,31,,Jan 31,42,9.4,Mar 02,51,12.5,Apr 01,45,13.0,Apr 29,21,7.4,,,
+2023,,24,,Feb 01,31,6.5,Mar 02,44,9.0,Apr 03,42,10.5,May 02,27,9.0,,,
+2024,,,,,,,,,,,,,,,,,,

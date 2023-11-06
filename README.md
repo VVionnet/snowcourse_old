@@ -5,14 +5,15 @@
 This is a manual process. Download the table from the following website:
 https://wcc.sc.egov.usda.gov/nwcc/yearcount?network=snow&counttype=listwithdiscontinued&state=
 
-Save the metadata as `allStations_metadata.html`
+Save the metadata as `allStations_metadata.html` (Stream 1) or save the data in csv format (Stream 2)
 
 NOTE: This step could be automated using `wget`; however, this gets complicated because the data are stored in tables.
 
 ## Process the metadata
 
-Run the script `./allStationsMeta.bash > ../meta/allStations_metadata.txt`
-to create the metadata file delimited by "|"
+(Stream 1) : Run the script `./allStationsMeta.bash > ../meta/allStations_metadata.txt` to create the metadata file delimited by "|"
+
+(Stream 2) : Run the Python code script `prepare_meta.py` to create the metadata file delimited by "|"
 
 ## Download the data
 
