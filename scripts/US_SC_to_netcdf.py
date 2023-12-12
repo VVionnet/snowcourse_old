@@ -282,7 +282,7 @@ da_fin.qc_flag_snw.values[mask_snd_noswe] = b'D' # density range threshold flag.
 # Check on snow density
 da_fin['den'] = xr.full_like(da_fin.snd,fill_value=np.nan)
 mask_sd  = da_fin.snd.values>0.
-da_fin.den.values[mask_sd] = 100.*da_fin.snw.values[mask_sd]/da_fin.snd.values[mask_sd]
+da_fin.den.values[mask_sd] = da_fin.snw.values[mask_sd]/da_fin.snd.values[mask_sd]
 
 # Swe threshold: 0-8000 (as in mountainous areas for CanSWE); set data qc flag to 'W'
 da_fin['qc_flag_snw']=xr.where(da_fin.snw>8000,b'W',da_fin.qc_flag_snw)
